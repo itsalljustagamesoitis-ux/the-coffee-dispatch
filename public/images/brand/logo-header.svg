@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" width="320" height="64" role="img" aria-label="The Coffee Dispatch">
+  <text x="0" y="20" font-family="Georgia, 'Times New Roman', serif" font-size="11" font-weight="400" letter-spacing="3" fill="#2A1F1A" text-transform="uppercase">THE</text>
+  <line x1="32" y1="16" x2="320" y2="16" stroke="#2A1F1A" stroke-width="0.5"/>
+  <text x="0" y="52" font-family="'Space Grotesk', 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.5" fill="#2A1F1A">Coffee Dispatch</text>
+</svg>
