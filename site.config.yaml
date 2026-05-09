@@ -20,3 +20,15 @@ visual:
   slots: 5
 images:
   base_url: /images
+
+style_policy:
+  word_count:
+    min: 2000
+    max: 3500
+  dollar_figures:
+    allowed: true
+  buying_guide_heading:
+    style: "Buying Guide"
+  in_body_images:
+    policy: fixed_count
+    fixed_count: 5
