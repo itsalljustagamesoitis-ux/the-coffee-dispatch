@@ -25,7 +25,15 @@
       "ai_overview": false,
       "premium_brand": true,
       "source_seed": "espresso-machine",
-      "products": [],
+      "products": [
+        "flair-updated-espresso-maker-classic-all-man",
+        "gaggia-saeco-pannaerello-wand-steam-wand-fro",
+        "VERIFY-lucca-a53-compact-single-boiler-espresso-machine",
+        "VERIFY-lucca-m58-dual-boiler-espresso-machine",
+        "VERIFY-lucca-x58-pid-temperature-control-espresso-machine",
+        "VERIFY-single-boiler-espresso-machine-with-pid-under-500",
+        "VERIFY-espresso-machine-grinder-bundle-package"
+      ],
       "hero_image": null,
       "body_images": []
     },

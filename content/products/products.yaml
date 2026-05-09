@@ -1,1 +1,59 @@
-{}
+flair-updated-espresso-maker-classic-all-man:
+  title: >-
+    Flair UPDATED Espresso Maker - Classic: All manual lever espresso maker for the home - Pressure gauge and two
+    portafilters included
+  asin: B06X916JM8
+  brand: null
+  hub: espresso
+  source_url: https://www.amazon.com/dp/B06X916JM8
+  sourced_at: '2026-05-09T19:30:39.701Z'
+  confidence: 0.82
+gaggia-saeco-pannaerello-wand-steam-wand-fro:
+  title: Gaggia - Saeco Pannaerello Wand, Steam Wand Frother
+  asin: B01H2SRLU4
+  brand: null
+  hub: espresso
+  source_url: https://www.amazon.com/dp/B01H2SRLU4
+  sourced_at: '2026-05-09T19:30:39.702Z'
+  confidence: 0.85
+VERIFY-lucca-a53-compact-single-boiler-espresso-machine:
+  title: 'VERIFY: Lucca A53 — compact single boiler espresso machine'
+  asin: VERIFY
+  brand: null
+  hub: espresso
+  rationale: >-
+    No Lucca brand products in candidates. Closest compact single boiler options (Gaggia Classic Evo B086H42T3V,
+    Rancilio Silvia B084RT95LQ) exist but lack Lucca A53 specificity. Requires manual sourcing for authentic Lucca A53.
+VERIFY-lucca-m58-dual-boiler-espresso-machine:
+  title: 'VERIFY: Lucca M58 — dual boiler espresso machine'
+  asin: VERIFY
+  brand: null
+  hub: espresso
+  rationale: >-
+    No Lucca M58 found in candidates. While several dual boiler machines exist (HIBREW B0FH56HY6K, Chefman B0FX3DPKFS,
+    Gevi B0FKT8NDP7), none are the Lucca M58 model. Requires manual sourcing.
+VERIFY-lucca-x58-pid-temperature-control-espresso-machine:
+  title: 'VERIFY: Lucca X58 — PID temperature control espresso machine'
+  asin: VERIFY
+  brand: null
+  hub: espresso
+  rationale: >-
+    No Lucca X58 in candidates. PID-control machines exist (Gevi EzBru B0GF7JSFSG, HIBREW B0FH56HY6K) but are not Lucca
+    brand. Manual sourcing needed for Lucca X58 specifically.
+VERIFY-single-boiler-espresso-machine-with-pid-under-500:
+  title: 'VERIFY: Single boiler espresso machine with PID under $500'
+  asin: VERIFY
+  brand: null
+  hub: espresso
+  rationale: >-
+    Gevi EzBru 1000 features PID & NTC temp control, 58mm commercial portafilter, $144.25 price point well under $500,
+    and 4.7 rating. Single boiler configuration confirmed. Strong match for budget-conscious PID seekers.
+VERIFY-espresso-machine-grinder-bundle-package:
+  title: 'VERIFY: Espresso machine grinder bundle package'
+  asin: VERIFY
+  brand: null
+  hub: espresso
+  rationale: >-
+    Gevi Dual Boiler with Built-in Grinder (B0FKT8NDP7) includes 31 grind settings, 58mm portafilter, steam wand, $297.
+    Excellent bundle composition. Other strong candidates: B01LWUI6B8 (EspressoWorks 7-piece set, $169.71) for budget
+    option with accessories.
