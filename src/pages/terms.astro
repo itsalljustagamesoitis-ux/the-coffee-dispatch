@@ -1,0 +1,37 @@
+---
+import BaseLayout from '@platform/core/src/layouts/BaseLayout.astro'
+import { getSiteConfig } from '@platform/core/src/lib/config'
+const cfg = getSiteConfig()
+const updatedDate = new Date().toLocaleDateString('en-GB', { month: 'long', year: 'numeric' })
+---
+
+<BaseLayout
+  title={`Terms of Use — ${cfg.site.brand_name}`}
+  description={`Terms of use for ${cfg.site.brand_name}.`}
+>
+  <div class="container" style="padding-top:2rem; padding-bottom:4rem; max-width:720px;">
+    <h1>Terms of Use</h1>
+    <p><em>Last updated: {updatedDate}</em></p>
+
+    <h2>Acceptance of terms</h2>
+    <p>By accessing {cfg.site.brand_name} ({cfg.site.domain}) you agree to these terms. If you do not agree, please do not use this site.</p>
+
+    <h2>Content and accuracy</h2>
+    <p>We aim to keep all product information, prices, and availability accurate, but this information changes frequently. Always verify details on the retailer's website before purchasing. We are not liable for decisions made based on information on this site.</p>
+
+    <h2>Affiliate links</h2>
+    <p>This site contains affiliate links. See our <a href="/affiliate-disclosure/">Affiliate Disclosure</a> for full details. Clicking these links may result in us earning a commission at no cost to you.</p>
+
+    <h2>Intellectual property</h2>
+    <p>All content on this site — text, images, and code — is owned by {cfg.site.brand_name} or its licensors. You may not reproduce it without permission.</p>
+
+    <h2>Limitation of liability</h2>
+    <p>{cfg.site.brand_name} is provided "as is." We are not liable for any damages arising from your use of this site or from reliance on information it contains, including product recommendations.</p>
+
+    <h2>Changes to these terms</h2>
+    <p>We may update these terms at any time. Continued use of the site after changes constitutes acceptance of the updated terms.</p>
+
+    <h2>Contact</h2>
+    <p>Questions: <a href="/contact/">contact us</a>.</p>
+  </div>
+</BaseLayout>

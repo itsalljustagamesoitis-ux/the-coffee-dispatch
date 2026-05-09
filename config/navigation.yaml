@@ -1,0 +1,34 @@
+categories:
+  - slug: coffee-equipment
+    label: Coffee Equipment
+    hubs:
+      - slug: espresso
+        label: Espresso & Espresso Machines
+        articles: []
+      - slug: coffee-makers
+        label: Coffee Makers
+        articles: []
+      - slug: grinders
+        label: Coffee Grinders
+        articles: []
+  - slug: coffee-and-pods
+    label: Coffee & Pods
+    hubs:
+      - slug: beans
+        label: Coffee Beans & Roasts
+        articles: []
+      - slug: pods
+        label: Pods & Capsules
+        articles: []
+      - slug: cold-brew
+        label: Cold Brew & Iced Coffee
+        articles: []
+  - slug: brewing-and-setup
+    label: Brewing & Setup
+    hubs:
+      - slug: brewing-methods
+        label: Brewing Methods
+        articles: []
+      - slug: accessories
+        label: Accessories & Setup
+        articles: []

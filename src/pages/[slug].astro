@@ -1,0 +1,56 @@
+---
+import { getCollection, render } from 'astro:content'
+import type { CollectionEntry } from 'astro:content'
+import RoundupLayout from '@platform/core/src/layouts/RoundupLayout.astro'
+import ReviewLayout from '@platform/core/src/layouts/ReviewLayout.astro'
+import ComparisonLayout from '@platform/core/src/layouts/ComparisonLayout.astro'
+import BuyerGuideLayout from '@platform/core/src/layouts/BuyerGuideLayout.astro'
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles')
+  const sorted = articles.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  return sorted.map((article, i) => ({
+    params: { slug: article.data.slug },
+    props: {
+      article,
+      prev: sorted[i + 1] ? { slug: sorted[i + 1].data.slug, title: sorted[i + 1].data.title } : null,
+      next: sorted[i - 1] ? { slug: sorted[i - 1].data.slug, title: sorted[i - 1].data.title } : null,
+    },
+  }))
+}
+
+interface Props {
+  article: CollectionEntry<'articles'>
+  prev: { slug: string; title: string } | null
+  next: { slug: string; title: string } | null
+}
+
+const { article, prev, next } = Astro.props
+const { Content } = await render(article)
+---
+
+{article.data.type === 'roundup' && (
+  <RoundupLayout article={article} prev={prev} next={next}>
+    <Content />
+  </RoundupLayout>
+)}
+{article.data.type === 'review' && (
+  <ReviewLayout article={article} prev={prev} next={next}>
+    <Content />
+  </ReviewLayout>
+)}
+{article.data.type === 'comparison' && (
+  <ComparisonLayout article={article} prev={prev} next={next}>
+    <Content />
+  </ComparisonLayout>
+)}
+{article.data.type === 'buyer_guide' && (
+  <BuyerGuideLayout article={article} prev={prev} next={next}>
+    <Content />
+  </BuyerGuideLayout>
+)}
+{article.data.type === 'informational' && (
+  <BuyerGuideLayout article={article} prev={prev} next={next}>
+    <Content />
+  </BuyerGuideLayout>
+)}

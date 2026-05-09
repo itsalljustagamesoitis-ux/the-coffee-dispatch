@@ -1,0 +1,22 @@
+site:
+  slug: the-coffee-dispatch
+  domain: thecoffeedispatch.com
+  brand_name: The Coffee Dispatch
+  tagline: The coffee equipment guide for people who care what's in the cup
+  description: coffee & espresso equipment
+  niche: coffee & espresso equipment
+affiliate:
+  amazon_tracking_id: thecoffeedis-20
+analytics:
+  ga4_measurement_id: G-F7L62M9HP2
+persona:
+  config_path: config/personas/chris.yaml
+visual:
+  primary_color: '#2A1F1A'
+  accent_color: '#C87533'
+  background_color: '#F5F1EB'
+  font_headings: Space Grotesk
+  font_body: Inter
+  slots: 5
+images:
+  base_url: /images

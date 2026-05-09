@@ -1,0 +1,31 @@
+{
+  "name": "the-coffee-dispatch",
+  "type": "module",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && npx pagefind --site dist && node node_modules/@platform/core/scripts/build-validator.mjs",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@platform/core": "file:./affiliate-platform",
+    "@astrojs/rss": "^4.0.18",
+    "@astrojs/sitemap": "^3.7.2",
+    "@pagefind/default-ui": "^1.5.2",
+    "astro": "^6.1.10",
+    "js-yaml": "^4.1.1",
+    "pagefind": "^1.5.2",
+    "rehype-external-links": "^3.0.0",
+    "sharp": "^0.34.5",
+    "zod": "^4.4.1"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.9",
+    "@types/js-yaml": "^4.0.9",
+    "typescript": "^5.9.3"
+  }
+}
