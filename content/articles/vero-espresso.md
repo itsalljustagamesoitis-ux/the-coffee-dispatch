@@ -6,7 +6,7 @@ date: 2026-05-12
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-6.jpg"
+hero_image: "articles/espresso-6.webp"
 hero_image_alt: "Vero Espresso Buyer's Guide: Machine, Grinder & Coffee"
 description: "Complete vero espresso setup guide covering machines, grinders, beans, and maintenance. Honest picks for consistent results at every budget level."
 target_keyword: "vero espresso"

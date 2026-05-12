@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-8.jpg"
+hero_image: "articles/beans-8.webp"
 hero_image_alt: "5 lb Coffee Beans Buyer's Guide: What Actually Matters"
 description: "Buying 5 lb coffee beans in bulk amplifies quality issues. Learn how freshness infrastructure separates genuinely good value from commodity coffee."
 target_keyword: "5 lb coffee beans"

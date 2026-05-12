@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-7.jpg"
+hero_image: "articles/grinders-7.webp"
 hero_image_alt: "Best Coffee Grinders for AeroPress: Tested & Reviewed"
 description: "Find the right grinder for your AeroPress. We compare burr and blade options, electric and manual models to help you brew better coffee consistently."
 target_keyword: "coffee grinder for aeropress"

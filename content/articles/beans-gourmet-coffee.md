@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-5.jpg"
+hero_image: "articles/beans-5.webp"
 hero_image_alt: "Gourmet Coffee Beans Buyer's Guide: What to Look For"
 description: "Learn how to choose quality gourmet coffee beans. Discover what matters: origin, roast quality, and roast dates. Expert tips for first-time buyers."
 target_keyword: "beans gourmet coffee"

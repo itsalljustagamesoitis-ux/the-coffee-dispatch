@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-2.jpg"
+hero_image: "articles/espresso-2.webp"
 hero_image_alt: "Italian Espresso Coffee Machines: A Buyer's Guide (68 chars)"
 description: "Learn how to make authentic Italian espresso at home. This buyer's guide covers machines, grinders, and beans for café-quality results. (135 chars)"
 target_keyword: "italian espresso coffee"

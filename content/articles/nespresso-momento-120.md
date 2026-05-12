@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-1.jpg"
+hero_image: "articles/pods-1.webp"
 hero_image_alt: "Nespresso Momento 120 Buyer's Guide: Pods & Machines"
 description: "Navigate Nespresso's confusing pod ecosystem with our Momento 120 buyer's guide. Learn which capsules work, machine options, and if it's right for you."
 target_keyword: "nespresso momento 120"

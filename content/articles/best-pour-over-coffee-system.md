@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-3.jpg"
+hero_image: "articles/brewing-methods-3.webp"
 hero_image_alt: "Best Pour Over Coffee Systems Reviewed for Home Cooks"
 description: "Learn which pour over coffee setup fits your kitchen. We break down grind size, water temperature, and technique to help you brew cleaner, more nuanced coffee."
 target_keyword: "best pour over coffee system"

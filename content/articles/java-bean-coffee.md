@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-5.jpg"
+hero_image: "articles/beans-5.webp"
 hero_image_alt: "Java Bean Coffee Buyer's Guide: What to Know Before Buying"
 description: "Learn what java bean coffee really means and how to choose quality whole bean coffee. Discover sourcing, roasting, and freshness factors that matter."
 target_keyword: "java bean coffee"

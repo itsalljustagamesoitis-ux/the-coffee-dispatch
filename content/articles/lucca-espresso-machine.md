@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-1.jpg"
+hero_image: "articles/espresso-1.webp"
 hero_image_alt: "Lucca Espresso Machine Buyer's Guide: Top Picks Reviewed"
 description: "Learn which Lucca espresso machines deliver real quality. Our guide compares heat management, build quality, and reliability across top contenders for home use."
 target_keyword: "lucca espresso machine"

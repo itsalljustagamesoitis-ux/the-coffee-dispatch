@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-4.jpg"
+hero_image: "articles/espresso-4.webp"
 hero_image_alt: "ROK Espresso Maker Buyer's Guide: Lever Machines Reviewed"
 description: "Learn what makes the ROK espresso maker special. Our buyer's guide covers lever machines, grinder selection, and how to pull great shots at home or anywhere."
 target_keyword: "rok espresso maker"

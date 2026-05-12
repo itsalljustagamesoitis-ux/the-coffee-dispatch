@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "cold-brew"
-hero_image: "articles/cold-brew-6.jpg"
+hero_image: "articles/cold-brew-6.webp"
 hero_image_alt: "Cold Brew Drip Tower Buyer's Guide: Top Picks Reviewed"
 description: "Explore cold brew drip towers in this honest buyer's guide. Learn how slow drip towers work, compare top models, and find the right setup for your kitchen."
 target_keyword: "cold brew drip tower"

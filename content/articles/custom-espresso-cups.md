@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-1.jpg"
+hero_image: "articles/espresso-1.webp"
 hero_image_alt: "Custom Espresso Cups Buyer's Guide: Find Your Perfect Cup"
 description: "Learn how wall thickness, capacity, and material affect your espresso. Compare demitasse, glass, and stainless options to choose the right custom cup."
 target_keyword: "custom espresso cups"

@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-8.jpg"
+hero_image: "articles/grinders-8.webp"
 hero_image_alt: "Hario Manual Coffee Grinder Buyer's Guide: Top Models Compared"
 description: "Compare Hario manual coffee grinders to find the best ceramic burr model for your needs. Learn which grinder offers the best value and consistency."
 target_keyword: "hario manual coffee grinder"

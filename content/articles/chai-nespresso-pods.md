@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-8.jpg"
+hero_image: "articles/pods-8.webp"
 hero_image_alt: "Chai Nespresso Pods Buyer's Guide: What to Know"
 description: "Find the best chai Nespresso pods for your machine. Learn what distinguishes real chai capsules from flavored coffee and how to choose wisely."
 target_keyword: "chai nespresso pods"

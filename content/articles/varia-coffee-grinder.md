@@ -6,7 +6,7 @@ date: 2026-05-12
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-1.jpg"
+hero_image: "articles/grinders-1.webp"
 hero_image_alt: "Varia Coffee Grinder Reviewed: Top 5 Models Tested"
 description: "Compare the best Varia coffee grinders and competitors. Our buyer's guide evaluates burr geometry, retention, grind range, and build quality for home brewing."
 target_keyword: "varia coffee grinder"

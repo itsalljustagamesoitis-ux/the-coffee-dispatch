@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-7.jpg"
+hero_image: "articles/espresso-7.webp"
 hero_image_alt: "Café Bustelo Espresso Roast K-Cup Packs Reviewed"
 description: "Compare Café Bustelo K-Cup options for bold Cuban-style coffee. Learn which pack counts work best for your brewing setup and if reusable pods make sense."
 target_keyword: "café bustelo espresso roast 48 k cup packs"

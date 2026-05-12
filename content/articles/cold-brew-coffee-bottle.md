@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "cold-brew"
-hero_image: "articles/cold-brew-2.jpg"
+hero_image: "articles/cold-brew-2.webp"
 hero_image_alt: "Cold Brew Coffee Bottle Buyer's Guide: Tested Picks"
 description: "Compare ready-to-drink cold brew bottles and home brewing vessels. Find the right cold brew coffee bottle for your routine with honest recommendations."
 target_keyword: "cold brew coffee bottle"

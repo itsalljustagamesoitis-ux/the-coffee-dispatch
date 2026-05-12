@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-6.jpg"
+hero_image: "articles/beans-6.webp"
 hero_image_alt: "San Leandro Fresh Coffee Beans: Top 5 Whole Bean Options"
 description: "Find the best fresh coffee beans in San Leandro. Our buyer's guide reviews top whole-bean roasters by roast level, sourcing transparency, and freshness."
 target_keyword: "san leandro fresh coffee bean"

@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-4.jpg"
+hero_image: "articles/pods-4.webp"
 hero_image_alt: "Illy Nespresso Pods Buyer's Guide: Italian Espresso Capsules"
 description: "Explore illy Nespresso-compatible pods for authentic Italian espresso at home. Compare quality capsules that maximize your machine's potential."
 target_keyword: "illy nespresso pods"

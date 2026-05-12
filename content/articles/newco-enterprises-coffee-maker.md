@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-4.jpg"
+hero_image: "articles/coffee-makers-4.webp"
 hero_image_alt: "Newco Enterprises Coffee Maker Buying Guide for Offices"
 description: "Explore Newco Enterprises commercial drip brewers. Compare durable, high-volume pour-over machines designed for busy offices and service counters."
 target_keyword: "newco enterprises coffee maker"

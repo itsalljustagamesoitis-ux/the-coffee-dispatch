@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-7.jpg"
+hero_image: "articles/pods-7.webp"
 hero_image_alt: "Nespresso Tea Capsules Buyer's Guide: Which Ones Work"
 description: "Not all Nespresso tea capsules deliver quality brews. Read our tested recommendations to find the pods worth buying for your OriginalLine machine."
 target_keyword: "capsule nespresso tea"

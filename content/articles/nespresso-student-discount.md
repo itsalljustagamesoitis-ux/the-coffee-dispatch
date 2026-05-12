@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-7.jpg"
+hero_image: "articles/pods-7.webp"
 hero_image_alt: "Nespresso Student Discount Guide: Save on Coffee Machines"
 description: "Find the best Nespresso student discounts and affordable capsule machines for dorms. Compare prices, features, and savings on entry-level espresso makers."
 target_keyword: "nespresso student discount"

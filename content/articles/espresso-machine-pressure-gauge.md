@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-3.jpg"
+hero_image: "articles/espresso-3.webp"
 hero_image_alt: "Espresso Machine Pressure Gauge Buyer's Guide"
 description: "Learn how espresso machine pressure gauges work and find the right gauge for your setup. Compare retrofit options, direct replacements, and upgrade choices."
 target_keyword: "espresso machine pressure gauge"

@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-2.jpg"
+hero_image: "articles/pods-2.webp"
 hero_image_alt: "Nespresso Vertuo Reusable Capsules: Top Picks Reviewed"
 description: "Compare reusable capsules for Nespresso Vertuo machines. Save money and reduce waste with quality third-party options that work with your own coffee grounds."
 target_keyword: "nespresso vertuo reusable capsules"

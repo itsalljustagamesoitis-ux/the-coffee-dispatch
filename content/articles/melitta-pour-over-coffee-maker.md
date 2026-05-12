@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-7.jpg"
+hero_image: "articles/coffee-makers-7.webp"
 hero_image_alt: "Melitta Pour Over Coffee Makers Reviewed: Which Size Fits You"
 description: "Melitta invented pour-over brewing. Find the right cone, carafe, or full-size brewer for your needs with our tested buyer's guide and recommendations."
 target_keyword: "melitta pour over coffee maker"

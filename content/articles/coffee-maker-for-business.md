@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-2.jpg"
+hero_image: "articles/coffee-makers-2.webp"
 hero_image_alt: "Coffee Maker for Business: Buyer's Guide & Top Picks"
 description: "Choose the right commercial coffee maker for your office or business. Compare high-volume urns and drip brewers by capacity, duty cycle, and workflow needs."
 target_keyword: "coffee maker for business"

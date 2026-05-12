@@ -6,7 +6,7 @@ date: 2026-05-12
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-2.jpg"
+hero_image: "articles/pods-2.webp"
 hero_image_alt: "Woot Nespresso Pods Guide: Best Deals on Vertuo Capsules"
 description: "Find the best Nespresso pod deals on Woot and other discount retailers. Compare Vertuo and Original Line options to save money without sacrificing quality."
 target_keyword: "woot nespresso"

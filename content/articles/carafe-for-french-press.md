@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-4.jpg"
+hero_image: "articles/brewing-methods-4.webp"
 hero_image_alt: "French Press Carafe Replacement Guide: Fit, Material, Capacity"
 description: "Learn how to replace your french press carafe. Find the right fit, material, and capacity for your brewing needs with this practical buyer's guide."
 target_keyword: "carafe for french press"

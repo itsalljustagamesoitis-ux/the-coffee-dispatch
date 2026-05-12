@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-6.jpg"
+hero_image: "articles/brewing-methods-6.webp"
 hero_image_alt: "Stainless French Press Coffee Makers Reviewed"
 description: "Durable stainless steel French presses keep coffee hot longer than glass. Learn what separates quality presses from mediocre ones in our buyer's guide."
 target_keyword: "stainless french press coffee"

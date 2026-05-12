@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-2.jpg"
+hero_image: "articles/espresso-2.webp"
 hero_image_alt: "Sexy Coffee Espresso Equipment Buyer's Guide for Home"
 description: "Learn what espresso equipment actually matters for pulling great shots at home. Skip the hype and focus on grinders, tampers, and scales that make a difference."
 target_keyword: "sexy coffee espresso"

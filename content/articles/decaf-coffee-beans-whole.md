@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-5.jpg"
+hero_image: "articles/beans-5.webp"
 hero_image_alt: "Best Decaf Coffee Beans Whole Bean Guide & Reviews"
 description: "Learn how to choose quality decaf whole bean coffee. Discover what separates great decaf from poor options based on processing and roasting methods."
 target_keyword: "decaf coffee beans whole"

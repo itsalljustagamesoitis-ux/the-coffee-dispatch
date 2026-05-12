@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-5.jpg"
+hero_image: "articles/espresso-5.webp"
 hero_image_alt: "Nuova Simonelli Espresso Machine Buyer's Guide"
 description: "Find the right Nuova Simonelli espresso machine for your setup. Compare models, features, and specs to match your skill level and kitchen space."
 target_keyword: "nuova simonelli espresso machine"

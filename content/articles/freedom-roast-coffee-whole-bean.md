@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-8.jpg"
+hero_image: "articles/beans-8.webp"
 hero_image_alt: "Freedom Roast Coffee Whole Bean: Tested & Reviewed"
 description: "Learn if Black Rifle's Freedom Roast whole bean lives up to the hype. We review roast quality, freshness, and brewing performance for home coffee makers."
 target_keyword: "freedom roast coffee whole bean"

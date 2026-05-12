@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-3.jpg"
+hero_image: "articles/espresso-3.webp"
 hero_image_alt: "Herkimer Coffee Espresso Blend: Grinder & Machine Guide"
 description: "Herkimer Coffee espresso blend review and buyer's guide. Learn what grinder and machine you need to pull quality shots with this Seattle roaster's beans."
 target_keyword: "herkimer coffee espresso blend"

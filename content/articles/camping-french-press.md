@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-1.jpg"
+hero_image: "articles/brewing-methods-1.webp"
 hero_image_alt: "Best Camping French Press Brewers for Outdoor Coffee"
 description: "Find the best French press for camping that won't break in your pack. Compare durable options that brew great coffee without electricity or filters."
 target_keyword: "camping french press"

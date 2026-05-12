@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-4.jpg"
+hero_image: "articles/espresso-4.webp"
 hero_image_alt: "Cafetero Espresso Moka Pots Reviewed: A Buyer's Guide"
 description: "Compare cafetero espresso moka pots for home brewing. Learn what matters: capacity, material, heat source. Skip the hype, find your best stovetop brewer."
 target_keyword: "cafetero espresso"

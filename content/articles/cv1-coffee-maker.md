@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-7.jpg"
+hero_image: "articles/coffee-makers-7.webp"
 hero_image_alt: "CV1 Coffee Maker Buyers Guide: Top Picks Reviewed"
 description: "Find the right CV1 coffee maker for your needs. Our guide compares single-serve options, travel brewers, and percolators to help you choose."
 target_keyword: "cv1 coffee maker"

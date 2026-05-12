@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "cold-brew"
-hero_image: "articles/cold-brew-7.jpg"
+hero_image: "articles/cold-brew-7.webp"
 hero_image_alt: "Cold Brew Pitcher Buyer's Guide: Top Picks Tested"
 description: "Find the best cold brew pitcher for home use. We tested five models to compare glass vs plastic, filter quality, and lid seals for consistent results."
 target_keyword: "cold brew pitcher"

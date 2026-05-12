@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-3.jpg"
+hero_image: "articles/beans-3.webp"
 hero_image_alt: "Cold Brew Decaf Buyer's Guide: Formats and Top Picks"
 description: "Compare cold brew decaf options including ready-to-drink bottles, concentrate, and brew bags. Find the best low-acid decaf cold brew for your needs."
 target_keyword: "cold brew decaf"
@@ -179,7 +179,7 @@ Yes , that's the main argument for the concentrate format. [Java House Cold Brew
 ### Is the chicory in Grady's Cold Brew just flavoring, or does it actually change the coffee?
 
 Chicory changes the coffee substantially. [Grady's Cold Brew New Orleans Style Decaf](product:grady-s-cold-brew-new) follows a regional tradition where chicory root is roasted and blended with coffee , it adds bitterness, body, and a slightly earthy, roasty quality that makes the final cup taste meaningfully different from a straight cold brew. It's not a subtle garnish. If you've had café au lait in New Orleans, you know the profile. If you haven't, it's worth understanding that this is a strongly characterized product, not a neutral decaf.
-### Do I need any special equipment to use the cold brew brew bags?
+### Do I need any special equipment to use cold brew bags?
 
 No special equipment is required. Both [Grady's](product:grady-s-cold-brew-new) and [Bizzy](product:bizzy-organic-cold-brew-coffee) brew bags work in any container large enough to hold them submerged , a mason jar, a pitcher, or a dedicated cold brew maker all work. You add cold or room-temperature water, steep in the refrigerator for 12, 24 hours depending on your strength preference, remove the bag, and the cold brew is ready. The only requirement is patience.
 <script type="application/ld+json">
@@ -221,7 +221,7 @@ No special equipment is required. Both [Grady's](product:grady-s-cold-brew-new) 
  },
  {
  "@type": "Question",
- "name": "Do I need any special equipment to use the cold brew brew bags?",
+ "name": "Do I need any special equipment to use cold brew bags?",
  "acceptedAnswer": {
  "@type": "Answer",
  "text": "No special equipment is required. Both Grady's and Bizzy brew bags work in any container large enough to hold them submerged , a mason jar, a pitcher, or a dedicated cold brew maker all work. You add cold or room-temperature water, steep in the refrigerator for 12, 24 hours depending on your strength preference, remove the bag, and the cold brew is ready. The only requirement is patience."

@@ -6,7 +6,7 @@ date: 2026-05-12
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-2.jpg"
+hero_image: "articles/coffee-makers-2.webp"
 hero_image_alt: "Wolf Gourmet Coffee Maker Reviewed: Is It Right for You?"
 description: "Wolf Gourmet makes excellent drip coffee makers, but they're not for everyone. See if this premium brewer matches your needs or explore better alternatives."
 target_keyword: "wolf gourmet coffee maker"

@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-5.jpg"
+hero_image: "articles/pods-5.webp"
 hero_image_alt: "Nespresso Logo Vertuo Accessories Guide: Pods and Refills"
 description: "Find the best Nespresso Vertuo accessories including reusable pods, refill kits, and capsules. Compare official and third-party options for your machine."
 target_keyword: "nespresso logo"

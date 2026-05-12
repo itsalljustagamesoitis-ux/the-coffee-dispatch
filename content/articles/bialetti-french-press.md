@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-2.jpg"
+hero_image: "articles/brewing-methods-2.webp"
 hero_image_alt: "Bialetti French Press Buyer's Guide: Top 5 Models Tested"
 description: "Compare five Bialetti french press models to find the right one for your brewing style. We review features, price, and performance for every budget."
 target_keyword: "bialetti french press"

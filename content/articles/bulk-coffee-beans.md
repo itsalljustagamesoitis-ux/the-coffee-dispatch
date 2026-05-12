@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-5.jpg"
+hero_image: "articles/beans-5.webp"
 hero_image_alt: "Bulk Coffee Beans Buyer's Guide: What to Know Before Buying"
 description: "Learn how to buy bulk coffee beans wisely. Compare roast dates, formats, and volumes to find quality beans that match your consumption rate."
 target_keyword: "bulk coffee beans"

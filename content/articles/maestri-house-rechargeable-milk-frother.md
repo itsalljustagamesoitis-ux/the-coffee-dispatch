@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "accessories"
-hero_image: "articles/accessories-3.jpg"
+hero_image: "articles/accessories-3.webp"
 hero_image_alt: "Maestri House Rechargeable Milk Frother Reviewed"
 description: "Compare Maestri House LunaFro milk frother models for home espresso. Find which rechargeable handheld frother creates the best microfoam for your setup."
 target_keyword: "maestri house rechargeable milk frother"

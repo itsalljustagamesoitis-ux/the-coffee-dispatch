@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-5.jpg"
+hero_image: "articles/brewing-methods-5.webp"
 hero_image_alt: "French Press Replacement Parts Buyer's Guide"
 description: "Compare French press filter replacements by size and type. Find the right mesh, disk, and assembly parts for your 34oz or 51oz press without confusion."
 target_keyword: "french press replacement parts"

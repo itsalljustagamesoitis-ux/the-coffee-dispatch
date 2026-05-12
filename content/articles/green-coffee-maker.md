@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-4.jpg"
+hero_image: "articles/coffee-makers-4.webp"
 hero_image_alt: "Green Coffee Makers: Style and Function Buyer's Guide"
 description: "Find the best green coffee makers that blend aesthetic appeal with quality brewing. Compare formats and features to match your kitchen style and coffee needs."
 target_keyword: "green coffee maker"

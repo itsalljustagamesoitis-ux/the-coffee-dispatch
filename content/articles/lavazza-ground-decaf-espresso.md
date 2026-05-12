@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-1.jpg"
+hero_image: "articles/espresso-1.webp"
 hero_image_alt: "Lavazza Ground Decaf Espresso Reviewed: 5 Top Picks"
 description: "Find the best Lavazza decaf espresso ground coffee. Our guide covers whole bean, pre-ground, and capsule options with honest recommendations for home brewing."
 target_keyword: "lavazza ground decaf espresso"

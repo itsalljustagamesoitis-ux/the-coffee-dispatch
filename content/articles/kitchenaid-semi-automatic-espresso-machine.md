@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-3.jpg"
+hero_image: "articles/espresso-3.webp"
 hero_image_alt: "KitchenAid Semi Automatic Espresso Machine Reviewed"
 description: "Honest review of the KitchenAid KES6403 espresso machine. Learn if this semi-automatic model is right for your home setup or if alternatives are better."
 target_keyword: "kitchenaid semi automatic espresso machine"

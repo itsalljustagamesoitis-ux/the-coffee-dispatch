@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-2.jpg"
+hero_image: "articles/grinders-2.webp"
 hero_image_alt: "Manual Hario Coffee Grinder Buyer's Guide: Which Model?"
 description: "Compare Hario manual coffee grinders for specialty brewing. Find the right burr grinder for your ritual, control, and portable coffee needs."
 target_keyword: "coffee grinder manual hario"

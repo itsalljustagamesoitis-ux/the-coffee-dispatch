@@ -6,7 +6,7 @@ date: 2026-05-12
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-7.jpg"
+hero_image: "articles/coffee-makers-7.webp"
 hero_image_alt: "Wolf Built-in Coffee Maker Alternatives: Top Countertop Options"
 description: "Wolf built-in coffee makers are expensive and hard to find. Discover capable countertop drip brewers that deliver great coffee without the premium price tag."
 target_keyword: "wolf built in coffee maker"

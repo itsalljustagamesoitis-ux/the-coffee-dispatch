@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-8.jpg"
+hero_image: "articles/espresso-8.webp"
 hero_image_alt: "Espresso Equipment Repair: Parts and Tools You Actually Need"
 description: "Learn how to fix common espresso machine problems yourself. Find descalers, O-rings, brushes, and parts to keep your machine running smoothly."
 target_keyword: "espresso equipment repair"

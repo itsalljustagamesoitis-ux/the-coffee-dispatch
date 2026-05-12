@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-5.jpg"
+hero_image: "articles/espresso-5.webp"
 hero_image_alt: "Lucca A53 Mini V2 Espresso Machine Buyer's Guide"
 description: "Complete buyer's guide to the Lucca A53 Mini V2 espresso machine. Learn about the machine, grinder pairing, and preparation techniques before you buy."
 target_keyword: "lucca a53 mini v2 espresso machine"

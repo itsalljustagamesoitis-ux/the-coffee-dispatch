@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-5.jpg"
+hero_image: "articles/grinders-5.webp"
 hero_image_alt: "Mahlkonig E80S Coffee Grinder Buyer's Guide"
 description: "Learn if the Mahlkonig E80S is right for you. Compare burr grinder quality, consistency, and brew method compatibility in this honest buyer's guide."
 target_keyword: "mahlkonig e80s coffee grinder"

@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-3.jpg"
+hero_image: "articles/coffee-makers-3.webp"
 hero_image_alt: "Mr Coffee 12 Cup Programmable Coffee Maker Reviewed"
 description: "Honest review of Mr Coffee 12-cup programmable drip coffee makers. Learn where this entry-level machine sits and what to expect before buying."
 target_keyword: "mr coffee 12 cup programmable coffee maker"

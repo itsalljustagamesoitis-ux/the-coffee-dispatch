@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-7.jpg"
+hero_image: "articles/pods-7.webp"
 hero_image_alt: "Refillable Nespresso Pods Buyer's Guide: Save Money and Waste"
 description: "Compare refillable Nespresso pods to reduce waste and control your coffee. Find the right reusable capsules for OriginalLine and Vertuo machines."
 target_keyword: "refillable nespresso pods"

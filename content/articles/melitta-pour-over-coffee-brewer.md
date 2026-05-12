@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-5.jpg"
+hero_image: "articles/coffee-makers-5.webp"
 hero_image_alt: "Melitta Pour Over Coffee Brewer Buyer's Guide"
 description: "Find the right Melitta pour over brewer for your household. Compare sizes and configurations to match your brewing needs and coffee preferences."
 target_keyword: "melitta pour over coffee brewer"

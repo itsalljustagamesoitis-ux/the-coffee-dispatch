@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-5.jpg"
+hero_image: "articles/espresso-5.webp"
 hero_image_alt: "Espresso Coffee Syrup Buyer's Guide: Top Picks Reviewed"
 description: "Find the best espresso syrups for home coffee drinks. Compare flavors and quality to make café-style lattes and macchiatos without overspending on every cup."
 target_keyword: "espresso coffee syrup"

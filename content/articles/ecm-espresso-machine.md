@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-2.jpg"
+hero_image: "articles/espresso-2.webp"
 hero_image_alt: "ECM Espresso Machine Buyer's Guide for Home Users"
 description: "ECM espresso machines are German-engineered and built to last. Learn if an ECM machine is right for your setup and explore top models and accessories."
 target_keyword: "ecm espresso machine"

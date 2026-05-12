@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-8.jpg"
+hero_image: "articles/brewing-methods-8.webp"
 hero_image_alt: "Primula French Press Buyer's Guide: Top Picks Reviewed"
 description: "Compare Primula French press models and top alternatives. Find the right coffee brewer for your needs with our detailed buyer's guide and recommendations."
 target_keyword: "primula french press"

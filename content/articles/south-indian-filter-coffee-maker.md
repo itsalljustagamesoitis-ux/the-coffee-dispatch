@@ -6,7 +6,7 @@ date: 2026-05-12
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-3.jpg"
+hero_image: "articles/coffee-makers-3.webp"
 hero_image_alt: "South Indian Filter Coffee Maker Buyer's Guide"
 description: "Learn how to choose the right South Indian filter coffee maker. Discover what makes these traditional brewers special and find your perfect match."
 target_keyword: "south indian filter coffee maker"

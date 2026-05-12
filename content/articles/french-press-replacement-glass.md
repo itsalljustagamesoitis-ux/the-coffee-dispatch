@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-4.jpg"
+hero_image: "articles/brewing-methods-4.webp"
 hero_image_alt: "French Press Replacement Glass: Buyer's Guide"
 description: "Find the right replacement glass beaker for your French press. Compare options, fit compatibility, and materials to keep your coffee maker working."
 target_keyword: "french press replacement glass"

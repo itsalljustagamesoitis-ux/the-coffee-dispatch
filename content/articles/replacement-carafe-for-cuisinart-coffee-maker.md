@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-7.jpg"
+hero_image: "articles/coffee-makers-7.webp"
 hero_image_alt: "Replacement Carafe for Cuisinart Coffee Maker: Tested"
 description: "Find the right replacement carafe for your Cuisinart coffee maker. We've tested compatibility and durability across models to help you choose."
 target_keyword: "replacement carafe for cuisinart coffee maker"

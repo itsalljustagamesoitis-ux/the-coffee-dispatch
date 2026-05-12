@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-2.jpg"
+hero_image: "articles/coffee-makers-2.webp"
 hero_image_alt: "Keurig Commercial Coffee Maker Buyer's Guide"
 description: "Find the right Keurig commercial coffee maker for your office. Compare models by volume, space, and user control to match your workplace needs."
 target_keyword: "keurig commercial coffee maker"

@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-8.jpg"
+hero_image: "articles/espresso-8.webp"
 hero_image_alt: "Lavazza Espresso Tassen: Material, Size & Top Picks"
 description: "Find the right Lavazza espresso cups for your setup. Learn how material, thickness, and capacity affect crema, cooling, and taste in every shot."
 target_keyword: "lavazza espresso tassen"

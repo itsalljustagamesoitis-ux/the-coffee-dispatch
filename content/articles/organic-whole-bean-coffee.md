@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-2.jpg"
+hero_image: "articles/beans-2.webp"
 hero_image_alt: "Organic Whole Bean Coffee: 5 Top Picks Reviewed"
 description: "Find certified organic whole bean coffee with real quality markers. We reviewed 5 options covering single-origin and everyday blends with fresh roast dates."
 target_keyword: "organic whole bean coffee"

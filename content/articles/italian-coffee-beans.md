@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-7.jpg"
+hero_image: "articles/beans-7.webp"
 hero_image_alt: "Italian Coffee Beans: A Buyer's Guide to Espresso Roasts"
 description: "Learn how to choose Italian coffee beans for espresso. Discover what makes authentic Italian roasts, plus tips on roast dates, blends, and brewing methods."
 target_keyword: "italian coffee beans"

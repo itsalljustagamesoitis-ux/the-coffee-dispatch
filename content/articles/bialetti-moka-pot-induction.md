@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-1.jpg"
+hero_image: "articles/brewing-methods-1.webp"
 hero_image_alt: "Bialetti Moka Pot Induction: A Buyer's Guide"
 description: "Learn how to use your Bialetti moka pot on induction cooktops. Compare induction-compatible models and heat diffuser adapters for stovetop espresso."
 target_keyword: "bialetti moka pot induction"

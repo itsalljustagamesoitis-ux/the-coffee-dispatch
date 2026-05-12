@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-3.jpg"
+hero_image: "articles/beans-3.webp"
 hero_image_alt: "Robusta Beans for Vietnamese Coffee: Top Picks Reviewed"
 description: "Discover quality robusta beans for authentic Vietnamese coffee. Learn what makes these high-caffeine beans ideal for phin brewing and condensed milk."
 target_keyword: "robusta beans for vietnamese coffee"

@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-2.jpg"
+hero_image: "articles/espresso-2.webp"
 hero_image_alt: "Bezzera Espresso Machine Buyer's Guide: Worth It?"
 description: "Explore whether a Bezzera espresso machine suits your needs. Learn how this heritage brand compares and what actually matters for great shots."
 target_keyword: "bezzera espresso machine"

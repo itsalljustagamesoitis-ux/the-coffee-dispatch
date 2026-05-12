@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-2.jpg"
+hero_image: "articles/beans-2.webp"
 hero_image_alt: "Coffee Beans Bags Buyer's Guide: Keep Your Roasts Fresh"
 description: "Learn what makes a quality coffee bag. Compare storage options to protect beans from oxygen, light, and moisture for maximum freshness and flavor."
 target_keyword: "coffee beans bags"

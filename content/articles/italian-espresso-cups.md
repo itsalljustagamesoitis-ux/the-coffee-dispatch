@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-2.jpg"
+hero_image: "articles/espresso-2.webp"
 hero_image_alt: "Italian Espresso Cups Buyer's Guide: What to Look For"
 description: "Learn what makes a great Italian espresso cup. Explore capacity, materials, and design features that enhance your espresso drinking experience at home."
 target_keyword: "italian espresso cups"

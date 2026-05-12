@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-7.jpg"
+hero_image: "articles/espresso-7.webp"
 hero_image_alt: "Lelit Bianca V3 Espresso Machine: Complete Setup Guide"
 description: "Learn what you actually need to support a Lelit Bianca V3. This buyer's guide covers grinders, tools, and tampers for serious home espresso."
 target_keyword: "lelit bianca v3 espresso machine"

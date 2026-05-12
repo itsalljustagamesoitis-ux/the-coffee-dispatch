@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-1.jpg"
+hero_image: "articles/coffee-makers-1.webp"
 hero_image_alt: "Cuisinart Coffee Maker Filter Buyer's Guide: Find the Right Fit"
 description: "Learn how to choose the right Cuisinart water filter for your coffee maker. Compare options to keep your brew tasting fresh and remove chlorine and sediment."
 target_keyword: "cuisinart coffee maker filter"

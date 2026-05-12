@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-1.jpg"
+hero_image: "articles/coffee-makers-1.webp"
 hero_image_alt: "Keurig Coffee Maker How to Use: A Buyer's Guide"
 description: "Learn how to use a Keurig coffee maker with our honest buyer's guide. Compare models from compact travel machines to dual-function brewers and find the right fit."
 target_keyword: "keurig coffee maker how to use"

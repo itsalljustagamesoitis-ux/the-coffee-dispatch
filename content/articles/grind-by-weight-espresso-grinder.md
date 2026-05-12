@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-6.jpg"
+hero_image: "articles/espresso-6.webp"
 hero_image_alt: "Grind by Weight Espresso Grinder Buyer's Guide"
 description: "Find the best grind by weight espresso grinders for precise dosing. Remove guesswork from your shots with burr grinders that weigh doses accurately."
 target_keyword: "grind by weight espresso grinder"

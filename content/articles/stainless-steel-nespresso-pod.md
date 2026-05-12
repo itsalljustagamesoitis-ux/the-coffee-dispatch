@@ -6,7 +6,7 @@ date: 2026-05-12
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-2.jpg"
+hero_image: "articles/pods-2.webp"
 hero_image_alt: "Stainless Steel Nespresso Pod Buyer's Guide Tested"
 description: "Compare reusable stainless steel Nespresso pods for Original Line and Vertuo machines. Learn fit, compatibility, and extraction quality before buying."
 target_keyword: "stainless steel nespresso pod"

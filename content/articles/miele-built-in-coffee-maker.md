@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-8.jpg"
+hero_image: "articles/coffee-makers-8.webp"
 hero_image_alt: "Miele Built-In Coffee Maker Buyer's Guide: Models & Consumables"
 description: "Explore Miele's premium built-in coffee machines and maintenance system. Compare models like the CM 6360 and CM 6160 to find the right fit for your kitchen."
 target_keyword: "miele built in coffee maker"

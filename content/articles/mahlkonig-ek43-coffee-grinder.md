@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-4.jpg"
+hero_image: "articles/grinders-4.webp"
 hero_image_alt: "Mahlkonig EK43 Coffee Grinder Reviewed for Home Use"
 description: "Is the Mahlkonig EK43 worth it for home brewing? We review this commercial grinder and explore better alternatives for your kitchen setup."
 target_keyword: "mahlkonig ek43 coffee grinder"

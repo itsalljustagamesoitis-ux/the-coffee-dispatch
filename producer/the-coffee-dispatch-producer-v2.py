@@ -16,6 +16,7 @@ import sys
 from pathlib import Path
 
 SITE_ROOT = Path(__file__).parent.parent
+SITE_PRODUCER = SITE_ROOT / "producer"
 PLATFORM_PRODUCER = SITE_ROOT / "affiliate-platform/producer"
 
 if not PLATFORM_PRODUCER.exists():
@@ -25,6 +26,12 @@ if not PLATFORM_PRODUCER.exists():
         file=sys.stderr,
     )
     sys.exit(1)
+
+# Pre-import site overrides so Python caches them before producer_main loads.
+# Handles: pipeline.json wrapper dict, product field normalization, buying-guide word count.
+sys.path.insert(0, str(SITE_PRODUCER))
+import data_loader  # noqa: F401
+import prompt_loader  # noqa: F401
 
 sys.path.insert(0, str(PLATFORM_PRODUCER))
 

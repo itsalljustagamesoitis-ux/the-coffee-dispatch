@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-3.jpg"
+hero_image: "articles/espresso-3.webp"
 hero_image_alt: "ESE Lavazza Espresso Pods Buyer's Guide: Top Picks"
 description: "Find the best ESE Lavazza espresso pods and accessories for your setup. Compare options, learn what fits your brew style, and avoid costly mistakes."
 target_keyword: "ese lavazza espresso pods"

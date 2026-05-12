@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-7.jpg"
+hero_image: "articles/coffee-makers-7.webp"
 hero_image_alt: "Bloomfield Coffee Maker Buyer's Guide: Commercial Pourover Brewers"
 description: "Compare Bloomfield coffee makers and commercial pourover brewers for offices and cafes. Learn what matters when choosing high-volume coffee equipment."
 target_keyword: "bloomfield coffee maker"

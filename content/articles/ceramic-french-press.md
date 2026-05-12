@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-8.jpg"
+hero_image: "articles/brewing-methods-8.webp"
 hero_image_alt: "Ceramic French Press Buyer's Guide: Top Picks Reviewed"
 description: "Find the best ceramic French press for your brewing style. Compare materials, durability, and design across top options that won't break easily."
 target_keyword: "ceramic french press"

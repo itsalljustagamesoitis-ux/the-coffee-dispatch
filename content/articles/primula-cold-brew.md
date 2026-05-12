@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "cold-brew"
-hero_image: "articles/cold-brew-8.jpg"
+hero_image: "articles/cold-brew-8.webp"
 hero_image_alt: "Primula Cold Brew Makers Reviewed: Save Money at Home"
 description: "Learn how Primula cold brew makers deliver café-quality results at a fraction of bottled coffee costs. Simple steep-and-filter process saves money fast."
 target_keyword: "primula cold brew"

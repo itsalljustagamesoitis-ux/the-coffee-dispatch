@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-2.jpg"
+hero_image: "articles/grinders-2.webp"
 hero_image_alt: "Commercial Coffee Grinder Buyer's Guide: Burr Grinders Reviewed"
 description: "Learn what separates quality commercial coffee grinders from poor performers. Our guide covers burr mechanisms, retention, and consistency for espresso."
 target_keyword: "commercial coffee grinder"

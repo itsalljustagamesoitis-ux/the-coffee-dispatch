@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-2.jpg"
+hero_image: "articles/brewing-methods-2.webp"
 hero_image_alt: "Lavazza Moka Pot Coffee: A Buyer's Guide to the Best Blends"
 description: "Find the right Lavazza blend for your moka pot. We break down the differences between blends and recommend the best option for your brewing style."
 target_keyword: "lavazza moka pot"

@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-5.jpg"
+hero_image: "articles/espresso-5.webp"
 hero_image_alt: "Commercial Automatic Espresso Machine Buyer's Guide"
 description: "Compare commercial automatic espresso machines from entry-level to professional-grade. Learn what features matter before buying equipment for your kitchen."
 target_keyword: "commercial automatic espresso machine"

@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-3.jpg"
+hero_image: "articles/grinders-3.webp"
 hero_image_alt: "Moccamaster Coffee Grinder Reviewed: Is It Right for You?"
 description: "Learn if the Moccamaster KM5 grinder fits your setup. We review its performance, compare it to alternatives, and help you decide if it's worth the investment."
 target_keyword: "moccamaster coffee grinder"

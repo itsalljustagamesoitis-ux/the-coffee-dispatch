@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-2.jpg"
+hero_image: "articles/brewing-methods-2.webp"
 hero_image_alt: "AeroPress Filters Buyer's Guide: Paper vs Metal Options"
 description: "Compare AeroPress filter types including paper, metal, bleached, and unbleached options. Learn how each affects flavor, sediment, and cost for your brew."
 target_keyword: "aeropress filters"

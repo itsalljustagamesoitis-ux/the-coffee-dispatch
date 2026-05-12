@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-7.jpg"
+hero_image: "articles/grinders-7.webp"
 hero_image_alt: "KitchenAid Burr Grinder Buyer's Guide: What to Know"
 description: "Learn what makes a true KitchenAid burr grinder before you buy. Understand grind consistency and find the right model for your coffee brewing needs."
 target_keyword: "kitchenaid burr grinder"

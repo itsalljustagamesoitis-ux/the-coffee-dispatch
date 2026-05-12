@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-7.jpg"
+hero_image: "articles/grinders-7.webp"
 hero_image_alt: "Coffee Grinder Cleaning Brush Buyer's Guide"
 description: "Learn which coffee grinder cleaning brush works best for your equipment. Compare brush types, sizes, and features to keep your grinder performing at its peak."
 target_keyword: "coffee grinder cleaning brush"

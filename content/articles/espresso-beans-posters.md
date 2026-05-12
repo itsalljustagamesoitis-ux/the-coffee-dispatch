@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-1.jpg"
+hero_image: "articles/espresso-1.webp"
 hero_image_alt: "Espresso Beans Posters Buyer's Guide: What to Know"
 description: "Learn what makes a great espresso poster for your coffee bar or kitchen. We break down print formats, framing, sizing, and design quality to help you choose."
 target_keyword: "espresso beans posters"

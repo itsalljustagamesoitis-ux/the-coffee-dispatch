@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-7.jpg"
+hero_image: "articles/coffee-makers-7.webp"
 hero_image_alt: "Ratio 8 Coffee Maker and Similar Drip Brewers Reviewed"
 description: "Explore premium automatic drip coffee makers inspired by the Ratio Eight. Compare features, brewing quality, and find the right machine for your kitchen."
 target_keyword: "ratio 8 coffee maker"

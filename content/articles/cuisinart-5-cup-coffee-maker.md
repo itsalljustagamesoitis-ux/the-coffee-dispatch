@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-5.jpg"
+hero_image: "articles/coffee-makers-5.webp"
 hero_image_alt: "Cuisinart 5 Cup Coffee Maker Reviewed: Top Picks"
 description: "Find the best Cuisinart 5 cup coffee maker for your needs. We tested top models to help you choose a reliable brewer that lasts beyond one year."
 target_keyword: "cuisinart 5 cup coffee maker"

@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-8.jpg"
+hero_image: "articles/grinders-8.webp"
 hero_image_alt: "Coffee Grinder Brush Buyer's Guide: Top Picks Tested"
 description: "Find the best coffee grinder brush for maintenance. Compare bristle materials and handles to keep burrs clean and your espresso shots tasting fresh."
 target_keyword: "coffee grinder brush"

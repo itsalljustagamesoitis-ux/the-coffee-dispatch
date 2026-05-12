@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-8.jpg"
+hero_image: "articles/brewing-methods-8.webp"
 hero_image_alt: "French Press Cold Brew Coffee: Top Picks Reviewed"
 description: "Learn how to make cold brew in a French press without special equipment. Compare top French press options and master grind size, steep time, and filtration."
 target_keyword: "french press cold brew coffee"

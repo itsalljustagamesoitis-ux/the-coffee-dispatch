@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-5.jpg"
+hero_image: "articles/espresso-5.webp"
 hero_image_alt: "Industrial Espresso Machine Buyer's Guide: Find Your Tier"
 description: "Navigate industrial espresso machines from craft coffee bars to high-volume commercial use. Learn group count, pump type, and boiler specs to choose right."
 target_keyword: "industrial espresso machine"

@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-4.jpg"
+hero_image: "articles/brewing-methods-4.webp"
 hero_image_alt: "Chemex Coffee Filters Buyer's Guide: Bleached vs Unbleached"
 description: "Compare Chemex coffee filters by count and paper type. Learn how bleached and unbleached options affect your brew quality and choose the right box."
 target_keyword: "chemex coffee filters"

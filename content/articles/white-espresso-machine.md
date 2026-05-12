@@ -6,7 +6,7 @@ date: 2026-05-12
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-8.jpg"
+hero_image: "articles/espresso-8.webp"
 hero_image_alt: "White Espresso Machine Buyer's Guide: Top Picks Reviewed"
 description: "Find the best white espresso machine for your kitchen. Compare entry-level semi-automatics with quality build and extraction capability beyond aesthetics."
 target_keyword: "white espresso machine"

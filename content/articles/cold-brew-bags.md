@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "cold-brew"
-hero_image: "articles/cold-brew-6.jpg"
+hero_image: "articles/cold-brew-6.webp"
 hero_image_alt: "Cold Brew Bags Reviewed: Disposable vs Reusable Options"
 description: "Compare disposable fine-mesh and reusable cotton cold brew bags. Learn which filter type delivers clean concentrate without sediment for your home brewing."
 target_keyword: "cold brew bags"

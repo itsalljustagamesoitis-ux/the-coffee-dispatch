@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-1.jpg"
+hero_image: "articles/espresso-1.webp"
 hero_image_alt: "Blond Espresso Buyer's Guide: How to Pull the Perfect Shot"
 description: "Learn how to brew blond espresso at home. Discover the grind, tamp, and bean freshness requirements for lighter roast espresso that highlights origin character."
 target_keyword: "blond espresso"

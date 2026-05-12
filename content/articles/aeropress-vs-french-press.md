@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-6.jpg"
+hero_image: "articles/brewing-methods-6.webp"
 hero_image_alt: "AeroPress vs French Press: Which Brewer Is Right for You"
 description: "Compare AeroPress and French press coffee brewers side by side. Learn the key differences, brewing styles, and which manual brewer suits your needs best."
 target_keyword: "aeropress vs french press"

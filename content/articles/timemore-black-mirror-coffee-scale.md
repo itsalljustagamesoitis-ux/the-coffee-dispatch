@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "accessories"
-hero_image: "articles/accessories-4.jpg"
+hero_image: "articles/accessories-4.webp"
 hero_image_alt: "Timemore Black Mirror Coffee Scale: Tested & Reviewed"
 description: "Compare Timemore Black Mirror variants and alternatives. Find the right precision scale for espresso, pour-over, and specialty coffee brewing."
 target_keyword: "timemore black mirror coffee scale"

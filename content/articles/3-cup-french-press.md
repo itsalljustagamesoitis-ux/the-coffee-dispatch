@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-5.jpg"
+hero_image: "articles/brewing-methods-5.webp"
 hero_image_alt: "3 Cup French Press Buyer's Guide: Top Picks Reviewed"
 description: "Find the best 3 cup French press for one person or two. Our guide reviews top options covering durability, filtration, and fit for home brewing."
 target_keyword: "3 cup french press"

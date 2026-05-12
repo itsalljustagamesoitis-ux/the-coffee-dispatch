@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-2.jpg"
+hero_image: "articles/beans-2.webp"
 hero_image_alt: "Whole Bean Organic Coffee Buyer's Guide: What to Look For"
 description: "Find certified organic whole bean coffee with real traceability. Learn what separates quality beans from shelf-fillers in our buyer's guide."
 target_keyword: "whole bean organic coffee"

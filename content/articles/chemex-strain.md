@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-3.jpg"
+hero_image: "articles/brewing-methods-3.webp"
 hero_image_alt: "Chemex Filters Buyer's Guide: Choose the Right Filter"
 description: "Learn which Chemex filters work best for your brewer. Compare shapes, counts, and formats to improve workflow and cup clarity every morning."
 target_keyword: "chemex strain"

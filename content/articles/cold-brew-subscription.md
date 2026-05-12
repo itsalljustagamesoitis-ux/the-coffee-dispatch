@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "cold-brew"
-hero_image: "articles/cold-brew-3.jpg"
+hero_image: "articles/cold-brew-3.webp"
 hero_image_alt: "Cold Brew Subscription Buyer's Guide: Top Picks Reviewed"
 description: "Compare cold brew subscriptions from ground beans to ready-to-drink cans. Find the right subscription based on convenience and quality for your needs."
 target_keyword: "cold brew subscription"

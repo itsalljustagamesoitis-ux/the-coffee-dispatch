@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-4.jpg"
+hero_image: "articles/coffee-makers-4.webp"
 hero_image_alt: "Manual Coffee Maker Buyer's Guide: Top Picks Reviewed"
 description: "Explore manual coffee makers for pour over, French press, and moka pot brewing. Find the right hands-on brewer for your skill level and coffee preferences."
 target_keyword: "manual coffee maker"

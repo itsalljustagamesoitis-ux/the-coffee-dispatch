@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-4.jpg"
+hero_image: "articles/brewing-methods-4.webp"
 hero_image_alt: "Hario Gooseneck Kettle Buyer's Guide for Pour-Over Coffee"
 description: "Learn why a Hario gooseneck kettle is essential for pour-over brewing. Discover how the Buono line gives you control over water flow and improves your coffee."
 target_keyword: "hario gooseneck kettle"

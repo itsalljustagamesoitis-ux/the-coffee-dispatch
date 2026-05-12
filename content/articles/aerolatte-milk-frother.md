@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "accessories"
-hero_image: "articles/accessories-5.jpg"
+hero_image: "articles/accessories-5.webp"
 hero_image_alt: "Aerolatte Milk Frother Buyer's Guide for Home Coffee"
 description: "Learn how to choose the right Aerolatte milk frother for your home espresso setup. Compare handheld options to upgrade your lattes and cappuccinos."
 target_keyword: "aerolatte milk frother"

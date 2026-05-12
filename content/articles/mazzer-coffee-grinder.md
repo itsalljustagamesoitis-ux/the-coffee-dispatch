@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-1.jpg"
+hero_image: "articles/grinders-1.webp"
 hero_image_alt: "Mazzer Coffee Grinder Buyer's Guide: Top 5 Picks Reviewed"
 description: "Compare Mazzer coffee grinders across price ranges. Our tested picks cover budget electrics to stepless prosumer models with expert burr analysis."
 target_keyword: "mazzer coffee grinder"

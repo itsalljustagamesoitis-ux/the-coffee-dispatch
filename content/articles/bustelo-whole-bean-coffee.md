@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-4.jpg"
+hero_image: "articles/beans-4.webp"
 hero_image_alt: "Bustelo Whole Bean Coffee Reviewed: Dark Roasts Tested"
 description: "Compare Bustelo whole bean coffee varieties. Dark espresso-style roasts tested for flavor, price, and grind quality. Skip pre-ground and choose wisely."
 target_keyword: "bustelo whole bean coffee"

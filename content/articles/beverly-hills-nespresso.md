@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-6.jpg"
+hero_image: "articles/pods-6.webp"
 hero_image_alt: "Beverly Hills Nespresso Pods: Which Capsules Are Worth Buying"
 description: "Find the best Nespresso pods for your machine. Compare Original Line vs Vertuo capsules and learn which third-party options deliver quality."
 target_keyword: "beverly hills nespresso"

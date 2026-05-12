@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-2.jpg"
+hero_image: "articles/grinders-2.webp"
 hero_image_alt: "Grindmaster Coffee Grinder Buyer's Guide: Top Picks Reviewed"
 description: "Find the right grindmaster coffee grinder for your needs. Compare blade, burr, and hybrid grinders to improve your coffee quality and brewing results."
 target_keyword: "grindmaster coffee grinder"

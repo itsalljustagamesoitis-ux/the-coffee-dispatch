@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-8.jpg"
+hero_image: "articles/pods-8.webp"
 hero_image_alt: "Reusable Nespresso Vertuo Pods Reviewed: Top Options Tested"
 description: "Compare reusable Nespresso Vertuo pods and refill systems. Find which format works best for your brewing style and budget with our buyer's guide."
 target_keyword: "reusable nespresso vertuo pods"

@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-2.jpg"
+hero_image: "articles/coffee-makers-2.webp"
 hero_image_alt: "Bialetti Coffee Maker Buyer's Guide: Size and Model"
 description: "Learn which Bialetti moka pot size and model works best for your kitchen. Understand the differences between models to choose the right one."
 target_keyword: "bialetti coffee maker"

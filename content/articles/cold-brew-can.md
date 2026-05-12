@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "cold-brew"
-hero_image: "articles/cold-brew-1.jpg"
+hero_image: "articles/cold-brew-1.webp"
 hero_image_alt: "Cold Brew Can Buyer's Guide: Quality Over Convenience"
 description: "Find the best cold brew cans that actually taste good. Our buyer's guide reviews ready-to-drink options from basic black to nitro-infused varieties."
 target_keyword: "cold brew can"

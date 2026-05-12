@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-6.jpg"
+hero_image: "articles/coffee-makers-6.webp"
 hero_image_alt: "Coffee Maker Replacement Parts Buyer's Guide"
 description: "Find the right replacement parts for your coffee maker. Learn how to identify compatible components and choose trustworthy third-party options."
 target_keyword: "coffee maker replacement parts"

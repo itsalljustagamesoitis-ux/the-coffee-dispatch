@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-4.jpg"
+hero_image: "articles/espresso-4.webp"
 hero_image_alt: "Faema Espresso Machine Alternatives: A Buyer's Guide"
 description: "Explore practical Faema espresso machine alternatives. Compare budget-friendly to fully automatic options with honest assessments to find your ideal machine."
 target_keyword: "faema espresso machine"

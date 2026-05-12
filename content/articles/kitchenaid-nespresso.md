@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-4.jpg"
+hero_image: "articles/pods-4.webp"
 hero_image_alt: "KitchenAid Nespresso Machines Reviewed and Compared"
 description: "Compare KitchenAid Nespresso pod espresso machines. Find the right Vertuo or Original system for your kitchen, budget, and daily coffee needs."
 target_keyword: "kitchenaid nespresso"

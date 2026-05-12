@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "cold-brew"
-hero_image: "articles/cold-brew-2.jpg"
+hero_image: "articles/cold-brew-2.webp"
 hero_image_alt: "Best Organic Cold Brew Reviewed: Ready-to-Drink & Home Brewing"
 description: "Find certified organic cold brew that tastes great. Compare ready-to-drink bottles, tap systems, and ground coffee options for your daily caffeine fix."
 target_keyword: "organic cold brew"

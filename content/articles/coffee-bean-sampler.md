@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-4.jpg"
+hero_image: "articles/beans-4.webp"
 hero_image_alt: "Coffee Bean Sampler Buyer's Guide: Find Your Perfect Blend"
 description: "Explore specialty coffee with samplers. Learn how to choose quality sets, understand roast dates, and taste across origins before buying full bags."
 target_keyword: "coffee bean sampler"

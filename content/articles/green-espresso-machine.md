@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-6.jpg"
+hero_image: "articles/espresso-6.webp"
 hero_image_alt: "Green Espresso Machines Buyer's Guide: Top Picks Reviewed"
 description: "Compare green espresso machines from portable brewers to full setups. Find the right machine that matches your needs and budget in our detailed buyer's guide."
 target_keyword: "green espresso machine"

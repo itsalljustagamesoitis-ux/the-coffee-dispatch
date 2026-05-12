@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-6.jpg"
+hero_image: "articles/coffee-makers-6.webp"
 hero_image_alt: "Shop Chemex Coffee Maker: Sizes and Alternatives Reviewed"
 description: "Find the right Chemex coffee maker for your pour-over needs. Compare sizes, formats, and alternatives to choose the best brewer for your brewing style."
 target_keyword: "shop chemex coffee maker"

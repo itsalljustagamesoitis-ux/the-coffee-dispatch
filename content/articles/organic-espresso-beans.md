@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-4.jpg"
+hero_image: "articles/espresso-4.webp"
 hero_image_alt: "Organic Espresso Beans Buyer's Guide: What to Know"
 description: "Learn what organic certification means for espresso beans, why it matters for your cup, and how to choose quality organic beans for home brewing."
 target_keyword: "organic espresso beans"

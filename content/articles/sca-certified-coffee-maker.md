@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-1.jpg"
+hero_image: "articles/coffee-makers-1.webp"
 hero_image_alt: "SCA Certified Coffee Makers: Top Picks Tested for Brew Quality"
 description: "Find SCA certified coffee makers that maintain optimal brew temperature. Our guide reviews machines tested for consistent extraction and quality."
 target_keyword: "sca certified coffee maker"

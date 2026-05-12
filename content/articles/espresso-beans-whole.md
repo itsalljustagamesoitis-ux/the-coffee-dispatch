@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-7.jpg"
+hero_image: "articles/espresso-7.webp"
 hero_image_alt: "Whole Espresso Beans Buyer's Guide: What Actually Matters"
 description: "Cut through the noise with real guidance on choosing whole espresso beans. Learn what factors actually matter for your setup, roast preference, and consumption."
 target_keyword: "espresso beans whole"

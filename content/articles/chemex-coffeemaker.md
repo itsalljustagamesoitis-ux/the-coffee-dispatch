@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-7.jpg"
+hero_image: "articles/brewing-methods-7.webp"
 hero_image_alt: "Chemex Coffeemaker Buyer's Guide: Size and Capacity"
 description: "Find the right Chemex coffeemaker size for your routine. Compare capacity options and learn what to consider before upgrading your pour-over setup."
 target_keyword: "chemex coffeemaker"

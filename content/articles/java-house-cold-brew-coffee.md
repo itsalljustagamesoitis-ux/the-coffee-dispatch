@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "cold-brew"
-hero_image: "articles/cold-brew-7.jpg"
+hero_image: "articles/cold-brew-7.webp"
 hero_image_alt: "Java House Cold Brew Coffee: Buyer's Guide & Review"
 description: "Compare Java House cold brew formats and find out if the convenience of pods and on-tap boxes justifies the cost versus traditional brewing methods."
 target_keyword: "java house cold brew coffee"

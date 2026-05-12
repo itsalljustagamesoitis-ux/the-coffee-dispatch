@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-4.jpg"
+hero_image: "articles/coffee-makers-4.webp"
 hero_image_alt: "Hario V60 Coffee Maker Buyer's Guide: Which Version to Choose"
 description: "Compare Hario V60 drippers, starter sets, and bundles. Learn which model suits your brewing needs and budget in this detailed buyer's guide."
 target_keyword: "hario v60 coffee maker"

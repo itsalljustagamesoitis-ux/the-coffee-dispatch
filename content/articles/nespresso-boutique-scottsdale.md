@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-3.jpg"
+hero_image: "articles/pods-3.webp"
 hero_image_alt: "Nespresso Boutique Scottsdale: Capsule Buying Guide"
 description: "Find the right Nespresso capsules for your machine and taste. Learn which Original Line pods work best before your Scottsdale boutique visit."
 target_keyword: "nespresso boutique scottsdale"

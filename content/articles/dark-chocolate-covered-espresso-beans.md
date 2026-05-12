@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-7.jpg"
+hero_image: "articles/espresso-7.webp"
 hero_image_alt: "Dark Chocolate Covered Espresso Beans: Top Picks Reviewed"
 description: "Compare dark chocolate espresso beans from bulk bags to specialty packs. Our guide helps you find the right balance of coffee flavor, cacao, and caffeine."
 target_keyword: "dark chocolate covered espresso beans"

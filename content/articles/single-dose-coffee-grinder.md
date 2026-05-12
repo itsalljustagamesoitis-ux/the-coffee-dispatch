@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-6.jpg"
+hero_image: "articles/grinders-6.webp"
 hero_image_alt: "Single Dose Coffee Grinder Buyer's Guide: Top Picks"
 description: "Find the best single dose coffee grinder for fresh, flavorless grinding. Compare burr and blade grinders to eliminate bean retention and stale coffee."
 target_keyword: "single dose coffee grinder"

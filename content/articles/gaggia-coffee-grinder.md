@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-3.jpg"
+hero_image: "articles/grinders-3.webp"
 hero_image_alt: "Gaggia Coffee Grinder Buyer's Guide: Best Reviewed Options"
 description: "Gaggia doesn't make standalone grinders. Find the best replacement or upgrade grinder for your Gaggia machine with our tested recommendations."
 target_keyword: "gaggia coffee grinder"

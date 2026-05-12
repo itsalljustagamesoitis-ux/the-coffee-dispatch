@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-5.jpg"
+hero_image: "articles/brewing-methods-5.webp"
 hero_image_alt: "Moka Pot Bialetti Buyer's Guide: Find Your Perfect Size"
 description: "Learn which Bialetti moka pot size fits your needs. Compare models, features, and capacity to brew strong stovetop coffee without filters or electricity."
 target_keyword: "moka pot bialetti"

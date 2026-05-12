@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-8.jpg"
+hero_image: "articles/brewing-methods-8.webp"
 hero_image_alt: "AeroPress Filter Guide: Paper vs Metal Filters Reviewed"
 description: "Compare AeroPress paper and metal filters. Learn how each affects your coffee's taste, consistency, and cost to choose the right filter for your brewing."
 target_keyword: "aeropress filter"

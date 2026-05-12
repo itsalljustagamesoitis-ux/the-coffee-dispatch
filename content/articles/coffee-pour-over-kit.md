@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-2.jpg"
+hero_image: "articles/brewing-methods-2.webp"
 hero_image_alt: "Coffee Pour Over Kit Buyer's Guide: What Actually Matters"
 description: "Learn what separates a useful pour-over kit from one you'll abandon. Master grind size, water temperature, and technique in this practical buyer's guide."
 target_keyword: "coffee pour over kit"

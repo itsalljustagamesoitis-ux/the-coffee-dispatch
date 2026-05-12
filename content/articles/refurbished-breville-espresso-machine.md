@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-5.jpg"
+hero_image: "articles/espresso-5.webp"
 hero_image_alt: "Refurbished Breville Espresso Machine Buyer's Guide"
 description: "Learn what to evaluate when buying a refurbished Breville espresso machine. Discover the trade-offs, setup costs, and maintenance considerations before you buy."
 target_keyword: "refurbished breville espresso machine"

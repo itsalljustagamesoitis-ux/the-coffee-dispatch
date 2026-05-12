@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-3.jpg"
+hero_image: "articles/pods-3.webp"
 hero_image_alt: "Cold Brew Coffee Pods Reviewed: What Actually Works"
 description: "Skip the marketing hype. Our honest guide to cold brew coffee pods compares real options and explains what delivers genuine flavor without the 12-hour wait."
 target_keyword: "cold brew coffee pods"

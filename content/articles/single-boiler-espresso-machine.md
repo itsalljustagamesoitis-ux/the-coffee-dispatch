@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-7.jpg"
+hero_image: "articles/espresso-7.webp"
 hero_image_alt: "Single Boiler Espresso Machine Buyer's Guide"
 description: "Learn which single boiler espresso machines deliver quality shots for home brewers. Compare features, performance, and find the right machine for your needs."
 target_keyword: "single boiler espresso machine"

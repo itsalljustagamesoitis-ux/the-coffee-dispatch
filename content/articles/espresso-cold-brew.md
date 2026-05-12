@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-2.jpg"
+hero_image: "articles/espresso-2.webp"
 hero_image_alt: "Espresso Cold Brew Buyer's Guide: Finding Your Best Option"
 description: "Compare espresso cold brew makers by speed, capacity, and brewing style. Find the right setup for concentrated cold coffee without a full espresso machine."
 target_keyword: "espresso cold brew"

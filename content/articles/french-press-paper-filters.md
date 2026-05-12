@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-3.jpg"
+hero_image: "articles/brewing-methods-3.webp"
 hero_image_alt: "French Press Paper Filters Reviewed: Reduce Sediment"
 description: "Compare french press paper filters that cut sediment while preserving full-bodied flavor. Find the right fit for your brewing style and vessel."
 target_keyword: "french press paper filters"

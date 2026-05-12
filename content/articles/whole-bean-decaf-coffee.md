@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-4.jpg"
+hero_image: "articles/beans-4.webp"
 hero_image_alt: "Whole Bean Decaf Coffee Buyer's Guide: What to Know"
 description: "Learn how to choose quality whole bean decaf coffee. Discover why processing method, roast level, and freshness matter more than the brand."
 target_keyword: "whole bean decaf coffee"

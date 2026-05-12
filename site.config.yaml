@@ -18,6 +18,13 @@ visual:
   font_headings: Space Grotesk
   font_body: Inter
   slots: 5
+  logo_paths:
+    favicon: "/images/brand/favicon.ico"
+    header_svg: "/images/brand/logo-header.svg"
+    header_png: "/images/brand/logo-header.png"
+    footer_svg: "/images/brand/logo-footer.svg"
+    social_square: "/images/brand/social-square.png"
+    open_graph_default: "/images/brand/open-graph-default.png"
 images:
   base_url: /images
 
@@ -30,5 +37,5 @@ style_policy:
   buying_guide_heading:
     style: "Buying Guide"
   in_body_images:
-    policy: fixed_count
-    fixed_count: 5
+    policy: none
+    fixed_count: null

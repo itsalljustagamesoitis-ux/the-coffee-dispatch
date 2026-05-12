@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "accessories"
-hero_image: "articles/accessories-3.jpg"
+hero_image: "articles/accessories-3.webp"
 hero_image_alt: "Jura Milk Frother Buyer's Guide: Choose the Right Setup"
 description: "Find the perfect Jura milk frother for your machine. Compare frothers, containers, and accessories to match your needs and foam quality preferences."
 target_keyword: "jura milk frother"

@@ -1,65 +1,91 @@
 """
-Data loader for site producer.
-Loads pipeline, products catalog, persona, eeat vault, navigation.
+Site data_loader override — matches platform signatures but handles
+pipeline.json's wrapper dict format {version, site, articles: [...]}.
 """
 
 import json
+import os
+import shutil
 import yaml
-from pathlib import Path
 from datetime import date
+from pathlib import Path
 from typing import Optional
 
-ROOT = Path(__file__).parent.parent
+
+def load_pipeline(site_root: Path) -> list:
+    with open(site_root / "data/pipeline.json") as f:
+        data = json.load(f)
+    articles = data.get("articles", []) if isinstance(data, dict) else data
+    # Deduplicate product lists in place — source-hubs.py occasionally assigns same key twice
+    for a in articles:
+        if isinstance(a.get("products"), list):
+            seen = []
+            for p in a["products"]:
+                if p not in seen:
+                    seen.append(p)
+            a["products"] = seen
+    return articles
 
 
-def load_pipeline() -> list[dict]:
-    with open(ROOT / "data/pipeline.json") as f:
-        return json.load(f)
-
-
-def load_products() -> dict:
-    """Returns dict keyed by product slug."""
-    with open(ROOT / "content/products/products.yaml") as f:
-        raw = yaml.safe_load(f)
-    # Normalise: convert date objects to strings
+def load_products(site_root: Path) -> dict:
+    with open(site_root / "content/products/products.yaml") as f:
+        raw = yaml.safe_load(f) or {}
     products = {}
     for key, p in raw.items():
         p["key"] = key
         if isinstance(p.get("last_verified"), date):
             p["last_verified"] = p["last_verified"].isoformat()
+        # Rainforest-sourced products use 'title'; platform builder expects 'name'
+        if "name" not in p and "title" in p:
+            p["name"] = p["title"]
+        # Platform builder also uses 'amazon_asin'; Rainforest uses 'asin'
+        if "amazon_asin" not in p and "asin" in p:
+            p["amazon_asin"] = p["asin"]
+        # build_frontmatter reads default_pros/cons to populate article_specific_pros/cons;
+        # Rainforest products don't have them so add placeholder defaults if absent.
+        # These will be surfaced in ProductCards — update products.yaml with real values before launch.
+        if "default_pros" not in p:
+            brand = p.get("brand") or ""
+            hub = p.get("hub") or ""
+            hub_label = hub.replace("-", " ") if hub else "coffee"
+            p["default_pros"] = [
+                f"Well-reviewed {hub_label} option" if hub_label else "Highly rated",
+                f"From {brand}" if brand else "Strong customer ratings",
+            ]
+        if "default_cons" not in p:
+            p["default_cons"] = ["Verify specifications match your needs before purchasing"]
         products[key] = p
     return products
 
 
-def load_persona() -> dict:
-    with open(ROOT / "site.config.yaml") as f:
+def load_persona(site_root: Path) -> dict:
+    with open(site_root / "site.config.yaml") as f:
         cfg = yaml.safe_load(f)
-    persona_path = ROOT / cfg["persona"]["config_path"]
+    persona_path = site_root / cfg["persona"]["config_path"]
     with open(persona_path) as f:
         return yaml.safe_load(f)
 
 
-def load_eeat_vault() -> dict:
-    with open(ROOT / "data/eeat-vault.json") as f:
+def load_eeat_vault(site_root: Path) -> dict:
+    with open(site_root / "data/eeat-vault.json") as f:
         return json.load(f)
 
 
-def load_navigation() -> dict:
-    with open(ROOT / "config/navigation.yaml") as f:
+def load_navigation(site_root: Path) -> dict:
+    with open(site_root / "config/navigation.yaml") as f:
         return yaml.safe_load(f)
 
 
-def load_site_config() -> dict:
-    with open(ROOT / "site.config.yaml") as f:
+def load_site_config(site_root: Path) -> dict:
+    with open(site_root / "site.config.yaml") as f:
         return yaml.safe_load(f)
 
 
-def get_pending_articles(pipeline: list[dict]) -> list[dict]:
+def get_pending_articles(pipeline: list) -> list:
     return [a for a in pipeline if not a.get("published", False) and a.get("status") != "skip"]
 
 
 def enrich_article(article: dict, nav: dict) -> dict:
-    """Attach hub_label, hub_url, hub_slug, category_label, category_slug."""
     hub_slug = article.get("hub", "")
     for cat in nav.get("categories", []):
         for hub in cat.get("hubs", []):
@@ -79,8 +105,7 @@ def enrich_article(article: dict, nav: dict) -> dict:
 
 
 def get_hub_products(products: dict, hub_slug: str) -> dict:
-    """Return only products that belong to the given hub."""
-    return {k: v for k, v in products.items() if v.get("category") == hub_slug or v.get("hub") == hub_slug}
+    return {k: v for k, v in products.items() if v.get("hub") == hub_slug}
 
 
 def get_article_by_id(pipeline: list, article_id: int) -> Optional[dict]:
@@ -92,19 +117,9 @@ def get_article_by_slug(pipeline: list, slug: str) -> Optional[dict]:
 
 
 def get_eeat_for_cluster(vault: dict, cluster: str) -> dict:
-    """Pull relevant EEAT entries for a given cluster."""
-    experiences = [
-        e for e in vault.get("product_experiences", [])
-        if cluster in e.get("clusters", [])
-    ]
-    failures = [
-        f for f in vault.get("failures", [])
-        if cluster in f.get("clusters", [])
-    ]
-    opinions = [
-        o for o in vault.get("strong_opinions", [])
-        if cluster in o.get("clusters", [])
-    ]
+    experiences = [e for e in vault.get("product_experiences", []) if cluster in e.get("clusters", [])]
+    failures = [f for f in vault.get("failures", []) if cluster in f.get("clusters", [])]
+    opinions = [o for o in vault.get("strong_opinions", []) if cluster in o.get("clusters", [])]
     return {
         "experiences": experiences[:3],
         "failures": failures[:2],
@@ -112,14 +127,26 @@ def get_eeat_for_cluster(vault: dict, cluster: str) -> dict:
     }
 
 
-def save_pipeline(pipeline: list[dict]) -> None:
-    path = ROOT / "data/pipeline.json"
+def save_pipeline(pipeline: list, site_root: Path) -> None:
+    path = site_root / "data/pipeline.json"
     tmp = path.with_suffix(".json.tmp")
     bak = path.with_suffix(".json.bak")
+
+    # Preserve the wrapper dict (version, site, etc.) when saving
+    try:
+        with open(path) as f:
+            existing = json.load(f)
+    except Exception:
+        existing = {}
+
+    if isinstance(existing, dict):
+        existing["articles"] = pipeline
+        data = existing
+    else:
+        data = pipeline
+
     with open(tmp, "w") as f:
-        json.dump(pipeline, f, indent=2)
+        json.dump(data, f, indent=2)
     if path.exists():
-        import shutil
         shutil.copy2(path, bak)
-    import os
     os.replace(tmp, path)

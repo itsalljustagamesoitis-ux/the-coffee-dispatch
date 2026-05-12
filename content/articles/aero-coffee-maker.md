@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-5.jpg"
+hero_image: "articles/coffee-makers-5.webp"
 hero_image_alt: "Aero Coffee Maker Buyer's Guide: Which Version Fits You"
 description: "Compare AeroPress coffee maker models to find the right fit. Learn key differences in capacity, brewing speed, and portability for your needs."
 target_keyword: "aero coffee maker"

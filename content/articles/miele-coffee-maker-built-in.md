@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-7.jpg"
+hero_image: "articles/coffee-makers-7.webp"
 hero_image_alt: "Miele Coffee Maker Built In Buyer's Guide: What to Know"
 description: "Learn which Miele built-in coffee machines work best for your kitchen. Our guide helps you choose the right super-automatic model for your needs."
 target_keyword: "miele coffee maker built in"

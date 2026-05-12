@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-5.jpg"
+hero_image: "articles/brewing-methods-5.webp"
 hero_image_alt: "Planetary Design French Press Buyer's Guide: BruTrek Models"
 description: "Explore Planetary Design's insulated stainless steel French presses. Compare BaseCamp and travel models built to keep coffee hot long after brewing."
 target_keyword: "planetary design french press"

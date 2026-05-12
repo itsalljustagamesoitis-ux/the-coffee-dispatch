@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-8.jpg"
+hero_image: "articles/espresso-8.webp"
 hero_image_alt: "Espresso Mix Buyer's Guide: Instant, Concentrate & More"
 description: "Compare espresso mix options including instant granules, cold brew concentrates, and cocktail mixers. Find the right product for your needs."
 target_keyword: "espresso mix"

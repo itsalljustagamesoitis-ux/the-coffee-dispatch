@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-5.jpg"
+hero_image: "articles/grinders-5.webp"
 hero_image_alt: "Coffee Grinder Cleaning Tablets: Remove Oil Buildup"
 description: "Learn why cleaning tablets matter for grinder maintenance. Remove rancid coffee oils that brushing misses to keep your grinder performing at its best."
 target_keyword: "coffee grinder cleaning tablets"

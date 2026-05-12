@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-4.jpg"
+hero_image: "articles/coffee-makers-4.webp"
 hero_image_alt: "14 Cup Coffee Maker Buyer's Guide: Top Picks Reviewed"
 description: "Find the best 14 cup coffee maker for your household. Compare programmable drip machines, brew temperature, and carafe types to brew for crowds."
 target_keyword: "14 cup coffee maker"

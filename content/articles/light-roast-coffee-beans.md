@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-2.jpg"
+hero_image: "articles/beans-2.webp"
 hero_image_alt: "Light Roast Coffee Beans Buyer's Guide: What to Look For"
 description: "Learn what makes quality light roast coffee beans worth buying. This guide covers bean origin, roast date, and freshness grinding to help you choose well."
 target_keyword: "light roast coffee beans"

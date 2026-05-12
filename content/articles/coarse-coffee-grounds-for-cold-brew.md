@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "cold-brew"
-hero_image: "articles/cold-brew-5.jpg"
+hero_image: "articles/cold-brew-5.webp"
 hero_image_alt: "Best Coarse Coffee Grounds for Cold Brew: Tested Top Picks"
 description: "Find the best pre-ground coarse coffee for cold brew. We tested top brands to help you skip the grinder and make better iced coffee at home."
 target_keyword: "coarse coffee grounds for cold brew"

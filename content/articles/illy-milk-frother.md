@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "accessories"
-hero_image: "articles/accessories-6.jpg"
+hero_image: "articles/accessories-6.webp"
 hero_image_alt: "Illy Milk Frother Buyer's Guide: Top Picks Reviewed"
 description: "Compare the best illy milk frothers for home espresso. Find the right capacity, temperature control, and features for your latte and cappuccino needs."
 target_keyword: "illy milk frother"

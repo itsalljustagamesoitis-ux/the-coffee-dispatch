@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-1.jpg"
+hero_image: "articles/beans-1.webp"
 hero_image_alt: "12 oz Coffee Beans Buyer's Guide: Top Picks Reviewed"
 description: "Find the best 12 oz whole bean coffee bags for home brewing. We reviewed light to dark roasts from quality brands that deliver fresh flavor week after week."
 target_keyword: "12 oz coffee beans"

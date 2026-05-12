@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-6.jpg"
+hero_image: "articles/grinders-6.webp"
 hero_image_alt: "Hario Hand Grinder Buyer's Guide: Which Model to Choose"
 description: "Compare Hario hand grinder models by capacity, portability, and durability. Find the right ceramic burr grinder for your coffee brewing needs and budget."
 target_keyword: "hario hand grinder"

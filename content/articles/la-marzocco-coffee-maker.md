@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-6.jpg"
+hero_image: "articles/coffee-makers-6.webp"
 hero_image_alt: "La Marzocco Coffee Maker Buyer's Guide for Home Use"
 description: "Find the right La Marzocco machine for your skill level and budget. Compare models, features, and pricing to make an informed espresso machine purchase."
 target_keyword: "la marzocco coffee maker"

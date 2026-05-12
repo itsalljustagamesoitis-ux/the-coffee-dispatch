@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-1.jpg"
+hero_image: "articles/beans-1.webp"
 hero_image_alt: "Decaf Cold Brew Concentrate Buyer's Guide: Top Picks"
 description: "Find the best decaf cold brew concentrate for smooth flavor without caffeine. Our guide reviews top options for evening drinking and caffeine sensitivity."
 target_keyword: "decaf cold brew concentrate"

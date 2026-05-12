@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-1.jpg"
+hero_image: "articles/pods-1.webp"
 hero_image_alt: "Nespresso Vertuo Refillable Pods Reviewed and Tested"
 description: "Find the best refillable pods for your Nespresso Vertuo machine. We review compatibility, ease of use, and savings to help you choose wisely."
 target_keyword: "nespresso vertuo refillable pods"

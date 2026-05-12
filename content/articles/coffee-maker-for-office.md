@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-3.jpg"
+hero_image: "articles/coffee-makers-3.webp"
 hero_image_alt: "Best Coffee Makers for Office: Buyer's Guide"
 description: "Find the right office coffee maker for your workplace. Compare capacity, convenience, and cleanup needs for shared machines that work for teams."
 target_keyword: "coffee maker for office"

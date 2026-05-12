@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-8.jpg"
+hero_image: "articles/brewing-methods-8.webp"
 hero_image_alt: "6 Cup Moka Pot Buyer's Guide: What to Know Before Buying"
 description: "Learn what separates a reliable 6 cup moka pot from a frustrating one. Discover grind size, heat management, and water level tips for perfect coffee."
 target_keyword: "6 cup moka pot"

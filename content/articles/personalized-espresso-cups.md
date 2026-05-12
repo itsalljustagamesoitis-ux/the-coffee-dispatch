@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-2.jpg"
+hero_image: "articles/espresso-2.webp"
 hero_image_alt: "Personalized Espresso Cups Buyer's Guide: What Actually Matters"
 description: "Learn what separates a functional personalized espresso cup from a decorative one. Compare heat retention, capacity, and durability for home use or gifting."
 target_keyword: "personalized espresso cups"

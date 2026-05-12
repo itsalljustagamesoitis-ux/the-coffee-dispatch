@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "accessories"
-hero_image: "articles/accessories-4.jpg"
+hero_image: "articles/accessories-4.webp"
 hero_image_alt: "Zulay Milk Frother Buyer's Guide: Which Model to Choose"
 description: "Compare Zulay milk frothers side by side. Find the right battery-powered, rechargeable, or stand model for your daily coffee routine and needs."
 target_keyword: "zulay milk frother"

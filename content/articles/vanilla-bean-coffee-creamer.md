@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-8.jpg"
+hero_image: "articles/beans-8.webp"
 hero_image_alt: "Vanilla Bean Coffee Creamer Reviewed: Top Picks for Home"
 description: "Find the best vanilla bean coffee creamer for your brew. Our buyer's guide compares formats, sweetness levels, and flavor quality to help you choose."
 target_keyword: "vanilla bean coffee creamer"

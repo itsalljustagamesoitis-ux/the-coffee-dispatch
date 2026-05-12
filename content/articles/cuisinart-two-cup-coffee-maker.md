@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-8.jpg"
+hero_image: "articles/coffee-makers-8.webp"
 hero_image_alt: "Cuisinart Two Cup Coffee Maker Reviewed: Top Picks"
 description: "Compare Cuisinart two cup coffee makers to find the right small-batch brewer for your home. See which models prioritize convenience, freshness, or both."
 target_keyword: "cuisinart two cup coffee maker"

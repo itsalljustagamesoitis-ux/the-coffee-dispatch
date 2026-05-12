@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-7.jpg"
+hero_image: "articles/grinders-7.webp"
 hero_image_alt: "Sboly Coffee Grinder Reviewed: Budget Burr Models Compared"
 description: "Compare Sboly and similar budget burr grinders to find which entry-level model truly delivers. We review the differences between nearly identical options."
 target_keyword: "sboly coffee grinder"

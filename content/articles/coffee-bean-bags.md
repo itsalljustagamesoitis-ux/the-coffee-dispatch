@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-4.jpg"
+hero_image: "articles/beans-4.webp"
 hero_image_alt: "Best Coffee Bean Bags for Home Roasters: Tested Picks"
 description: "Find the right coffee bean bags to preserve freshness and flavor. Our guide covers storage solutions for home roasters and small-batch sellers."
 target_keyword: "coffee bean bags"

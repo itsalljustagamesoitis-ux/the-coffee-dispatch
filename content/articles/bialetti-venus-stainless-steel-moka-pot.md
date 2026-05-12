@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-7.jpg"
+hero_image: "articles/brewing-methods-7.webp"
 hero_image_alt: "Bialetti Venus Stainless Steel Moka Pot Buyer's Guide"
 description: "Find the right Bialetti Venus moka pot for your stovetop. Compare sizes, materials, and induction compatibility to brew perfect stovetop espresso at home."
 target_keyword: "bialetti venus stainless steel moka pot"

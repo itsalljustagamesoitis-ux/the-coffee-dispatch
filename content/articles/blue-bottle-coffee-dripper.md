@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-2.jpg"
+hero_image: "articles/brewing-methods-2.webp"
 hero_image_alt: "Blue Bottle Coffee Dripper Buying Guide: Top Picks"
 description: "Find the best blue bottle coffee dripper for your brew. Learn what separates quality pour-over drippers from the rest in our detailed buyer's guide."
 target_keyword: "blue bottle coffee dripper"

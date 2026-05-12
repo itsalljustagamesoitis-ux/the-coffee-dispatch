@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-5.jpg"
+hero_image: "articles/grinders-5.webp"
 hero_image_alt: "Quiet Coffee Grinder Buyer's Guide: Top Picks Tested"
 description: "Find the best quiet coffee grinders for early morning brewing. Compare blade and burr grinders to reduce noise without sacrificing performance or grind quality."
 target_keyword: "quiet coffee grinder"

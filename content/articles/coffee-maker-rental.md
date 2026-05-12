@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-1.jpg"
+hero_image: "articles/coffee-makers-1.webp"
 hero_image_alt: "Coffee Maker Rental Guide: Top 12-Cup Drip Brewers Tested"
 description: "Find the best coffee maker rental options for events and offices. Compare reliable 12-cup drip brewers that deliver consistent quality without hassle."
 target_keyword: "coffee maker rental"

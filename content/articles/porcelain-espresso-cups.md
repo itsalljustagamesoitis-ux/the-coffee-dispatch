@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-3.jpg"
+hero_image: "articles/espresso-3.webp"
 hero_image_alt: "Porcelain Espresso Cups Reviewed: Capacity, Heat & Design"
 description: "Find the right porcelain espresso cup for your setup. We review capacity, wall thickness, heat retention, and saucer options to help you choose."
 target_keyword: "porcelain espresso cups"

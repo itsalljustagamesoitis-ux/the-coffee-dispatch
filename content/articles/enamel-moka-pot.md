@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-4.jpg"
+hero_image: "articles/brewing-methods-4.webp"
 hero_image_alt: "Enamel Moka Pot Buyer's Guide: Top Picks Reviewed"
 description: "Explore enamel moka pots for stovetop espresso-style coffee. Compare durable options between French press and espresso machines with our buyer guide."
 target_keyword: "enamel moka pot"

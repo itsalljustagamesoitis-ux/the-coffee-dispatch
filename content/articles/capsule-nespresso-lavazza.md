@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-4.jpg"
+hero_image: "articles/pods-4.webp"
 hero_image_alt: "Lavazza Nespresso Capsules Buyer's Guide: Which to Choose"
 description: "Compare Lavazza capsules for Nespresso Original machines. Find the right blend from light lungo to Super Crema with this detailed buyer's guide."
 target_keyword: "capsule nespresso lavazza"

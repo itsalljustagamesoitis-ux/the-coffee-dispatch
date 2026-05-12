@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-4.jpg"
+hero_image: "articles/espresso-4.webp"
 hero_image_alt: "Espresso Machine Rental vs. Buying: A Buyer's Guide"
 description: "Learn why espresso machine rental rarely makes financial sense. This guide covers affordable machines to buy instead, from beginner to mid-range options."
 target_keyword: "espresso machine rental"

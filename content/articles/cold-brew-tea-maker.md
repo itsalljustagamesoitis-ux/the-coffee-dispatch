@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "cold-brew"
-hero_image: "articles/cold-brew-1.jpg"
+hero_image: "articles/cold-brew-1.webp"
 hero_image_alt: "Cold Brew Tea Maker Buyer's Guide: Top Picks Reviewed"
 description: "Find the best cold brew tea maker for your home. Compare glass pitchers, plastic brewers, and dedicated bottles to steep tea without compromise."
 target_keyword: "cold brew tea maker"

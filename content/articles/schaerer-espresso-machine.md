@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-6.jpg"
+hero_image: "articles/espresso-6.webp"
 hero_image_alt: "Schaerer Espresso Machines for Home: Buyer's Guide"
 description: "Schaerer makes commercial espresso equipment, not consumer machines. Find home espresso options across price points, from budget-friendly to super-automatic models."
 target_keyword: "schaerer espresso machine"

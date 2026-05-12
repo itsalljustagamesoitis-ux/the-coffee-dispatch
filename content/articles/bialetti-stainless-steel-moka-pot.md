@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-3.jpg"
+hero_image: "articles/brewing-methods-3.webp"
 hero_image_alt: "Bialetti Stainless Steel Moka Pot Buyer's Guide"
 description: "Learn why stainless steel moka pots deliver exceptional espresso-style coffee at home. Compare Bialetti models and discover brewing tips for consistency."
 target_keyword: "bialetti stainless steel moka pot"

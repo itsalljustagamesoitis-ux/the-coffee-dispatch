@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "accessories"
-hero_image: "articles/accessories-2.jpg"
+hero_image: "articles/accessories-2.webp"
 hero_image_alt: "Airtight Coffee Storage Containers: 5 Tested Options"
 description: "Ground coffee loses flavor fast. Compare airtight storage containers from basic plastic to stainless steel valved designs. Find the right one for your needs."
 target_keyword: "airtight coffee storage container"

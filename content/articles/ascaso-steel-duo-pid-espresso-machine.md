@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-1.jpg"
+hero_image: "articles/espresso-1.webp"
 hero_image_alt: "Ascaso Steel Duo PID Espresso Machine Reviewed"
 description: "Explore if the Ascaso Steel Duo is right for you. Learn about grinder pairing, automation trade-offs, and whether this machine matches your home barista goals."
 target_keyword: "ascaso steel duo pid espresso machine"

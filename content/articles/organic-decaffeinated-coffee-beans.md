@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-7.jpg"
+hero_image: "articles/beans-7.webp"
 hero_image_alt: "Best Organic Decaffeinated Coffee Beans: Buyer's Guide"
 description: "Discover high-quality organic decaf coffee beans using Swiss Water processing. Learn evaluation criteria and find beans worth grinding carefully."
 target_keyword: "organic decaffeinated coffee beans"

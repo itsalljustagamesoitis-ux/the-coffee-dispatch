@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-4.jpg"
+hero_image: "articles/coffee-makers-4.webp"
 hero_image_alt: "Cuisinart Coffee Maker Replacement Parts Buyer's Guide"
 description: "Find the right Cuisinart coffee maker replacement parts to fix common issues. Learn which parts are worth buying and how to restore your machine."
 target_keyword: "cuisinart coffee maker replacement parts"

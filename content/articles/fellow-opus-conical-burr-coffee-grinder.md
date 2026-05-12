@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-2.jpg"
+hero_image: "articles/grinders-2.webp"
 hero_image_alt: "Fellow Opus Conical Burr Grinder Reviewed and Compared"
 description: "Compare the Fellow Opus conical burr grinder with other home coffee grinders. Find the right grinder for pour over, batch brewing, and espresso."
 target_keyword: "fellow opus conical burr coffee grinder"

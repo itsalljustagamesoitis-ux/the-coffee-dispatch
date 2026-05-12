@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-8.jpg"
+hero_image: "articles/espresso-8.webp"
 hero_image_alt: "Pink Espresso Machines Reviewed: 5 Functional Picks"
 description: "Find a pink espresso machine that's actually worth owning. Our guide reviews 5 models across different types to help you choose quality over aesthetics."
 target_keyword: "pink espresso machine"

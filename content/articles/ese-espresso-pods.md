@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-3.jpg"
+hero_image: "articles/espresso-3.webp"
 hero_image_alt: "ESE Espresso Pods Buyer's Guide: Reviewed and Tested"
 description: "Learn what separates quality ESE espresso pods from mediocre ones. Our guide covers roast freshness, pod integrity, and how to choose the right pods."
 target_keyword: "ese espresso pods"

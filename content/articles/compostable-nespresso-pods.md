@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-3.jpg"
+hero_image: "articles/pods-3.webp"
 hero_image_alt: "Compostable Nespresso Pods Buyer's Guide: What Actually Works"
 description: "Learn which compostable Nespresso pods are genuinely eco-friendly. We break down home vs. industrial compostability and help you avoid greenwashing."
 target_keyword: "compostable nespresso pods"

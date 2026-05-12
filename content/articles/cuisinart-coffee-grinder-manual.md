@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-3.jpg"
+hero_image: "articles/grinders-3.webp"
 hero_image_alt: "Cuisinart Coffee Grinder Manual: Buyer's Guide"
 description: "Find Cuisinart coffee grinder manuals and discover manual vs electric options. Compare burr and blade grinders to choose the right one for your needs."
 target_keyword: "cuisinart coffee grinder manual"

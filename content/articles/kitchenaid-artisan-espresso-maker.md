@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-5.jpg"
+hero_image: "articles/espresso-5.webp"
 hero_image_alt: "KitchenAid Artisan Espresso Maker Reviewed for Home Cooks"
 description: "Learn if the KitchenAid Artisan espresso maker is right for you. We review its performance, features, and how it compares to other machines in its category."
 target_keyword: "kitchenaid artisan espresso maker"

@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-6.jpg"
+hero_image: "articles/coffee-makers-6.webp"
 hero_image_alt: "Curtis Coffee Maker Alternatives: Better Options Reviewed"
 description: "Curtis coffee makers are overpriced. Discover superior commercial-grade brewers from Bunn and SYBO that offer better reliability and serviceability."
 target_keyword: "curtis coffee maker"

@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-2.jpg"
+hero_image: "articles/grinders-2.webp"
 hero_image_alt: "Bodum Coffee Grinder Buyer's Guide: Burr vs Blade"
 description: "Learn which Bodum coffee grinder suits your setup. This guide explains the key difference between burr and blade models to help you choose wisely."
 target_keyword: "bodum coffee grinder"

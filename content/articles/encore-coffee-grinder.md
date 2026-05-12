@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-7.jpg"
+hero_image: "articles/grinders-7.webp"
 hero_image_alt: "Encore Coffee Grinder Buyer's Guide: Which Model to Buy"
 description: "Compare Encore coffee grinder variants for drip, pour-over, and espresso. Find the right burr grinder for your brewing method with expert recommendations."
 target_keyword: "encore coffee grinder"

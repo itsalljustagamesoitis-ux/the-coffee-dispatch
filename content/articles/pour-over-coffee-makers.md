@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-7.jpg"
+hero_image: "articles/brewing-methods-7.webp"
 hero_image_alt: "Pour Over Coffee Makers Reviewed: 5 Glass Options"
 description: "Discover the best pour over coffee makers for home brewing. Learn how to brew better coffee in minutes with our tested glass carafe options."
 target_keyword: "pour over coffee makers"

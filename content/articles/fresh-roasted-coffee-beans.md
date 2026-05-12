@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-6.jpg"
+hero_image: "articles/beans-6.webp"
 hero_image_alt: "Fresh Roasted Coffee Beans Buyer's Guide: Top Picks Tested"
 description: "Learn what to look for when buying whole bean fresh roasted coffee online. We review specialty brands and explain roast dates, levels, and bag sizes."
 target_keyword: "fresh roasted coffee beans"

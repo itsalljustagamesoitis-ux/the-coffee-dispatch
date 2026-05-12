@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-3.jpg"
+hero_image: "articles/grinders-3.webp"
 hero_image_alt: "Capresso Coffee Grinder Buyer's Guide: Blade vs Burr"
 description: "Compare Capresso coffee grinders across blade and burr models. Navigate entry-level to upgraded options to find the right grinder for your brewing needs."
 target_keyword: "capresso coffee grinder"

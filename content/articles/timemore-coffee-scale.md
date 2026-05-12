@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "accessories"
-hero_image: "articles/accessories-7.jpg"
+hero_image: "articles/accessories-7.webp"
 hero_image_alt: "Timemore Coffee Scale Buyer's Guide: Which Model to Choose"
 description: "Compare Timemore coffee scales for espresso and pour-over. Find the right model based on build quality, response speed, and your brewing setup needs."
 target_keyword: "timemore coffee scale"

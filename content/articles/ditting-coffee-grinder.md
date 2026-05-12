@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-1.jpg"
+hero_image: "articles/grinders-1.webp"
 hero_image_alt: "Ditting Coffee Grinder Buyer's Guide: Top Home Models"
 description: "Explore Ditting coffee grinders for home use. Compare single-dose burr grinders and automatic models with detailed reviews to find your perfect match."
 target_keyword: "ditting coffee grinder"

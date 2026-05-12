@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-7.jpg"
+hero_image: "articles/espresso-7.webp"
 hero_image_alt: "Lucca A53 Direct Plumb Espresso Machine Buyer's Guide"
 description: "Is the Lucca A53 direct plumb right for you? Explore setup requirements, performance, and whether this prosumer machine fits your home espresso needs."
 target_keyword: "lucca a53 direct plumb espresso machine"

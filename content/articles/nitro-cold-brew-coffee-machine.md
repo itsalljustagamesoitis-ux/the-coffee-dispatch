@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-8.jpg"
+hero_image: "articles/coffee-makers-8.webp"
 hero_image_alt: "Nitro Cold Brew Coffee Machine Buyer's Guide: Top Picks Tested"
 description: "Compare nitrogen keg systems and electric air-powered nitro cold brew machines. Find the right home setup with our tested recommendations across all price ranges."
 target_keyword: "nitro cold brew coffee machine"

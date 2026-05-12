@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-6.jpg"
+hero_image: "articles/brewing-methods-6.webp"
 hero_image_alt: "Espro P3 French Press Buyer's Guide: What You Need"
 description: "Learn why the Espro P3 is the top choice for French press brewing. Explore its features, performance, and how it compares to other brewing methods."
 target_keyword: "espro p3 french press"

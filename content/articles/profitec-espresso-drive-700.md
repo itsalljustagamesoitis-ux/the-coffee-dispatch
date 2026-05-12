@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-4.jpg"
+hero_image: "articles/espresso-4.webp"
 hero_image_alt: "Espresso Machine Buyer's Guide: Top 5 Models Tested"
 description: "Compare five espresso machines and grinders across different price points. Find honest reviews and recommendations for which model suits your home barista needs."
 target_keyword: "profitec espresso drive 700"

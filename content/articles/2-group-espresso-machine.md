@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-7.jpg"
+hero_image: "articles/espresso-7.webp"
 hero_image_alt: "2 Group Espresso Machine Buyer's Guide: What Actually Matters"
 description: "Skip the marketing hype. Learn what really determines espresso quality in a 2 group machine and how to avoid costly mistakes when choosing one."
 target_keyword: "2 group espresso machine"

@@ -6,7 +6,7 @@ date: 2026-05-12
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-8.jpg"
+hero_image: "articles/coffee-makers-8.webp"
 hero_image_alt: "SMEG Coffee Maker Replacement Parts: A Buyer's Guide"
 description: "Navigate SMEG coffee maker replacement parts with clarity. Find genuine and third-party options, compatibility guides, and repair solutions for your machine."
 target_keyword: "smeg coffee maker replacement parts"

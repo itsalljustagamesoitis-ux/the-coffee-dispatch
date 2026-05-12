@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-8.jpg"
+hero_image: "articles/brewing-methods-8.webp"
 hero_image_alt: "Pour Over Coffee Kettle Buyer's Guide: Top Picks Reviewed"
 description: "Find the perfect pour over coffee kettle with our buyer's guide. Learn key features like gooseneck spout, capacity, and whether stovetop or electric works best."
 target_keyword: "pour over coffee kettle"

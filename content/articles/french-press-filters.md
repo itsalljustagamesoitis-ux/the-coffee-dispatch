@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-7.jpg"
+hero_image: "articles/brewing-methods-7.webp"
 hero_image_alt: "French Press Filters Buyer's Guide: Types and Choices"
 description: "Compare French press filter options including metal mesh and paper screens. Learn how filter choice affects sediment, flavor, and maintenance for better brewing."
 target_keyword: "french press filters"

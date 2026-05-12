@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-1.jpg"
+hero_image: "articles/beans-1.webp"
 hero_image_alt: "Single Origin Coffee Beans Buyer's Guide: 5 Top Picks"
 description: "Learn what matters when buying single origin coffee beans. Our guide covers roast dates, processing methods, and transparency to help you choose quality."
 target_keyword: "single origin coffee beans"

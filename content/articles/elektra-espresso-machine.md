@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-1.jpg"
+hero_image: "articles/espresso-1.webp"
 hero_image_alt: "Elektra Espresso Machine Buyer's Guide: What You Really Need"
 description: "Learn what makes Elektra espresso machines special and discover the complete setup required for quality home espresso beyond just the machine itself."
 target_keyword: "elektra espresso machine"

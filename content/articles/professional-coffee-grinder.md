@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-1.jpg"
+hero_image: "articles/grinders-1.webp"
 hero_image_alt: "Professional Coffee Grinder Buyer's Guide: Burr vs Blade"
 description: "Find a true professional coffee grinder that delivers consistent results. Learn why burr geometry matters more than brand name for even extraction."
 target_keyword: "professional coffee grinder"

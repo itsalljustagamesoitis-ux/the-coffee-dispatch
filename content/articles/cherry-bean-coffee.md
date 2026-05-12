@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-1.jpg"
+hero_image: "articles/beans-1.webp"
 hero_image_alt: "Cherry Bean Coffee Buyer's Guide: Quality Beans Reviewed"
 description: "Explore cherry-flavored coffee with our buyer's guide. Learn why base bean quality matters more than flavoring and find the best arabica options."
 target_keyword: "cherry bean coffee"

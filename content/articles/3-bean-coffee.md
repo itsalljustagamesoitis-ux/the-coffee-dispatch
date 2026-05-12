@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-1.jpg"
+hero_image: "articles/beans-1.webp"
 hero_image_alt: "3 Bean Coffee Blends Reviewed: What to Know Before Buying"
 description: "Learn what 3 bean coffee blends really are and how to find quality multi-origin roasts. Our guide helps you avoid mediocre blends and find great complexity."
 target_keyword: "3 bean coffee"

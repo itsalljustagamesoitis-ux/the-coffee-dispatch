@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-6.jpg"
+hero_image: "articles/grinders-6.webp"
 hero_image_alt: "Flat Burr Grinder Buyer's Guide: Top Picks Reviewed"
 description: "Find the best flat burr grinder for your brewing setup. Our guide reviews budget to mid-range options with uniform particle distribution for filter coffee."
 target_keyword: "flat burr grinder"

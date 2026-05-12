@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-7.jpg"
+hero_image: "articles/brewing-methods-7.webp"
 hero_image_alt: "Fellow French Press Buyer's Guide: Top Picks Reviewed"
 description: "Fellow doesn't make French presses, but we've tested the best alternatives. Learn what separates excellent presses from mediocre ones in our guide."
 target_keyword: "fellow french press"

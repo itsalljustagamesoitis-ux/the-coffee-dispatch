@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-5.jpg"
+hero_image: "articles/coffee-makers-5.webp"
 hero_image_alt: "30 Cup Coffee Maker Buyer's Guide: Top Picks Reviewed"
 description: "Find the right 30 cup coffee maker for large gatherings. Compare features, capacity, and brewing quality for churches, catering, and family events."
 target_keyword: "30 cup coffee maker"

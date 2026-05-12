@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-3.jpg"
+hero_image: "articles/espresso-3.webp"
 hero_image_alt: "Lavazza Decaf Espresso Buyer's Guide: Formats Tested"
 description: "Compare Lavazza decaf espresso in whole bean, ground, and capsule formats. Learn how decaf processing affects flavor and find the right option for your setup."
 target_keyword: "lavazza decaf espresso"

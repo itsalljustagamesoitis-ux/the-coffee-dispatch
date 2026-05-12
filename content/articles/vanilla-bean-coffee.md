@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-7.jpg"
+hero_image: "articles/beans-7.webp"
 hero_image_alt: "Vanilla Bean Coffee Buyer's Guide: Finding Real Flavor"
 description: "Learn how to choose vanilla bean coffee with genuine flavor instead of candle-like aroma. Our guide separates quality beans from overflavored imposters."
 target_keyword: "vanilla bean coffee"

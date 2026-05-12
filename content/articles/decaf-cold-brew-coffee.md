@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-8.jpg"
+hero_image: "articles/beans-8.webp"
 hero_image_alt: "Decaf Cold Brew Coffee: A Buyer's Guide to Quality Options"
 description: "Decaf cold brew has improved dramatically. Discover how better beans and methods create genuinely delicious options worth your morning routine."
 target_keyword: "decaf cold brew coffee"

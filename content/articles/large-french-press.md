@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-2.jpg"
+hero_image: "articles/brewing-methods-2.webp"
 hero_image_alt: "Large French Press Buyer's Guide: Top Picks Reviewed"
 description: "Find the best large French press for home brewing. Our guide covers quality construction, insulation, and top models for daily use and entertaining."
 target_keyword: "large french press"

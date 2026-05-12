@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "cold-brew"
-hero_image: "articles/cold-brew-4.jpg"
+hero_image: "articles/cold-brew-4.webp"
 hero_image_alt: "Cold Brew Coffee Bags Reviewed: Tested for Home Cooks"
 description: "Find the best cold brew coffee bags for your setup. We tested filters, materials, and durability to help you avoid grit, splits, and oil buildup."
 target_keyword: "cold brew coffee bags"

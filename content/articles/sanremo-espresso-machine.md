@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-8.jpg"
+hero_image: "articles/espresso-8.webp"
 hero_image_alt: "Sanremo Espresso Machine Buyer's Guide for Home Use"
 description: "Sanremo makes commercial espresso machines. Learn what you actually need before buying, with gear recommendations for serious home coffee enthusiasts."
 target_keyword: "sanremo espresso machine"

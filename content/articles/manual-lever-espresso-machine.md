@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-5.jpg"
+hero_image: "articles/espresso-5.webp"
 hero_image_alt: "Manual Lever Espresso Machine Buyer's Guide: Top Picks"
 description: "Manual lever espresso machines offer superior extraction control but require more skill. Compare top models to find the right machine for your brewing style."
 target_keyword: "manual lever espresso machine"

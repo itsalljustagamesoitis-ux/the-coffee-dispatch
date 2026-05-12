@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-6.jpg"
+hero_image: "articles/brewing-methods-6.webp"
 hero_image_alt: "Reusable Chemex Filters Reviewed: Top Picks for Daily Brewing"
 description: "Compare reusable stainless steel Chemex filters that actually work. Learn about mesh fineness, frame stability, and fit before upgrading from paper filters."
 target_keyword: "reusable chemex filters"

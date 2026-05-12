@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-6.jpg"
+hero_image: "articles/beans-6.webp"
 hero_image_alt: "Organic Decaf Coffee Beans Buyer's Guide: Top Picks"
 description: "Find the best organic decaf coffee beans. Learn what separates great decaf from mediocre options and how decaffeination methods preserve bean flavor."
 target_keyword: "organic decaf coffee beans"

@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-1.jpg"
+hero_image: "articles/coffee-makers-1.webp"
 hero_image_alt: "Stainless Coffee Maker Buyer's Guide: Top Picks Reviewed"
 description: "Find the right stainless coffee maker for your needs. Compare percolators and drip machines with honest reviews of reliability, carafe size, and taste."
 target_keyword: "stainless coffee maker"

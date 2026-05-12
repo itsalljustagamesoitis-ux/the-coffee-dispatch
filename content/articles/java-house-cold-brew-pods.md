@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-6.jpg"
+hero_image: "articles/pods-6.webp"
 hero_image_alt: "Java House Cold Brew Pods Buyer's Guide: 5 Pods Tested"
 description: "Compare Java House cold brew pods to find your perfect flavor match. We tested all 5 options and break down their trade-offs for convenient home brewing."
 target_keyword: "java house cold brew pods"

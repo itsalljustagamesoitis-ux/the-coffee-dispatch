@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-8.jpg"
+hero_image: "articles/coffee-makers-8.webp"
 hero_image_alt: "Commercial Bean to Cup Coffee Machine Buyer's Guide"
 description: "Learn how to choose a commercial bean to cup coffee machine. Compare throughput, durability, and grind integration to find the right machine for your needs."
 target_keyword: "commercial bean to cup coffee machine"

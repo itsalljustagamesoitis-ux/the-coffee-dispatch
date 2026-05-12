@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-6.jpg"
+hero_image: "articles/brewing-methods-6.webp"
 hero_image_alt: "French Press Stoneware Buyer's Guide: Heat Retention"
 description: "Explore stoneware French press coffee makers. Learn why ceramic bodies retain heat better than glass, plus tradeoffs in weight and durability for home brewing."
 target_keyword: "french press stoneware"

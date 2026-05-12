@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-6.jpg"
+hero_image: "articles/coffee-makers-6.webp"
 hero_image_alt: "Bellotti Coffee Maker & Moka Pot Buyer's Guide Reviewed"
 description: "Explore stovetop espresso makers and moka pots from Bellotti and Bialetti. Compare capacity, material, and compatibility to find the right brewer for strong coffee."
 target_keyword: "bellotti coffee maker"

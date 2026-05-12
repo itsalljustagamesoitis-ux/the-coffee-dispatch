@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-2.jpg"
+hero_image: "articles/coffee-makers-2.webp"
 hero_image_alt: "Smeg Drip Coffee Maker Reviewed: Style vs Function"
 description: "Compare Smeg drip coffee makers across color variants with functional alternatives. See if the design justifies the price in this honest buyer's guide."
 target_keyword: "smeg drip coffee maker"

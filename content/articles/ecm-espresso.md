@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-3.jpg"
+hero_image: "articles/espresso-3.webp"
 hero_image_alt: "ECM Espresso Machines: Buyer's Guide for Home Baristas"
 description: "Learn what to look for in ECM espresso machines. Explore features, grinder importance, and find the right setup for your skill level and budget."
 target_keyword: "ecm espresso"

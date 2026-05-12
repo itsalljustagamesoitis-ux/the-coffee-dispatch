@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-1.jpg"
+hero_image: "articles/brewing-methods-1.webp"
 hero_image_alt: "Moka Pot Gasket Replacement Guide: Top Picks Tested"
 description: "Replace your moka pot gasket to restore perfect extraction. Our guide covers the best replacement gaskets, durability testing, and how to choose the right fit."
 target_keyword: "moka pot gasket"

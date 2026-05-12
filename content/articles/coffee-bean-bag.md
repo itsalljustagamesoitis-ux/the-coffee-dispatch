@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-2.jpg"
+hero_image: "articles/beans-2.webp"
 hero_image_alt: "Coffee Bean Bag Buyer's Guide: Freshness & Storage"
 description: "Learn how to choose the right coffee bean bag for bulk purchases. Compare whole bean options and storage solutions based on freshness, grind format, and brew method."
 target_keyword: "coffee bean bag"

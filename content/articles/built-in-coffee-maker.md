@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-1.jpg"
+hero_image: "articles/coffee-makers-1.webp"
 hero_image_alt: "Built-in Coffee Maker Buyer's Guide: What Actually Works"
 description: "Compare built-in coffee makers from wall-integrated systems to compact countertop models. Find the right fit for your kitchen space and brewing needs."
 target_keyword: "built in coffee maker"

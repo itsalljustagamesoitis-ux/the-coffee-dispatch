@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-5.jpg"
+hero_image: "articles/coffee-makers-5.webp"
 hero_image_alt: "BLACK+DECKER Coffee Maker Buyer's Guide: 5 Top Picks Reviewed"
 description: "Reliable BLACK+DECKER coffee makers for daily use. Compare 5 affordable drip models that deliver consistent results without complexity or high cost."
 target_keyword: "black decker coffee maker"

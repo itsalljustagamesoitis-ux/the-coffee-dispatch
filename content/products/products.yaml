@@ -1096,30 +1096,7 @@
   sourced_at: '2026-05-10T21:25:39.000Z'
   title: 8 Pieces French Press Replacement Parts Stainless Steel Set, 6 Pieces 4in Universal French Press Screen, Containing
     Spiral Disk and Cross Disk for 34oz/3.75 Inch Wide French Press Coffee Press
-VERIFY-ascaso-dream-pid-semi-automatic-espresso-machine-with-temperature-control:
-  amazon_asin: NOT_ON_AMAZON
-  brand: Bosch
-  default_cons:
-  - '[PLACEHOLDER — update before next build]'
-  default_pros:
-  - '[PLACEHOLDER — update before next build]'
-  hub: espresso
-  name: Bosch Fully Automatic Coffee and Espresso Machine - One-Touch Drinks, Barista Style, Double Cup Super Coffee Maker
-    - Large Bean Capacity - Easy Clean, Maintenance - Silver- TIU20307
-  notes_for_writers: added by producer during ascaso-espresso-machine generation, 2026-05-11T13:27:19Z
-  price_band: mid
-VERIFY-ascaso-steel-bar-compact-manual-lever-espresso-machine:
-  amazon_asin: NOT_ON_AMAZON
-  brand: CREMA
-  default_cons:
-  - '[PLACEHOLDER — update before next build]'
-  default_pros:
-  - '[PLACEHOLDER — update before next build]'
-  hub: espresso
-  name: CREMA Coffee Products Replacement Steam Lever for Breville Espresso Machines | Ergonomic Stainless Steel Design |
-    Compatible with Barista Express, Infuser, Barista Pro | Easy Grip | Silver Finish
-  notes_for_writers: added by producer during ascaso-espresso-machine generation, 2026-05-11T13:27:19Z
-  price_band: mid
+
 aarke-coffee-maker-electric-drip-brewer:
   asin: B0DJRSJ3N3
   brand: aarke

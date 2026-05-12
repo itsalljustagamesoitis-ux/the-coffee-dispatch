@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-6.jpg"
+hero_image: "articles/coffee-makers-6.webp"
 hero_image_alt: "Coffee Maker Machine for Office: Tested & Reviewed"
 description: "Find the right office coffee maker for your team. We review machines by office size, brewing speed, and budget to help you skip the café trips."
 target_keyword: "coffee maker machine for office"

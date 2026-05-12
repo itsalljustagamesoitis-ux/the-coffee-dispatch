@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-7.jpg"
+hero_image: "articles/beans-7.webp"
 hero_image_alt: "Evil Bean Coffee Liqueur Alternatives: Top Picks Reviewed"
 description: "Looking for Evil Bean coffee liqueur? We reviewed 5 alternatives including syrups and flavorings that offer similar coffee liqueur profiles for home use."
 target_keyword: "evil bean coffee liqueur"

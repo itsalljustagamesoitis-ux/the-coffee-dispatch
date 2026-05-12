@@ -6,7 +6,7 @@ date: 2026-05-12
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-6.jpg"
+hero_image: "articles/espresso-6.webp"
 hero_image_alt: "Stainless Steel Espresso Machine Buyer's Guide"
 description: "Cut through marketing noise with our honest guide to stainless steel espresso machines. Learn what actually matters beyond the finish and build the right setup."
 target_keyword: "stainless steel espresso machine"

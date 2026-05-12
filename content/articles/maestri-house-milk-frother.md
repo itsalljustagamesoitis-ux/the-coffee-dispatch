@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "accessories"
-hero_image: "articles/accessories-1.jpg"
+hero_image: "articles/accessories-1.webp"
 hero_image_alt: "Maestri House Milk Frother Buyer's Guide: Tested Models"
 description: "Compare Maestri House milk frothers side by side. We tested their full lineup to help you pick the right model for your coffee routine and budget."
 target_keyword: "maestri house milk frother"

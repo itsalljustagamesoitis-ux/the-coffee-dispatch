@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-6.jpg"
+hero_image: "articles/brewing-methods-6.webp"
 hero_image_alt: "Travel French Press Buyer's Guide: 5 Top Picks Reviewed"
 description: "Find the best travel French press for camping or hotels. Compare 5 portable options from 14oz to 32oz with reviews of capacity, materials, and brewing quality."
 target_keyword: "travel french press"

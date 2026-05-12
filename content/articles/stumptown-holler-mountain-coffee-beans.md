@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-8.jpg"
+hero_image: "articles/beans-8.webp"
 hero_image_alt: "Stumptown Holler Mountain Coffee Beans Buyer's Guide"
 description: "Compare Stumptown Holler Mountain coffee formats, sizes, and freshness levels. Find the right whole bean or pre-ground option for your brewing setup."
 target_keyword: "stumptown holler mountain coffee beans"

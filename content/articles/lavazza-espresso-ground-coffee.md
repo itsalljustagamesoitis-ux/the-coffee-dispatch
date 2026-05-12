@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-6.jpg"
+hero_image: "articles/espresso-6.webp"
 hero_image_alt: "Lavazza Espresso Ground Coffee: Blends Reviewed"
 description: "Compare Lavazza espresso ground coffee blends by roast level and brewing method. Learn the differences that matter for your home setup before buying."
 target_keyword: "lavazza espresso ground coffee"

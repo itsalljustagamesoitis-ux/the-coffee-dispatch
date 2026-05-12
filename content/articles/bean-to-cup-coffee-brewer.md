@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-2.jpg"
+hero_image: "articles/coffee-makers-2.webp"
 hero_image_alt: "Bean to Cup Coffee Brewer Buyer's Guide: Top Picks"
 description: "Compare bean to cup coffee brewers and find the right machine for your needs. Learn what separates quality grinders from afterthought designs."
 target_keyword: "bean to cup coffee brewer"

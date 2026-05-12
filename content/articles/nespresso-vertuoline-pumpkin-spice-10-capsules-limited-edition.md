@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-6.jpg"
+hero_image: "articles/pods-6.webp"
 hero_image_alt: "Nespresso Vertuoline Pumpkin Spice 10 Capsules Limited Edition"
 description: "Learn if Nespresso's limited-edition Pumpkin Spice Vertuoline capsules are worth buying. Review availability, flavor profile, and alternatives before ordering."
 target_keyword: "nespresso vertuoline pumpkin spice 10 capsules limited edition"

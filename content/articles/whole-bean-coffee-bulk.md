@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-3.jpg"
+hero_image: "articles/beans-3.webp"
 hero_image_alt: "Whole Bean Coffee Bulk Buying Guide for Home Brewers"
 description: "Learn how to buy whole bean coffee in bulk and save money without sacrificing freshness. Compare storage options and find the right beans for your needs."
 target_keyword: "whole bean coffee bulk"

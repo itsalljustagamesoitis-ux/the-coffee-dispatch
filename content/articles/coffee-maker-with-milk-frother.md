@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-3.jpg"
+hero_image: "articles/coffee-makers-3.webp"
 hero_image_alt: "Coffee Maker with Milk Frother: Tested Buyer Guide"
 description: "Find the best coffee maker with milk frother that brews and froths well. Our guide separates competent machines from those that shortchange one function."
 target_keyword: "coffee maker with milk frother"

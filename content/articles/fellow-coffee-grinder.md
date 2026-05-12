@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-5.jpg"
+hero_image: "articles/grinders-5.webp"
 hero_image_alt: "Fellow Coffee Grinder Buyer's Guide: Top Picks Tested"
 description: "Compare Fellow coffee grinders by brew method and workflow. Expert review of the Ode line and other models to find your ideal grinder for specialty coffee."
 target_keyword: "fellow coffee grinder"

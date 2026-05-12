@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-1.jpg"
+hero_image: "articles/brewing-methods-1.webp"
 hero_image_alt: "Yield French Press Buyer's Guide: Top Picks Reviewed"
 description: "Find the best french press for your brewing style. Our guide compares filter quality, materials, and designs to help you choose the right press."
 target_keyword: "yield french press"

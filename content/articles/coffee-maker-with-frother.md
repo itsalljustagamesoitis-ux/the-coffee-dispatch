@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-1.jpg"
+hero_image: "articles/coffee-makers-1.webp"
 hero_image_alt: "Coffee Maker With Frother Reviewed: 5 Top Picks Tested"
 description: "Compare the best coffee makers with frothers. We tested 5 machines to find which ones brew great coffee and steam milk properly for lattes and cappuccinos."
 target_keyword: "coffee maker with frother"

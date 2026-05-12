@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-8.jpg"
+hero_image: "articles/coffee-makers-8.webp"
 hero_image_alt: "Best 4-Cup Coffee Makers Reviewed for Small Households"
 description: "Find the perfect compact coffee maker for 2-4 people. Our guide reviews small brewers with reliable carafes and filter baskets that actually work well together."
 target_keyword: "coffee maker for 4 cups"

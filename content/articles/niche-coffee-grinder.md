@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-4.jpg"
+hero_image: "articles/grinders-4.webp"
 hero_image_alt: "Niche Coffee Grinder Buyer's Guide: What Really Matters"
 description: "Learn what actually matters when choosing a coffee grinder. We break down burr type, grind retention, and adjustment range to help you find the right fit."
 target_keyword: "niche coffee grinder"

@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "cold-brew"
-hero_image: "articles/cold-brew-4.jpg"
+hero_image: "articles/cold-brew-4.webp"
 hero_image_alt: "Stumptown Cold Brew and Other RTD Options Reviewed"
 description: "Explore ready-to-drink cold brew options including Stumptown. Compare cans, concentrates, and convenience versus homemade alternatives and costs."
 target_keyword: "stumptown cold brew"

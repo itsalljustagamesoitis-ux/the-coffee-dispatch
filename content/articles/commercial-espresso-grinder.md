@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-2.jpg"
+hero_image: "articles/espresso-2.webp"
 hero_image_alt: "Commercial Espresso Grinder Buyer's Guide: Top Picks Reviewed"
 description: "Find the best commercial espresso grinder for your setup. Compare burr types, build quality, and performance to upgrade your espresso shots."
 target_keyword: "commercial espresso grinder"

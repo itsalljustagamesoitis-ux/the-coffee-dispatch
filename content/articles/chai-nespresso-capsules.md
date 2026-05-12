@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-1.jpg"
+hero_image: "articles/pods-1.webp"
 hero_image_alt: "Chai Nespresso Capsules Reviewed: Top Picks for Home Brewers"
 description: "Find the best chai Nespresso capsules that actually taste like chai. Compare flavors, machine compatibility, and environmental impact in our buyer's guide."
 target_keyword: "chai nespresso capsules"

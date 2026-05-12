@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "cold-brew"
-hero_image: "articles/cold-brew-5.jpg"
+hero_image: "articles/cold-brew-5.webp"
 hero_image_alt: "Cold Brew Keg Pitchers and Dispensers for Home Brewing"
 description: "Find the right cold brew keg pitcher for home brewing. Skip expensive kegging equipment and choose a dedicated vessel that brews, stores, and dispenses cleanly."
 target_keyword: "cold brew keg"

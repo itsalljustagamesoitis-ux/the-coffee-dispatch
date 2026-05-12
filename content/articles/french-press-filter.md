@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-5.jpg"
+hero_image: "articles/brewing-methods-5.webp"
 hero_image_alt: "French Press Filters Reviewed: How to Choose the Right One"
 description: "Learn how to select the best french press filter for your brewer. Compare mesh options, understand sediment control, and keep your press performing well."
 target_keyword: "french press filter"

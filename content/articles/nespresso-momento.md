@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-8.jpg"
+hero_image: "articles/pods-8.webp"
 hero_image_alt: "Nespresso Momento Pods Reviewed: Top 5 Capsule Picks"
 description: "Find the best Nespresso Momento capsules for your machine. Our guide compares five top options to help you choose the right roast profile and flavor."
 target_keyword: "nespresso momento"

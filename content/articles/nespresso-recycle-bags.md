@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "pods"
-hero_image: "articles/pods-5.jpg"
+hero_image: "articles/pods-5.webp"
 hero_image_alt: "Nespresso Recycle Bags: A Buyer's Guide to Capsule Recycling"
 description: "Compare Nespresso recycle bags and capsule recycling options. Find out which bags work, how to recycle Vertuo pods, and what actually gets sorted properly."
 target_keyword: "nespresso recycle bags"

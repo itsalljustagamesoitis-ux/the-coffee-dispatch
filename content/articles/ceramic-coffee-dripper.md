@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-3.jpg"
+hero_image: "articles/brewing-methods-3.webp"
 hero_image_alt: "Ceramic Coffee Dripper Buyer's Guide: Design Details That Matter"
 description: "Learn how ceramic dripper design affects your brew. Compare flat vs cone bottoms, hole configurations, and wall thickness to find your ideal pour-over method."
 target_keyword: "ceramic coffee dripper"

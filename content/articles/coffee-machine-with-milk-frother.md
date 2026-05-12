@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-5.jpg"
+hero_image: "articles/coffee-makers-5.webp"
 hero_image_alt: "Coffee Machine with Milk Frother Buyer's Guide"
 description: "Cut through the marketing language and find the right coffee machine with milk frother. Learn the difference between frother types and what actually works."
 target_keyword: "coffee machine with milk frother"

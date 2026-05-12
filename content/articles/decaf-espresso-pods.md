@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-3.jpg"
+hero_image: "articles/espresso-3.webp"
 hero_image_alt: "Best Decaf Espresso Pods Reviewed: Top Picks for Home"
 description: "Compare decaf espresso pods by compatibility, decaffeination method, and roast profile. Find the best options for evening espresso without the caffeine jitters."
 target_keyword: "decaf espresso pods"

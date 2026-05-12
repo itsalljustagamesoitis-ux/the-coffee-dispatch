@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-3.jpg"
+hero_image: "articles/beans-3.webp"
 hero_image_alt: "Decaf Whole Bean Coffee Buyer's Guide: Top Picks Reviewed"
 description: "Decaf whole bean coffee quality varies widely. Learn what separates great bags from mediocre ones with our buyer's guide to sourcing, roasting, and flavor."
 target_keyword: "decaf whole bean coffee"

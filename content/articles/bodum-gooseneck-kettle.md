@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-7.jpg"
+hero_image: "articles/brewing-methods-7.webp"
 hero_image_alt: "Bodum Gooseneck Kettle Reviewed: Pour-Over Brewing Guide"
 description: "Learn why a Bodum gooseneck kettle improves pour-over coffee. Discover how precise water control affects grind, temperature, and pour technique for better cups."
 target_keyword: "bodum gooseneck kettle"

@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee & Pods"
 hub: "beans"
-hero_image: "articles/beans-6.jpg"
+hero_image: "articles/beans-6.webp"
 hero_image_alt: "Best Decaf Coffee Beans: Top Picks Reviewed"
 description: "Discover the best decaf coffee beans that rival caffeinated varieties. Learn how modern processing methods preserve flavor and find quality whole beans for grinding."
 target_keyword: "best decaf coffee beans"

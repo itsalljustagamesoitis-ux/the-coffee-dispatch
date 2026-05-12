@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-6.jpg"
+hero_image: "articles/brewing-methods-6.webp"
 hero_image_alt: "French Press Travel Mug Buyer's Guide: Top Picks Reviewed"
 description: "Find the best French press travel mug for brewing on the go. Compare insulation, capacity, and plunger seal quality in our detailed buyer's guide."
 target_keyword: "french press travel mug"

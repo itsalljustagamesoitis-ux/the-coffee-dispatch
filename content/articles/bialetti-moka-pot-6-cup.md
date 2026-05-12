@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
 hub: "brewing-methods"
-hero_image: "articles/brewing-methods-5.jpg"
+hero_image: "articles/brewing-methods-5.webp"
 hero_image_alt: "Best Bialetti Moka Pot 6 Cup Models Reviewed for Home Cooks"
 description: "Compare top Bialetti 6 cup moka pot options. Learn how stovetop espresso makers work and find the right model for your brewing routine."
 target_keyword: "bialetti moka pot 6 cup"

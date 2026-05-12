@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-5.jpg"
+hero_image: "articles/espresso-5.webp"
 hero_image_alt: "ROK Espresso Maker Compared: Top Alternatives Tested"
 description: "ROK Espresso alternatives reviewed. Compare manual and compact electric options for extraction quality and durability from an expert tester."
 target_keyword: "rok espresso"

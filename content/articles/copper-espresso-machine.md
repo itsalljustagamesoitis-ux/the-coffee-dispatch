@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-8.jpg"
+hero_image: "articles/espresso-8.webp"
 hero_image_alt: "Copper Espresso Machine Buyer's Guide: Form vs Function"
 description: "Learn how to choose a copper espresso machine that actually brews great coffee. Discover what separates genuine equipment from decorative purchases."
 target_keyword: "copper espresso machine"

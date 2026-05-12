@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-2.jpg"
+hero_image: "articles/coffee-makers-2.webp"
 hero_image_alt: "Ratio Six Coffee Maker Reviewed: Worth the Investment?"
 description: "Is the Ratio Six worth buying? Read our honest review to see if this premium drip coffee maker delivers better coffee than standard machines."
 target_keyword: "ratio six coffee maker"

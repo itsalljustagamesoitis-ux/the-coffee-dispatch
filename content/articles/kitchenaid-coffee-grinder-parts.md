@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "grinders"
-hero_image: "articles/grinders-1.jpg"
+hero_image: "articles/grinders-1.webp"
 hero_image_alt: "KitchenAid Coffee Grinder Parts: Compatibility Guide"
 description: "Find the right KitchenAid grinder replacement parts for your model. Learn about carafes, couplers, and accessories to avoid compatibility issues."
 target_keyword: "kitchenaid coffee grinder parts"

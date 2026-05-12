@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-7.jpg"
+hero_image: "articles/espresso-7.webp"
 hero_image_alt: "Espresso Tamping Station Buyer's Guide: Tools Reviewed"
 description: "Organize your espresso workflow with the right tamping station. Compare distribution tools, knock boxes, and accessories to improve shot consistency."
 target_keyword: "espresso tamping station"

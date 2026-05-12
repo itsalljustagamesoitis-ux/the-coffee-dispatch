@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-4.jpg"
+hero_image: "articles/espresso-4.webp"
 hero_image_alt: "Gaggia Espresso Maker Buyer's Guide: Machine, Grinder & Setup"
 description: "Complete Gaggia espresso maker buying guide covering the E24 machine, essential grinders, portable brewers, and maintenance tools for a real home espresso setup."
 target_keyword: "gaggia espresso maker"

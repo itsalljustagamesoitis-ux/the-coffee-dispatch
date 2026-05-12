@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "coffee-makers"
-hero_image: "articles/coffee-makers-5.jpg"
+hero_image: "articles/coffee-makers-5.webp"
 hero_image_alt: "Cuisinart Custom Grind & Brew Single Cup Coffee Maker Reviewed"
 description: "Is Cuisinart's grind-and-brew single-serve worth it? See how it compares to pod machines and separate grinders for convenience and coffee quality."
 target_keyword: "cuisinart custom grind & brew single cup coffee maker"

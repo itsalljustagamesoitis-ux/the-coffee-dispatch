@@ -6,7 +6,7 @@ date: 2026-05-11
 author: "chris"
 category: "Coffee Equipment"
 hub: "espresso"
-hero_image: "articles/espresso-8.jpg"
+hero_image: "articles/espresso-8.webp"
 hero_image_alt: "Espresso Cup and Saucer Buyer's Guide: What Actually Matters"
 description: "Learn what separates a quality espresso cup from a forgettable one. Our guide covers heat retention, comfort, and fit to help you choose the right cup."
 target_keyword: "espresso cup and saucer"
