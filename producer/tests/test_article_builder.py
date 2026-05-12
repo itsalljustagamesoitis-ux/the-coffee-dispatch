@@ -13,7 +13,7 @@ IMAGE_DIR = ROOT / "public/images/articles"
 
 
 def make_article(article_id, hub, article_type="review"):
-    nav = load_navigation()
+    nav = load_navigation(ROOT)
     a = {
         "id": article_id,
         "slug": f"test-article-{article_id}",

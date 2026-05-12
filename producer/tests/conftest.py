@@ -30,13 +30,14 @@ def navigation():
 @pytest.fixture(scope="session")
 def pipeline():
     with open(ROOT / "data/pipeline.json") as f:
-        return json.load(f)
+        data = json.load(f)
+    return data.get("articles", data) if isinstance(data, dict) else data
 
 
 @pytest.fixture(scope="session")
 def products():
     from data_loader import load_products
-    return load_products()
+    return load_products(ROOT)
 
 
 @pytest.fixture(scope="session")

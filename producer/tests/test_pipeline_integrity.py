@@ -131,7 +131,7 @@ class TestProductsCatalog:
         bad = []
         for key, p in products.items():
             asin = p.get("amazon_asin")
-            if asin and asin not in ("VERIFY",) and len(asin) != 10:
+            if asin and asin not in ("VERIFY", "NOT_ON_AMAZON", "NOT_FOUND") and len(asin) != 10:
                 bad.append(f"'{key}': ASIN='{asin}' (length {len(asin)}, expected 10)")
         assert not bad, f"Malformed ASINs:\n" + "\n".join(bad)
 

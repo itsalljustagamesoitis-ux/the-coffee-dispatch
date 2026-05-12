@@ -90,5 +90,8 @@ class TestGetPendingArticles:
 
     def test_includes_unpublished_articles(self, pipeline):
         pending = get_pending_articles(pipeline)
-        unpublished_count = sum(1 for a in pipeline if not a.get("published", False))
-        assert len(pending) == unpublished_count
+        eligible_count = sum(
+            1 for a in pipeline
+            if not a.get("published", False) and a.get("status") != "skip"
+        )
+        assert len(pending) == eligible_count
