@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Holler Mountain vs Hair Bender — which Stumptown blend should I buy for espresso?"
+    answer: "Holler Mountain works as espresso and produces a balanced shot with caramel sweetness and hazelnut body, but it is not specifically optimized for espresso the way Hair Bender is. Hair Bender carries citrus and dark chocolate notes that hold up better under the intensity of a 9-bar extraction. If espresso is your primary brew method, Hair Bender gives you more to work with in terms of flavor definition under pressure. Holler Mountain is the better choice if you are splitting use across multiple brew methods."
+  - question: "12-ounce or 18-ounce whole bean bag — which Holler Mountain format is smarter?"
+    answer: "That depends on your weekly consumption rate. A single daily brew uses roughly 20 to 25 grams, which means an 18-ounce bag lasts about three weeks — right at the edge of the freshness window for espresso. For one-cup-a-day drinkers, the 12-ounce bag keeps you inside a reliable freshness range. For households with two or more daily drinkers, the 18-ounce whole bean bag makes practical and economic sense."
+  - question: "Is pre-ground Holler Mountain worth buying if I do not own a grinder?"
+    answer: "Yes, with managed expectations. The pre-ground loses some of the citrus brightness that makes this blend distinct, because oxidation starts as soon as the coffee is ground. Open the bag, use it within two weeks, and store it in an airtight container. The quality is still well above most supermarket options at the same format. A mediocre grind on whole beans can actually be worse than quality pre-ground, so pre-ground is not a catastrophic compromise if freshness is managed aggressively."
+  - question: "How do I know how fresh the Stumptown coffee will be when it arrives from Amazon?"
+    answer: "Check the roast date printed on the bag immediately on arrival — Stumptown includes this, which is better practice than most large-scale roasters. For espresso, three weeks from roast is a reasonable ceiling. Pour-over allows a slightly wider window, around four to five weeks. If the roast date suggests the bag spent significant time in transit or warehousing, factor that into your expectations and consider adjusting brew method toward pour-over rather than espresso."
+  - question: "Does Holler Mountain work for pour-over as well as French press and drip?"
+    answer: "Yes — Holler Mountain is Stumptown's general-purpose medium roast and is genuinely versatile across brew methods. The citrus zest and caramel notes read differently depending on the method: brighter and more distinct in pour-over, rounder and more integrated in espresso and French press. For most home setups without a dedicated espresso machine, Holler Mountain is the most practical choice in Stumptown's lineup precisely because it works well across all of these formats."
 ---
 
 Holler Mountain is Stumptown's flagship blend, and if you've spent any time in the Portland coffee scene, you probably already know it. Whether you're comparing bag sizes, choosing between whole bean and pre-ground, or deciding whether Holler Mountain is actually the right roast for your setup, the options are more varied than they first appear. The full range of [Coffee Beans & Roasts](/beans/) is worth understanding before you settle on a bag.

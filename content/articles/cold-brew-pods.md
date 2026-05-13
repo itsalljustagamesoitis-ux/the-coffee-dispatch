@@ -49,6 +49,17 @@ products:
 tags: ["pods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are cold brew K-Cup pods actually brewed cold or do they use hot water like regular pods?"
+    answer: "Standard Keurig machines brew with hot water regardless of the pod type. Cold brew K-Cups approximate the cold brew flavor profile by using coarser grinds, darker roasts, or lower-acidity blends that perform well when brewed hot and immediately chilled over ice. Keurig's iced setting, where available, lowers the brew temperature slightly and adjusts volume. It's a convenience trade-off, not a true cold-steep product."
+  - question: "Maud's Dark Roast vs. Green Mountain Iced Cold Brew — which is better for black coffee?"
+    answer: "Maud's Cold Brew Dark Roast is the stronger choice for straight black coffee. The darker roast delivers more body and a longer finish, and the cold application keeps bitterness in check in a way that hot-brewed dark roast often doesn't manage. Green Mountain's iced cold brew is approachable and smooth but softer in flavor, better suited to drinkers who add milk or prefer a less intense cup."
+  - question: "What brew size setting gets the best output from cold brew pods on a Keurig?"
+    answer: "Brew at the smallest volume your machine offers — 6 oz is standard on most Keurig models. Pour directly over a glass packed with ice. If your machine has an iced setting, use it; it adjusts brew temperature and volume for better cold output. Brewing at 10 or 12 oz over ice produces a diluted result that no pod can compensate for, regardless of roast quality."
+  - question: "Is the Maud's variety pack actually a cold brew pod, or just flavored coffee?"
+    answer: "The Maud's Super Flavored Coffee Pods Variety Pack is flavored medium-roast coffee that works over ice, but it isn't a cold brew pod in the same sense as the Maud's dark roast or Green Mountain iced cold brew lines. The cold-extraction design isn't the point — variety and convenience are. It's a good choice for households with mixed preferences, not for buyers who want a serious cold brew experience."
+  - question: "Should I buy the Green Mountain 20-count or 60-count to start?"
+    answer: "Start with the 20-count. The coffee is identical in both boxes — same roast, same pod format — but the 20-count lets you evaluate the roast over two or three weeks of regular use before committing to bulk. The 60-count makes sense once you've confirmed it fits your routine; the six-pack-of-ten structure also helps maintain freshness on unopened packs."
 ---
 
 Cold brew made sense the moment you realized hot-brewed coffee dumped over ice just tastes watered-down and bitter. The question now is which pods actually deliver something worth drinking, and there are enough options in the [Pods & Capsules](/pods/) space to make the choice non-obvious. I've spent enough time running Keurigs through their paces to have opinions worth sharing.

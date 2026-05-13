@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do paper filters change the taste of French press coffee?"
+    answer: "Yes, measurably. Paper filters remove a significant portion of coffee oils and fine sediment that define traditional French press texture. The result is a cleaner, brighter cup with less body, closer in character to pour-over than to unfiltered French press. If you specifically chose French press for its full-bodied texture, paper filters will move the cup away from that."
+  - question: "Can I use percolator filters in a French press?"
+    answer: "Sometimes, if the disc diameter matches your carafe's inner dimension. Percolator discs typically run 3.5 to 3.75 inches, which aligns with some French press carafes, particularly smaller 4-cup models. The critical step is measuring your carafe before ordering rather than assuming compatibility. An undersized filter leaves gaps around the edges that let grounds through and negate the whole point of filtering."
+  - question: "What is the difference between paper disc filters and bag-style filters for French press?"
+    answer: "Disc filters sit inside the carafe before you add grounds and filter the coffee as it brews and pours. Bag-style filters like the IMPRESA Non-Woven contain grounds inside a drawstring pouch that you steep directly in water, with no carafe sizing requirement. Bag filters work across different vessel shapes; disc filters integrate more cleanly into standard French press workflow but require a sizing match."
+  - question: "Are ESPRO paper filters compatible with standard French press models?"
+    answer: "No. ESPRO paper filters are designed specifically for the ESPRO P-series presses, P3 through P7. The disc dimensions and filter seat are proprietary to that carafe family. Using them in a Bodum or generic press will result in poor fit and inconsistent results. For standard 4- to 8-cup models, the Caffi 100-pack is the appropriate starting point."
+  - question: "How many paper filters should I buy to start?"
+    answer: "Start with a 100-count pack while you confirm that the filter fits your press and that you actually prefer the filtered cup result. At one filter per day, 100 filters lasts just over three months, which is enough time to decide whether this becomes a permanent habit. Committing to a 300-pack before verifying compatibility and taste preference is the most common mistake buyers make in this category."
 ---
 
 French press paper filters occupy a narrow, useful niche , they give you the immersion brewing you want while cutting the sediment and silt that metal mesh lets through. Whether that trade-off suits you depends on how you feel about clarity versus the full-bodied texture that French press traditionalists consider the whole point.

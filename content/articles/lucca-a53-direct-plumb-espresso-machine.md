@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is direct plumb worth it on a prosumer espresso machine?"
+    answer: "For households pulling four or more drinks daily, yes — the reservoir refill becomes a genuine friction point over years of use. For one or two drinks a day, reservoir machines at this tier are fully adequate and offer more placement flexibility. The performance difference between direct plumb and reservoir is negligible; the workflow difference is real but proportional to your daily volume."
+  - question: "Ascaso Steel DUO vs. a true dual boiler: what's the practical difference?"
+    answer: "The Ascaso's dual thermoblock enables near-simultaneous brewing and steaming without the single-boiler wait, but it is not a true dual boiler. Independent temperature control over both circuits simultaneously — which matters to experienced home baristas dialing in specific brew temperatures for specific beans — requires a full dual boiler configuration. For most buyers making two to four drinks daily, the DUO's thermoblock is a practical rather than compromised solution."
+  - question: "How important is PID temperature control on an espresso machine?"
+    answer: "At the brew temperatures that matter for espresso — roughly 90 to 96°C depending on roast — a degree or two of variance is the difference between a well-extracted shot and a flat or sour one. PID maintains a set temperature by reading actual boiler temp and adjusting the heating element continuously. Every serious machine at this level should have PID; its absence is a meaningful omission, not an acceptable trade-off."
+  - question: "Is the Flair Espresso Maker a realistic daily driver?"
+    answer: "Realistic for buyers who want active involvement in every shot — not realistic for anyone prioritizing speed or consistency without effort. The Flair requires pre-heated components, manual pressure application, and deliberate technique on every pull. As a primary machine for a household that needs fast weekday espresso, it's the wrong tool. For buyers who find the process genuinely engaging, it produces shots that embarrass machines costing multiples more."
+  - question: "How often should I descale a home espresso machine?"
+    answer: "Water hardness is the primary variable. Hard water areas may require descaling every four to eight weeks under daily use; soft water areas can often extend to three months or more. Most machines will indicate a descaling cycle via indicator light or display. Running a descaling solution formulated for your machine's specific materials is important — a generic acid-based cleaner can damage seals and internal components in machines with brass or aluminum boiler components."
+safety_topics:
+  - espresso-pressure
 ---
 
 The Lucca A53 direct plumb sits at the serious end of the home espresso market , a machine built for kitchens with a dedicated water line and owners who expect commercial-grade reliability from their morning routine. If you've landed here, you're probably weighing it against other prosumer options across the [espresso machine landscape](/espresso/) and trying to figure out whether the direct plumb commitment makes sense for where you are right now.

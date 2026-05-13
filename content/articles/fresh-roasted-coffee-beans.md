@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How soon after roasting should I use whole bean coffee?"
+    answer: "For espresso, beans are at peak extraction between four days and three weeks from the roast date. Pulling shots with beans roasted the same day produces flat, under-developed flavor because the CO2 has not finished off-gassing. Pour-over and drip have more flexibility, staying good up to four weeks from roast. The roast date on the bag, not a best-by date, is the only reliable guide to freshness."
+  - question: "Is a 5 lb bag actually good value for a solo coffee drinker?"
+    answer: "Only if you consume coffee fast enough to finish it while it is still fresh. A solo drinker brewing two cups a day will take roughly ten weeks to work through a 5 lb bag. Beans that old are noticeably stale: the aromatics flatten, the sweetness disappears, and you are left with one-dimensional bitterness. Two 2 lb bags purchased sequentially will deliver better coffee than a single bulk bag for most single-household buyers."
+  - question: "What is the difference between French Roast and Italian Roast beans?"
+    answer: "Both are dark roasts with low acidity and heavy body, but French roast pushes further into dark territory with more caramelization, more smokiness, and more of the origin bean's character replaced by roast flavor. The Fresh Roasted Coffee French Roast reads smokier than the Italian Roast, which lands as bold and intense but slightly cleaner. If you are undecided between the two, Italian roast is the more forgiving starting point."
+  - question: "Do I need a special grinder for espresso beans?"
+    answer: "Yes. Espresso requires a significantly finer grind than drip or pour-over, and the grind consistency requirements are higher. A blade grinder will not produce the uniform particle size needed for repeatable espresso extraction. A burr grinder with fine adjustment range is the minimum for home espresso. For any espresso-specific bean including the Smokin Beans Crema Queen, the grinder quality will affect your results more than any other equipment variable."
+  - question: "Single-origin beans or a blend: which is better for home espresso?"
+    answer: "Blends are generally more forgiving under espresso pressure, where single-origin brightness can turn harsh. A blend is engineered to extract well across a range of variables, which suits home machines that are not always perfectly dialed. Single-origin beans like the Fresh Roasted Coffee 100% Colombian offer a specific, traceable flavor profile that shines more in pour-over and drip where origin character comes through. Start with single-origin for filter brewing and move to blends once you are pulling espresso consistently."
 ---
 
 Whole bean coffee ordered online is a gamble if you don't know what to look for , and most listings make it easy to choose wrong. The roast date, the roast level, the bag size relative to how fast you brew: these details determine whether the beans you receive taste like something or like cardboard. If you're serious about what's in your cup, start with the [Coffee Beans & Roasts](/beans/) hub before committing to a bag.

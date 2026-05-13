@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the Flair Espresso Maker suitable for a beginner who has never made espresso?"
+    answer: "The Flair can work for beginners willing to invest time in understanding extraction before expecting consistent results. The pressure gauge is a genuine teaching tool that makes the extraction process visible in a way pump machines do not. That said, the manual workflow demands patience. Someone who wants good espresso quickly would be better served by a pump machine while they learn. The Flair rewards prior knowledge of espresso basics and is not a machine that forgives inattention."
+  - question: "Does the IMS filter basket fit all 58mm espresso machines?"
+    answer: "The IMS H22 basket fits the standard 58mm portafilter used by most prosumer machines including the Rancilio Silvia, Gaggia Classic, La Marzocco group heads, and compatible Flair portafilters. Where compatibility can vary is in basket depth relative to the portafilter's internal geometry. Very deep baskets may not seat correctly in all portafilters. Confirm your portafilter's internal depth accommodates the H22 height specification before ordering."
+  - question: "Calibrated tamper vs standard tamper: should I use the IKAPE spring-loaded model or learn manual pressure first?"
+    answer: "The spring-loaded mechanism removes tamping pressure as a variable, which is genuinely useful while calibrating other parts of the workflow. Starting with a standard tamper is not wrong, and some baristas prefer to develop manual pressure feel before using a calibrated tool. For most home users, the IKAPE 58.35mm calibrated mechanism speeds up the learning process by eliminating one variable that does not need to be a variable while grind and dose are still being sorted."
+  - question: "Why does the grinder matter more than the espresso machine in a home setup?"
+    answer: "The grinder determines more of what ends up in the cup than the machine does, beyond a certain baseline of machine competence. Grind consistency determines flow rate and extraction evenness. A Gaggia Classic with a capable grinder will outperform a high-end machine fed by a blade grinder. This follows directly from what grind consistency does to extraction, and it is the single most important decision in building a home espresso setup."
+  - question: "Is a knock box actually necessary or can I knock pucks into the bin directly?"
+    answer: "Knocking a portafilter directly against a bin edge risks damaging the portafilter's rim and creates inconsistent impact that can loosen basket seating over time. A knock box with a padded knock bar absorbs impact correctly and positions the portafilter for a clean knockout. The Ourokhome Espresso Knock Box adds the practical benefit of a lid, which matters at counter level where loose grounds scatter easily. It is a small piece of equipment, but it protects the portafilter and keeps the workflow cleaner."
+safety_topics:
+  - espresso-pressure
 ---
 
 Elektra espresso machines occupy a specific place in the home espresso market , hand-built Italian lever machines that perform well and look exceptional doing it. The problem is that searching for an Elektra often leads buyers toward a broader question: what does a proper home espresso setup actually require? This guide covers the components that answer that question directly. The hub for context on the full category is [Espresso & Espresso Machines](/espresso/).

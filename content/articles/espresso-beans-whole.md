@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Espresso beans vs regular coffee beans: is there actually a difference?"
+    answer: "Botanically, no. Espresso beans are coffee beans, typically roasted darker and blended for consistency across harvests. The label describes intended brew method and roast style, not a different plant. Any whole bean can be ground and pulled as espresso, though purpose-built dark and medium-dark blends extract more predictably under pressure."
+  - question: "Do I need a burr grinder for whole bean espresso, or will a blade grinder work?"
+    answer: "A blade grinder is not appropriate for espresso. Espresso is the most grind-sensitive brew method — inconsistent particle size produces both over- and underextracted particles in the same shot, which tastes muddy and hollow simultaneously. A conical or flat burr grinder is the minimum. The grinder determines more of the outcome than most buyers expect; a quality grinder with a mid-range bean will outperform a mediocre grinder with expensive beans every time."
+  - question: "Dark roast or medium roast for home espresso — which is easier to dial in?"
+    answer: "Dark and medium-dark roasts are more forgiving for home espresso because they extract faster and tolerate slightly coarse grinds better than lighter profiles do. Medium roasts offer more brightness and complexity but require tighter grind calibration. If you are still learning your machine or dialing in a new grinder, start with a dark or medium-dark roast to reduce variables while your technique develops."
+  - question: "How long do whole espresso beans stay fresh after opening the bag?"
+    answer: "Most roasters target peak freshness within four weeks of roast date, and quality drops noticeably after a bag has been open two to three weeks. Store opened bags in an airtight container away from light and heat — not in the freezer, which introduces moisture. Buy bag sizes that match your consumption rate so you finish bags while the coffee is still fresh rather than optimizing for bulk price."
+  - question: "Italian espresso blends vs single-origin espresso: which is better for home brewing?"
+    answer: "Italian-style blends are built for repeatability — the formula is held constant across harvests by mixing origins and roast profiles to hit a target flavor year-round. Single-origin espresso is genuinely interesting but shifts profile with every harvest, making it harder to isolate grind problems from bean variability. If you are still dialing in your machine or grinder, a consistent blend removes one variable from the troubleshooting process."
 ---
 
 Finding whole espresso beans worth grinding is easier than finding advice worth reading on the subject. Most "best of" lists are built from spec sheets and Amazon star counts , not from pulling shots daily and knowing the difference between a bean that extracts cleanly and one that tastes like regret at 6 a.m. The [espresso](/espresso/) category is dense with options, and most of them are fine in the way that most things are fine.

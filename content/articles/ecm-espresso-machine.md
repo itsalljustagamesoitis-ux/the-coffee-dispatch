@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the ECM Synchronika worth the premium over more affordable dual boiler options?"
+    answer: "The Synchronika's case rests on build quality, serviceability, and the E61 group head's proven long-term reliability. If you're comparing it against a mid-range dual boiler that costs significantly less, the question is whether you expect to own the machine for ten or more years. At that horizon, ECM's German manufacture and parts ecosystem start to justify the premium. If you're uncertain about commitment, start with a less expensive machine and upgrade with intention."
+  - question: "Do I need a scale for espresso, or is it optional?"
+    answer: "A scale is not optional if you want consistent results. Dosing by volume or by eye introduces enough variance to shift extraction meaningfully shot to shot. The Mini Coffee Scale with Timer provides 0.1g precision at a portafilter-appropriate size, which is the correct level of accuracy for espresso dosing. Running shot time on the same display is a workflow improvement that becomes habitual quickly."
+  - question: "Nuova Simonelli Oscar II vs ECM machines: how do they compare for home use?"
+    answer: "The Oscar II is a heat exchanger machine built by Nuova Simonelli using the same commercial heritage as ECM. Both brands are Italian or European-built with serious espresso credentials. The heat exchanger allows simultaneous brewing and steaming without mode-switching, which suits regular milk drink users. The difference for most buyers comes down to dealer availability in their region, since service access matters more than brand preference when something needs repair in year four."
+  - question: "Is the Flair manual espresso maker a viable long-term machine or just a learning tool?"
+    answer: "The Flair is a viable long-term machine for the right buyer, specifically someone who does not steam milk, values manual pressure control as a feature rather than a limitation, and has enough workflow flexibility to manage the pre-heating routine. For someone building espresso intuition before committing to an ECM, it is genuinely useful. It is not a convenience appliance and it will frustrate anyone who wants espresso in two minutes without engagement."
+  - question: "How often does an ECM espresso machine need cleaning?"
+    answer: "Purge the steam wand after every use. Backflush the group head with water daily and with detergent weekly for machines pulling multiple shots per day. Run a cleaning brush through the shower screen at least weekly. Descale on a schedule determined by your water hardness, with harder water requiring more frequent cycles. Neglecting group head cleaning is the most common cause of temperature instability and off-flavors in an otherwise well-functioning machine."
+safety_topics:
+  - espresso-pressure
 ---
 
 ECM espresso machines occupy a specific tier in the home espresso market , German-engineered, built to last, priced accordingly. If you're researching them, you already know this isn't an entry-level purchase. The question worth answering is whether ECM is the right choice for your setup, or whether a different machine or approach better fits what you're actually trying to do.

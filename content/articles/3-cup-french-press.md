@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How much coffee does a 3 cup French press actually make?"
+    answer: "A 3-cup French press produces approximately 12 ounces of brewed coffee — roughly one generous mug, or two modest ones. French press sizing uses a demitasse-sized cup as its reference, not a standard 10-ounce mug. If two people both want a full morning pour, a 12-ounce press will either require two press cycles or leave someone short. The QUQIYSO at 21 ounces or the Veken at 34 ounces are the practical options for two-person households."
+  - question: "Bodum Brazil vs Bodum Chambord — which is the better daily press?"
+    answer: "Both use the same borosilicate glass carafe and produce equivalent coffee. The Chambord's polished stainless steel frame is structural, not decorative — it meaningfully reduces breakage risk compared to the Brazil's plastic frame. For a daily home press that lives on your counter, the Chambord's build quality justifies the step up. The Brazil is a competent brewer at a lower entry price if durability is less of a concern or if you just want a backup."
+  - question: "Why does my French press coffee taste gritty and how do I fix it?"
+    answer: "Grittiness is almost always a grind-size problem. French press requires a coarse grind — coarser than most pre-ground supermarket coffee and coarser than what a blade grinder produces reliably. Fine grounds pass through the mesh filter and accumulate in the cup. If grind size is correct and sediment persists, the filter assembly isn't sealing properly against the carafe wall and needs to be replaced or tightened."
+  - question: "Should I buy a glass or stainless steel French press for home use?"
+    answer: "For countertop home use, glass with a protective metal frame is the better combination: you get visual feedback during the steep and the frame absorbs minor impacts. Fully stainless like the Bialetti Preziosa is the right call for travel, camping, or kitchens where breakage risk is high. Heat retention is better in stainless over a long steep, but the difference over four minutes is small enough that it rarely changes the cup."
+  - question: "What steep time and water temperature give the best French press results?"
+    answer: "Four minutes at approximately 200F is the standard for French press. Steeping shorter produces an underdeveloped, sour cup; steeping significantly longer over-extracts and introduces bitterness. Once you hit four minutes, press and decant immediately — leaving the grounds in contact with brewed coffee after pressing continues extraction and degrades the cup. A simple kitchen timer eliminates this as a variable entirely."
 ---
 
 A 3-cup French press sits in a specific, useful category: small enough for a single serious drinker, capable enough to share two mugs with a partner. The format matters less than most people think , [French press is one of the more forgiving](/brewing-methods/) methods in the manual brewing toolkit , but the hardware still varies enough that a bad pick will cost you in fragility, filtration, or fit. These five options cover the real range without padding the list.

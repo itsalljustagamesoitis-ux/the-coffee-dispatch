@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What does \"Java\" actually mean on a coffee bag — is it a specific origin?"
+    answer: "Historically, Java refers to coffee from the Indonesian island of Java — an origin with earthy, low-acid character that forms one half of the classic Mocha Java blend. In casual search usage it often means whole bean coffee generally. Most products surfacing under this term are not necessarily Indonesian Java specifically — check the origin notes on the bag if that distinction matters to you."
+  - question: "Mocha Java blend vs. single-origin Colombian — which should I buy for espresso?"
+    answer: "For espresso, a medium-dark single-origin like the Java Planet low-acid Colombian is a more predictable choice — consistent flavor profile, clear extraction behavior, and enough body for a balanced shot. Mocha Java blends produce complexity through the contrast between Ethiopian Harrar and Indonesian Java components, which works well in filter and French press but can read muddier in a short espresso extraction. For drip or French press, the Mocha Java is the more interesting cup."
+  - question: "Is low-acid coffee actually better for people with acid reflux or stomach sensitivity?"
+    answer: "For many people, yes. Chlorogenic acids in coffee are partially broken down during longer, darker roasting, which is why medium-dark and dark roasts are generally easier on sensitive stomachs than light roasts. Java Planet's low-acid Colombian formulation takes this further with specific processing for reduced acidity. The mechanism is real — it is not guaranteed to solve reflux for everyone, but the evidence for reduced irritation in darker, low-acid roasts is reasonably solid."
+  - question: "5-pound bulk coffee vs. 12-ounce bags — when does buying in bulk actually save you money?"
+    answer: "Bulk only saves you money if you consume the coffee before it stales. A household drinking one to two cups daily will take several weeks to move through five pounds, by which point the later portions are past their prime freshness window unless vacuum-sealed in smaller portions. The Fresh Roasted Coffee 5-pound option makes economic sense for two or more daily drinkers who can work through it in under three weeks of opening."
+  - question: "Do I need a burr grinder specifically, or will any grinder work with whole bean coffee?"
+    answer: "A burr grinder is not optional for whole bean coffee that's meant to taste good. Blade grinders produce inconsistent particle sizes — fine powder and coarser chunks in the same batch — which results in simultaneous over- and under-extraction in the cup. A basic entry-level burr grinder makes an immediate and measurable difference in cup quality. This applies whether you're brewing espresso, French press, or drip."
 ---
 
 Java bean coffee sits in an odd corner of the search landscape , it's both a specific product descriptor and a loose term buyers use when they mean "good whole bean coffee worth buying." The distinction matters, because what you're actually looking for is a whole bean coffee that's been properly sourced, roasted to a defined style, and sold with enough information to know whether it's fresh. I've covered the full range of [Coffee Beans & Roasts](/beans/) long enough to know that most of the problems people attribute to their equipment trace back to the beans.

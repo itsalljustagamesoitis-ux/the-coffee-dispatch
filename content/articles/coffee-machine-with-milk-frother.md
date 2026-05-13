@@ -35,6 +35,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Steam wand vs. fold-away frother — which one actually matters for lattes?"
+    answer: "It depends on what you're making. A fold-away or electric whisk frother produces light, airy foam that works fine for most milk drinks — think casual cappuccinos or frothy lattes. A steam wand heats and textures milk simultaneously and, used correctly, produces dense microfoam with the glossy, integrated consistency a proper flat white requires. If latte art or genuine microfoam is the goal, a steam wand is required. If you just want something frothy on top, the Ninja fold-away wand is adequate and considerably easier to use."
+  - question: "Ninja single-serve vs. Ninja CM401 — which should I choose?"
+    answer: "The single-serve Ninja brews one cup at a time from K-Cup pods or ground coffee and is optimized for solo users who want flexibility and a small counter footprint. The CM401 adds six brew styles, iced coffee capability via a dedicated over-ice mode, and a ten-cup carafe option — making it better suited to households with multiple coffee drinkers or varying daily needs. The frother type on both is similar; the CM401 wins clearly on volume and brew variety."
+  - question: "Do I need a separate grinder with the COUPLUX espresso machine?"
+    answer: "Not immediately, but the trade-off is real. Integrated grinders in all-in-one units are constrained by the housing they share with espresso components, and the particle distribution from a built-in grinder rarely matches what a dedicated entry-level burr grinder produces. For a first espresso setup where you want fresh grounds without two purchases, it's a defensible starting point. If you continue pulling shots seriously, a standalone grinder will be the natural next upgrade."
+  - question: "Is a single-boiler machine good enough for pulling espresso and steaming milk together?"
+    answer: "Single-boiler machines — the most common configuration at consumer price points — require you to switch between brew mode and steam mode, which introduces a wait time and a temperature shift. Dual-boiler and heat exchanger designs let you brew and steam simultaneously but cost more and take up more space. For occasional milk drinks this is acceptable; for anyone pulling multiple consecutive espressos with steamed milk, the single-boiler limitation becomes a real workflow friction."
+  - question: "Can I use these machines for iced coffee drinks?"
+    answer: "The Ninja CM401 handles iced coffee best — it has a dedicated over-ice brew mode that concentrates the extraction before it hits ice, avoiding the diluted result you get from pouring standard hot drip over a cold glass. The COUPLUX steam wand can froth cold milk for iced lattes. The single-serve Ninja supports cold milk frothing, though its frother is primarily designed for hot applications."
 ---
 
 A coffee machine with a built-in milk frother sounds simple until you're standing in front of a product page trying to figure out whether "fold-away frother" and "steam wand" are the same thing, and whether either one will actually make the drink you want. The gap between marketing language and real-world performance is wider in this category than almost any other. Browse the full range of [Coffee Makers](/coffee-makers/) and the variation becomes obvious quickly.

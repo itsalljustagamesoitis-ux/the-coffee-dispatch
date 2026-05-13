@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is renting an espresso machine worth it, or should I just buy one?"
+    answer: "Rental economics for home espresso machines rarely work out. Short-term rental rates can exceed the purchase price of an entry-level machine within a month. If you are testing whether home espresso suits your routine before committing, a budget machine like the De'Longhi Stilosa is a more practical trial than a rental — and you will have something to sell if it does not work out."
+  - question: "Does a 15 bar pump pressure rating mean better espresso?"
+    answer: "No. Nine bars is the accepted extraction pressure for espresso — the 15 bar rating on most machines reflects pump capacity, not extraction pressure. What determines shot quality is consistent pressure at the group head during extraction, not the pump's ceiling. Temperature stability, grind quality, and dose accuracy have more practical impact on the espresso in your cup than the bar rating on the spec sheet."
+  - question: "Breville Barista Express vs a separate machine and grinder: which is better for a beginner?"
+    answer: "The Barista Express combines a single boiler machine with an integrated conical burr grinder, which reduces counter space and removes the need to research grinder pairings separately. A dedicated grinder paired with a standalone machine gives you more independent control and usually better grind precision, but requires more research, more space, and more decision-making upfront. For new home baristas, the Barista Express is the simpler starting point."
+  - question: "Rocket Appartamento vs Breville Barista Express: which machine should I choose?"
+    answer: "They are aimed at different stages of the home barista progression. The Barista Express is an all-in-one starting point for someone still learning. The Rocket Appartamento is a separate-component machine with a heat exchanger E61 group head and simultaneous brewing and steaming capability — designed for someone who already knows how to dial in a shot and wants a machine that grows with their skill rather than limits it."
+  - question: "Why does a grinder matter more than the espresso machine itself?"
+    answer: "Espresso extraction is acutely sensitive to grind particle size and distribution. A blade grinder or underspecified burr grinder produces inconsistent particle sizes, and inconsistent particle sizes produce uneven extraction regardless of what machine they go through. A quality 64mm burr grinder with a mid-range machine will consistently outperform an entry-level grinder with a machine that costs three times as much. The grinder is where most buyers should spend first."
+safety_topics:
+  - espresso-pressure
 ---
 
 Renting an espresso machine is rarely what someone actually wants to do , what they want is a way to get decent espresso at home without committing to a machine they might regret. That's a reasonable concern, and the honest answer is that short-term rental economics rarely work in the buyer's favor. Buying the right machine at the right tier, and understanding what actually determines shot quality, will serve you better. This guide covers the [espresso machines and grinders](/espresso/) worth owning, not worth borrowing.

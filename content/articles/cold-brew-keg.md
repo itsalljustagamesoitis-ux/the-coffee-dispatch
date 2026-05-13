@@ -35,6 +35,17 @@ products:
 tags: ["cold-brew", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do I need a dedicated cold brew vessel or will any pitcher work?"
+    answer: "Any airtight glass or stainless pitcher holds cold brew during steeping and storage without issue. A dedicated cold brew maker adds an integrated mesh filter basket that simplifies straining. If you already own a fine mesh strainer and a leakproof pitcher, the functional difference is mostly convenience rather than cup quality. Start with what you have and upgrade once the habit is established."
+  - question: "How long does homemade cold brew last in the fridge?"
+    answer: "Cold brew stored in a sealed container keeps well for up to two weeks. Quality starts declining noticeably around day ten — the flavor flattens and any fruity brightness in the bean fades. Airtight storage in glass extends that window compared to loosely sealed containers. Concentrate keeps slightly longer than ready-to-drink dilution because the lower water activity slows oxidation."
+  - question: "Glass vs. stainless for a cold brew pitcher — which is actually better?"
+    answer: "Glass lets you monitor the brew visually without opening the vessel, cleans thoroughly, and doesn't retain odors after months of daily use. Stainless removes the fragility concern and offers better insulation for transport. The performance gap is minimal once you're dialed in on a recipe — the choice comes down to whether fragility is a real constraint in your kitchen."
+  - question: "How coarse should the grind be for cold brew?"
+    answer: "Coarser than French press — roughly the texture of raw sugar or coarse sea salt. Finer grinds over-extract during the long steep, producing a bitter, harsh concentrate. A burr grinder at its coarsest setting is the reliable approach. Pre-ground supermarket coffee labeled for cold brew is typically too fine and inconsistent — fresh beans ground correctly make a substantial difference."
+  - question: "What size cold brew pitcher makes sense for a two-person household?"
+    answer: "A 2-quart vessel is the practical sweet spot. Two people drinking cold brew daily will work through a full batch in three to four days, which keeps the coffee fresh without requiring constant brewing. Over-sizing creates the opposite problem: cold brew keeps well up to two weeks, but a vessel that holds more than you can drink before quality degrades means you're either wasting coffee or rushing to finish it."
 ---
 
 Most "cold brew keg" searches land on actual kegging equipment , CO2 systems, cornelius kegs, draft towers. What most people searching that phrase actually want is a dedicated vessel that brews a batch, lives in the fridge, and dispenses cleanly without a mess. A pitcher or jar built for the job handles that better than a full keg setup for most home kitchens.

@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Which Melitta pour-over is right for a single person?"
+    answer: "The Melitta 64007 1-Cup Brew Cone or the dedicated Single Cup Pour-Over Brewer both serve solo brewers well. The cone is simpler, more portable, and works over any mug you already own. The single-cup brewer with its included carafe sits more stably and makes the setup tidier for consistent daily counter use. Either produces a genuinely good cup; the right choice depends on whether you want something travel-ready or something permanently on the counter."
+  - question: "Melitta 42 oz stainless set vs. 52 oz glass carafe: which is better for two people?"
+    answer: "Both are adequate for two people. The 52-ounce glass carafe gives slightly more capacity — useful if both people want generous mugs or a second cup. The 42-ounce stainless carafe compensates with better heat retention, so the smaller volume stays drinkable longer. For two people who drink quickly and promptly, the 52-ounce glass is the better value. For two people who linger over coffee over an hour, the stainless is the smarter pick."
+  - question: "Does Melitta's single-hole cone design affect extraction compared to other pour-over styles?"
+    answer: "Yes, in a forgiving way. Melitta's flat-bottomed, single-aperture design regulates flow rate and slows extraction compared to multi-hole cones like the V60 or Kalita Wave. This means modest technique errors — an uneven pour, a slightly rushed bloom — don't produce catastrophic results. The trade-off is less precision at the upper end: experienced pour-over brewers may find the single aperture a ceiling on how much they can influence the cup."
+  - question: "Do Melitta pour-overs need special filters, and are they easy to find?"
+    answer: "Melitta uses its own cone filter shape, but these are among the most widely available filters on the market — stocked in most grocery stores, pharmacies, and online. The #4 cone filter fits the carafe brewers; smaller sizes fit the single-cup options. Filter availability was a deliberate part of Melitta's original design logic, and it remains one of the practical advantages over pour-over formats that require specialty sourcing."
+  - question: "Can I use a Melitta pour-over without a gooseneck kettle?"
+    answer: "Yes. Melitta's cone design is tolerant enough that a standard kettle with a controlled pour produces a good cup. A gooseneck kettle gives you more precision over flow rate and coverage across the grounds, which improves extraction consistency — but it's not a prerequisite for this system. Start with what you have. If you find yourself wanting more control over the pour after a few weeks of regular brewing, that's the right moment to consider one."
 ---
 
 Melitta invented the pour-over method more than a century ago, and the core design has barely changed , which tells you something useful about whether it works. If you're exploring [Coffee Makers](/coffee-makers/) and want something that produces a clean, filter-bright cup without a machine doing the thinking for you, Melitta's lineup is the obvious starting point. The question isn't whether Melitta makes good pour-over equipment. It's which version fits how you actually brew.

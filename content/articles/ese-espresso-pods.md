@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "ESE pods vs Nespresso capsules: what is actually different between the two formats?"
+    answer: "ESE pods are paper-wrapped discs 44mm in diameter designed for machines with an ESE-compatible portafilter basket or adapter, typically running at 9 bars of pressure. Nespresso capsules are rigid aluminum or plastic containers that work only in Nespresso Original Line machines or compatible third-party brewers. The two formats are not interchangeable, and the Bestpresso Nespresso-compatible pods in this roundup will not work in an ESE machine."
+  - question: "illy Classico vs illy Intenso: which is better for milk drinks?"
+    answer: "The Classico is the stronger choice for milk-based espresso drinks. Its medium roast balances chocolate and caramel notes that hold up through milk without turning bitter. The Intenso's darker, heavier profile can become overpowering or astringent in a cappuccino or flat white. If you drink mostly straight espresso or short ristretto-style shots, the Intenso is worth trying. The illy bundle lets you compare both roast profiles back to back before committing."
+  - question: "Can I use ESE pods in any espresso machine?"
+    answer: "No. Your machine needs to either accept ESE pods natively or use a compatible portafilter basket adapter. Most dedicated home espresso machines with a standard 58mm or 51mm portafilter can be adapted, but the adapter must maintain proper extraction pressure. A machine like the KOTLIE EM-308B supports ESE pods directly. Confirm your machine's format in the manual before purchasing any quantity of pods."
+  - question: "How many ESE pods should I buy for a first purchase?"
+    answer: "An 18-pod count is the right entry point. It is enough to assess whether a specific blend extracts well in your machine, whether the roast profile suits your palate, and whether the pod format fits your workflow, without committing to a quantity you may not finish. Once you have confirmed a preference, a larger purchase makes economic sense. Buying 120 pods before tasting a single shot of the brand is not a good plan."
+  - question: "Do ESE pods expire or go stale?"
+    answer: "Yes. Like all pre-ground coffee, the contents of an ESE pod degrade over time. Nitrogen-sealed pods, which illy uses, slow oxidation significantly compared to non-sealed alternatives, but they are not indefinite. Check the best-by date on any package before purchasing, particularly from third-party sellers where inventory age can vary. Once a sealed pod is opened or the seal is compromised, treat it as you would any pre-ground coffee and use it immediately."
 ---
 
 E.S.E. pods solve a specific problem: you want real espresso , not a Nespresso capsule, not drip , but you also want to pull a shot without dialing in a grind, weighing a dose, and cleaning a portafilter basket every time. For a guest machine, a travel setup, or a secondary brewer at the office, that trade-off makes sense. For anyone chasing the [espresso](/espresso/) rabbit hole full-time, it probably doesn't , and that's worth stating plainly before we go further.

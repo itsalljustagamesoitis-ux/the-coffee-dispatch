@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is stoneware better than glass for French press brewing?"
+    answer: "Stoneware holds brewing temperature more consistently than thin borosilicate glass during a four-minute steep, which matters in a cold kitchen or on a stone countertop. The extraction quality difference is real but modest. The more significant advantage is durability: stoneware handles minor thermal shock and daily use better than glass, which is prone to cracking from sudden temperature changes. If heat retention is your priority, stoneware is the stronger choice."
+  - question: "Stoneware French press vs. double-wall stainless: which keeps coffee hotter?"
+    answer: "Double-wall stainless, specifically vacuum-insulated versions like the POLIVIAR, keeps finished coffee warmer for longer after pressing. Stoneware performs better during the steep itself, maintaining brewing temperature through the extraction window, but does not insulate the way a vacuum-insulated vessel does. If your habit is to press and pour immediately, stoneware holds its own. If you leave coffee in the press for twenty or more minutes, stainless has a functional edge."
+  - question: "What grind size should I use with a stoneware French press?"
+    answer: "Coarse, roughly the consistency of sea salt or coarse breadcrumbs. Fine grinds clog the filter screen and over-extract regardless of what vessel you use. The stoneware body does not change the grind requirement. If your French press coffee consistently tastes bitter or muddy, grinding coarser is almost always the correct first adjustment, and a burr grinder rather than a blade grinder makes that adjustment meaningful."
+  - question: "Does the color of a Le Creuset French press affect brewing performance?"
+    answer: "No. Artichaut, Sea Salt, and Cerise are identical in construction, capacity, and thermal performance. The stoneware body, plunger assembly, and mesh screen are the same across all three finishes. Color choice is entirely aesthetic. The Cerise is the most recognizable and has the longest availability track record; the Artichaut and Sea Salt are more neutral and easier to place in kitchens not already running warm tones."
+  - question: "Is Le Creuset worth the price premium over a stainless French press?"
+    answer: "Buy Le Creuset because you want a press that will outlast several kitchen renovations and looks the part on an open shelf. The performance gap between a well-built Le Creuset stoneware press and a well-built double-wall stainless press in terms of what ends up in the cup is smaller than the price gap suggests. The variables that most affect cup quality, grind size, water temperature, and steep time, are in your hands either way."
 ---
 
 French press is one of the most forgiving brew methods , no paper filters to buy, no complex ratios to memorize, no machine to descale every quarter. What makes stoneware French presses worth considering is heat retention: the ceramic body holds brewing temperature in a way that glass or thin stainless rarely matches. If you've been exploring [Brewing Methods](/brewing-methods/) and keep coming back to immersion brewing, stoneware is the material upgrade that actually changes the morning experience.

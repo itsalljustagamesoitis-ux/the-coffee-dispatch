@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Will a universal replacement carafe fit my French press?"
+    answer: "Probably, but not guaranteed. Universal-fit carafes cover the most common frame dimensions, but French press brands use proprietary sizing and the diameter, taper angle, and lip dimensions differ across manufacturers. Check the listed carafe dimensions against your existing base before purchasing. Bodum owners are better served by Bodum's own spare carafes, where the fit is guaranteed."
+  - question: "Glass vs stainless steel replacement carafe — which is the better choice?"
+    answer: "Glass gives you visibility into the brew as it steeps and contributes nothing to flavor. Stainless steel offers better heat retention and significantly greater resistance to breakage. If you've broken a glass carafe before under normal conditions, the Fino stainless steel option changes the ownership experience in ways that matter. If you brew somewhere stable and technique visibility is part of your process, stay with glass."
+  - question: "What is the difference between standard and fire-hardened borosilicate glass?"
+    answer: "Both handle the thermal shock of boiling water better than ordinary glass, but fire-hardened borosilicate goes through additional thermal processing during manufacturing that increases resistance to rapid temperature changes. In daily practice, this means the carafe tolerates being filled quickly with near-boiling water more reliably. The Bruntmor uses fire-hardened construction, making it a more durable daily choice than standard borosilicate alternatives."
+  - question: "How do I match the right size replacement carafe to my press?"
+    answer: "Match the volume to your existing press base — a 34 oz base requires a 34 oz replacement, a 51 oz base requires a 51 oz replacement. Beyond fit, choose the size that matches how much you actually drink in one sitting. French press coffee doesn't hold well after brewing because the grounds continue extracting in the carafe, so oversizing means the last cups over-extract before you get to them."
+  - question: "Is it worth replacing just the carafe, or should I buy a whole new French press?"
+    answer: "Replacing the carafe almost always makes more economic sense. The base, lid, and plunger mechanism are typically undamaged when a carafe breaks — they're the components designed to outlast the glass. A replacement carafe extends the life of equipment that's otherwise working correctly. The exception is if the plunger assembly is worn or the mesh filter has degraded, at which point a full press replacement may be the cleaner solution."
 ---
 
 Replacing a broken carafe is one of those small purchases that gets surprisingly complicated once you start looking. French press carafes are not interchangeable across all brands, the glass quality varies more than you'd expect, and the size that fits your press base isn't always the one you find first. A [Brewing Methods](/brewing-methods/) guide helps with context, but the carafe question specifically comes down to three variables: fit, material, and capacity.

@@ -49,6 +49,17 @@ products:
 tags: ["cold-brew", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Glass vs. plastic cold brew pitcher — which one is better for flavor?"
+    answer: "Glass is the better material for cold brew because it doesn't retain coffee oils or odors between batches. After six months of weekly brewing, a plastic pitcher will begin carrying flavor traces from previous brews into new ones. Glass resets cleanly with a standard wash. The trade-off is breakability — glass pitchers don't survive hard floor drops, which is a real consideration in busy kitchens."
+  - question: "How long does cold brew last in the fridge once brewed?"
+    answer: "Concentrate stored in an airtight pitcher keeps well for up to two weeks. Pitchers with loose-fitting lids show quality degradation — flattened flavor, reduced brightness — closer to the one-week mark. Diluted cold brew ready-to-drink degrades faster; consume it within five to seven days. Airtight lid design, like the Takeya's, specifically extends the storage window."
+  - question: "What grind size should I use for cold brew in a pitcher?"
+    answer: "Medium-coarse is the standard starting point — the same range as French press is a reasonable baseline. A finer grind increases extraction at the cost of over-extraction bitterness and more sediment passing through the mesh. A coarser grind produces a cleaner cup but can undershoot extraction if steep time is too short. Adjust based on the cup: thin concentrate wants finer grind or longer steep, not both simultaneously."
+  - question: "What capacity cold brew pitcher do I need for two daily drinkers?"
+    answer: "Two people who drink iced coffee daily should be looking at 64 ounces. A 32-ounce pitcher at a standard 1:1 concentrate-to-water ratio produces roughly 16 to 20 ounces of finished drink per batch — which two daily drinkers will empty in a single day. The Cold Brew Mason Coffee Maker at 64 ounces is the direct answer for that consumption rate."
+  - question: "Can the Mixpresso cold brew pitcher also make iced tea?"
+    answer: "Yes — it's specifically designed for both. The Mixpresso is marketed as a dual-use brewer for cold coffee and loose-leaf tea, and the mesh filter handles both without modification. For buyers who want one vessel doing two jobs competently, it's the most direct answer among the five options in this roundup. Dedicated cold brew drinkers who won't use the tea function are better served by the OXO or Primula pitchers."
 ---
 
 Making cold brew at home comes down to one thing you probably already own: a pitcher with a filter. The [Cold Brew & Iced Coffee](/cold-brew/) category is full of options that look identical on a product page but behave very differently after six months of weekly use. Glass versus plastic, mesh density, lid seal quality , these details compound. I've watched a pod-based cold brew system produce thin concentrate at twice the cost of a bag of fresh beans and a basic pitcher. The hardware matters less than you'd think; the brewing process matters more than most people realize.

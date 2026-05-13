@@ -49,6 +49,17 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How is a coffee grinder cleaning brush different from a regular pastry or dusting brush?"
+    answer: "The key differences are bristle stiffness, head geometry, and food-safe material design. Coffee cleaning brushes are shaped to reach narrow grinder chambers, group head recesses, and portafilter grooves that a wide pastry brush can't access. A regular pastry brush may be food-safe but is typically too soft and too wide to clear compacted grounds effectively. Using a dedicated brush also prevents cross-contamination with baking products or household cleaners."
+  - question: "Single brush or a set — which is right for a home espresso setup?"
+    answer: "A single brush handles most home cleaning tasks adequately if you only have a grinder to clean. The case for a set is that different head geometries clean different surfaces more effectively — a flat-headed brush for group screens, a narrower tapered head for grinder chutes. The walnut handle set addresses this by bundling multiple geometries, which makes practical sense if your setup includes both a grinder and an espresso machine with distinct cleaning access points."
+  - question: "How often should I replace a coffee grinder cleaning brush?"
+    answer: "Natural bristle brushes typically last six to twelve months with daily use before bristle shedding or significant softening begins. The replacement signal is bristles that no longer spring back to shape after a pass, or visible shedding when you draw the brush across a surface. Synthetic bristles last longer — often a year or more — but can become clogged with oil residue if not rinsed regularly. Inspect bristle tips every few months rather than waiting for a noticeable decline in cleaning effectiveness."
+  - question: "Can I use the same brush on my grinder and my espresso machine?"
+    answer: "Yes, with one condition: rinse and dry it between uses if you're moving from a greasy machine component to a dry grinder chamber. Oil residue from a group head transferred into a grinder exit chute will affect flavor. The Takavu is explicitly designed for multi-surface use with boar bristle stiffness that handles machine components well. The softer wood-handle natural bristle options work across both surfaces but need the rinse step between them."
+  - question: "Will a cleaning brush remove caked-on coffee oil from inside my grinder?"
+    answer: "For surface-level and recently accumulated residue, yes. For oils that have polymerized over weeks or months onto burr chambers and internal walls, a brush alone won't be sufficient. You'll need grinder cleaning tablets like Grindz, which run through the burrs under normal grinding conditions and break down the oil layer a brush can't reach. A brush maintains a clean grinder; it does not restore a neglected one to clean condition without additional help."
 ---
 
 Keeping a grinder clean is one of those maintenance habits that looks trivial until you skip it for two weeks and start wondering why your espresso tastes like cardboard. Coffee oils go rancid, fine grinds pack into burr chambers, and stale residue contaminates every fresh dose. A dedicated [coffee grinder cleaning brush](/grinders/) doesn't solve every problem, but it solves the one you'll encounter every single day.

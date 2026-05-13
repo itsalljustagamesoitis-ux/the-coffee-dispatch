@@ -49,6 +49,17 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How often should I clean my grinder with cleaning tablets?"
+    answer: "For a home espresso setup pulling one or two shots daily with medium-roast beans, every three to four weeks is sufficient. High-oil dark roasts or higher daily volume warrants closer to every two weeks. The clearest signal you've waited too long is a rancid or stale note in shots from a grinder you haven't swapped beans in."
+  - question: "Urnex Grindz bulk vs. single-use packets — which should I buy?"
+    answer: "If you have a consistent, measured cleaning routine, the 430g bulk format is almost always the better call — lower cost per clean, less packaging, no risk of running out mid-cycle. Single-use packets make practical sense when you're new to tablet cleaning and want to test the process before committing, or when you're cleaning a grinder in a setting where a scale isn't handy. The formula is essentially the same either way."
+  - question: "Do cleaning tablets work in any burr grinder?"
+    answer: "Tablet-based cleaners are designed for electric burr grinders — flat-burr and conical-burr designs — where the tablets pass through the grinding mechanism like a dose of beans. They are not effective in blade grinders and require more care in grinders with tight tolerances or short bean pathways. Check your manufacturer's compatibility guidance before your first cleaning cycle."
+  - question: "Should I still brush my grinder if I'm using cleaning tablets?"
+    answer: "Yes. Tablets remove oxidized oil buildup from burr surfaces and the grinding chamber, but they don't clear loose grounds from crevices around the burr carrier, chute, and catch cup. A quick brush-out every few days handles the loose particulate. The two approaches work together rather than replacing each other."
+  - question: "Is the carbon-neutral Roobi option worth choosing over Urnex?"
+    answer: "The Roobi 500g tablets make a carbon-neutral claim that none of the Urnex options match, and for environmentally motivated buyers that's a real differentiator. The trade-off is that Roobi doesn't carry the fifteen-plus years of professional café validation that Urnex Grindz does. For a first purchase in this category, the established track record of Urnex is the safer call; Roobi is a reasonable secondary option once you've confirmed the tablet routine works for your setup."
 ---
 
 Most grinder maintenance guides stop at "use a brush." That gets the loose grounds out, but coffee oils don't brush away , they oxidize on burr surfaces and inside casings, turning rancid and contaminating every shot you pull afterward. Cleaning tablets are how you actually remove that buildup.

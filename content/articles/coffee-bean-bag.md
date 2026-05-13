@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Should I buy a five-pound coffee bag if I only drink one or two cups a day?"
+    answer: "Probably not. One to two cups a day is roughly a quarter to half a pound per week, which means a five-pound bag takes eight to twenty weeks to finish — well past any reasonable freshness window. The per-pound cost savings are real, but they don't compensate for drinking coffee that peaked six weeks ago. A one-pound bag consumed within three to four weeks will consistently taste better than the back half of a five-pound bag."
+  - question: "Is dark roast Sumatra Mandheling good for espresso?"
+    answer: "It works for espresso if you prefer a low-acid, full-bodied shot with earthy, syrupy notes. Sumatra Mandheling at dark roast is less suited to milk drinks where a brighter, more acidic espresso cuts through better, and it won't produce the clarity you'd expect from a lighter-roast single origin. For straight shots or Americanos where body and intensity are the priority, it's a legitimate choice. Know that the high surface oil will leave more residue in your grinder and portafilter."
+  - question: "What is the difference between CO2 decaf and solvent-based decaf?"
+    answer: "CO2 decaffeination uses pressurized carbon dioxide to selectively extract caffeine, leaving most flavor-contributing compounds intact. Solvent-based methods remove caffeine more broadly and can strip some of the aromatic compounds that make coffee taste like coffee. Swiss Water Process is a non-solvent alternative that's effective but can soften the flavor profile. For espresso-specific decaf where flavor retention matters, CO2 extraction is worth prioritizing."
+  - question: "Do coffee bags with one-way valves actually preserve freshness longer?"
+    answer: "Yes, the valve is a meaningful feature rather than a marketing claim. A one-way degassing valve allows CO2 released by freshly roasted beans to escape without letting oxygen back in. Without it, you either get a ballooning bag or have to leave it unsealed, both of which accelerate staling. Paper bags with valves are less effective than multi-layer laminate bags at blocking oxygen, but a valve is still meaningfully better than an unvented container."
+  - question: "What is the right grinder for whole bean bulk coffee purchases?"
+    answer: "A burr grinder is the baseline requirement, even a modest one. Whole bean coffee is meaningless if you grind it with a blade grinder — the inconsistent particle distribution extracts unevenly, producing a cup that combines over-extracted bitterness and under-extracted sourness simultaneously. For espresso specifically, grind consistency is critical. The grinder investment comes before the coffee investment in order of priority."
 ---
 
 Buying coffee in bulk makes sense on paper , fewer orders, lower cost per pound, less time spent restocking. The execution is where most bulk purchases fall apart, usually because the beans have been sitting in a warehouse long enough that the roast date has become theoretical. If you're browsing [Coffee Beans & Roasts](/beans/) and considering a five-pound bag, the decision tree is short: freshness window, grind format, and whether the roast profile matches your brew method.

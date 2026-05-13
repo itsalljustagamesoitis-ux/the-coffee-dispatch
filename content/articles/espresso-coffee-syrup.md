@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Espresso syrup vs flavored coffee syrup: what is the actual difference?"
+    answer: "An espresso syrup adds espresso flavor to drinks that contain no actual coffee — it is used in cocktails, mocktails, and non-caffeinated drinks. A flavored coffee syrup like vanilla or caramel is added to existing espresso drinks to change their flavor profile. If you have a machine and want flavored lattes, you want the flavored syrup, not the espresso-flavored one. Buying the wrong type is the most common mistake in this category."
+  - question: "Can coffee syrups go into iced espresso drinks, or only hot ones?"
+    answer: "Thin, pourable syrups like the Torani variety pack or DaVinci caramel integrate easily into iced lattes because the liquid dissolves without heat. Thick sauces like the Torani Puremade Sauce pack require sustained stirring in a cold drink and may not fully incorporate, affecting both flavor consistency and texture. For cold applications, always choose a thin syrup rather than a sauce-format product."
+  - question: "How many drinks does a 750ml syrup bottle actually last?"
+    answer: "A 750ml bottle used with a standard pump dispenser — roughly 7 to 10ml per pump — provides approximately 75 to 150 servings depending on how heavily you dose each drink. At one to two pumps per drink in a daily coffee routine, a single bottle typically lasts two to four months at home. Smaller 16oz bottles provide proportionally fewer servings."
+  - question: "Torani vs Monin vs DaVinci: which syrup brand is best for home espresso drinks?"
+    answer: "Torani runs sweetest and most approachable, closest to the coffeehouse flavor most people associate with flavored coffee. Monin tends to run more complex and slightly less sweet, with better natural flavoring in the premium lines. DaVinci sits between them with stronger caramel and hazelnut notes and a slight butterscotch complexity that distinguishes it from straightforwardly sweet competitors. All three are what professional coffee operations default to."
+  - question: "Is a pump dispenser necessary for coffee syrups at home?"
+    answer: "Not strictly necessary, but strongly worth buying. Every professional syrup is formulated around pump dispenser use — a single pump delivers a consistent, calibrated dose of roughly 7 to 10ml. Without a pump, you are measuring by eye or tablespoon, which leads to inconsistent sweetness across drinks. Pump dispensers are inexpensive, fit standard 750ml bottles, and pay for themselves immediately in consistency and convenience."
 ---
 
 Espresso syrups occupy a narrow but genuinely useful space in the home coffee setup , they're how you replicate the caramel macchiatos and vanilla lattes from your local café without paying café prices for every single cup. If you're pulling shots regularly, having a few syrups on hand is practical rather than indulgent. I've covered the full landscape of [espresso drinks and equipment](/espresso/) here, and syrups are the one accessory that consistently surprises people with how much they change the daily routine.

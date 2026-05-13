@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Coffee urn or drip brewer for daily office use — which is better?"
+    answer: "For daily ongoing office use, a commercial drip brewer is the better choice. Urns brew one large batch and hold it — which works for a single service window at an event but produces stale, degraded coffee when an office tries to use the tail end of a 100-cup batch brewed in the morning. Drip brewers allow fresh batches on demand throughout the day, which is how a functioning office kitchen actually operates."
+  - question: "What's the best coffee maker for a small office of 10 to 20 people?"
+    answer: "A commercial drip brewer with two carafes — like the SYBO 12-cup two-carafe model — handles a 10- to 20-person office through a typical morning service without requiring constant management. Two 12-cup cycles in sequence covers 24 cups, sufficient for most small teams arriving in waves. If the office runs self-service without a designated person managing the machine, a single-serve system like the Keurig K-Elite is the more practical choice."
+  - question: "Are pour-over commercial coffee makers harder to use than automatic brewers?"
+    answer: "The mechanics are straightforward but require one deliberate step: someone adds water to the reservoir before each brew cycle. In a staffed break room or café setting, this adds no meaningful complexity. In a fully self-service office where nobody is assigned to manage the machine, it creates a consistent friction point that results in the machine being used incorrectly. For unstaffed environments, a fully automatic model is worth the trade-off."
+  - question: "When should I choose a 100-cup urn over a 12-cup drip brewer?"
+    answer: "Urns belong in event and catering contexts where a single large service window is the use case — a church hall, a corporate event, a catered setup where you're serving a crowd from a table. They are not the right tool for daily office use where fresh coffee every hour matters. The Zulay and commercial urn options reviewed here are explicitly event machines; trying to use them as office coffee makers produces stale output and wasted capacity."
+  - question: "How often does a commercial coffee maker need to be descaled?"
+    answer: "In a business environment with moderate to hard tap water, monthly descaling is the standard baseline for commercial drip brewers in daily use. High-volume machines or notably hard water may require it every two to three weeks. Neglecting descaling degrades heating element efficiency, extends brew cycle times, and produces off-flavors. Building a fixed maintenance interval into the break room routine is more reliable than waiting until performance noticeably declines."
 ---
 
 Choosing the right coffee maker for a business means thinking past home-kitchen assumptions , capacity, duty cycle, and how the machine fits into a space where multiple people need coffee at once. The wrong choice either under-serves demand or overcomplicates a workflow that nobody has time to manage. I've covered the full range of [coffee makers](/coffee-makers/) across volume tiers, and the options below reflect what actually matters in a commercial or office context.

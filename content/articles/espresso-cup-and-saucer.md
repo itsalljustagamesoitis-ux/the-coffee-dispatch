@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size espresso cup do I actually need for a double shot?"
+    answer: "A standard double espresso runs approximately 36 to 40g of liquid, which fits correctly in a 2oz demitasse cup. The cup should be nearly full — that concentration of aroma and crema is part of the drink. A 3oz cup works well for longer pulls or leaving a little room. Larger cups are suited to milk-based drinks, not straight espresso; putting a double in a 6oz cup makes the drink look and taste underwhelming."
+  - question: "Do I need to preheat an espresso cup before pulling a shot?"
+    answer: "Yes, for single-wall ceramic and porcelain cups, preheating is the single most effective step for maintaining shot temperature. Place the cup on your machine's cup warmer, or run hot water through it before pulling. Double-wall glass and stainless cups are more forgiving because the insulating air layer does some of this work, but preheating still improves the result with any material."
+  - question: "Porcelain vs ceramic espresso cups: which is better?"
+    answer: "Porcelain is denser and typically thinner-walled than standard ceramic, which makes it the traditional choice for Italian-style demitasse service. Ceramic is thicker and slightly more chip-resistant. Both perform acceptably for espresso; the choice comes down to aesthetics and how carefully you handle your kitchenware. Neither has a decisive functional advantage over the other."
+  - question: "Double-wall glass vs single-wall ceramic for heat retention: which wins?"
+    answer: "Double-wall glass outperforms single-wall ceramic on heat retention by trapping an insulating air layer between the walls, keeping the drink hotter for longer without requiring as aggressive preheating. The trade-off is that glass is more fragile than ceramic and requires more careful handling. For households with casual handling habits, ceramic or stainless is more practical long-term."
+  - question: "4-cup or 6-cup espresso set: which is the better buy for home use?"
+    answer: "A 6-cup set makes practical sense for households that regularly serve guests or have more than two espresso drinkers. A 4-cup set is sufficient for smaller households and takes up less storage space. Consider also the form factor — the LYEOBOH metal holder set looks impressive on a shelf but does not stack the way plain ceramic cups do, which matters if storage space is a real constraint."
 ---
 
 Espresso cups are a small purchase that most people get slightly wrong , they buy whatever looks good on a shelf without thinking about how the cup actually performs in use. The right cup holds heat, sits well in the hand, and fits the kind of espresso you're pulling. If you're already invested in your setup , machine, grinder, workflow , the [espresso equipment](/espresso/) choices downstream of the brew itself still matter. A cup that cools fast or feels awkward undermines a shot you spent real effort dialing in.

@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Hario V60 bare dripper vs starter set: which should I buy?"
+    answer: "The bare V60 Dripper 02 is the cone only, and you supply the server, filters, and kettle separately. A starter set includes those components packaged together by Hario, meaning everything is size-matched and compatible out of the box. If you are starting from zero equipment, the starter set is the more practical entry point. If you already own pour-over accessories, the bare dripper avoids redundancy and is the cleaner purchase."
+  - question: "Do I need a gooseneck kettle to brew V60 coffee?"
+    answer: "A gooseneck kettle is not strictly required, but it produces meaningfully better results. The narrow spout gives you precise control over flow rate and pour placement, both of which affect how evenly the coffee bed saturates and extracts. A standard kettle can work for initial experimentation, but uneven saturation is one of the most common causes of flat or sour pour-over results and is harder to avoid without a gooseneck."
+  - question: "Hario V60 vs Bodum pour-over: do they produce the same cup?"
+    answer: "No. They are both manual pour-over brewers but produce different cups. The Bodum uses a reusable stainless steel mesh filter, which allows coffee oils and fine particles to pass through and produces a fuller-bodied, heavier result. The V60 with paper filters produces a cleaner, brighter cup with more flavor clarity. The right choice depends on whether you prefer body and richness or clarity and brightness, not which brand is better."
+  - question: "How many cups can the V60 size 02 actually brew at once?"
+    answer: "Hario rates the 02 for one to four cups, but practical home brewing at the 40 to 60g coffee range typically produces one to two substantial mugs. Pushing to four cups requires a longer, more complex pour sequence and produces less consistent extraction as the cone floods near the end. For single-cup or two-cup daily brewing the 02 is well-suited. For regularly brewing three or four cups, a larger format brewer handles the volume more reliably."
+  - question: "What grind size should I use for V60 brewing?"
+    answer: "Medium-fine is the standard starting point: coarser than espresso, finer than French press, roughly the texture of coarse table salt. Adjust based on brew time. If your total brew finishes well under three minutes, grind finer; if it drags past four minutes, grind coarser. Grind size matters more than almost any other variable in V60 brewing, which is why a burr grinder is the most important piece of equipment in the setup."
 ---
 
 Pour over brewing sits at an intersection that other methods don't quite reach: enough manual control to actually improve your results over time, simple enough equipment that nothing mechanical can fail you. The [Hario V60](/coffee-makers/) is the format most serious home brewers reach for first, and for good reason , the design hasn't changed much because it doesn't need to.

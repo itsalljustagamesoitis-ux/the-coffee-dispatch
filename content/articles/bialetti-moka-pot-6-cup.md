@@ -42,6 +42,19 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is a 6-cup Bialetti moka pot too large for one person?"
+    answer: "Not necessarily, but it depends on how you drink. A 6-cup Bialetti produces roughly 10 ounces of brewed coffee — closer to two or three regular servings than six. If you drink two cups in a sitting or want a second cup later, it works fine for solo use. The 3-cup is a better fit if you want one small, concentrated serving per session and nothing left over."
+  - question: "What is the difference between the Moka Express Silver and the Limited Edition Caffe Mercanti Black Oro?"
+    answer: "The brewing mechanics are identical — same octagonal aluminum chamber, filter basket, and safety valve system. The difference is entirely cosmetic. The Limited Edition Caffe Mercanti has a matte black and gold finish designed for countertop display, while the standard Moka Express Silver is the bare aluminum classic. If you're choosing on coffee quality alone, the silver saves money and performs identically."
+  - question: "Can I use espresso grind in a 6-cup Bialetti moka pot?"
+    answer: "You can, but the results are usually poor. Espresso grind is too fine for the moka pot's lower brewing pressure — roughly 1.5 bar versus 9 bar for a pump machine — and it causes over-extraction and sometimes clogs the filter basket. A medium-fine grind, slightly coarser than espresso, is correct for stovetop brewing. Many roasters sell coffee specifically labeled for moka pots, which is a reliable starting point."
+  - question: "Do any of these 6-cup Bialetti moka pots work on induction stovetops?"
+    answer: "None of the four aluminum Bialetti models reviewed in this article are induction-compatible. Induction cooking requires a magnetic base, and aluminum is not magnetic. If your kitchen runs on induction, you need Bialetti's stainless steel Moka Induction line, which is built specifically for induction use. Attempting to use an aluminum moka pot on induction won't damage the stovetop, but it also won't heat."
+  - question: "Why does high heat produce bad coffee in a moka pot?"
+    answer: "High heat causes water to push through the grounds too fast, extracting the bitter compounds before the balanced ones have a chance to develop. The result tastes harsh and thin simultaneously. The fix is medium-low heat, lid open, and pulling the pot off the burner the moment the chamber is two-thirds full — before the final spluttering push. That last burst of steam-driven water is over-extracted almost by definition."
+safety_topics:
+  - moka-pot-heat
 ---
 
 The moka pot is one of those objects that looks like it should be complicated but isn't. Water goes in the bottom, coffee goes in the filter, heat does the rest , and in eight minutes you have something concentrated, aromatic, and genuinely satisfying. If you've been browsing [Brewing Methods](/brewing-methods/) trying to figure out whether stovetop espresso fits your routine, the short answer is: it probably does.

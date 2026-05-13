@@ -49,6 +49,17 @@ products:
 tags: ["cold-brew", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Ready-to-drink organic cold brew vs. brewing at home — which is more economical?"
+    answer: "Home brewing is significantly more economical for daily drinkers. A pound of Bizzy organic grounds produces multiple full batches of cold brew. Ready-to-drink formats spread a convenience premium across every serving, which accumulates quickly. The equipment investment is minimal — a dedicated cold brew pitcher is the main cost, and it pays back within a few weeks of regular home brewing. For occasional use or situations where setup is not feasible, the ready-to-drink premium makes more practical sense."
+  - question: "What grind size do I need for home cold brew, and does pre-ground work?"
+    answer: "Coarse grind is non-negotiable for cold brew. Fine grounds over-extract during the 12 to 24 hour steep time and produce bitter, astringent results, and they clog most filter setups and make cleanup difficult. A cold brew-specific coarse grind sits at roughly the same size as a French press grind. Bizzy's micro-sifted coarse grounds are already optimized for cold extraction and reduce sediment compared to a standard coarse grind."
+  - question: "What is the difference between Wandering Bear extra-strong and Califia medium roast?"
+    answer: "Wandering Bear's extra-strong formula is designed for drinkers who want intensity, and it functions well as a concentrate you can dilute to preference — which addresses one of the main criticisms of ready-to-drink cold brew. Califia's medium roast takes the opposite approach: lighter, slightly sweeter without added sugar, and better suited to drinkers who find dark roast cold brew too aggressive. The deciding factor between the two is roast preference and whether you want to dilute."
+  - question: "What roast level works best for home cold brew?"
+    answer: "Medium and medium-dark roasts perform best. Cold water extracts fewer acidic compounds and favors sweetness and body, and a medium-dark roast has enough developed sweetness to come through in cold extraction without the bitterness that can develop in very dark roasts over a long steep. Light roasts are harder to cold brew well — the delicate fruit notes often do not extract fully at cold temperatures."
+  - question: "Does USDA Organic certification actually matter more for cold brew than for regular coffee?"
+    answer: "The argument is stronger for cold brew than for a single espresso shot. Cold brewing uses a large quantity of coffee steeped over a long time, and whatever is in the beans concentrates into the final drink. The article emphasizes looking for the USDA Organic seal rather than just the word organic in marketing copy — third-party certification is auditable, self-declared claims are not."
 ---
 
 Organic cold brew has moved well past trend status , it's how a lot of people get their daily caffeine, and the sourcing question matters more than it did even a few years ago. Finding options that are both well-made and certified organic is easier now, though the range spans ready-to-drink bottles, on-tap systems, and ground coffee for home brewing. I've covered the full landscape of [Cold Brew & Iced Coffee](/cold-brew/) options in detail, and this guide focuses specifically on where organic certification and cup quality actually overlap.

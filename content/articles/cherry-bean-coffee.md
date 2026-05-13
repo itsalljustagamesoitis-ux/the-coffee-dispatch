@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is cherry bean coffee and how is the cherry flavor added?"
+    answer: "Cherry bean coffee is whole bean coffee that has been flavored with cherry extract or natural cherry oil after roasting. The base coffee is standard arabica — the cherry character is applied as a coating to the outer surface of the bean. The result carries both roasted coffee depth and a fruit note. Quality varies considerably depending on the base bean: specialty-grade arabica produces a genuinely layered result, while lower-grade bases taste more like candy than coffee."
+  - question: "Cherry bean coffee — does it work for espresso or is it better for drip and pour-over?"
+    answer: "Better for drip and pour-over. High-pressure espresso extraction tends to push cherry flavoring into a sharp or artificial register, making the cup taste thin rather than layered. Medium-coarse grinds and filter brewing methods give cherry flavoring more room to develop without turning bitter or chemical. If you pull espresso exclusively, this category will disappoint you."
+  - question: "Simple cherry vs compound profiles like chocolate cherry or cherry almond — which should I buy first?"
+    answer: "Start with a simple cherry profile like the Michigan Cherry from Coffee Beanery if you've never bought cherry-flavored coffee before. It gives you a cleaner read on whether you enjoy cherry as a coffee note before adding secondary flavors. Compound profiles like the Door County Chocolate Cherry or Kalamazoo Cherry Almond Chocolate are built for people who already know they like cherry in coffee and want more complexity."
+  - question: "Which cherry coffees work best in milk-based drinks?"
+    answer: "The compound profiles hold up better in milk than the clean cherry options. Kalamazoo Cherry Almond Chocolate and Fire Department Coffee Black Cherry Bourbon both have enough flavor intensity and secondary notes to cut through steamed milk and remain distinct. The Door County Cherry Creme is also milk-friendly — the creme character works naturally alongside dairy or oat milk. Simpler cherry profiles tend to disappear under milk."
+  - question: "How should I store cherry-flavored whole bean coffee to keep the flavor intact?"
+    answer: "Store in an airtight container away from heat, light, and moisture — the same rules as any whole bean coffee. The difference with flavored coffee is that the aromatic compounds from the flavoring are more volatile than standard roast character and off-gas faster after the bag is opened. Avoid the freezer for opened bags, since temperature cycling draws moisture into the beans. Buy quantities you'll finish within two to three weeks of opening."
 ---
 
 Cherry-flavored coffee divides the room pretty cleanly: you either find the idea of roasted beans scented with fruit a natural pairing, or you assume it's a trick to disguise mediocre coffee. I've held both positions. What I've found after working through this category is that the quality of the base bean matters more than the flavoring chemistry , and that the best options here are built on solid arabica, not rescued by artificial syrup. If you're exploring the broader landscape of [coffee beans and roasts](/beans/), cherry bean coffee sits at a specific niche that rewards a little research.

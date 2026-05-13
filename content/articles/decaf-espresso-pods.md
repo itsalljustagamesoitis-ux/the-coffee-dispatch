@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are decaf espresso pods actually caffeine-free?"
+    answer: "No certified decaf option is completely caffeine-free, but it is close. Standard decaffeination processes remove 97 to 99.9 percent of caffeine, meaning a typical decaf espresso pod contains roughly two to five milligrams versus sixty to eighty milligrams in a regular shot. For most people that residual amount has no perceptible effect. Anyone with a medical sensitivity to caffeine should consult a doctor rather than relying on pod labeling as a precision guide."
+  - question: "Nespresso Original Line pods vs K-Cup decaf pods: what is actually different between them?"
+    answer: "Nespresso Original Line pods brew under high pressure, nine to nineteen bar depending on the machine, producing genuine espresso with crema and appropriate body. K-Cup pods brew under much lower pressure and produce strong drip coffee regardless of how the pod is labeled. This is a machine-compatibility and brewing-method distinction, not just a flavor one. The Organic Coffee Co. Gorilla Decaf is K-Cup compatible; all other options in this article are Nespresso Original Line."
+  - question: "Peet's decaf pods vs L'OR Decaf Ristretto: which is better for straight espresso shots?"
+    answer: "Both are strong recommendations for Nespresso Original Line machines. The L'OR Ristretto format is specifically the right call for decaf because the shorter, more concentrated pull extracts quickly before the longer-extraction bitterness that decaf is more susceptible to develops. Peet's Medium Roast is more versatile across espresso and milk drinks. If you drink straight shots, start with L'OR Ristretto. If you make a mix of drinks, Peet's is the more balanced daily option."
+  - question: "Are compostable espresso pods actually compostable at home?"
+    answer: "Home compostable certifications require specific conditions of heat, moisture, and active microbial activity that many backyard composters do not consistently reach. Industrial composting reliably works but requires access to a facility. The Bernardo Deka capsules carry home compostable certification but the practical outcome depends entirely on your composting setup. When in doubt, check whether your municipality accepts certified-compostable packaging in food-waste collection."
+  - question: "Nespresso Original Line vs Nespresso Vertuo: which machines accept third-party decaf pods?"
+    answer: "Only Nespresso Original Line machines accept third-party pods. Vertuo machines use proprietary barcode-read capsules and do not accept any third-party pods, no exceptions. Original Line models include the Essenza, Pixie, Citiz, Inissia, and Creatista. Vertuo Line models include the Vertuo, VertuoPlus, VertuoNext, and Evoluo. Check the model name before purchasing any capsule from this article."
 ---
 
 Decaf espresso pods solve a specific problem: you want espresso in the evening, or you've cut caffeine for health reasons, but you're not willing to give up the ritual or the flavor. The pods market is crowded, and most listicles treat every option as equally valid. They aren't. Compatibility, decaffeination method, and roast profile matter more than the box copy suggests. [Espresso & Espresso Machines](/espresso/) covers the full landscape , this article narrows the question to the best decaf capsule options available right now.

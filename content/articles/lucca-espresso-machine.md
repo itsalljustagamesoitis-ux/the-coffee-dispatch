@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Diletta Bello+ vs. Diletta Alto: which is right for a home setup?"
+    answer: "For most home setups with one or two people, the Bello+ is the more practical machine. The single-boiler E61 design is proven, serviceable, and entirely sufficient for excellent espresso one or two drinks at a time. The Alto's dual-boiler advantage becomes meaningful only if you're regularly making multiple milk drinks back-to-back and the flush-and-wait cycle between brew and steam genuinely disrupts your workflow."
+  - question: "What is a pannarello wand and why does it matter for milk drinks?"
+    answer: "A pannarello wand draws air through a sleeve into the milk as steam passes through — the mechanism that makes it forgiving for beginners is also what limits the result. You get foam, not microfoam. The texture suits a thick-foam cappuccino but not a flat white or latte where integrated microfoam is the point. If milk texture matters to you, treat a pannarello wand as a flag, not a feature."
+  - question: "Does the Flair manual lever machine produce espresso as good as a pump machine?"
+    answer: "Yes — in practiced hands, the Flair Classic produces shots that compare favorably to pump machines at significantly higher price points. The ceiling is high, but so is the learning curve. Consistency takes time and repetition to develop, and the Flair rewards deliberate practice rather than producing reliable results immediately. It's a serious tool for a specific kind of home barista, not a simpler alternative to a conventional machine."
+  - question: "How much of my espresso budget should go to the grinder?"
+    answer: "More than feels intuitive. A quality burr grinder paired with a mid-range machine consistently outperforms the reverse configuration. Beyond a baseline level of machine capability, diminishing returns set in quickly — grinder returns don't diminish at the same rate. If the total budget requires a compromise, make it on the machine, not the grinder."
+  - question: "Why does PID temperature control matter for espresso extraction?"
+    answer: "Espresso extraction is acutely sensitive to brew temperature. A one- or two-degree swing between shots changes the flavor profile — pulling more acid from a lighter roast at lower temperatures, more bitterness at higher ones. A PID reads actual water temperature continuously and adjusts the heating element to maintain a precise set point. Without it, a thermostat with wider tolerance is managing the temperature, and shot-to-shot repeatability suffers."
+safety_topics:
+  - espresso-pressure
 ---
 
 Lucca is a name that shows up in searches for serious home espresso machines , sometimes as a brand reference, sometimes because buyers have seen it attached to Italian-built equipment and want to understand what they're actually getting. The honest answer is that the machines worth buying in this category come from a short list of manufacturers who've figured out heat management, build quality, and long-term reliability. Here's how the real contenders stack up. For a broader look at the category, the [Espresso & Espresso Machines](/espresso/) hub covers the full range.

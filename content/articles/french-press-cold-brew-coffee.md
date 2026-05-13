@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Can I use any French press to make cold brew, or do I need a dedicated cold brew maker?"
+    answer: "Any French press works for cold brew — the mechanism is identical to hot-press extraction, just at a lower temperature over a longer period. The practical differences are lid seal quality for refrigerator storage and filter tightness. Dedicated cold brew makers like the Bodum tend to seal better for extended storage. If you already own a French press with a tight-fitting lid, there is no reason to buy a separate maker before trying it first."
+  - question: "How long should I steep cold brew in a French press?"
+    answer: "Twelve to eighteen hours in the refrigerator is the standard range. Start at twelve hours for your first batch, taste it, then adjust steep time on subsequent batches if the concentrate is too weak or too sharp. Room-temperature steeping moves faster — typically eight to twelve hours — but requires more monitoring. Steep time interacts with grind size and coffee-to-water ratio, so adjust one variable at a time when dialing in."
+  - question: "What grind size should I use for French press cold brew?"
+    answer: "Coarser than you would use for hot French press — coarser than table salt, closer to coarse sea salt in texture. The long cold steep extracts more slowly than hot water, so a finer grind will over-extract and turn bitter before the steep is done. If your cold brew tastes harsh or astringent, grind coarser before adjusting anything else. Pre-ground supermarket coffee is typically too fine and too inconsistent for reliable cold brew results."
+  - question: "Bodum cold brew maker vs Primula Burke: which is the better buy?"
+    answer: "For most buyers, the Bodum. Its filter system is tighter and the construction standard is higher, which shows up in sediment levels and long-term durability. The Primula Burke earns its place as an accessible entry point — the dishwasher-safe design is a real advantage for low-maintenance users. If you are buying a cold brew maker to use daily for years, the Bodum is the more defensible choice. If you are trying the method for the first time, the Primula is a reasonable starting point."
+  - question: "How long does cold brew concentrate keep in the refrigerator?"
+    answer: "Up to two weeks in a sealed container is the practical ceiling, though most concentrate peaks in flavor around days three to seven. After ten to fourteen days, oxidation starts flattening the cup. The seal quality of your storage container matters — the mason jar format of the 64oz pitcher handles extended storage well. If you are brewing in large batches, plan your volume around a ten-day consumption window rather than the full two weeks."
 ---
 
 Cold brew made in a French press isn't a workaround , it's one of the cleaner methods for producing a concentrated, low-acid extract without buying dedicated equipment. The steeping mechanics are the same whether you're using hot water or cold; the press just holds the grounds and filters them out when you're done. If you're already comfortable with [Brewing Methods](/brewing-methods/), this is a short step sideways.

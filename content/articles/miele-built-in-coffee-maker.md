@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Miele CM 6360 vs. CM 6160: which model should I buy?"
+    answer: "The core brewing platform — AromaticSystem, DoubleShot, MilkPerfection, WiFi — is the same on both machines. The CM 6360 offers eight individual user profiles versus four on the CM 6160. For most households of one or two people, four profiles cover realistic daily use: one per person, one guest profile, one spare. The CM 6360 is the right choice if you have a larger household or regularly accommodate guests with distinct drink preferences."
+  - question: "Do I need both cleaning tablets and descaling tablets, or will one do?"
+    answer: "Both are necessary — they address different problems. Cleaning tablets remove coffee oil and milk residue from the brew group. Descaling tablets remove mineral scale from the heating element and water circuit. Running one cycle does not substitute for the other, and Miele machines prompt each independently because they're monitoring different conditions."
+  - question: "Can I use third-party cleaning products in a Miele coffee machine?"
+    answer: "You can, but it introduces real risk. Miele's maintenance formulations are calibrated for their machine internals, and using non-OEM products may affect your warranty coverage. Generic descaling products vary significantly in acid concentration, which can damage seals in machines designed for specific chemistry. Given that the machine is a significant investment and the branded consumables are not expensive in context, using original parts is the practical choice."
+  - question: "Are Miele built-in coffee machines true espresso machines?"
+    answer: "No, and that distinction matters. Miele's CM series produces an espresso-adjacent drink using a pressurized brewing system — it is a super-automatic convenience appliance. The machine controls the grind, dose, and extraction parameters within its own calibration. For buyers who want consistent, hands-off coffee at the push of a button, these machines are excellent at what they do. For buyers who want manual control over extraction variables, a separate espresso machine and grinder is the correct setup."
+  - question: "How often does a Miele coffee machine need descaling?"
+    answer: "The machine will tell you — Miele's CM series monitors usage and prompts descaling cycles automatically. In hard water areas descaling may be required every few months; soft water areas extend the interval. The key discipline is having descaling tablets or a GP DC 001 C cartridge on hand before the machine asks, not scrambling to order when the prompt appears. Running the cycle promptly when flagged prevents the scale buildup from affecting brew temperature and shot quality."
 ---
 
 Miele's built-in coffee machines occupy a specific and well-defined position in the [Coffee Makers](/coffee-makers/) market: premium German engineering, tight integration with the machines they're designed for, and a maintenance ecosystem that rewards buyers who commit to the platform. That ecosystem is the point. Whether you're evaluating an automatic machine like the CM 6360 or CM 6160, or the cleaning and descaling consumables that keep them running, you're choosing a system, not a standalone product.

@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Ratio Six vs. SCA-certified aarke — is the premium actually justified?"
+    answer: "The aarke is a genuinely strong automatic drip machine at a lower price point, and for most buyers it is the more practical answer. The Ratio Six justifies its cost through build quality, a refined bloom phase, and a level of thermal consistency that shows in the cup over repeated brews. If you are primarily after reliable hot coffee in the morning, the aarke is hard to argue against. If you want the best automatic drip result the counter can hold, the Ratio earns the difference."
+  - question: "What makes the Chemex Ottomatic different from a standard automatic drip machine?"
+    answer: "The Ottomatic brews through a Chemex glass brewer using Chemex bonded paper filters, which are significantly heavier than standard basket filters. That filter density removes more oils and fines from the cup, producing a noticeably cleaner, brighter result than most automatic drip machines. It is not simply a Chemex with a pump attached — the filter is doing meaningful work on cup clarity. The trade-off is ongoing cost for proprietary bonded filters and a glass brewer that requires careful handling."
+  - question: "Automatic vs. manual pour over — which should I choose if I have never tried manual brewing?"
+    answer: "If you want hands-off consistency, go automatic — the Ratio Six or aarke. If you are willing to develop a pour technique, manual options like the Cosori or the 20 oz glass set give you more variables to adjust and more control over the final cup. The core manual variables are water temperature, pour rate, and a bloom pause at the start. Most beginners under-heat their water and pour too fast; both are easy to fix within a week of practice."
+  - question: "Which machine on this list is best for a small office setting?"
+    answer: "The Cosori at 34 oz suits a small group willing to take turns brewing. For hands-off volume, the aarke brews a full pot in under six minutes and requires no attention beyond filling and pressing start. The Ratio Six is better suited to a household than an office setting — its premium is concentrated in output quality rather than speed or volume, which matters less in a shared-office context where convenience takes priority over extraction precision."
+  - question: "Does the Chemex Ottomatic require special proprietary filters, and what does that cost over time?"
+    answer: "Yes. The Ottomatic requires Chemex bonded filters, which are proprietary and sold separately — factor that into the total ownership cost. The Cosori uses its built-in stainless steel filter and needs nothing additional. The Ratio Six and aarke accept standard basket filters, paper or reusable metal. The 20 oz glass set includes 100 Size 02 paper filters, which are a standard size available from multiple brands when the included supply runs out."
 ---
 
 The Ratio Eight put drip coffee back on my radar after years of treating it as a lesser category. That machine , and the generation of thoughtful drip brewers that followed it , proved that automatic coffee makers could produce results worth caring about. If you've been searching for something in that lineage, the [coffee makers](/coffee-makers/) category has gotten genuinely interesting.

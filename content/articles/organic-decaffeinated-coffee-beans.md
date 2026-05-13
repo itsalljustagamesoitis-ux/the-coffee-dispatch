@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is Swiss Water Process decaf actually better than other decaffeination methods?"
+    answer: "For buyers choosing organic decaf, Swiss Water Process is the most relevant benchmark because it is compatible with USDA Organic certification and does not use chemical solvents. It preserves more of the bean's original flavor compounds than solvent-based methods, which is why the best-tasting decafs in this category — including Kicking Horse and Mayorga — both specify it explicitly. CO2 extraction is comparably effective but less common at retail scale."
+  - question: "How does Kicking Horse Decaf compare to Mayorga for everyday use?"
+    answer: "Kicking Horse carries the stronger certification stack — organic, Fairtrade, and kosher — and is the choice for buyers who prioritize verified ethical sourcing alongside flavor. Mayorga's advantage is the two-pound bag format, which suits daily drinkers who want better value per ounce and a bold dark roast optimized for espresso and moka pot. Both use Swiss Water Process; the practical difference comes down to bag size, roast character, and which certifications matter to you."
+  - question: "Does organic certification matter specifically for decaffeinated coffee?"
+    answer: "It matters more for decaf than for regular coffee, for a concrete reason. The decaffeination process itself typically involves either chemical solvents or a certified-organic method. USDA Organic certification rules out solvent contact during processing, not just during growing. That makes the organic label a meaningful quality and safety signal for decaf buyers, separate from any environmental or labor considerations."
+  - question: "What grind size and brew method work best with dark roast decaf?"
+    answer: "Dark roast decaf like Mayorga's Cubano Roast or Kicking Horse dark roast performs best with espresso, moka pot, or French press — brew methods where a medium-fine grind and significant extraction pressure or immersion time play to the roast's strengths. Pour-over can work, but the forgiving roast profile means high-pressure methods extract cleanly and consistently. Grind fresh immediately before brewing regardless of method; pre-ground decaf degrades faster than pre-ground caffeinated coffee."
+  - question: "Is low-acid decaf a meaningful category or just marketing?"
+    answer: "For buyers with genuine acid sensitivity — GERD, reflux, or stomach irritation from regular coffee — low-acid formulation is meaningful. Lifeboost's medium roast decaf combines Swiss Water processing with a growing and roasting approach designed to reduce chlorogenic acid content, and third-party testing verifies the pesticide and mycotoxin claims on the bag. For buyers without acid sensitivity, the low-acid positioning is less relevant as a selection criterion, though it does not detract from the coffee's quality."
 ---
 
 Decaf has a reputation problem it mostly doesn't deserve. The category spent decades defined by chemical solvent processing and hollow-tasting results , which made serious coffee drinkers write it off entirely. Exploring the full range of [Coffee Beans & Roasts](/beans/) makes clear how much has changed: Swiss Water processing and genuinely high-quality sourcing have produced decaffeinated beans worth treating as carefully as anything else in the grinder.

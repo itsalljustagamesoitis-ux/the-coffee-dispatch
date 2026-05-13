@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is Swiss Water Process decaf and why does it matter for flavor?"
+    answer: "Swiss Water Process is a decaffeination method that uses only water and activated charcoal filters — no chemical solvents — to remove caffeine from green coffee beans. It matters because solvent-based methods can subtly affect flavor compounds during processing. Swiss Water Process preserves the bean's natural flavor profile more completely, which is why it is the standard most specialty-adjacent roasters use. San Francisco Bay's Decaf Gourmet Blend and French Roast both carry this certification, making them the clearest choices if flavor integrity is the priority."
+  - question: "San Francisco Bay Decaf Gourmet Blend vs their French Roast — which should I buy?"
+    answer: "Both use Swiss Water Process, so the decaffeination quality is equivalent. The Gourmet Blend is medium-dark — it has more nuance, works across more brew methods, and is the better choice for black coffee drinkers. The French Roast goes darker, loses origin differentiation entirely, and is better suited to milk-based drinks or stovetop moka pots where bold, low-acid flavor is the goal. Roast preference, not quality, separates them — both are honest products at this tier."
+  - question: "Does decaf whole bean need to be ground differently than regular coffee?"
+    answer: "Use the same grind size you would use for your brew method with caffeinated beans as a starting point, then adjust slightly coarser. The decaffeination process softens the bean's cell structure, which means decaf grinds finer at a given burr setting than caffeinated beans of the same roast level. This is most noticeable in espresso and moka pot brewing, where a slightly finer grind can cause over-extraction and bitterness. One minor adjustment to your grinder usually corrects it."
+  - question: "Is whole bean decaf worth the extra step over pre-ground decaf?"
+    answer: "Grinding immediately before brewing makes a measurable difference in cup quality — pre-ground coffee stales faster and loses volatile aromatics quickly after the bag is opened. For decaf this matters more than many buyers expect, because decaffeinated beans have a slightly compressed flavor range to begin with. Pre-ground decaf starts at a disadvantage and gets worse the longer the bag sits open. A basic burr grinder justifies the investment if you are drinking decaf daily."
+  - question: "What bag size makes sense for a household that only drinks decaf occasionally?"
+    answer: "Whole bean decaf is best within three to four weeks of the roast date, and the clock accelerates once the bag is opened. A five-pound bag only makes sense if your household is brewing four to six cups of decaf daily — otherwise you will be drinking stale coffee by week three. For most decaf drinkers, a one-to-two-pound bag suits consumption without compromising freshness. Match the bag size to your actual consumption rate, not to the discount per pound."
 ---
 
 Decaf whole bean coffee gets dismissed more often than it deserves. The category has improved significantly over the past decade, and if you're grinding fresh and brewing with any care at all, the gap between a good decaf and its caffeinated equivalent is smaller than most people expect. That said, not all decaf is the same , the processing method, roast level, and how recently those beans were roasted all matter more than the label on the front of the bag.

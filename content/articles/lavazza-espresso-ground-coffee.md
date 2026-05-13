@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Lavazza Qualità Oro vs. Super Crema — which is the better daily espresso grind?"
+    answer: "Qualità Oro is 100% Arabica with a sweeter, more aromatic shot — mild acidity and a clean finish that shows best as a straight espresso. Super Crema blends Arabica with Robusta for heavier body, denser crema, and a nuttier, rounder profile that holds up better in milk drinks. Drink espresso black? Go Qualità Oro. Make mostly cappuccinos or flat whites? Super Crema is more practical and versatile."
+  - question: "illy vs. Lavazza ground espresso — which is better for home use?"
+    answer: "They serve different flavor preferences rather than one being objectively better. Lavazza's house style runs darker and fuller-bodied, with more crema from Robusta-blended options like Super Crema and Crema E Gusto. Illy Classico is 100% Arabica with a brighter, more defined acidity closer to what specialty roasters produce. If you've found Lavazza too flat or heavy, illy is the natural alternative to try."
+  - question: "Lavazza Super Crema 32-ounce bag — is the large format worth it, or does it go stale?"
+    answer: "Only worth it if your consumption rate supports it. Once open, ground coffee starts declining noticeably within two to three weeks. A two-person household pulling morning doubles will move through the 32-ounce bag without a freshness problem. A solo drinker making two or three shots a week will not finish it before it stales — the four-pack of 8.8-ounce tins is a better format for lower consumption rates."
+  - question: "Can you use Lavazza espresso ground coffee in a drip coffee maker?"
+    answer: "Technically yes, but the grind is calibrated for high-pressure, short-duration espresso extraction — it is too fine for most drip brewers and will over-extract, producing bitter, concentrated coffee that clogs paper filters. Espresso ground coffee and drip ground coffee are different products optimized for different machines. These blends are not designed for drip use and will not perform well in that context."
+  - question: "Lavazza Crema E Gusto vs. Qualità Oro — which should you choose for cappuccinos and milk drinks?"
+    answer: "Crema E Gusto is the better choice for milk drinks. It is darker and more assertive than Qualità Oro — chocolate and roasted notes with heavier crema from the Robusta component — which gives it the body to hold up through frothed milk. The subtle aromatic notes of the 100% Arabica Qualità Oro tend to disappear in a cappuccino. For straight shots where those notes are audible, Qualità Oro is the stronger pick."
 ---
 
 Lavazza makes more ground espresso blends than most home baristas ever sort through, and the differences between them matter more than the packaging suggests. If you're browsing [espresso options](/espresso/) and trying to figure out which tin or bag to keep in rotation, the distinctions between roast level, blend composition, and intended brewing method are worth understanding before you commit to a case of something that turns out to be wrong for your setup.

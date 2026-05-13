@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is Swiss Water Process decaffeination and why does it matter for organic coffee?"
+    answer: "Swiss Water Process removes caffeine using water and osmosis rather than chemical solvents. A flavor-charged water solution draws out the caffeine while preserving other compounds that contribute to taste. For organic coffee, it matters because certified organic standards prohibit chemical solvents — so Swiss Water is the process you will find on essentially every reputable organic decaf. It is not perfect, but it consistently delivers better results than solvent-based alternatives."
+  - question: "Mayorga 2lb dark roast vs. Kicking Horse 10 oz — which should I buy for daily use?"
+    answer: "For daily use, Mayorga's two-pound bag is the more practical choice — larger format, lower reorder frequency, and a direct trade sourcing story. Kicking Horse in the 10-ounce size is better suited to someone evaluating the roast before committing, or a light-use household that brews decaf a few times a week. Both use Swiss Water Process and both are certified organic; the difference is scale and sourcing certification structure."
+  - question: "Does organic decaf taste noticeably different from regular organic coffee?"
+    answer: "Most drinkers notice a slight reduction in complexity — decaffeination removes caffeine along with some flavor-contributing compounds, regardless of method. Dark roasts handle this better than lighter roasts because the roasting process develops flavor compounds that partially compensate for what is lost. The gap is smaller than most people expect with a high-quality Swiss Water decaf, and many regular coffee drinkers find it narrows further after a few days of adjustment."
+  - question: "Should I buy a larger bag of organic decaf to save money?"
+    answer: "Only if you can realistically finish it within three to four weeks of opening. Decaf beans stale slightly faster than regular coffee because the decaffeination process opens the bean's cellular structure and accelerates oxidation. Cameron's four-pound bag offers strong value per ounce, but it makes practical sense only for households that brew decaf daily or near-daily. A four-pound bag for a single person drinking one evening cup could easily outlast its best window."
+  - question: "Do I need to adjust my grinder settings for decaf whole beans?"
+    answer: "Decaf beans are typically slightly more brittle than regular beans due to the decaffeination process, which can mean they grind a touch finer at the same burr setting. Adjust your grinder one or two clicks coarser than you would for the equivalent caffeinated bean and calibrate from there. For espresso this matters more than for drip or French press, where extraction is less sensitive to small grind variations."
 ---
 
 Decaf gets dismissed more than it deserves. For anyone who wants coffee after dinner, can't tolerate caffeine, or simply enjoys a second cup without the consequence, a good organic decaf is genuinely worth finding , and the gap between a mediocre one and a good one is wider than most people expect. The best options in [Coffee Beans & Roasts](/beans/) handle decaffeination in ways that preserve the character of the underlying bean rather than stripping it out along with the caffeine.

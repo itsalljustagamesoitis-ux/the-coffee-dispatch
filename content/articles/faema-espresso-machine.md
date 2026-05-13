@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are Faema espresso machines available for home use?"
+    answer: "Faema produces commercial espresso machines — their equipment is built for cafe volume and priced accordingly. Home-use Faema units are rare and not widely distributed outside specialty channels. Most buyers searching for a Faema machine at home are better served by mid-range semi-automatics from Breville or De'Longhi, or by the prosumer tier from brands like Rocket or La Marzocco once budget allows."
+  - question: "What does 20 bar pump pressure actually mean on a budget espresso machine?"
+    answer: "The 20-bar figure refers to the pump's maximum pressure capacity, not the operating pressure during extraction. Espresso extracts optimally at around 9 bars. Higher pump ratings are primarily a marketing figure — what matters is whether the machine maintains stable pressure through the shot duration, which is a function of pump quality and internal design rather than the number on the box."
+  - question: "Super-automatic vs semi-automatic espresso machine: which should I buy?"
+    answer: "They are different products for different buyers. A super-automatic like the Philips 4400 Series handles grinding, tamping, and brewing automatically, producing consistent results with minimal skill or engagement. A semi-automatic requires you to grind, dose, tamp, and time the shot yourself. If you want control and are willing to invest time in learning, choose semi-automatic. If you want reliable convenience with minimal involvement, super-automatic is the rational purchase."
+  - question: "Is a built-in grinder like the Breville Barista Express worth it, or should I buy a separate grinder?"
+    answer: "A built-in burr grinder is meaningfully better than buying a machine without one and grinding with a blade grinder. That said, an integrated grinder is typically less precise than a standalone unit at the same investment level, and it does not transfer when you upgrade the machine. For a first setup, integrated is a practical solution. For a long-term setup, a standalone grinder offers more flexibility and the upgrade path stays open."
+  - question: "Single boiler vs heat exchanger espresso machine: what is the practical difference?"
+    answer: "Single-boiler machines brew or steam sequentially, not simultaneously — you wait for the boiler to switch modes between tasks. For a solo morning routine, this is manageable. For making multiple milk-based drinks in sequence, it gets slow. A heat exchanger machine allows simultaneous brewing and steaming by maintaining a separate brew temperature path within a larger boiler, which is the meaningful upgrade for households making more than two drinks per session."
+safety_topics:
+  - espresso-pressure
 ---
 
 Faema is one of the names that put espresso on the map , their E61 group head, introduced in 1961, is still the standard most serious home machines are benchmarked against. Searching for a Faema espresso machine today mostly turns up that legacy, a handful of commercial units, and a lot of questions about what to buy instead. This guide covers the practical alternatives across the [espresso machine](/espresso/) category, from budget-friendly entry points to fully automatic convenience appliances , with honest assessments of what each one actually is.

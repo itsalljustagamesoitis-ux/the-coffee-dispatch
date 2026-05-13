@@ -35,6 +35,19 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the Bialetti Venus compatible with induction cooktops?"
+    answer: "It depends on which Venus model you buy. The Bialetti Venus Caffettiera 6-cup is explicitly induction-compatible, with a stainless steel base designed to work with induction surfaces. The New Venus 2-cup in copper is not induction-compatible — it works on gas and electric coil only. If you're on induction, the six-cup Caffettiera is the correct choice from this lineup. This is not a recoverable mistake — ordering the wrong pot for your stove means returning it."
+  - question: "What is the difference between the Bialetti Venus and the Moka Express?"
+    answer: "The Venus is stainless steel; the Moka Express is aluminum. Stainless steel is taste-neutral as it ages, dishwasher-safe on most models, and available in induction-compatible versions. Aluminum heats faster and more evenly, and the Moka Express has a longer production history with a proven track record. The right choice depends on your stove type, your maintenance preferences, and whether taste neutrality over time matters to you."
+  - question: "How much coffee does a two-cup moka pot actually produce?"
+    answer: "A two-cup moka pot produces approximately 85ml of coffee — roughly two small espresso-style cups or one double-shot volume. The cups label refers to Italian espresso cups of about 40 to 50ml each, not standard coffee mugs. If you drink coffee from a regular-sized mug and expect it to be close to full, a two-cup pot will not get you there. A four- or six-cup is a more practical daily driver for anyone who drinks coffee by the mug."
+  - question: "Can I use espresso-ground coffee in a Venus moka pot?"
+    answer: "Pre-ground espresso coffee is generally too fine for moka pots and is not recommended. Espresso-fine grind compacts under the pressure of moka pot brewing, restricts water flow, and produces uneven extraction — usually over-extracted and bitter. A grind slightly coarser than espresso, closer to the fine end of drip grind, works better. If buying pre-ground, look for bags labeled specifically for moka pot brewing rather than espresso machine use."
+  - question: "How do I know when to replace the gasket on a moka pot?"
+    answer: "Replace the gasket when you see coffee leaking from the join between the upper and lower chambers during brewing, or when the two halves no longer tighten to a firm seal. On daily-use pots, that typically happens every twelve to eighteen months. Bialetti sells replacement gasket and filter kits sized for their standard pot sizes — it is a straightforward swap that takes a few minutes and extends the pot's working life considerably."
+safety_topics:
+  - moka-pot-heat
 ---
 
 The Bialetti Venus stainless steel moka pot is a specific answer to a specific question: you want stovetop espresso, you want stainless steel, and you want Bialetti's track record behind it. What separates a good moka pot purchase from a frustrating one usually comes down to three things , size, stovetop compatibility, and build quality , and this category gets those trade-offs wrong more often than it should. The right pick among [Brewing Methods](/brewing-methods/) options depends on what you're actually cooking on and how many cups you're making.

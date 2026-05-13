@@ -49,6 +49,17 @@ products:
 tags: ["pods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Java House cold brew pods vs. Keurig or Nespresso pods — how are they different?"
+    answer: "Java House cold brew pods use a peel-and-pour format that requires no machine at all — peel the foil, pour the concentrate over ice or water, done. Keurig and Nespresso pods require their respective brewers to function. The Java House format is deliberately equipment-free, which is its travel advantage, but it also means it doesn't integrate with any pod ecosystem you already own."
+  - question: "Colombian medium roast vs. Sumatran dark roast cold brew pods — which is better for someone new to cold brew?"
+    answer: "The Colombian medium roast is the lower-risk starting point. It's brighter, more forgiving, works over ice with just water, and approximates what most people expect from a coffee shop cold brew order. The Sumatran dark roast is earthier and heavier, which suits drinkers who already know they want weight and depth over clarity — but it can read as too bitter or intense if you're not already a confirmed dark-roast drinker."
+  - question: "Can you use Java House cold brew pods to make hot coffee?"
+    answer: "Yes, with a caveat. The concentrate is labeled for hot or iced use and does work dissolved into hot water. The result won't taste like drip coffee or espresso — cold brew concentrate produces a smoother, less acidic hot cup because the extraction method is fundamentally different from hot brewing. It's a reasonable travel substitute, not a like-for-like replacement for a hot-brewed cup."
+  - question: "Are the Java House Espresso Martini pods useful if you don't make cocktails?"
+    answer: "Not really. The Espresso Martini pods are calibrated for cocktail use — the French vanilla notes and sweetness level are matched to that application. Drunk straight over ice, the flavor profile is dessert-adjacent rather than coffee-forward. For flavored cold brew pod use outside cocktails, the salted caramel pods serve that lane better."
+  - question: "Java House 32-ounce concentrate bottle vs. 12-count pod box — which gives more servings?"
+    answer: "A 12-count pod box gives you 12 individual servings. The 32-ounce 4:1 concentrate makes roughly eight 8-ounce finished drinks at the recommended dilution ratio — fewer servings, but significantly more flexibility over concentration. The concentrate is the better value for home use where you can measure; the pods earn their premium for travel and single-serve convenience."
 ---
 
 Cold brew at home is easy enough , but cold brew anywhere, without equipment, without a refrigerator, and without a mess, is a different problem. Java House cold brew pods solve it with a peel-and-pour capsule format that needs nothing more than a glass and whatever liquid you're diluting into. For the [Pods & Capsules](/pods/) category, they occupy a specific and genuinely useful niche.

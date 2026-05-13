@@ -49,6 +49,17 @@ products:
 tags: ["cold-brew", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What coffee-to-water ratio should I use for cold brew concentrate?"
+    answer: "A 1:4 ratio by weight — one part coffee to four parts water — produces a strong concentrate meant to be diluted before drinking. For ready-to-drink strength, use a 1:8 ratio. Most purpose-ground cold brew bags including Bizzy and Lifeboost perform well at the standard concentrate ratio. Start there and adjust based on how you prefer the final result after dilution with water or milk."
+  - question: "How long should coarse ground coffee steep for cold brew?"
+    answer: "Twelve to twenty-four hours covers the practical range, at room temperature or in the refrigerator. Coarser grounds extract more slowly, which is why grind size and steep time work together. A well-sifted coarse ground at 18 hours in the fridge produces a clean, smooth concentrate. Below 12 hours most grounds are under-extracted; above 24 hours you risk a dull, flat result even with quality coffee."
+  - question: "Bizzy vs Lifeboost — which is better for someone with acid sensitivity?"
+    answer: "Lifeboost is the right answer for acid sensitivity. Lifeboost specifically targets low-acid performance through bean selection, high-altitude sourcing, and processing method — low-acid is a design goal, not a side effect. Bizzy produces an excellent smooth concentrate, but low-acid isn't what it's engineered around. If stomach sensitivity is why you're making cold brew instead of hot coffee, Lifeboost is the more targeted choice."
+  - question: "Does pre-ground cold brew coffee go stale faster than whole bean?"
+    answer: "Yes, meaningfully. Ground coffee exposes more surface area to oxygen, accelerating oxidation of the volatile compounds responsible for flavor. A sealed, nitrogen-flushed bag stays stable for months, but once opened, pre-ground coffee should be used within three to four weeks for best results. Purpose-ground options like the micro-sifted Bizzy are packaged with freshness in mind, but whole bean still holds its character longer."
+  - question: "Can I use cold brew coarse grounds for regular hot coffee?"
+    answer: "You can, but the results will be poor. Grounds designed for a 12-to-24-hour cold steep are too coarse for most hot brewing methods — a standard drip brewer will under-extract them and produce a weak, watery cup. A French press or percolator is the most compatible hot-brew application at that grind size. For consistent hot coffee results, keep a separate grind or whole-bean supply."
 ---
 
 Cold brew made at home is cheaper, more consistent, and better than most of what you'll buy ready-to-drink , but the grounds matter more than most people expect. The wrong grind size turns a 12-hour steep into something bitter and over-extracted. For [Cold Brew & Iced Coffee](/cold-brew/) drinkers making a serious habit of it, pre-ground options milled specifically for cold brew remove one real variable from the process.

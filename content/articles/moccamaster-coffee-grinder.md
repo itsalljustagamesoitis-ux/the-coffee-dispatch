@@ -49,6 +49,19 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the Technivorm KM5 only compatible with Moccamaster brewers?"
+    answer: "No — the KM5 is a standalone burr grinder that works with any drip brewer. Technivorm designed the grind calibration to align with Moccamaster brew times and temperatures, but there is no technical lock-in. Both the polished silver and matte white versions are identical in performance; the choice between them is purely about kitchen aesthetics."
+  - question: "Cuisinart DBM-8P1 vs. OXO Brew Conical Burr Grinder for drip coffee: which is better?"
+    answer: "Both are solid drip grinders with different strengths. The Cuisinart has automatic cup-size metering that removes manual measurement from the morning routine — set it once for your preferred dose and repeat daily. The OXO has better cleaning access and a conical burr profile that many filter brewers prefer, and the hopper seats more securely over time. If workflow automation is your priority, the Cuisinart wins. If you want a grinder that's easier to maintain clean over months of daily use, the OXO has the edge."
+  - question: "Can any of the grinders in this lineup handle espresso?"
+    answer: "None of them are purpose-built for espresso. The KM5 and OXO are drip and filter tools. The Cuisinart can technically grind finer than its optimal range but not with the consistency or micro-adjustment precision that espresso extraction demands. If espresso is your primary method, a dedicated espresso grinder with stepless or near-stepless adjustment is the right tool — these options will produce a technically fine grind but not a reliably dialed-in one."
+  - question: "Does a 48-setting grinder like the Aromaster grind more precisely than an 18-setting grinder?"
+    answer: "Not necessarily. Grind consistency depends on burr machining quality and engineering tolerances, not setting count alone. The Aromaster's 48 settings give you more adjustment positions, but the actual particle size distribution at any given setting is a function of burr quality, not the number of clicks between steps. A well-engineered grinder with fewer settings outperforms a poorly built one with many. Setting count is a feature, not a precision guarantee."
+  - question: "How do I clean a burr grinder and how often should I do it?"
+    answer: "A brush wipe of the burr chamber after every session is good practice — coffee oils go stale quickly and transfer into fresh beans. Full burr removal and a thorough clean every two to four weeks keeps performance stable. OXO's cleaning access is a genuine differentiator in this comparison: a grinder that makes disassembly straightforward is one you'll actually clean on schedule. Grinders that require a toolkit to access the burrs often don't get cleaned until the problem is obvious."
+safety_topics:
+  - electric-grinder
 ---
 
 Choosing a grinder is where most home coffee setups either succeed or fall apart, and the Moccamaster name creates genuine confusion in this category. Technivorm makes the KM5 specifically to pair with their drip brewers, but that doesn't automatically make it the right choice for every buyer. A quick look at the [Coffee Grinders](/grinders/) hub makes clear how many options occupy this space , the field is wider than the Moccamaster branding suggests.

@@ -42,6 +42,17 @@ products:
 tags: ["cold-brew", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Java House concentrate pods vs. on-tap box — which format actually makes sense for daily home use?"
+    answer: "The on-tap 128-ounce box is more cost-efficient per ounce and requires no dilution step, making it the better daily-use format if you have refrigerator space for it. The concentrate pods are the right call when your cold brew habit is irregular, location-dependent, or when you want the option to serve it hot — they're shelf-stable until opened and produce one drink per pod with no measuring required."
+  - question: "Medium roast on-tap vs. dark roast espresso on-tap — which Java House version should I buy?"
+    answer: "The Colombian medium roast on-tap is lighter, brighter, and best suited for drinking cold brew black. The dark roast espresso version is bolder, lower-acid, and holds up better when diluted with ice and milk — the right pick for iced lattes or any milk-heavy drink where you want the coffee to cut through. If you're uncertain, start with medium roast; there's nowhere to go from dark roast if you find it too intense."
+  - question: "How long does an opened Java House on-tap box last in the refrigerator?"
+    answer: "An opened on-tap box is typically good for up to 30 days refrigerated. At 128 ounces and roughly 16 servings, a single daily drinker finishes the box in about two weeks — well within that window. For irregular drinkers or shared households with unpredictable consumption, the concentrate pods are more forgiving on the shelf-life question."
+  - question: "Java House cold brew vs. making your own — is the convenience premium worth it?"
+    answer: "Pre-made cold brew costs more per serving than DIY cold brew, which is an unavoidable structural fact of the format. The honest question is whether the convenience premium matches your life. If you won't maintain a weekly brew cycle, never have 12 to 24 hours of lead time, or travel frequently, the on-tap format is a legitimate solution. If you'd make cold brew consistently with a Hario or mason jar setup, the cost gap between DIY and pre-made is hard to justify."
+  - question: "Can you make hot coffee with Java House cold brew products?"
+    answer: "The concentrate pods are specifically labeled for hot or iced use — dissolving a pod in hot water produces a hot cup. The on-tap ready-to-drink boxes are designed for cold consumption only; heating them changes the flavor profile significantly because cold brew concentrate was never intended for hot brewing. If serving hot coffee matters, the liquid pod concentrate is the only Java House format that genuinely supports it."
 ---
 
 Ready-to-drink cold brew is a reasonable convenience purchase, but most of what lines grocery store shelves is watery, overpriced, or both. Java House occupies a specific niche in the [Cold Brew & Iced Coffee](/cold-brew/) market , pre-made concentrate pods and on-tap boxes aimed at people who want cold brew without a brewing setup. The question worth answering is whether the convenience justifies the tradeoffs.

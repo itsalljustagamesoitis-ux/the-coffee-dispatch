@@ -49,6 +49,17 @@ products:
 tags: ["pods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Reusable Nespresso Vertuo pods — do they actually work with my machine?"
+    answer: "They work, but compatibility is not universal across the VertuoLine range. The Vertuo Pop and Evoluo have different capsule seating geometry from the VertuoPlus and VertuoNext, and a pod that seats correctly in one machine may produce weak extraction or error codes in another. Check every product listing against your exact model number — listings that name specific models like XN903 or ENV150 are more trustworthy than ones that claim generic VertuoLine compatibility."
+  - question: "Foil lid kit vs. stainless steel reusable capsule — which is worth buying?"
+    answer: "Foil lid kits like the Nessus repurpose spent original capsules, so the upfront cost is low and you can start immediately with pods you already have. The foil lids are single-use consumables, though — 100 lids covers roughly three months of daily use. Stainless steel capsules are a one-time purchase with no ongoing material cost beyond coffee, and they rinse clean in seconds. If reusable pods will be your primary method, stainless steel earns back its higher price quickly. If you want a low-commitment trial first, start with a foil lid kit."
+  - question: "What grind size works best in a reusable Vertuo pod?"
+    answer: "Match grind size to the capsule volume. For the 70ml espresso format, a medium-fine grind similar to moka pot fineness extracts well through the Vertuo's centrifusion system. For the larger 230ml capsules, a standard medium drip grind works better than espresso fineness — an espresso grind restricts flow at that volume and produces an uneven extraction. Expect to dial in over two or three calibration fills before the results are consistent."
+  - question: "Why does my refilled Vertuo pod leak or produce weak coffee?"
+    answer: "The seal is almost always the cause. Grounds on the capsule rim prevent the foil lid from bonding correctly, allowing water to bypass the coffee bed. The article is direct about this: wipe the capsule rim clean before applying every foil lid. A deformed rim from rough seal removal causes the same problem — the lid remover tool included in the NESSUS Refill Kit is specifically designed to keep the rim flat and clean, which is where the process either works or fails."
+  - question: "Can I use pre-ground coffee in a reusable Vertuo pod?"
+    answer: "Pre-ground coffee works mechanically — the machine has no way to detect what's in the pod — but the cup quality is noticeably flatter than freshly ground. The Vertuo's centrifusion extraction is sensitive to grind consistency, and the volatile aromatics that pre-ground coffee loses within days of grinding are exactly what defines a good cup. If you're already buying pre-ground, reusable pods still save money and reduce waste compared to original capsules. But the full value of the workflow only shows up when you're grinding fresh."
 ---
 
 Switching to reusable Nespresso Vertuo pods is one of those decisions that sounds complicated until you actually try it , fill a capsule, seal it, brew it. Most Vertuo owners don't realize how straightforward the process is, or how many options exist beyond the [Pods & Capsules](/pods/) ecosystem Nespresso wants you to stay inside. The real question isn't whether reusable pods work. It's which format suits how you actually brew.

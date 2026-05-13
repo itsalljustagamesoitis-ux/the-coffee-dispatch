@@ -49,6 +49,17 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Hario Skerton Pro vs original Skerton for pour-over: which is better?"
+    answer: "The Skerton Pro is better for pour-over. It added a stabilizing rod to the burr mechanism that reduces wobble at finer grind settings, which is a real problem with the original when grinding at medium-fine pour-over range. For French press and cold brew where you grind coarse, both perform similarly. For pour-over, the Pro is meaningfully more consistent. Unless you find the original at a significantly lower price for coarse-grind use only, the Pro is the correct buy."
+  - question: "Can I use a Hario manual grinder for espresso?"
+    answer: "Not practically. The burr diameter in this range of manual grinders is too small to produce the volume of fine grounds espresso requires without exhausting effort, and the adjustment mechanism does not offer the fine-increment precision espresso demands. These grinders cover filter methods well: pour-over, AeroPress, French press. For espresso, a dedicated electric burr grinder is the appropriate tool regardless of budget."
+  - question: "Hario Mini-Slim Plus vs Skerton Pro: which is right for me?"
+    answer: "The Mini-Slim Plus is a travel grinder: slim, lightweight, and designed for single-cup brewing away from home. The Skerton Pro is a home grinder with larger capacity, a more stable burr mechanism, and better ergonomics for daily use at a fixed station. If your primary need is something that fits in a bag for travel brewing, the Mini-Slim Plus is the right choice. For daily home use, the Skerton Pro is the better grinder by a clear margin."
+  - question: "How often should I clean a Hario ceramic burr grinder?"
+    answer: "Every two to three weeks with regular use is a reasonable interval: disassemble, brush out retained grounds from the burr chamber and adjustment mechanism, and reassemble. Clean more frequently if you are switching between different coffees or roast levels. Ceramic burrs do not require sharpening or rust treatment. Avoid grinding oily or very dark-roasted beans without cleaning afterward, as the residue builds up faster and affects subsequent grind flavor."
+  - question: "Does the Hario Outdoor V60 Metal Mill grind as well as the Skerton Pro for home use?"
+    answer: "For daily home use at a fixed station, the Skerton Pro is the more practical choice. Its larger capacity and slightly more refined grind adjustment suit home workflows better. The Outdoor V60 Metal Mill earns its place specifically for outdoor and travel use where the all-metal construction provides a durability advantage over glass-chambered models. Both use ceramic burrs and produce consistent results for filter brewing, but the case for the Outdoor V60 is robustness in pack-and-carry situations, not improved grind quality."
 ---
 
 Hario makes some of the most recognizable manual grinders in the specialty coffee world, and for good reason , the ceramic burr mechanism they've refined over decades produces consistent particle size at a price that doesn't require justification. If you're coming from a blade grinder, even the most basic Hario will be a categorical improvement. Understanding which model fits your situation, though, takes more than reading the box.

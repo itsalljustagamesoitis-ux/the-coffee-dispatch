@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Stanley 16oz vs Stanley 32oz travel French press — which one should I get?"
+    answer: "They serve different use cases rather than one being objectively better. The 16oz is an integrated brew-and-drink mug with a leakproof lid designed for single-serve travel — commuting, day hiking, moving through airports. The 32oz is for situations where you are brewing for two people or want multiple cups without brewing twice. If you are solo and value low weight and a sealed lid, the 16oz is the cleaner answer. If you are car camping with a partner who also drinks coffee, the 32oz is the practical floor."
+  - question: "What grind size works best in a travel French press?"
+    answer: "Coarse grind is the right call for French press, and it matters more in a travel context where you are often drinking directly from the press rather than pouring into a separate cup. A coarser grind produces less sediment and passes through the filter more cleanly. If you are traveling without a grinder and buying pre-ground, look for anything labeled French press or coarse — medium or fine grind will produce a murkier, more bitter cup and significantly more sediment."
+  - question: "Can I brew a travel French press in a hotel room or on a plane?"
+    answer: "A travel French press requires hot water but no power outlet — you are brewing, not heating. On a plane, you can ask for hot water from the galley. In a hotel room, an electric kettle or the in-room coffee maker used for hot water only works. The Bodum Travel Press and both Stanley options are particularly well-suited here because their insulated construction keeps water hot through the brew cycle even in a cold cabin environment."
+  - question: "Is the Ziruma non-toxic French press actually better for health-conscious users?"
+    answer: "The Ziruma's surgical stainless steel construction and plastic-free design address a real concern: cheap plastic components in cheaper presses can leach compounds into hot water over repeated use. The four-layer filter system also reduces sediment noticeably compared to single-screen designs. The trade-off is weight — the surgical stainless body is dense, and a full 34oz press is heavier than the 14 to 16oz single-serve options. For buyers where material purity matters and you are not counting grams, the Ziruma answers those questions most directly."
+  - question: "Do I need to bloom the coffee in a travel French press?"
+    answer: "Blooming — adding a small amount of water first to degas the coffee — is optional in French press and less impactful than in pour-over. It can improve flavor slightly with very fresh-roasted coffee by releasing CO2 before full immersion. For most travel situations with beans that are not days-old from roast, skip it. Add all your water at once, stir briefly, start the timer, press at four minutes."
 ---
 
 Travel changes what matters in a coffee setup. Weight, pack volume, and whether you can get a decent cup at a campsite or in a hotel room without carrying an extension cord all matter more than dial-in precision. A travel [French press](/brewing-methods/) solves most of that cleanly: no power required, no paper filters to pack, and a brew method that produces genuinely good coffee if you use it with any care.

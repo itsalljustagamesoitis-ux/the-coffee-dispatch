@@ -49,6 +49,19 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Burr vs blade grinder — does it actually matter for home brewing?"
+    answer: "It's the most consequential equipment decision in home brewing, and the answer is yes. Blade grinders produce an uneven mix of fine powder and coarse chunks that extract at different rates simultaneously — over-extracted fines add bitterness, under-extracted chunks add sourness, and you taste both at once. Burr grinders produce a consistent particle size that extracts evenly, which is the baseline requirement for any brew method worth the effort."
+  - question: "Is the Capresso Infinity Plus good enough for espresso?"
+    answer: "Functional for casual home espresso, but not optimized for shot-to-shot dialing in. The stepped adjustment gives you a usable fine range, and micro-adjustments between shots are limited compared to purpose-built espresso grinders. For a consumer machine pulling one or two shots a day, it's adequate. For anyone chasing precision extraction with a prosumer machine, it's a starting point rather than a destination."
+  - question: "What is the difference between the Capresso Infinity and the Infinity Plus?"
+    answer: "The Infinity Plus adds a larger bean hopper, a revised grounds container, and minor ergonomic refinements over the base 560.04 Infinity. The core slow-speed conical burr mechanism and grind quality are closely matched between the two. For a single-person household, the base Infinity is sufficient; the Plus earns its keep for households grinding higher volumes daily."
+  - question: "Which Infinity Plus finish holds up best on a counter?"
+    answer: "The stainless steel finish ages best under daily handling — it resists staining from coffee oils, wipes clean easily, and doesn't accumulate visible dust the way black does or show water marks the way white does. The performance is identical across all three Infinity Plus variants, so if you have no strong aesthetic reason to choose black or white, stainless is the durable default."
+  - question: "How often does a Capresso Infinity burr grinder need cleaning?"
+    answer: "A full burr cleaning every three to four weeks is a reasonable interval for someone grinding one to two batches daily. That means removing the upper burr assembly and brushing out accumulated coffee fines. Light cleaning of the grounds container and chute can happen weekly. Coffee oils accumulate over time and contribute off-flavors if left unchecked, so regular maintenance extends both grinder life and cup quality."
+safety_topics:
+  - electric-grinder
 ---
 
 Choosing a Capresso coffee grinder means navigating a surprisingly specific lineup , blade versus burr, entry-level versus upgraded, finish options that all share the same family name. If you already know you want a burr grinder, the Capresso range makes that decision easier than most mid-range brands. If you're less certain, that's worth sorting out before you spend anything. The full range of [coffee grinders](/grinders/) is broader than this one brand, but Capresso has earned its place in it.

@@ -35,6 +35,19 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is a stainless steel moka pot better than an aluminum one?"
+    answer: "For most buyers, yes — with nuance. Stainless steel is easier to clean, does not discolor over time, and won't react with acidic coffee the way aluminum can after extended use. Aluminum pots are lighter and typically less expensive, and the classic Bialetti design has a proven long-term track record. If you're on induction, aluminum is not an option anyway. For everyday durability and flavor neutrality, stainless is the more practical long-term choice."
+  - question: "Which of these stainless moka pots works on induction?"
+    answer: "Only pots with specifically designed induction-compatible bases will work. The Bialetti Moka Induction and the WALDWERK are both induction-compatible in this lineup. The Bialetti Venus 2-cup is not — its listing explicitly states it is not suitable for induction. Verify compatibility before purchasing if you have or plan to install an induction hob, because stainless steel alone does not guarantee induction compatibility."
+  - question: "What is the practical difference between a 2-cup and a 4-cup stainless moka pot?"
+    answer: "The 2-cup Venus produces approximately 85ml of coffee — two espresso-sized servings. The 4-cup Moka Induction produces roughly 5.7 oz, which is closer to two generous espresso drinks or one longer, diluted cup. The critical practical point is that moka pots should be filled to capacity each use — you cannot reliably brew a half-load. Choose the size that matches your daily pour, not your maximum possible requirement."
+  - question: "How long does a stainless steel moka pot typically last?"
+    answer: "A well-built stainless moka pot should last ten or more years with normal use. The components that wear are the rubber gasket and the filter basket, not the steel body — both are replaceable, and Bialetti sells spare parts for their models. The WALDWERK's oak handle requires hand-washing rather than dishwasher use to maintain condition, but the steel body itself will outlast most other kitchen equipment at this price level."
+  - question: "Does a moka pot actually make espresso?"
+    answer: "Technically, no. Espresso is defined by extraction at around 9 bar of pressure; a moka pot operates at 1 to 2 bar. The result is concentrated, intense coffee that resembles espresso in character — used similarly as a base for milk drinks or drunk straight in small quantities — but the extraction physics are different. Calling it stovetop espresso is a useful shorthand for the flavor profile, not a precise technical description."
+safety_topics:
+  - moka-pot-heat
 ---
 
 The moka pot gets undersold. It sits in the stovetop section of the brief, gets lumped in with French presses and percolators, and most buyers assume it's a compromise , something you use until you can afford a proper espresso machine. That framing is wrong. A [Brewing Methods](/brewing-methods/) section that doesn't include a quality stainless steel moka pot is missing one of the most efficient, repeatable, and honest cups in home coffee.

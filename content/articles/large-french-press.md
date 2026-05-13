@@ -42,6 +42,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How many cups does a 50-ounce French press actually produce?"
+    answer: "Expect five to six standard mugs, not the eight cups the label might suggest. Coffee grounds absorb water during brewing, and leaving the last ounce or two in the carafe avoids the heaviest sediment layer. A 50-ounce press is well-matched for two people who each want two large mugs, or a single person brewing a batch to drink over an hour."
+  - question: "Stainless steel vs. glass for a large French press — which is more practical?"
+    answer: "For a large press specifically, stainless steel is the more practical choice. At 50 ounces, a glass carafe is heavier, more fragile, and provides no insulation — coffee cools noticeably within fifteen to twenty minutes. Double-wall stainless keeps coffee hot for up to an hour and handles daily use without breakage risk. Glass has one genuine advantage: you can watch the brew color develop during steeping, which some brewers use as an extraction indicator."
+  - question: "Secura vs. Belwares 50-ounce French press — which is the safer buy?"
+    answer: "Both are 50-ounce double-wall 304 stainless presses with similar filter configurations. The Secura carries more years of ownership data — multi-year reviews exist in volume that the Belwares cannot match yet. Belwares includes two extra filters in the box, which is a practical value addition. If proven track record matters most, Secura is the lower-risk choice. If you want spares included from day one, Belwares has the edge."
+  - question: "How coarse should the grind be for a French press, and why does it matter so much?"
+    answer: "Coarser than most people expect — roughly the texture of coarse sea salt or breadcrumbs. Fine grinds pass through the filter mesh, produce excess sediment, and over-extract quickly during the four-minute steep. Grind consistency matters as much as coarseness: an uneven grind from a blade grinder produces a simultaneously bitter and flat cup regardless of press quality. A burr grinder is the correct tool for French press."
+  - question: "Can you use a large French press for cold brew?"
+    answer: "Yes, and it works well. Use a coarse grind, cold filtered water, and a twelve to sixteen hour steep in the refrigerator. The large 50-ounce capacity suits cold brew batches well — you're typically making a concentrate or a full batch to last several days. Plunge and decant into a sealed container promptly; cold brew left on grounds past the steep window doesn't over-extract aggressively but sediment continues to settle and flavor drifts."
 ---
 
 A large French press isn't a compromise piece of equipment. It's one of the most direct ways to brew coffee at home , no paper filters stripping oils, no electronics to babysit, no proprietary pods. The [Brewing Methods](/brewing-methods/) category rewards understanding the basics, and a well-built large press covers a lot of ground: weekday solo brewing, weekend guests, cold brew batches.

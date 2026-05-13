@@ -49,6 +49,17 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Hario Skerton vs. Skerton Pro — which one should I buy?"
+    answer: "The Skerton Pro adds a bearing on the lower burr that stabilizes it during grinding, which reduces wobble and narrows the particle distribution at coarser settings used for French press and Chemex. The original Skerton performs well for medium-fine pour-over ranges but shows measurable inconsistency at the coarse end. If you rotate between brew methods, the Pro earns its additional cost. If you brew exclusively V60 or drip at medium-fine, the original is adequate."
+  - question: "Can Hario manual grinders be used for espresso?"
+    answer: "No. Espresso requires extremely fine, highly consistent particle distribution and the ability to make micro-adjustments that compound over successive shots — demands that require a dedicated espresso grinder with tight burr tolerances. The Hario ceramic mills perform well for filter brewing from coarse French press down to medium-fine pour-over. For espresso, a different category of grinder applies entirely."
+  - question: "Is the Mini-Slim Plus good enough as a daily home grinder?"
+    answer: "For single-cup brewing by one person, it's manageable but not ideal. For two or more cups daily, the capacity becomes a real limiting factor — you'll grind in successive batches, which adds time and frustration to what should be a simple routine. The Mini-Slim Plus is best understood as a travel grinder that can serve as a backup home grinder, not the other way around."
+  - question: "How do you adjust grind size on a Hario ceramic grinder?"
+    answer: "Turn the inner burr nut at the top of the mechanism — clockwise tightens the burr gap for finer grinding, counterclockwise widens it for coarser output. The number of rotations determines how much the setting changes. Most users find their preferred pour-over setting within a few sessions through taste-based iteration; the adjustment isn't marked with numbers, so note your setting by counting rotations from fully tightened."
+  - question: "Hario Outdoor V60 Metal Mill vs. ceramic-body models — what's the real difference?"
+    answer: "The primary difference is construction material and context. The Outdoor V60 Metal Mill uses an all-metal body designed to survive field use without the fragility risk of ceramic-bodied grinders. It weighs more, which matters for backpacking but not for car camping. Grind quality is comparable to the ceramic models for filter brewing, so the choice is about use environment rather than cup quality."
 ---
 
 Manual coffee grinding is a commitment , every cup earns its flavor the hard way. For anyone serious about specialty coffee, [coffee grinders](/grinders/) in the manual category represent a deliberate choice: full control over burr pressure, zero electricity dependence, and a dose of meditative ritual before the first sip. Hario makes most of the grinders worth discussing in this space, which simplifies the decision and complicates it in equal measure.

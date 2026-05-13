@@ -49,6 +49,19 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Baratza Encore vs Encore ESP: which should I buy?"
+    answer: "The standard Encore is calibrated for filter brewing, drip, pour-over, and French press, with 40 stepped settings covering coarse to medium-fine. The Encore ESP shifts that calibration toward espresso, with a finer range and smaller adjustment steps in the espresso zone, while compressing the coarse end slightly. If your primary method is espresso or a mix of espresso and filter, the ESP is the better fit. If you only brew filter coffee, the standard Encore is sufficient and costs less."
+  - question: "Is the Baratza Encore good enough for espresso?"
+    answer: "The standard Encore can grind fine enough to pull a shot, but the step size in the fine range is large enough that dialing in precisely is difficult. Most users find they land between settings rather than on one. The Encore ESP and ESP Pro address this with a finer range and smaller increments. For casual espresso in milk drinks where small extraction differences are masked by the milk, the standard Encore is workable. For straight shots where you are tasting for flavor, the ESP variants are worth the difference."
+  - question: "Encore ESP vs Encore ESP Pro: what does the micro-adjustment ring actually change?"
+    answer: "The ESP Pro adds a micro-adjustment ring on top of the standard macro adjustment dial. That second ring allows fine-tuning within each numbered step rather than jumping between them, giving meaningfully more resolution for dialing in espresso without losing the repeatability of stepped adjustment. The standard ESP is capable for most home espresso users. The ESP Pro is for buyers who want to work more precisely, dialing in single-origin shots with target extraction yields."
+  - question: "Baratza Virtuoso+ vs Encore for filter coffee: is the upgrade worth it?"
+    answer: "The Virtuoso+ uses a larger, higher-tolerance burr set than any Encore variant, which produces more consistent particle distribution. In practice this means cleaner, more repeatable cups, especially for pour-over where extraction evenness is most noticeable. It also includes a digital timer for automated dose grinding. If you are serious about filter coffee and want the clearest grind quality improvement without moving into single-dose territory, the Virtuoso+ is a genuine step up."
+  - question: "Why should I choose a burr grinder over a blade grinder for coffee?"
+    answer: "A blade grinder produces an inconsistent mix of fine powder and coarse fragments that makes controlled extraction impossible. The result is coffee that is simultaneously over- and under-extracted regardless of recipe or technique. A burr grinder crushes beans between two surfaces set at a fixed distance, producing consistent particle sizes that you can actually dial in. Even the most affordable burr grinder produces categorically better results than any blade model. A blade grinder like the KitchenAid combo pack is genuinely useful for spices but is not a substitute for coffee."
+safety_topics:
+  - electric-grinder
 ---
 
 Finding the right entry point into burr grinding is harder than it looks , the Baratza Encore has been the default recommendation for years, but the lineup has expanded enough that "just get the Encore" no longer covers it. There are now three distinct Encore variants alongside meaningful alternatives, and the differences between them matter depending on whether you're brewing filter coffee, pulling espresso shots, or both. A quick look at the full range of [coffee grinders](/grinders/) before you buy is worth the time.

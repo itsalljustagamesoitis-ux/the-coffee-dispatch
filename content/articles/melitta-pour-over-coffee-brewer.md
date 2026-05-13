@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Melitta glass carafe vs. stainless steel carafe: which should I buy?"
+    answer: "For drinking coffee promptly after brewing, glass is fine and easier to monitor visually. For anyone who brews a full carafe and comes back to it over thirty to sixty minutes, the stainless steel carafe set is the better practical choice — thermal retention is meaningfully better, and stainless won't break if knocked off a counter. The flavor difference between glass and quality stainless is not perceptible in normal use."
+  - question: "Six-cup vs. 52-ounce Melitta pour-over: which capacity should I choose?"
+    answer: "The 52-ounce brewer holds roughly a third more than the six-cup model and suits households brewing for three to five people at once. The six-cup version is more appropriate for two to three people and produces a better result when you're not scaling down the brew. Buying the larger format for occasional small brews means consistently under-filling the carafe, which leads to weaker extraction and wasted capacity."
+  - question: "Do Melitta pour-overs require special filters?"
+    answer: "Yes. Melitta uses a flat-bottomed filter design that requires their specific filter sizes, which differ from Chemex, V60, or Kalita Wave filters — the formats are not interchangeable. Melitta filters are widely available at grocery stores and online, inexpensive in bulk, and easy to source mid-week when you run out. This is a manageable constraint, not a serious inconvenience."
+  - question: "What grind size works best with a Melitta pour-over brewer?"
+    answer: "Medium grind is the starting point for all Melitta pour-over brewers. The single-hole flat-bottomed design slows flow rate and extends extraction time compared to multi-hole cones, so erring coarser is safer than erring finer. If the cup tastes bitter or harsh, go slightly coarser; if it tastes thin or weak, go slightly finer. A burr grinder makes a bigger difference here than the specific setting — consistent particle size is the variable that most affects extraction evenness."
+  - question: "Is the cone-only Melitta brewer a good option for travel?"
+    answer: "The bare Melitta 64007 brew cone is the most portable option in the lineup — no carafe, no base, just the plastic filter holder used over any wide-mouthed cup. It fits in a travel bag without meaningful bulk and works over any stable vessel. For hotel rooms or camping where you have access to a kettle and hot water, it produces a genuine pour-over cup from a piece of equipment that costs almost nothing and weighs almost nothing."
 ---
 
 Melitta has been making pour-over brewers longer than most coffee companies have existed, and the core design hasn't changed much because it doesn't need to. If you're browsing [Coffee Makers](/coffee-makers/) and considering a manual brewer, the Melitta lineup is a reasonable place to start , simple, reliable, and cheap enough that a bad experience costs you almost nothing.

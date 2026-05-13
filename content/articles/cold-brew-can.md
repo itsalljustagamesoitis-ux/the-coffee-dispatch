@@ -49,6 +49,17 @@ products:
 tags: ["cold-brew", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is ready-to-drink cold brew worth buying or should I just make it at home?"
+    answer: "Ready-to-drink cold brew costs more per serving than homemade, and if you drink it daily, the gap compounds quickly. That said, RTD cold brew fills a real role for travel, commutes, and situations where brewing isn't practical. A reasonable approach is making your own for daily use and keeping a multi-pack of cans for convenience situations, rather than choosing one format entirely."
+  - question: "Standard cold brew can vs. nitro cold brew — what's actually different?"
+    answer: "Nitro cold brew is infused with nitrogen gas rather than carbon dioxide, which creates a measurably creamier texture and suppresses perceived bitterness — similar to what you'd get from a draft tap at a specialty coffee bar. Standard cold brew from a can is still and poured like any other canned beverage. The nitro experience requires serving cold and handling the can correctly; a warm nitro can poured carelessly will disappoint. Standard cold brew is more forgiving for varied environments."
+  - question: "Wandering Bear 32 oz carton vs. La Colombe 11 oz cans — which is better for daily home use?"
+    answer: "The Wandering Bear carton is better value for home use — lower per-ounce cost and the extra-strong formulation means you can dilute it to your preferred strength with water or milk. The La Colombe cans are optimized for portability; you open one and drink it, no measuring or pouring. Wandering Bear is also noticeably stronger than La Colombe's standard profile, so the two aren't directly comparable on intensity."
+  - question: "Sweetened or unsweetened cold brew cans — which should I buy?"
+    answer: "Unsweetened is the more versatile choice for most buyers. It gives you control over sweetness, works as a base for milk-based drinks, and doesn't lock you into a flavor profile you may not want every day. Fixed-sweetness products like the La Colombe Latte Draft Vanilla are worth buying if you want a self-contained beverage with no additional preparation — just try a smaller pack before committing to a 12-pack."
+  - question: "How long does an opened cold brew carton stay fresh in the refrigerator?"
+    answer: "Most shelf-stable cold brew cartons, including Wandering Bear, stay fresh for 7 to 10 days after opening when stored refrigerated with the cap sealed. Single-serve cans should be consumed once opened. The shelf-stable designation refers to the unopened product — once exposed to air, cold brew oxidizes and the flavor degrades relatively quickly compared to other beverages."
 ---
 
 Ready-to-drink cold brew has become the default convenience caffeine option for a lot of people, and for good reason , no equipment, no planning, no waiting eighteen hours. The [Cold Brew & Iced Coffee](/cold-brew/) category has expanded to cover everything from basic black cans to nitro-infused pours that arrive in a glass tasting like something you'd order at a counter. The question worth asking before you stock a case of anything is whether the product you're buying is actually good, or just convenient.

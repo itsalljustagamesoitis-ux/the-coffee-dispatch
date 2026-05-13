@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Espresso cold brew vs regular cold brew: what is the difference?"
+    answer: "Espresso cold brew typically refers to cold brew made with espresso-roast beans — darker, more intensely roasted coffee used to produce a concentrate with heavy body and low acidity. It does not involve an espresso machine or pressure extraction. The result is smoother and less acidic than pulled espresso, with bitterness softened by cold extraction rather than concentrated by pressure."
+  - question: "Electric cold brew maker vs passive pitcher: which should I buy?"
+    answer: "It depends entirely on your brewing habit. If you are willing to plan a batch twelve to twenty-four hours ahead, a passive pitcher produces excellent results at a lower equipment cost. If you regularly want cold coffee without advance planning — or have tried and abandoned cold brew because you forget to set it up — the VINCI Express Cold Brew removes that friction with a ten-minute brew cycle. The flavor difference is minor for most drinkers."
+  - question: "How long does cold brew concentrate stay fresh in the refrigerator?"
+    answer: "In a standard pitcher with a loose-fitting lid, cold brew concentrate holds for three to four days before flavor degradation becomes noticeable. In an airtight vessel, five to seven days is realistic without significant loss of character. Store concentrate undiluted and add water or milk at serving — concentrate stores longer than diluted coffee."
+  - question: "What mesh grade do I need in a cold brew filter to avoid sediment?"
+    answer: "Fine-mesh stainless at 300 to 350 mesh is the minimum worth accepting. The Maestri House compact maker ships with a 350-mesh filter, which produces noticeably cleaner results than coarser options. Manufacturers who do not specify mesh grade usually do not have a compelling number to publish — that omission is a signal."
+  - question: "What size cold brew maker should I buy for one daily drinker?"
+    answer: "A 40 to 51oz maker is sufficient for a single daily drinker, providing four to five generous servings before you need to reload. If you find yourself refilling more than once every three days, size up. The 1-gallon format makes more sense for two or more drinkers, or anyone who uses cold brew concentrate in cocktails or cooking and wants to go a full week between brew sessions."
 ---
 
 Espresso cold brew sits at a specific intersection: the concentrated, intense character of espresso applied to cold extraction. If you've been searching [Espresso & Espresso Machines](/espresso/) for a cold brew setup that actually delivers that depth without a full espresso rig, the options are more varied than they first appear , and the category label "espresso cold brew" gets applied loosely enough to cover products that have almost nothing in common.

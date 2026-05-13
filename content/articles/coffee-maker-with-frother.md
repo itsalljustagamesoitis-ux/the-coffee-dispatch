@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "3.5-bar vs. 15-bar espresso machine — does the pressure difference actually matter?"
+    answer: "Espresso extracts correctly at around 9 bars of pressure. A 3.5-bar machine like the HBN produces a strong coffee concentrate — the body and crema will be noticeably lighter than a true espresso. A 15-bar machine like the Neretva operates above the necessary threshold, giving you the extraction pressure for genuine crema and fuller body. The pressure specification is one of the most meaningful numbers on any espresso machine listing."
+  - question: "Ninja Pod & Grounds vs. Tastyle single-serve — which frother setup is better?"
+    answer: "The Ninja has the stronger brand track record, which matters for an appliance with this many components. The Tastyle's detachable frother is a practical advantage — you can clean it independently and use it while the coffee is still brewing, rather than sequentially. If brand support is your priority, the Ninja wins. If you want a detachable frother and a 40-ounce removable reservoir, the Tastyle earns serious consideration."
+  - question: "Do I need a separate burr grinder if I buy the Neretva 15-bar machine?"
+    answer: "Yes. Espresso extraction is sensitive to grind consistency in a way drip coffee isn't. A blade grinder produces uneven particles that cause uneven extraction — some grounds over-extracted and bitter, some under-extracted and sour. A capable burr grinder is not optional equipment for a semi-automatic machine; it's part of the system. A 15-bar pump specification is irrelevant if the grind feeding it is inconsistent."
+  - question: "Which of these machines is best for someone who mostly drinks drip coffee but occasionally wants a latte?"
+    answer: "The Ninja Pod & Grounds single-serve is the most practical starting point. It handles K-Cup pods and ground coffee, removes most brewing variables, and produces decent frothed milk without requiring any technique. Buying an espresso machine when your primary drink is drip coffee leads to a machine that sits unused after the novelty fades — the Ninja's format avoids that mismatch."
+  - question: "What are the honest limitations of the HBN 3.5-bar machine for milk drinks?"
+    answer: "The HBN produces a strong coffee concentrate rather than true espresso — three and a half bars is less than half the pressure needed for correct extraction. The crema is thinner, the body lighter, and the shot lacks the emulsified richness of a properly pulled espresso. The panarello-style frother produces foam rather than microfoam. It's a compact, practical milk-drinks machine for someone who wants convenience over precision — not a stepping stone toward serious espresso technique."
 ---
 
 Most coffee makers brew coffee. The ones worth thinking about also froth milk , and the gap between a machine that does both adequately and one that does both well is wider than it looks on a product page. Browse the [Coffee Makers](/coffee-makers/) category long enough and you'll find everything from bare-bones drip machines to semi-professional espresso setups, all claiming to handle lattes and cappuccinos.

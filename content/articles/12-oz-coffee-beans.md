@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Roast date vs best-by date on coffee bags — which one actually matters?"
+    answer: "The roast date is the only number worth using. A best-by date tells you when the manufacturer expects the coffee to still be acceptable, typically 12 to 18 months from roast, and reveals nothing about freshness. The roast date tells you exactly when the beans were viable. For espresso, three weeks from roast is the outer limit; pour-over and drip can stretch to four to six weeks."
+  - question: "Is whole bean coffee meaningfully better than pre-ground at the 12 oz size?"
+    answer: "Yes, and the format makes it the baseline for anything worth buying on this list. Coffee begins oxidizing the moment it's ground, and pre-ground beans lose volatile aromatics before you open the bag. Every product here is whole bean, which means you need a grinder — but a mid-range burr grinder closes most of the quality gap between home and café results in a way that pre-ground coffee simply cannot."
+  - question: "What is the difference between Colombian and Sumatran origin at this roast size?"
+    answer: "They produce genuinely different cups, not slight variations. The Amazon Fresh Colombia is medium roast with clean, balanced acidity and mild body — versatile and approachable across brew methods. The Amazon Fresh Organic Fair Trade Sumatra is dark roast with heavy body, low acidity, and earthy depth typical of Indonesian origin beans. Origin and roast level compound each other here, so the difference is significant."
+  - question: "Which 12 oz whole bean option is best for espresso?"
+    answer: "The Amazon Fresh Organic Fair Trade Sumatra dark roast handles espresso the most naturally among these five — heavy body and low acidity align well with pressurized extraction. The medium roast Colombian is also workable for espresso, though light roast pulls can taste sharp or astringent because extraction pressure amplifies acidity. Match roast level to your brew method before everything else."
+  - question: "How quickly should I work through a 12 oz bag of whole bean coffee?"
+    answer: "One to two weeks is the ideal consumption window for one to two daily drinkers. At roughly 20 to 22 grams per double shot, a 12 oz bag yields approximately 15 to 16 espresso sessions, or about six to seven days of daily drip brewing. Working through it in that window keeps freshness consistent from first cup to last — the format is well-sized for exactly this cadence."
 ---
 
 Twelve-ounce bags of whole bean coffee occupy a specific and useful niche: enough to stay fresh through a week or two of daily brewing, small enough that you're not locked into a bag you'll hate halfway through. If you're building out a home setup or rotating through different roasts and origins, this is the [Coffee Beans & Roasts](/beans/) format that makes the most sense. The products below span light through dark roast, with a range of origins and brands worth understanding before you buy.

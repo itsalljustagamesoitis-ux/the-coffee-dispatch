@@ -49,6 +49,19 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Fellow Ode Gen 2 vs MiiCoffee DF64 II — which grinder should I buy for home espresso?"
+    answer: "The Fellow Ode Gen 2 is designed primarily for filter brewing and does not go fine enough for most espresso workflows — that is a deliberate design choice, not a gap. If espresso is your primary method, the MiiCoffee DF64 II is the more versatile choice at this tier, handling both espresso and filter work with reasonable competence. The Baratza Encore ESP is worth considering if after-sales service and replacement parts availability matter to you — Baratza's support network is a genuine differentiator."
+  - question: "Does grind retention actually matter for home espresso?"
+    answer: "It depends on how you buy coffee. If you are buying specialty beans in small quantities and rotating between roasters or origins, retention affects both flavor and value — stale grounds from your last grind session contaminate the fresh dose. If you are grinding the same beans daily without changing settings often, the effect is less acute. For anyone serious enough about coffee to be evaluating single-dose grinders, retention is worth treating as a real criterion rather than a marketing talking point."
+  - question: "Can a budget burr grinder like the AMZCHEF produce espresso-quality grinds?"
+    answer: "The AMZCHEF has 75 settings and a conical burr sized for espresso work, so it can grind fine enough for espresso. The practical question is consistency and longevity over daily use. Budget-tier burrs and motors produce acceptable results early, but the consistency that espresso demands becomes harder to maintain as components wear. It is a reasonable starting point for someone moving off a blade grinder, but the upgrade signal typically comes within a year of daily espresso use."
+  - question: "What is the difference between 31 grind settings and 75 settings — does more settings mean better adjustment?"
+    answer: "Step count alone does not tell you much without knowing where those steps fall across the grind range. Thirty-one steps calibrated for filter brewing can provide excellent adjustment resolution for pour-over. Seventy-five steps spread across an enormous range might give you fewer useful increments at espresso fineness. The more useful question is whether the grinder has fine enough steps in the specific range your brew method requires — the Fellow Ode Gen 2's 31 steps are deliberately concentrated in the filter range where they matter."
+  - question: "Single-dose grinder vs hopper design — which is better for someone who rotates between different beans?"
+    answer: "Single-dose is the right call if you rotate between roasters or origins. High-retention hopper grinders mean stale grounds from your previous bean contaminate the fresh dose — you lose both the first several grams and the cleanliness of the new coffee. All five grinders in this article are single-dose designs, which reflects a real shift in what the home espresso market wants. The single-dose workflow takes slightly more time per morning, but the freshness and flexibility trade-off is clearly worth it for anyone buying specialty coffee seriously."
+safety_topics:
+  - electric-grinder
 ---
 
 Finding a grinder that actually matches how you brew , and how obsessively you think about it , takes more than skimming a spec sheet. The [Coffee Grinders](/grinders/) category has expanded significantly in the last few years, and the Varia name keeps appearing in searches alongside some genuinely strong competition. This article works through five grinders worth considering, with an honest assessment of what each one is actually good for.

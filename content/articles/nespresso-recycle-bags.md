@@ -49,6 +49,17 @@ products:
 tags: ["pods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does Nespresso's recycling program require me to open the capsules first?"
+    answer: "No. Nespresso's own program accepts whole, intact capsules. You collect used pods in the provided recycling bag or a dedicated container, then drop the bag at a Nespresso boutique or participating partner location. The separation and processing happens at their recycling facility, not in your kitchen. A pressing or splitting tool is only necessary if you are routing capsules through municipal aluminum recycling, which typically requires clean, grounds-free material."
+  - question: "EcoPress vs. CAFEMASY recycling bin — which should I buy?"
+    answer: "The EcoPress is a per-capsule pressing tool — you process one pod at a time immediately after brewing. The CAFEMASY bin functions as a batch separator, collecting multiple capsules and facilitating grounds removal in volume. High-volume households tend to find batch processing more practical. Single-capsule-per-session users, or those who want a clean one-action habit at the machine, tend to prefer the EcoPress."
+  - question: "Do these recycling tools work with Original Line capsules, or only Vertuo?"
+    answer: "Both the EcoPress and the CAFEMASY bin are designed specifically for Vertuo capsules, which are larger and dome-shaped. They are not compatible with Original Line pods. The Nespresso Capsule Recycling Container Black functions as a collection bin and is more format-agnostic in practice, though it is primarily marketed for the Vertuo system. If you are running an Original Line machine, check compatibility carefully before purchasing a splitting tool."
+  - question: "Are third-party Vertuo capsules recyclable through Nespresso's program?"
+    answer: "Generally no. Nespresso's recycling program is designed for Nespresso-branded aluminum capsules. Third-party capsules vary in material composition — some use composite plastics, some aluminum with different seal constructions — and most are not accepted through Nespresso's official route. If recycling matters to you, sticking with Nespresso's own capsules and using their program is the most coherent approach."
+  - question: "How large a collection container do I actually need?"
+    answer: "Size the container to hold roughly two weeks of your actual usage volume. A two-person household running four shots a day generates about thirty pods per week. A container that holds two weeks of capsules reduces the mental overhead of the habit and prevents it from becoming a daily decision. Nespresso's recycling bags are sized for a specific capsule count, so filling the bag fully before a drop-off trip is more efficient than making multiple partial trips."
 ---
 
 Most Nespresso Vertuo capsules end up in the bin. The aluminum isn't sorted, the grounds go with it, and the machine keeps pulling shots. If you've started looking at how to close that loop , a recycling bag, a collection bin, a tool to split the capsules before drop-off , you're in the right place. This is the rundown on what actually works, covering both the recycling hardware and the pods worth putting through it. [Pods & Capsules](/pods/) has the broader context if you want it.

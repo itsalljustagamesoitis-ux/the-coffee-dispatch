@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is a manual lever espresso machine harder to use than a pump machine?"
+    answer: "Yes, but the difficulty is front-loaded, not permanent. Lever machines require you to manage water temperature, apply consistent pressure, and develop a feel for extraction timing — variables that a pump machine handles automatically. The learning curve is real and takes weeks of daily practice to work through. Once you have it, the control you gain is genuinely useful and the process becomes repeatable."
+  - question: "Flair Classic vs. Flair NEO Flex: which one should I buy?"
+    answer: "The Flair Classic is the right answer for home use: more substantial construction, a pressure gauge included, and two portafilters for recipe experimentation. The NEO Flex prioritizes portability and simplified operation suited to travel — its flexible brewing cylinder tolerates a wider range of grind sizes, which is useful when access to a calibrated grinder is limited. For daily home use where you control your grind, the Classic is the stronger choice."
+  - question: "Do I need a special grinder for a manual lever espresso machine?"
+    answer: "A quality burr grinder is not optional for espresso of any kind, and lever machines are less forgiving of grind inconsistency than pump machines. You need a grinder capable of producing a fine, consistent grind — blade grinders will not produce usable results. If budget is the constraint, prioritize the grinder over the machine. The grinder determines more of the outcome than most buyers expect, and this is especially true on a machine where every other variable is also in your hands."
+  - question: "Is a moka pot a workable substitute for an espresso machine?"
+    answer: "A moka pot produces a strong, concentrated coffee that works in milk-based drinks where the espresso is diluted. It does not produce true espresso — the extraction pressure is roughly 1 to 2 bar versus the 9 bar of a proper machine — so the crema, body, and sweetness of a genuine shot are absent. For a buyer who wants a strong morning coffee or the base for a home latte, a moka pot is a practical and inexpensive choice. For genuine espresso, it is not a substitute."
+  - question: "What does the 20-bar claim on budget pump machines actually mean?"
+    answer: "It refers to pump capacity, not extraction pressure. Legitimate espresso extractions happen at 8 to 9 bar at the puck. Consumer machines advertising 20 bar are rating their pump's maximum output; the actual delivered pressure at the basket depends on the OPV setting, grind resistance, and other factors. Manufacturers who set the OPV to 9 bar at the factory or allow adjustment are being accurate about extraction conditions. The 20-bar figure is not a meaningful quality indicator."
+safety_topics:
+  - espresso-pressure
 ---
 
 Manual lever espresso machines occupy a specific niche: they ask more of you than any pump-driven machine, and in return they offer a level of extraction control that's genuinely difficult to replicate otherwise. Whether that trade-off makes sense depends entirely on why you're pulling shots in the first place. A look through the full range of [espresso machines and brewing equipment](/espresso/) makes clear how different the lever approach is from everything else on the market.

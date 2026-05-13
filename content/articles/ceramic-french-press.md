@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is a ceramic French press better than glass for flavor?"
+    answer: "Neither material alters flavor when both are food-grade and properly maintained. The practical difference is heat retention during steeping — ceramic and stoneware hold temperature more effectively than thin borosilicate glass, which can pull extraction temperature down before the four-minute mark. For flavor purity specifically, the Veken addresses it directly with a no-plastic brew path and heat-resistant borosilicate glass construction."
+  - question: "Le Creuset vs budget ceramic French press — is the premium justified?"
+    answer: "For daily long-term use, yes. Le Creuset uses dense, high-fired stoneware with consistent quality control that no-name ceramic listings can't reliably match. The difference shows up in chip resistance at the rim and plunger collar, glaze integrity over years of handling, and confidence that the materials are what the manufacturer claims. The premium is justified by build consistency, not brand prestige."
+  - question: "What grind size should I use for a French press?"
+    answer: "Medium-coarse — roughly the texture of coarse sea salt. Too fine produces a muddy, over-extracted cup with sediment pushing through the filter screen. Too coarse produces a thin, under-extracted result regardless of steep time. Grind size is the single variable with the most impact on French press quality, and even an entry-level burr grinder makes more difference than which press you own."
+  - question: "22 oz vs 34 oz ceramic French press — which size is right for me?"
+    answer: "Match the press to how much you actually drink in one sitting. French press coffee doesn't hold after brewing — the grounds stay in contact with the liquid and over-extract within fifteen minutes. A 22 oz press is genuinely more practical for a solo brewer: you brew what you drink, grounds never over-steep in leftover coffee. If you regularly share coffee or brew more than one large mug, the 34 oz options are the right call."
+  - question: "Do you need to preheat a ceramic French press before brewing?"
+    answer: "Yes, briefly. Dense stoneware and ceramic absorb heat from the brew water if the vessel is cold, which drops your extraction temperature and flattens the cup. A thirty-second rinse with hot water before adding grounds prevents this. It's a minor habit — pour from the same kettle you'll use to brew, swirl for thirty seconds, dump, then start the actual brew."
 ---
 
 Most ceramic French press searches start the same way: someone wants the cleaner flavor profile of ceramic or stoneware, they've heard glass breaks, and they want something that looks good on the counter. That's a reasonable set of criteria. The problem is that "ceramic French press" covers a surprisingly wide range of materials, build quality, and intended use cases , from serious stoneware to budget novelty items. The options worth your attention are [Brewing Methods](/brewing-methods/) away from a good morning routine.

@@ -49,6 +49,17 @@ products:
 tags: ["pods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do chai capsules work in any Nespresso machine?"
+    answer: "Most chai tea capsules are built for the Nespresso Original Line and won't work in Vertuo machines. The Vertuo system uses a proprietary barcode on each capsule rim that the machine scans before brewing — third-party pods, including nearly all specialty tea capsules, aren't encoded for this system. If you own an Original-line machine like the Essenza, Pixie, or Citiz, compatibility is generally good. Vertuo owners have very limited third-party options in any category."
+  - question: "OzPod chai vs Republic of Tea chai latte — which delivers a better chai experience?"
+    answer: "OzPod produces a spiced black tea concentrate — warming, well-structured, best finished with milk added separately. The Republic of Tea version has a built-in latte character with sweetener and dairy included, producing a richer, more complete single-step result from the pod. OzPod has the environmental edge with fully compostable pods and Fair Trade certification. Republic of Tea has more brand depth and a more complete latte from the capsule itself. Choose based on whether you want control over milk and sweetness or a faster process."
+  - question: "Should I brew chai pods on the espresso or lungo setting?"
+    answer: "Lungo setting produces noticeably better results for tea-based chai pods. The longer extraction time pulls aromatic spice compounds more fully from the pod without over-extracting tannins from the tea base. Running a chai pod at espresso volume produces a sharper, slightly astringent result. If your machine offers lungo as a setting, use it for all chai pods."
+  - question: "Are compostable chai pods safe to use in my Nespresso Original machine?"
+    answer: "Compostable pods are generally safe for Original-line machines, though fit tolerance is slightly looser than with native aluminum capsules. Most current machines handle them without issue. The more relevant concern is storage — compostable pod shells are more moisture-sensitive than aluminum, and a pod that has absorbed humidity can deform enough to affect extraction or cause the machine to reject it. Keep compostable pods sealed in a dry location and use them before the best-before date."
+  - question: "Is the Nespresso Barista Flavored Pack actually a chai product?"
+    answer: "No. The Nespresso Barista Flavored Pack is a flavored espresso product, not a tea-based chai pod. The barista flavoring refers to added flavor compounds layered over a medium-roast coffee base. It produces a flavored coffee drink, not a spiced tea. If you want actual chai flavor — cardamom, cinnamon, ginger — the OzPod and Republic of Tea options on this list are what you're looking for."
 ---
 
 Chai tea in a Nespresso capsule sounds like it shouldn't work , espresso machines aren't built for spiced tea , but the category has matured enough that some of these pods are genuinely worth buying. The question is which ones, and whether the chai experience they deliver is worth the trade-off against just making a pot of tea. If you're already invested in the [Pods & Capsules](/pods/) ecosystem, adding a chai option is a natural next step.

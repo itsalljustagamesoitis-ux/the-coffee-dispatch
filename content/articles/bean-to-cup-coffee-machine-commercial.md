@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are bean-to-cup machines suitable for a small office of 10 to 20 people?"
+    answer: "Most prosumer-grade bean-to-cup super-automatics handle small office environments well, provided the volume stays within their capacity. For offices where people stagger coffee breaks throughout the day, a double-cup machine like the Bosch TQU60703 or the Jura E6 will hold up without issue. Environments with higher peak demand — everyone arriving at the machine in the same ten-minute window — need to calculate peak throughput rather than average daily volume before buying."
+  - question: "What is the difference between the three Bosch super-automatic models in this article?"
+    answer: "The TQU60703 and TPU60309 are functionally near-identical with different color options — the TQU60703 in stainless steel, the TPU60309 in black — and a one-drink difference in programme count that has no practical significance. The TIU20307 differs in its one-touch operation model, which simplifies the interface at the cost of some programme range. Choose between them based on finish preference, availability, and price differential on the day you purchase."
+  - question: "How often does a commercial bean-to-cup machine need descaling?"
+    answer: "In a hard-water area with moderate daily use, descaling every four to six weeks is a realistic expectation — more frequently than most home users encounter. The manufacturer's recommended interval is a floor, not a ceiling, in high-hardness environments. Fitting a compatible water softener filter reduces frequency and extends service life. Machines with automatic descaling prompts, including the Jura E6, make the process clearer and more consistent in shared kitchen environments."
+  - question: "Jura E6 vs Bosch TQU60703 — which is better for a shared office kitchen?"
+    answer: "The Jura E6 leads on maintenance guidance — its cleaning programmes are clearly communicated through the machine interface, which reduces the chance that maintenance is missed when nobody explicitly owns the task. The Bosch TQU60703 leads on drink programme breadth at 36 pre-set options, which suits environments where users want flat whites, macchiatos, and long blacks from the same machine. If variety is the primary requirement, the Bosch is the better fit; if longevity and systematic maintenance matter more, the Jura E6 earns its place."
+  - question: "Is a bean-to-cup machine the same thing as a super-automatic espresso machine?"
+    answer: "The terms are used interchangeably and refer to the same product type: a machine that grinds, doses, tamps, and extracts automatically from whole beans in a single cycle. They produce an espresso-adjacent drink with good consistency and minimal user input. They are not manual espresso machines — extraction control is limited by design — but that trade-off is precisely what makes them appropriate for commercial convenience settings where users are not trained baristas."
 ---
 
 Bean-to-cup machines for commercial use occupy a specific, sometimes misunderstood niche in the [Coffee Makers](/coffee-makers/) category. They promise freshly ground coffee at volume without requiring a trained barista , and the better ones actually deliver. The gap between them and a capable home super-automatic has narrowed, but it hasn't closed, and the differences matter more in a commercial context than at home.

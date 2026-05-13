@@ -49,6 +49,17 @@ products:
 tags: ["cold-brew", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Primula Burke vs. Primula Pace — which cold brew maker should I buy?"
+    answer: "The Burke and the Pace share the same 1.6-quart glass carafe but differ in two meaningful ways. The Burke has a comfort grip handle and a removable mesh filter; the Pace drops the handle in favor of an airtight lid, which is better for storage longevity. If you drink your batch within three days, the Burke's handle probably matters more for daily workflow. If you brew a week's worth and want it fresh through day six, the Pace's airtight seal is the better trade-off."
+  - question: "Can I make cold brew concentrate in these Primula brewers, or only ready-to-drink?"
+    answer: "Any of the five Primula brewers here will produce either concentrate or ready-to-drink brew — the difference is entirely in your coffee-to-water ratio, not the equipment. For concentrate, use roughly twice the grounds you would use for ready-to-drink, then dilute with water or milk before serving. The 1.6-quart brewers have enough capacity for a useful batch of concentrate even if the total diluted yield exceeds the carafe volume."
+  - question: "Is the two-quart Mason jar brewer actually too big for a standard refrigerator door?"
+    answer: "The Mason jar form factor is specifically designed to fit in most fridge door shelves — it is one of the primary design rationales for the format. That said, door shelf height varies across refrigerator models, and households with taller items already occupying the door may need to rearrange. Measure your available door shelf height before ordering. Two quarts is a meaningful capacity advantage over the 1.6-quart models; it is worth confirming fit before assuming it will work."
+  - question: "How long does cold brew stay fresh in these glass Primula brewers?"
+    answer: "Cold brew stored in a well-sealed glass carafe typically holds its quality for seven to fourteen days. The airtight lid on the Pace gives it a practical edge for longer storage. The pour lids on the Mason jar models are functional but not airtight — plan to consume those batches within seven days for best flavor. All five brewers use glass, which does not absorb odors or impart flavor, so the limiting factor is oxidation, not the vessel material."
+  - question: "Does grind size matter for cold brew, or can I use pre-ground coffee?"
+    answer: "Grind size matters significantly. Coarse-ground coffee with either filter style produces a cleaner cup; medium or fine grinds produce a murkier result regardless of the filter material. Pre-ground supermarket coffee is typically ground too fine for cold brew and will produce a murky, overly bitter concentrate. If you are grinding fresh, aim for a coarse setting similar to what you would use for French press."
 ---
 
 Cold brew is one of those things that looks like it requires specialized equipment until you realize the method itself is almost embarrassingly simple. Steep coarsely ground coffee in cold water for twelve to sixteen hours, filter it, drink it , that's the whole process. Primula has built a range of dedicated cold brew makers that do this well at a price that makes the bottled stuff look like a bad habit. If you've been spending real money on ready-to-drink cold brew, the math on making your own will change your week quickly. Browse the full [Cold Brew & Iced Coffee](/cold-brew/) guide for context on the method and what to expect from different brewing setups.

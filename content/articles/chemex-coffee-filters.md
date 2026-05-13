@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Chemex bonded filters vs standard cone filters — are they interchangeable?"
+    answer: "They are not interchangeable, and the difference matters. Chemex bonded filters use substantially thicker paper that removes significantly more oil and fine sediment than standard cone filters designed for drip machines. The thicker paper also slows draw-down rate, which is intentional — longer water contact time extracts more evenly. Standard cone filters won't seat correctly in the Chemex cone and produce a noticeably different cup even when they do fit."
+  - question: "Do I need to rinse Chemex filters before brewing?"
+    answer: "Strongly recommended, and for unbleached filters it is not optional. A thirty-second rinse with hot water before adding grounds removes residual papery taste and pre-heats the glass vessel. With Chemex's own bonded filters the bonding process already reduces that paper character significantly, but rinsing is still good practice. With third-party unbleached options, skip the rinse and you'll taste it in the cup."
+  - question: "Bleached vs unbleached Chemex filters — does it affect flavor?"
+    answer: "After a proper rinse, the cup quality difference is negligible. The meaningful difference is workflow: Chemex's bonded white filters require less disciplined pre-rinsing because the processing reduces papery taste. Unbleached natural filters carry more of that character out of the box, so the rinse step is non-negotiable. If you're inconsistent about rinsing, the bonded white is the lower-maintenance choice."
+  - question: "How long does a 100-count box of Chemex filters last?"
+    answer: "For a single daily brewer using one filter per morning, roughly three months. Two brews per day cuts that to six weeks. For households where two people brew independently, those timelines halve again. The two-pack at 200 filters total covers most of a year for a single daily user and removes the recurring friction of running out mid-week."
+  - question: "Are third-party cone filters worth using in a Chemex to save money?"
+    answer: "They work if they seat flush against the glass without gaps, but the cup quality falls short of Chemex bonded filters. The third-party unbleached options in this guide perform adequately after a thorough rinse, but the bonded paper construction produces noticeably cleaner filtration — less sediment, more oil removal, more of the characteristic Chemex brightness. For committed daily Chemex brewing, the branded filters are the lower-maintenance path to a consistent cup."
 ---
 
 Chemex filters are a narrow category , you are not choosing between fundamentally different technologies here, just variations on bonded paper. That narrowness makes the real question simpler than most filter guides suggest: how many do you want, and do you prefer bleached or unbleached paper? Understanding those two variables will get you to the right box before you ever read a review.

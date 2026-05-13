@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What makes blond espresso different from regular espresso?"
+    answer: "Blond espresso uses beans roasted to a lighter level, which preserves more of the bean's natural origin character — floral and fruity notes that darker roasting would obscure. The extraction behaves differently too: lighter roasts are physically denser and typically require slightly higher brew temperatures and a longer extraction approach. The result is a brighter, more acidic cup with less of the bitter, caramelized notes associated with dark roast espresso."
+  - question: "Do I need a different grinder for blond espresso?"
+    answer: "Not necessarily a different grinder, but grinder quality matters more with light roasts. Light roast beans are denser and more demanding of consistent particle distribution — a grinder that handles darker roasts adequately may produce channeling and inconsistent shots with lighter beans. A conical burr grinder with sufficient adjustment range across the fine espresso spectrum is a practical starting point. Blade grinders are not suitable for espresso of any roast level."
+  - question: "Ethiopian or Guatemalan beans for blond espresso — which should I choose?"
+    answer: "Both work well but produce different results. Ethiopian origins like Yirgacheffe Kochere tend toward floral, citrus, and bergamot notes — the cup reads light and aromatic, almost tea-like in clarity. Guatemalan beans carry stone fruit sweetness and moderate acidity, which some drinkers find more approachable as a starting point. The Leiva's Espresso Whole Bean Coffee Variety Pack is useful precisely because it lets you taste the same Guatemalan origin across roast levels before committing."
+  - question: "How important is tamping for light roast espresso specifically?"
+    answer: "More important than with darker roasts. A channeled puck — caused by uneven tamp pressure or an unlevel surface — allows water to find paths of least resistance through the coffee bed. With darker roasts, the stronger flavor profile can partly mask the resulting defects. With blond espresso, the cup is transparent enough that channeling is immediately obvious as sourness or hollowness. A spring-loaded tamper like the Normcore V4 removes the pressure variable; consistent levelness still requires practice."
+  - question: "Can blond espresso be pulled on an entry-level machine?"
+    answer: "Yes, with caveats. Temperature stability is the primary constraint — lighter roasts extract better at slightly higher brew temperatures, and machines with unstable thermoblocks can produce shot-to-shot inconsistency that is hard to diagnose. An entry-level machine with a stable boiler and a quality grinder will outperform a high-end machine paired with a mediocre grinder. If working within a tight budget, prioritize the grinder first."
 ---
 
 Blond espresso is a lighter roast pulled as espresso , not a Starbucks trademark, not a category error, just coffee processed in a way that preserves more of the bean's origin character while still holding up under pressure. Getting it right requires the same variables any espresso demands: a consistent grind, a calibrated tamp, and beans that are actually fresh. The difference is that lighter roasts are less forgiving. Dial in a dark roast badly and you can still taste coffee. Dial in a blond badly and you'll taste everything wrong at once.

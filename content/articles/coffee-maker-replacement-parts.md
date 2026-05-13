@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How do I know which replacement carafe actually fits my coffee maker?"
+    answer: "Your machine's full model number — including any letter suffix — is the only reliable identifier. That number is usually printed on a label on the machine's underside. Cross-reference it against the replacement carafe's compatibility list before purchasing, not after. Cuisinart and Keurig both have multiple product lines with different carafe geometries that are not interchangeable across generations."
+  - question: "Third-party replacement parts vs. OEM — is the quality good enough?"
+    answer: "For simple components like carafes, brew baskets, and funnel filters, well-reviewed third-party parts generally perform comparably to OEM versions. The engineering tolerances aren't complex. Where third-party parts fail most often is in subtle fit issues — lid alignment, handle bonding, stopper seating. Check recent reviews specifically for those complaints rather than overall star ratings, and look for reviews that mention six months or more of use."
+  - question: "Is it worth replacing a moka pot funnel filter or just buying a new pot?"
+    answer: "A funnel filter replacement is almost always worth it on a functioning moka pot. The part is inexpensive relative to a new pot, and if extraction quality has declined or the existing filter shows visible warping or clogging, a new filter frequently restores full performance. The GROSCHE Milano replacement is sized specifically for the 3-cup Milano and uses aluminum construction that matches the original material."
+  - question: "When does replacing parts become false economy — when should I just buy a new machine?"
+    answer: "Parts replacement makes financial sense when the machine is otherwise functioning correctly and a single component has failed through normal wear. A machine that needs a new carafe, a new basket filter, and a stopper in the same maintenance cycle is signaling its overall condition. If the machine is also running cold, brewing unevenly, or producing off-flavored coffee independently of the broken part, replacing the component won't fix the underlying problem."
+  - question: "Do the two brew basket stopper kits in this guide cover different machines?"
+    answer: "Yes. The 2-Pack Coffee Replacement Brew Basket Spring Loaded Stopper Kits (part numbers 990117900 and 990237500) target one range of Mr. Coffee, Black and Decker, and Hamilton drip machines; the second kit (part numbers 112435-000-000 and 185774-000-000) covers a different set of models within those same brands. The brand compatibility overlaps, but the specific machines targeted are different — cross-reference your model number against both compatibility lists before ordering, as they are not interchangeable."
 ---
 
 Replacement parts are the unglamorous side of coffee equipment ownership , nobody buys a brew basket filter or a cracked carafe on purpose, but eventually most machines need one. Knowing which part fits your brewer, and which third-party options are worth trusting, saves you from replacing a perfectly functional machine over a single failed component. A good grasp of [Coffee Makers](/coffee-makers/) generally helps here , understanding how the full brewer works makes it easier to identify exactly what needs replacing.

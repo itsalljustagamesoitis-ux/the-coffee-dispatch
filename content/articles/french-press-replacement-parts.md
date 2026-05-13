@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How do I know whether to buy a screen-only replacement or a full disk set?"
+    answer: "Identify the actual failure before buying. Grounds in the cup usually mean a worn or torn mesh screen, which a screen-only pack addresses. A plunger that pushes down with no resistance, letting grounds bypass entirely, usually means a warped spiral disk. If your press is more than a year old and failing, replace the full stack rather than just the screen. The 8-piece sets that include spiral and cross disks cover both failure modes at once."
+  - question: "Do these replacement filter parts fit all French press brands?"
+    answer: "Most options here are designed for 3.75-inch, 34 oz presses, covering Bodum Chambord, SterlingPro, and many other common models. They do not fit every press on the market. If your press uses a non-standard carafe diameter, these parts will not seat correctly. Always measure your existing filter disk or check your press manufacturer's listed carafe diameter before ordering."
+  - question: "How often should I replace a French press filter screen?"
+    answer: "For daily use with medium-grind coffee, a stainless steel mesh screen typically lasts six months to a year before noticeable degradation. Coarser grinds and hard water accelerate wear. The most reliable signal is performance: significantly more sediment in the cup than you used to get, or a plunger that now requires noticeably more force, both indicate it is time to replace."
+  - question: "When does the Cafe Crush Club set make more sense than the filter-only packs?"
+    answer: "The Cafe Crush Club 5-piece set is the right choice when the plunger rod itself has failed, whether bent, corroded, or with stripped threading, because a filter-only replacement will not fix a rod problem. For routine mesh wear, the simpler packs are the more efficient choice. The rod fails less frequently than the screen, but when it does, the Cafe Crush Club is the only option here that addresses it."
+  - question: "Can replacement filter parts fix a press with a cracked glass carafe?"
+    answer: "No. Replacement filter parts restore brewing function but do nothing for a cracked or broken carafe. A press with a cracked glass cylinder needs a carafe replacement, not a filter. The parts covered here are specifically for extending the life of a press where the carafe is intact but the filter assembly has worn out."
 ---
 
 French press filters don't last forever. The mesh compresses, the spiral disk warps, the cross disk loses its shape , and suddenly your press is pushing grounds straight into the cup. Replacing the filter assembly costs a fraction of buying a new press, but the market for replacement parts is cluttered with near-identical listings that are harder to compare than they should be. I've sorted through the main options so you don't have to.

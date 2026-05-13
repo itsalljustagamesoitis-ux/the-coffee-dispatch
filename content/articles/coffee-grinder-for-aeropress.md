@@ -42,6 +42,17 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Burr vs. blade grinder for AeroPress — does it actually matter?"
+    answer: "It matters categorically, not marginally. A blade grinder produces a chaotic mix of fine powder and coarse chunks in every batch; the AeroPress can tolerate a wide grind range but cannot compensate for uneven particle distribution within a single dose. Over-extracted fines add bitterness, under-extracted chunks add sourness. Even a modest burr grinder is a categorical improvement over any blade grinder."
+  - question: "What grind size works best for AeroPress?"
+    answer: "Most AeroPress recipes call for medium-fine — finer than drip, coarser than espresso. The specific setting depends on steep time and method: shorter steep times and inverted-method recipes tend to work better with slightly finer grinds. Start at medium-fine and adjust coarser if the cup tastes bitter, finer if it tastes sour and thin."
+  - question: "Electric or manual grinder for AeroPress — which should I buy?"
+    answer: "It depends primarily on where you brew. A manual burr grinder is the right choice for travel, camping, or office use without an outlet — the physical effort for one or two AeroPress doses at medium-fine is minimal, roughly two to three minutes. An electric burr grinder makes more sense for a home kitchen where convenience matters over years of daily use. Both produce excellent results; the difference is ergonomic, not qualitative."
+  - question: "Is the KitchenAid KCG8433 burr grinder consistent enough for AeroPress?"
+    answer: "Yes. The KCG8433 produces a particle distribution that's adequate for AeroPress brewing across the medium-fine range. It won't satisfy a precision single-dose workflow where retention and exact gram accuracy matter, but for daily brewing by someone who wants good results without obsessing over equipment, it performs reliably. The build quality is genuine mid-range, not a budget compromise."
+  - question: "Can the unnamed 60g manual grinder compete with KitchenAid for daily use?"
+    answer: "For travel and portable use, the 60g capacity and 40-step adjustment range make it a compelling option — the portability and batch capacity outperform many well-known hand grinders. For a primary home grinder used daily, the unknown brand is a durability question mark that KitchenAid's established reputation doesn't carry. Buy it understanding you're choosing a no-name option and weight that against its lower price."
 ---
 
 The AeroPress is a forgiving brewer, but it can't compensate for a grinder that produces flour and gravel in the same batch. Grind consistency matters here , the AeroPress works across a wide range of grind sizes, but it needs even particle distribution to extract cleanly. If you're serious about getting the most from it, the grinder is where the work starts. For context on what's worth considering, the full [Coffee Grinders](/grinders/) hub covers the broader landscape.

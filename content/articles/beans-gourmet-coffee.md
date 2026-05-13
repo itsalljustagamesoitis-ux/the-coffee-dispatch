@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What does gourmet actually mean on a coffee label?"
+    answer: "It doesn't have a regulated definition, so it mostly functions as marketing language. The more useful signals are origin specificity — whether the label names a country, region, or farm — and the presence of a roast date. A bag that says gourmet blend with no roast date and no origin information is making a claim without supporting it. A bag that names a specific region and shows when it was roasted is giving you verifiable information regardless of whether it uses the word gourmet."
+  - question: "Atlas 4-pack vs Atlas 8-pack — which is the better starting point for exploring gourmet coffee?"
+    answer: "The 4-pack is the better starting point for most buyers. Four origins is enough variety to compare meaningfully, and you get more of each coffee than you would in an eight-origin set divided across the same total volume. The 8-pack makes more sense as a shared tasting experience with another person, or if you've already worked through a smaller set and want to extend the exploration deliberately. The 4-pack gives you enough to form considered opinions without the session count dropping too low per coffee."
+  - question: "How do I know if a gourmet coffee sampler will be fresh when it arrives?"
+    answer: "You mostly can't know in advance from the product listing alone. Check whether the seller or brand mentions roast dates in their product description or FAQ. Specialty-focused brands and subscription services like Atlas Coffee Club tend to be more transparent about freshness practices than generic gift set products. If freshness is a priority, buying directly from a roaster with clear dating practices is more reliable than sourcing through a fulfillment-based variety pack, where the supply chain timeline is opaque."
+  - question: "Which gourmet coffee option in this guide works best for espresso?"
+    answer: "The Cafe Quindio Medium Roast 100% Colombian Excelso is the most practical choice for espresso. It's a full 16-ounce bag of a consistent single origin at medium roast, which gives you enough volume to actually dial in your grind and ratio. Sampler bags at two to four ounces each don't give you enough coffee to properly calibrate an espresso machine — dialing in can consume the first 20 grams before you've pulled a shot worth drinking."
+  - question: "Do I need an expensive grinder to use whole bean gourmet coffee effectively?"
+    answer: "No. An entry-level burr grinder, manual or electric, is sufficient for most brewing methods and represents a meaningful quality improvement over blade grinders. The important distinction is burr versus blade, not price tier — a blade grinder produces irregular particle sizes that make consistent extraction difficult regardless of bean quality. A mid-range burr grinder used consistently with fresh whole beans will outperform an expensive blade grinder every time."
 ---
 
 Gourmet coffee beans are worth buying carefully. The difference between a memorable cup and a forgettable one is usually decided before you touch a grinder , it comes down to origin, roast quality, and how recently the beans were roasted. If you're exploring [Coffee Beans & Roasts](/beans/) for the first time or building out a tasting rotation, the options below cover the range from single-origin deep-dives to well-assembled variety sets.

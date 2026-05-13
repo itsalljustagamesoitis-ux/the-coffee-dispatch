@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "De'Longhi thermoblock vs. La Pavoni lever — which machine should a home espresso beginner buy first?"
+    answer: "The De'Longhi thermoblock machine is the lower-frustration starting point for most beginners. It handles extraction pressure automatically, heats fast, and produces usable espresso without requiring developed technique. The La Pavoni Europiccola is a manual lever machine that rewards buyers willing to invest weeks of practice — it teaches how espresso works at a fundamental level, but early shots will be inconsistent while that technique develops."
+  - question: "Does the grinder really matter more than the espresso machine?"
+    answer: "Yes, categorically. The grinder determines particle size distribution, which determines how evenly water flows through the puck. Uneven flow — channeling — produces bitter, sour, or hollow espresso regardless of machine quality. A blade grinder cannot produce espresso-suitable grounds. If your budget covers only one upgrade, spend it on the grinder."
+  - question: "Espresso Italiano vs. Barista Gran Crema — what is the actual difference between the two Lavazza beans in the bundle?"
+    answer: "Espresso Italiano is 100% Arabica, roasting toward the brighter and more aromatic side of Lavazza's range. Barista Gran Crema is a medium-roast blend formulated for crema production and heavier body. Working through both in the same setup is a practical way to understand how blend composition affects the cup — Gran Crema will hold up better in milk drinks, while Espresso Italiano shows more nuance as a straight shot."
+  - question: "What does a panarello steam wand actually produce vs. a commercial wand, and does it matter?"
+    answer: "A panarello wand injects air through a fixed ring to generate foam — the texture is coarser and less integrated than microfoam. A single-hole or commercial-style wand creates a vortex in the milk when positioned correctly, producing microfoam suitable for latte art and properly textured cappuccino. If your goal is occasional foamed milk on espresso, a panarello is adequate. If you want to learn steaming technique or produce textured milk drinks, it is a ceiling you will hit quickly."
+  - question: "Is the 58mm Reoszeank tamper kit worth buying before you know how to make espresso?"
+    answer: "Yes. A spring-loaded calibrated tamper removes tamping pressure inconsistency immediately, which means early troubleshooting focuses on grind, dose, and technique rather than also guessing whether your tamp is even. Learning with calibrated tools from the start is faster than building improvised habits and then correcting them. The distribution tool in the kit also addresses uneven grounds before tamping, which is one of the primary causes of channeling."
 ---
 
 Getting the right machine is only part of the equation. Italian espresso at home , the kind that actually tastes like what you had in Rome or Naples , depends on matching hardware, fresh beans, and a grinder capable of producing a consistent fine grind. Most setups fail at one of those three. I've been dialling in home espresso long enough to have failed at all of them myself, sometimes expensively.

@@ -49,6 +49,17 @@ products:
 tags: ["pods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Vertuo vs Original Line reusable pods — which platform is easier to use?"
+    answer: "Original Line machines use 19-bar pressure and recognize pods by shape, making them more tolerant of variation in fill and tamp. Vertuo machines use centrifusion and read a barcode on the capsule rim, so the pod's physical design does more mechanical work. In practice, reusable pod use is genuinely easier on the Original Line platform — fewer variables to manage and more forgiveness if your grind or fill isn't perfect."
+  - question: "What grind size works best in a reusable Nespresso pod?"
+    answer: "For espresso-format Vertuo pods (70ml), start with a medium-fine grind — similar to what you'd use in a standard espresso machine. For large-format 230ml pods, a medium grind works better because the longer extraction cycle allows more water contact with coarser particles. Adjust based on extraction time: if the machine labors noticeably, go slightly coarser; if the cup tastes thin and pale, go finer."
+  - question: "Can I use the same reusable Vertuo pod for espresso and large cups?"
+    answer: "No. On Vertuo machines, brew volume is locked to the barcode on the capsule rim, not to how much coffee you pack in. A 70ml pod always triggers an espresso-volume extraction and a 230ml pod always triggers a large-cup extraction. These are separate products for separate use cases — you would need both sizes to cover both drink styles."
+  - question: "Does a silicone lid actually improve extraction consistency?"
+    answer: "Yes, meaningfully. The most common failure mode with reusable pods is channeling — hot water bypassing the coffee puck through gaps in the seal. Pods with a dedicated silicone lid or gasket form a more reliable seal against the machine's needle than bare metal designs. If you have had inconsistent or thin results with another reusable pod, the sealing geometry is the first variable to interrogate."
+  - question: "How long does a stainless steel reusable Nespresso pod last?"
+    answer: "The stainless steel body holds up indefinitely under normal use — corrosion resistance is a genuine material advantage. The limiting factor is the sealing component: silicone lids and gaskets degrade with heat and cleaning cycles, typically over months to a couple of years of daily use. When extraction consistency drops without any change in grind or fill routine, the seal is usually the culprit."
 ---
 
 Switching to a reusable stainless steel pod is one of the more straightforward upgrades in the [Pods & Capsules](/pods/) world , less waste, more control over what goes in your cup, and no recurring spend on disposable capsules. The catch is that not every refillable pod is built the same, and compatibility between Original Line and Vertuo machines is a hard split that matters before anything else.

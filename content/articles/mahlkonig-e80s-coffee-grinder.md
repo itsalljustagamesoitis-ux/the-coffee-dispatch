@@ -42,6 +42,19 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Mahlkonig X54 vs. SHARDOR Professional Conical: which is worth the price difference?"
+    answer: "For espresso-focused home brewers using specialty coffee regularly, the X54's build quality and burr consistency represent a genuine performance difference, not just a brand premium. The X54's 54mm flat burr set produces tighter particle distribution and handles allround use across espresso and filter. The SHARDOR Professional Conical handles filter methods competently at a fraction of the cost and can produce workable espresso grinds with patience during dial-in."
+  - question: "Can the SHARDOR grinders handle espresso reliably?"
+    answer: "The SHARDOR Professional Conical with 48 settings can produce workable espresso grinds, but requires patience during dial-in and produces more fines than a dedicated espresso grinder. The budget SHARDOR 2.0 and 3.0 models are better suited to filter methods where grind precision requirements are lower. For serious daily espresso work, the Mahlkonig X54 is the only option in this comparison that earns that use case without qualification."
+  - question: "SHARDOR 2.0 vs. 3.0: is the upgrade worth it?"
+    answer: "The 3.0 adds 16 more grind settings and a 40-second adjustable electronic timer over the 2.0 — two meaningful upgrades. The timer creates repeatable doses without a scale, and the wider setting range gives more flexibility across brew methods. If the price difference between the two is modest, the 3.0 is the better purchase. If the gap is significant, the 2.0 handles drip and filter coffee without meaningful compromise."
+  - question: "How many grind settings do I actually need for filter coffee?"
+    answer: "For drip and French press, 16 settings is enough — you'll land on two or three that work and stay there. More settings matter most in the espresso range, where the margin between under-extracted and over-extracted is narrow and a single click on a coarse-stepped grinder can overshoot the target. For filter brewing, a solid 16-step grinder is perfectly adequate and won't limit your extraction quality."
+  - question: "How often do burr grinders need cleaning?"
+    answer: "A brush-out of the grind chamber and chute after every session is good practice — coffee oils go stale quickly and affect flavor more than most people realize. Full burr removal and a thorough clean every two to four weeks keeps the burrs performing correctly. Anti-static features, like those on the SHARDOR Professional Conical, reduce how much grounds cling to surfaces between sessions, making routine cleaning faster. Never use water on burr components unless the manual explicitly states they're washable."
+safety_topics:
+  - electric-grinder
 ---
 
 Choosing a home coffee grinder is one of those purchases that looks simple until you start reading about it , and then it doesn't. The gap between a grinder that works and one that works well is wide enough to affect every cup you make. These [Coffee Grinders](/grinders/) sit across a significant range of quality and price, so the decision deserves more than a spec comparison.

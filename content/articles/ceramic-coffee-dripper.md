@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Cone vs flat-bottom ceramic dripper — which one should a beginner buy?"
+    answer: "Flat-bottom for a beginner, no question. Cone drippers concentrate water flow toward the center and reward an even, controlled pour — inconsistent technique produces an uneven cup. Flat-bottom drippers with three holes like the Kalita 102 self-distribute water across a wider bed, tolerate pour variation better, and produce a more consistently good result before your technique is fully dialed in."
+  - question: "Does ceramic actually make a better dripper than plastic?"
+    answer: "For heat retention, yes. Ceramic pre-heated with hot water holds temperature through a full three-to-four-minute pour in a way that plastic doesn't. Plastic loses heat steadily during the brew, which can pull extraction temperature down toward the end and produce a slightly flat finish. Ceramic is also chemically neutral and contributes nothing to the cup. The trade-off is fragility — ceramic doesn't survive drops the way plastic does."
+  - question: "Do I need a gooseneck kettle to use a ceramic pour-over dripper?"
+    answer: "Not strictly, but it makes a meaningful difference. The narrow spout gives you precise flow control, which matters most during the bloom phase and the slow pours that follow. A standard kettle with a wide spout can work, but it makes even, centered pouring significantly harder and removes one of the primary levers you have over extraction. If you're committing to pour-over as a regular method, a gooseneck kettle belongs alongside the dripper."
+  - question: "Kalita 102 vs an unbranded flat-bottom dripper — is the price difference justified?"
+    answer: "The Kalita 102 brings decades of production history and consistent manufacturing quality that no-name alternatives can't match. The practical difference shows up in how the flat-bottom geometry performs across many brews — design pedigree means tighter tolerances, better ceramic quality, and a filter format that's been refined over time. The unbranded three-hole options are competent at a lower price point, but if you're committing to pour-over long-term, the Kalita is worth it."
+  - question: "Can I use reusable metal filters with ceramic drippers?"
+    answer: "Most ceramic drippers are compatible with reusable metal filters, provided the geometry matches — cone filters for cone drippers, basket-style for flat-bottom designs. Metal filters produce a notably different cup than paper: more body, more oils, slightly less clarity. The classic Chemex-style clean cup depends on paper filtration; metal brings the cup character closer to French press. Whether that suits you depends on what you're brewing for."
 ---
 
 Ceramic drippers sit at a specific intersection of simplicity and control that most brewing methods don't reach. The category covers a narrow band of [brewing methods](/brewing-methods/) , no moving parts, no electricity, just hot water meeting ground coffee over a filter , and yet the variation in design details between one dripper and the next matters more than most people expect. Flat bottoms versus cones, single holes versus three, wall thickness, glaze quality: these are not marketing distinctions.

@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Metal mesh vs. paper filter for pour over — which produces a better cup?"
+    answer: "Neither is objectively better — they produce different cups. Paper filters trap oils and fine particles, yielding a clean, bright result that specialty roasters typically target for light-roast single origins. Metal mesh filters let those oils through, producing a heavier body and fuller mouthfeel. If you are brewing light-roast coffees where brightness is the point, paper tends to serve them better. For medium and darker roasts where body is welcome, metal is worth trying."
+  - question: "Is the DOWAN porcelain dripper actually worth it over stainless steel options?"
+    answer: "For a stationary home setup, yes. Porcelain retains heat steadily throughout the pour, which stabilizes extraction temperature — a real advantage if your pours run longer than two minutes or your kitchen is cold. Preheating the brewer with hot water before brewing narrows the gap between materials considerably, so the practical difference is smaller for brewers who preheat consistently. Stainless steel remains the better choice for travel or outdoor brewing."
+  - question: "Which dripper is better for camping — the collapsible silicone or a metal cone?"
+    answer: "For backpacking where pack space and weight matter, the collapsible Attsky silicone dripper is the more practical choice — it folds flat and is nearly indestructible in a pack. A metal cone like the LHS dripper is more compact than porcelain but does not collapse. If you are car camping, either works. If you are carrying it in a pack, the silicone option is the clear answer. Note that the silicone model still requires paper filters, which metal mesh drippers do not."
+  - question: "What grind size should I use for a cone pour over dripper?"
+    answer: "Medium-fine is the standard starting point — roughly the texture of table salt. From there, adjust based on brew time and taste. If the cup is thin or sour, grind finer to slow extraction. If it is bitter or over-extracted, grind coarser to speed up flow. A burr grinder is strongly recommended; blade grinders produce uneven particle distribution that makes consistent extraction difficult regardless of technique."
+  - question: "Do I need special paper filters if I buy a metal mesh pour over dripper?"
+    answer: "No. Metal mesh drippers are self-contained — the mesh cone is the filter. You grind, place the grounds directly in the cone, and pour hot water through. There are no paper filters to buy or stock. The trade-off versus paper is a slightly heavier cup with some fine sediment, compared to the crystal-clear result paper produces. The LHS dripper includes a cleaning brush, which is a practical inclusion for maintaining the mesh between uses."
 ---
 
 Pour over brewing has a reputation for being complicated that it doesn't quite deserve. The variables are grind size, water temperature, and pour technique , all learnable in a week , and the reward is a cleaner, more nuanced cup than any automatic drip machine produces. If you're serious about [Brewing Methods](/brewing-methods/) and want direct control over extraction, a dripper is the right tool.

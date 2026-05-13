@@ -49,6 +49,17 @@ products:
 tags: ["cold-brew", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "RTD cold brew vs concentrate — which should I buy?"
+    answer: "Ready-to-drink cold brew is formulated for direct consumption — open and pour. Concentrate is brewed at a higher ratio and requires dilution, typically one part concentrate to one or two parts water or milk, before drinking. Pouring concentrate straight over ice produces an overwhelmingly strong result; diluting RTD further will taste thin and flat. Check the label before you buy — the distinction is consequential and product descriptions don't always make it obvious."
+  - question: "Is Wandering Bear extra strong cold brew too intense to drink black?"
+    answer: "Wandering Bear's extra strong formulation is designed with milk and additions in mind, so black drinkers may find it forward depending on their tolerance. The extra concentration is a feature for anyone who adds oat milk or cream, because the coffee flavor holds up rather than disappearing into whatever is added. For straight black cold brew, La Colombe's standard-strength cans are calibrated more appropriately."
+  - question: "What does nitro cold brew actually taste like compared to regular cold brew?"
+    answer: "Nitro cold brew is infused with nitrogen gas, which creates a smooth, slightly creamy mouthfeel without added dairy or sweetener. The experience is closer to a draft stout than iced coffee — there is a visible cascade when poured and a persistent fine-bubble head. The Starbucks Nitro Cold Brew cans deliver this consistently in a canned format. If you typically add milk to cold brew, the textural benefit of nitro largely disappears through dilution, making it most relevant for black drinkers."
+  - question: "Is USDA organic cold brew worth the premium?"
+    answer: "USDA Organic certification means beans were grown without synthetic pesticides under third-party audited conditions — it reflects a real production difference, not just marketing. For cold brew specifically, where beans steep in water for twelve to eighteen hours at higher ratios than hot brewing, the case for paying attention to sourcing quality is defensible. Wandering Bear's organic certification is USDA verified. Whether the difference is perceptible in the cup is harder to quantify, but it does indicate a sourcing standard that some buyers reasonably prioritize."
+  - question: "Can cold brew concentrate be used as a base for other drinks besides iced coffee?"
+    answer: "Yes — cold brew concentrate is a flexible base for more than iced coffee. Diluted with oat milk instead of water, it makes a quick cold latte. The Starbucks Cold Brew Coffee Concentrate works particularly well in this role because its flavor is consistent and neutral enough to pair with additions without competing with them. The main constraint is that you cannot adjust the bean profile — you are working with whatever flavor the manufacturer built into the concentrate."
 ---
 
 Cold brew has a simple value proposition: steep coarse grounds in cold water for twelve to eighteen hours, and you get coffee that's smooth, low-acid, and genuinely refreshing over ice. The [Cold Brew & Iced Coffee](/cold-brew/) category has expanded well past DIY setups, though , ready-to-drink cans, concentrates, and on-tap formats now compete for the same daily habit.

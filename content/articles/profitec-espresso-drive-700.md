@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Heat exchanger vs. dual boiler espresso machine — which is right for a home setup?"
+    answer: "For most home baristas making one or two drinks at a time, a well-set-up heat exchanger machine is more than sufficient. The dual boiler advantage — direct independent temperature control for brew and steam — matters most for back-to-back milk drinks and precise temperature experimentation. The Rocket Espresso Giotto FAST R's improved thermosyphon system reduces the group flush requirement that older HX designs demand, making it a more practical daily machine than traditional heat exchanger designs."
+  - question: "Why does the grinder matter more than the espresso machine itself?"
+    answer: "Grind consistency directly controls extraction evenness. If the grind particle size distribution is wide, some particles over-extract and some under-extract in the same shot, and no machine quality fixes that. A capable grinder paired with a modest machine consistently outperforms the reverse combination. The Eureka Mignon Specialita's stepless 55mm burrs produce a tight particle distribution calibrated for espresso, which is why the article recommends matching grinder budget to machine budget."
+  - question: "What is an OPV, and why does the Diletta Alto's adjustable OPV matter for espresso quality?"
+    answer: "OPV stands for over-pressure valve — it caps the maximum pressure at the group head during extraction. Many entry-level machines set this at 15 bar or higher, which produces dramatic pressure readings but suboptimal extraction. Most espresso research and specialty practice targets 9 bar at the puck. The Diletta Alto's adjustable OPV lets you set this yourself without voiding the warranty or disassembling the machine, which is a meaningful capability for anyone dialing in espresso seriously."
+  - question: "Should a beginner start on the entry-level 20-bar semi-automatic or save for something better?"
+    answer: "Save for something better. The entry-level semi-automatic's thermoblock temperature inconsistency and panarello steam wand are limitations that become frustrating as your technique improves. The Gaggia Classic is the standard recommendation at the entry level for a reason — it is a real espresso machine with a commercial-style group head that responds to technique development. Buying a machine that rewards your improvement is worth the additional wait and spend."
+  - question: "Can the Eureka Mignon Specialita grinder be used for drip coffee and pour over, or only espresso?"
+    answer: "Technically yes — the stepless adjustment spans a wide enough range to coarsen for filter coffee. In practice, the Specialita is calibrated and optimized for the fine end of the range that espresso requires, and using it for coarser brew methods means adjusting a significant distance each time and back again. If your household drinks both espresso and filter coffee in volume, a second grinder dedicated to each is the better workflow."
+safety_topics:
+  - espresso-pressure
 ---
 
 Getting into espresso seriously means choosing between a dozen machines that look similar on paper and perform very differently in practice. The [Espresso & Espresso Machines](/espresso/) category has expanded enough that even experienced home baristas can spend weeks evaluating options without a clear answer. This guide covers five machines and grinders across a range of price bands , with a direct recommendation for who should buy which.

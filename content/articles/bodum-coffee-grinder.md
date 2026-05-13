@@ -49,6 +49,19 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Bodum burr grinder vs. Bodum blade grinder — which should I buy?"
+    answer: "Burr, without question, if you care about extraction quality. A blade grinder chops coffee randomly, producing a mix of powder-fine dust and coarse chunks — uneven particle size means uneven extraction, which means a muddy, confused cup regardless of your beans. A burr grinder passes coffee between two abrasive surfaces at a fixed distance, producing consistent particle size and even extraction. The article's author used a blade grinder for two weeks before understanding why espresso was undrinkable. There is no workaround for inconsistent grind."
+  - question: "Is the Bodum Bistro blade grinder good enough for pour-over coffee?"
+    answer: "No. The blade grinder produces uneven particle sizes — a mix of fine dust and coarse chunks — which leads to uneven extraction in the cup. Pour-over is a method that rewards consistency, so the blade grinder's limitations show up clearly in the final result. The Bodum Bistro Conical Burr Grinder is the appropriate choice for pour-over. The blade model works adequately for straightforward drip brewing where precision matters less."
+  - question: "Can the Bodum Bistro burr grinder handle espresso?"
+    answer: "The burr grinder's twelve settings include fine-grind positions that approach espresso range, but mid-range burr grinders generally lack the tight tolerances required for consistent espresso extraction. You may get a workable result, particularly with a pressurized portafilter basket, but don't expect the same control you'd have from a dedicated espresso grinder. For occasional home espresso without strict dialing-in requirements, it is a reasonable starting point."
+  - question: "Bodum Bistro burr grinder vs. Baratza Encore — which is worth the money?"
+    answer: "For filter coffee — drip, pour-over, French press — the Bodum Bistro burr grinder delivers consistent results at an accessible price. The Baratza Encore is built to tighter mechanical tolerances and holds up better under daily heavy use, but the practical cup quality difference for filter brewing is modest. Where the Encore pulls ahead is in grind adjustment precision and long-term durability under heavy use. If you're buying for espresso or plan to grind daily for years, the Encore earns its higher price."
+  - question: "What is the difference between the black and red Bodum Bistro burr grinders?"
+    answer: "There is no functional difference. Both the black and red versions use the same conical burr mechanism, the same twelve grind settings, and the same preset timer. The choice is entirely aesthetic — if you have other Bodum equipment in red, the red grinder is the natural match. Otherwise the black model is the more versatile finish for most kitchens. Do not pay a premium expecting better grind performance from either color."
+safety_topics:
+  - electric-grinder
 ---
 
 Bodum makes some of the most recognizable coffee equipment on the market, and their grinder lineup is where a lot of home brewers start. The question worth asking before you buy is which grinder in that lineup is actually right for your setup , because the answer depends almost entirely on one distinction that Bodum's own product names don't make obvious enough. This guide to [coffee grinders](/grinders/) will help you sort that out before you spend anything.

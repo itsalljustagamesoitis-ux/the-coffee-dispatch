@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Primula 4-cup vs. 6-cup French press — which size is right for one person?"
+    answer: "The 4-cup Classic delivers roughly two small mugs in practice, which suits a solo drinker who stops after one substantial pour. The 6-cup Tempo delivers enough for two or three standard servings and is the more practical choice if you reflexively top up mid-morning. The 4-cup chrome model also has a metal exterior rather than a glass carafe, which adds durability at the cost of visual access to the brew."
+  - question: "Is the Primula 8-cup press large enough for two regular coffee drinkers?"
+    answer: "For most two-person households, yes. The 8-cup capacity delivers roughly three to four standard mug servings depending on fill level. Two people each drinking one or two cups in a morning will find it adequate. If both people are heavy drinkers who want multiple refills, a second brew cycle is the realistic outcome — which is why getting the size right at purchase matters more than buyers expect."
+  - question: "Does the QUQIYSO stainless steel press keep coffee warmer than the glass Primula options?"
+    answer: "Yes, meaningfully so. The 304 stainless steel construction retains heat better than a glass carafe, which matters if there is a gap between brewing and pouring, or if you pour a first cup and return for a second fifteen minutes later. Glass carafes lose temperature noticeably during that window. If heat retention is a priority, the QUQIYSO has a clear advantage over the glass Primula options."
+  - question: "Can the 2-in-1 Coffee Maker brew hot French press and cold brew at the same time?"
+    answer: "No. It is a single-vessel design, so only one method can be in progress at a time. The value of the 2-in-1 design is flexibility across different sessions — French press in the morning, cold brew steeping overnight — rather than parallel brewing. For households that want both methods running simultaneously, two separate vessels are required."
+  - question: "How often do French press filters actually need to be replaced?"
+    answer: "With regular cleaning and careful use, a quality French press filter lasts several months to a year. The failure mode is gradual — the mesh loosens, the frame bends, or grounds start migrating into the cup in increasing quantity. Presses that include spare filters upfront, like the QUQIYSO with its four-filter kit, extend the practical lifespan before a replacement order is needed. Inspect the filter monthly and replace it when grounds consistently bypass the plunger."
 ---
 
 Choosing a French press should be simple , but the market is crowded with options that look alike and perform differently. A few brands have built genuine reputations in the category, and Primula is one of them: consistent, practical, and widely available without a lot of unnecessary complexity. Browse the full range of [Brewing Methods](/brewing-methods/) to understand where French press sits relative to other approaches before committing.

@@ -49,6 +49,17 @@ products:
 tags: ["accessories", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "LunaFro handheld vs. DualFro 600 automatic: which is right for my routine?"
+    answer: "Handheld wands are faster to clean, smaller to store, and flexible about milk volume — but they require technique and attention. The DualFro 600 is more repeatable, requires no skill, and delivers consistent output every cycle, but needs more thorough cleaning and counter space. If you're already engaged with the espresso process and dialing in extraction daily, the handheld fits naturally. If you want milk frothing to be a background operation, the DualFro is the more honest recommendation."
+  - question: "Does the LunaFro Max's stepless speed control make a real difference?"
+    answer: "For standard whole-milk lattes, probably not enough to matter. Where stepless control earns its cost is when you're working with alternative milks — oat milk, almond, soy — which behave differently at different motor speeds. Whole milk foams well at moderate speed; oat milk benefits from a lower start to build structure without overworking it. A fixed-speed frother handles all of these adequately; the LunaFro Max handles them well."
+  - question: "Do handheld frothers work with oat milk?"
+    answer: "Standard oat milk froths poorly in most frothers — it lacks the protein structure of dairy milk and tends to produce large, unstable bubbles. Barista-edition oat milk is specifically formulated to foam and performs significantly better. The LunaFro Max's stepless speed control gives you the adjustment that helps coax usable foam from plant-based milk where a fixed-speed frother cannot."
+  - question: "How often does the DualFro 600 automatic frother need descaling?"
+    answer: "Descaling frequency depends on your water hardness. In a low-mineral environment, monthly descaling is typically sufficient for daily use. In hard-water areas, every two to three weeks is more realistic. The practical signal is a slight decline in froth quality or a longer heating time — both indicate mineral buildup on the element. The dishwasher-safe carafe simplifies exterior cleaning, but descaling the heating element itself still requires a dedicated cycle."
+  - question: "Can the LunaFro Mini froth milk for two drinks at once?"
+    answer: "Not practically. The mini head is designed for single-serve volume — typically 3 to 5 oz of milk per session. For two drinks you'd froth two separate batches, which adds time and produces less consistent results as the second batch is often colder. If you regularly make coffee for two people, the standard LunaFro with stand or one of the DualFro 600 models is the more practical choice."
 ---
 
 Milk frothers look like a simple purchase until you're standing in front of five options from the same brand, each with slightly different names and feature sets, trying to work out which one actually matters for your morning routine. Maestri House makes a broad enough lineup that the choice between models is the real decision. I've used handheld frothers through enough daily coffee routines to know where they succeed and where technique fills the gap that technology can't. This guide covers the full Maestri House range , find everything else you need for your home setup at [Accessories & Setup](/accessories/).

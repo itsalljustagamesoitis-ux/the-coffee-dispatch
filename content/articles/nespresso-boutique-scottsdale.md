@@ -49,6 +49,17 @@ products:
 tags: ["pods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Original Line vs. Vertuo — how do I know which Nespresso capsules to buy?"
+    answer: "Check your machine before buying anything. Original Line machines have a round capsule port and brew at high pressure; Vertuo machines have a larger, barcode-reading capsule chamber. Every capsule in this roundup is built for the Original Line only. Vertuo pods are physically incompatible and will not work in an Original Line machine, and vice versa."
+  - question: "What is the difference between the Ispirazione Napoli and the Starbucks Italian Roast capsules?"
+    answer: "Both are dark roasts, but they land differently. The Ispirazione Napoli delivers a rich, concentrated dark roast with body and depth. The Starbucks Italian Roast leans smokier and more aggressive — consistent with how Starbucks roasts its Italian Roast in other formats. If you find Starbucks dark roasts too intense in drip form, the Ispirazione Napoli is the better starting point."
+  - question: "Is the Nespresso Caramello capsule actually sweet, or is the flavor subtle?"
+    answer: "The Caramello is subtle. It adds a restrained caramel note to a medium roast base rather than delivering pronounced sweetness. Drinkers who want a strong caramel flavor will likely find it underwhelming compared to adding a flavored syrup to a straight espresso. It works best as a gentle flavor accent, particularly in milk-based drinks, rather than as a dessert-style experience."
+  - question: "Why choose the 100-count aluminum variety pack over a Nespresso-branded 50-count?"
+    answer: "The mixed Italian aluminum variety pack offers nine distinct flavor profiles across 100 capsules, and aluminum construction provides better recyclability than plastic. It's the stronger choice for drinkers who want variety and care about packaging footprint. The trade-off is consistency — Nespresso-branded capsules have tighter manufacturing tolerances and no compatibility uncertainty."
+  - question: "How many capsules should I buy at once, and do they go stale?"
+    answer: "Nespresso capsules carry a best-by date and have a shelf life typically measured in months. Buying in 50-count quantities makes practical sense for daily drinkers. For occasional drinkers, a variety pack in the same count range lets you rotate without committing to a single profile. Store capsules in a cool, dry location away from direct light — the capsule format protects the coffee from oxidation better than an open bag of ground coffee, but it is not indefinite protection."
 ---
 
 If you're searching "Nespresso boutique Scottsdale" trying to figure out which capsules to stock up on, the store visit is probably optional. The Original Line capsule catalog is wide enough that the real decision happens before you walk in , or before you click buy. Choosing the wrong roast profile or format for your machine and your mornings wastes money and produces coffee you'll drink without enjoying. A look at the full range of [Pods & Capsules](/pods/) options makes that decision easier.

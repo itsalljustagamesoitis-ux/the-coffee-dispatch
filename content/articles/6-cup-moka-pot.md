@@ -42,6 +42,19 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Bialetti Moka Express vs generic 6 cup moka pot — is there an actual quality difference?"
+    answer: "The brew mechanics are identical — all moka pots operate on the same pressure-percolation principle. The Bialetti's advantage is manufacturing consistency, decades of refinement in gasket and valve tolerances, and a global ecosystem of replacement parts. A generic pot that fits and seals correctly will make the same coffee initially. The question is whether it still fits and seals correctly after two years of daily use, and that's where Bialetti's track record separates it."
+  - question: "What grind size works best for a moka pot?"
+    answer: "Medium-fine is the target — finer than drip, coarser than espresso. Using espresso-grind coffee in a moka pot restricts water flow through the basket, extends contact time, and produces over-extracted, bitter results. Pre-ground coffee labeled as espresso is often too fine for moka brewing. A burr grinder lets you hit the medium-fine range precisely; with a blade grinder the results will be inconsistent."
+  - question: "Can I use the Mongdio moka pot on an induction cooktop?"
+    answer: "Yes — the Mongdio is the stainless steel option in this group and is induction-compatible. The aluminum pots, including the Bialetti, Primula, and Bellemain, are not induction-compatible without an adapter disc. If you have an induction cooktop, the Mongdio is the practical choice among these four options. Stainless heats slightly slower than aluminum, but the difference in brew time is minor."
+  - question: "Is a 6 cup moka pot the right size for one person?"
+    answer: "A 6-cup moka pot produces six one-ounce espresso-style shots — enough for one generous Americano or two small cups. For a single daily drinker who drinks it straight, a 3-cup pot brews faster and wastes less. Moka pots should not be run below rated capacity, so if you're brewing for one, the smaller size will produce more consistent results than a 6-cup pot filled halfway."
+  - question: "When should I pull the moka pot off the heat?"
+    answer: "Watch and listen: once coffee starts flowing into the upper chamber, a steady dark stream should run for 30 to 45 seconds before lightening in color and turning to a sputtering, hissing flow. That lighter sputtering phase is the signal to remove the pot from heat. Letting it continue extracts bitter compounds from the remaining grounds. Too-high heat accelerates this entire process and is the most common cause of bitter moka coffee."
+safety_topics:
+  - moka-pot-heat
 ---
 
 The moka pot is the most practical coffee maker most people will never fully appreciate. It brews concentrated, full-bodied coffee on any stovetop, costs nothing to run, and lasts decades if you don't abuse it. The 6-cup size , which produces roughly six one-ounce espresso-style servings, or three normal cups , is where most households land. It's worth understanding what separates a reliable one from a frustrating one before you buy.

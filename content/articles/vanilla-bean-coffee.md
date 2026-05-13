@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is vanilla bean coffee made with real vanilla extract or artificial flavoring?"
+    answer: "Most commercially flavored vanilla coffees use artificial vanilla flavoring or a combination of natural and artificial compounds applied as an oil or extract to the roasted beans. Genuinely natural vanilla flavoring derived from actual vanilla beans is far less common and more expensive. The Bean Organic Coffee Company Vanilla Bean is positioned toward the natural end of that spectrum, but the label is worth reading carefully regardless of which product you are considering."
+  - question: "Can vanilla bean coffee be used for espresso?"
+    answer: "Technically yes, but it is not the best application for flavored coffee. Espresso extraction concentrates everything in the cup — including artificial flavor compounds that can taste harsh or chemical under high pressure and temperature. Flavored coffees generally perform better in drip or French press formats where the extraction is gentler. If espresso is your primary brew method, an unflavored bean with naturally sweet characteristics is a more reliable path to a good cup."
+  - question: "How long does vanilla flavored coffee stay fresh after opening?"
+    answer: "Transfer the beans to an airtight container immediately after opening and keep that container in a cool, dark location away from any heat source. The vanilla oil coating on flavored beans oxidizes faster than the bean itself, so aim to use an opened bag within two to three weeks. Do not freeze flavored coffee — condensation from thawing damages the oil coating and produces off-flavors that even heavy vanilla notes cannot cover."
+  - question: "Five-pound bag of vanilla flavored coffee — is that a smart buy?"
+    answer: "Only if your household goes through coffee fast enough to finish it within three to four weeks of opening. Flavored coffee degrades faster than unflavored once opened, and the vanilla character specifically fades as the oil coating oxidizes. The Coffee Bean Direct French Vanilla Flavored Whole Bean is a strong choice if you have multiple daily drinkers. For one or two people who rotate between different coffees, a smaller bag will always taste better by the time you reach the bottom."
+  - question: "What is the difference between French vanilla and vanilla bean coffee?"
+    answer: "French vanilla flavoring typically has a richer, creamier, slightly custard-like quality that mimics a vanilla cream profile. Vanilla bean flavoring is usually cleaner and more straightforwardly floral, closer to the actual vanilla pod. In practice, the difference in flavored coffee is subtle — both styles are applied as flavor compounds and neither tastes like fresh vanilla. The Bean Organic Coffee Company Vanilla Bean and Don Francisco's Vanilla Nut Whole Bean illustrate the contrast reasonably well."
 ---
 
 Vanilla bean coffee sits in an interesting middle space , it reads like a dessert order on the surface, but the right bag can be a genuinely satisfying daily drinker that doesn't require sweetener or syrups to taste complete. The question is separating the ones with actual vanilla character from the ones that smell like a candle and taste like nothing. For more context on the broader category these products fit into, the [Coffee Beans & Roasts](/beans/) hub is worth a look before committing to a style.

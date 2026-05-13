@@ -42,6 +42,19 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the Mahlkonig EK43 worth buying for home use?"
+    answer: "The EK43 is a commercial grinder built for high-volume café throughput — large footprint, high retention relative to home dose sizes, and priced well above what home use justifies. The Mahlkonig X54 Allround delivers Mahlkonig's engineering and build quality in a form factor that actually suits a home kitchen. For the overwhelming majority of home baristas, the X54 is the honest answer to that search."
+  - question: "Baratza Encore vs. Baratza Encore ESP: which one do I need?"
+    answer: "The standard Encore is calibrated for filter brewing — drip, pour-over, French press — but doesn't grind fine enough for espresso. The Encore ESP compresses the adjustment range toward the fine end specifically to serve espresso users. Both share the same platform and reliability; the difference is purely where the useful range falls. Choose based on your primary brew method, not on which name sounds more capable."
+  - question: "Can I use a stepped grinder for espresso?"
+    answer: "You can, but the experience varies significantly by how many steps exist in the espresso range. Fine-stepped or stepless adjustment is genuinely important for espresso because the margin between under-extracted and over-extracted is narrow — sometimes a single click on a coarse-stepped grinder overshoots the target. The Baratza Encore ESP and Mahlkonig X54 both handle espresso adjustment well. A grinder with only 40 steps across its full range will leave you hunting between settings."
+  - question: "Does burr size matter in a home grinder?"
+    answer: "Larger burrs grind faster at a given RPM, generate less heat per gram of coffee, and typically produce more consistent particle distribution. For home use — where you're grinding one or two doses at a time — the practical gap between a 38mm and a 54mm burr set matters less than in a café context. What matters more is burr quality and geometry. A well-engineered smaller burr set outperforms a poorly spec'd large one."
+  - question: "Conical vs. flat burr grinder for home filter brewing: which should I choose?"
+    answer: "For most home users this distinction matters less than the reviews make it sound. Conical burrs run quieter, retain less, and handle oily beans well. Flat burrs tend toward more uniform particle size distribution and suit espresso and filter equally. The OXO Brew Conical Burr Grinder is a good example of a conical design that delivers consistent results for filter brewing with minimal fuss. Pick based on your workflow priorities rather than burr geometry alone."
+safety_topics:
+  - electric-grinder
 ---
 
 Most people searching for the Mahlkonig EK43 have already talked themselves out of buying it before they finish typing. It's a commercial grinder built for high-volume café use, and if you're outfitting a home kitchen, it's almost certainly not what you need , even if it's what you want. The [coffee grinder](/grinders/) market has matured enough that there are serious options at every level, and this guide cuts through that range honestly.

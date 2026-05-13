@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is a moka pot the same as an espresso machine?"
+    answer: "No. A moka pot generates roughly one to two bars of pressure during brewing; a proper espresso machine generates nine bars. The coffee is concentrated and strong, but the extraction profile, crema development, and drink characteristics are different from true espresso. For café cubano, cortadito, and café con leche, a moka pot is an excellent tool. For pulled shots with genuine espresso pressure and crema, you need a pump machine."
+  - question: "Which moka pot capacity should I buy for one person?"
+    answer: "A three-cup pot is the better solo choice for most people, even though two cups sounds more logical. Moka pots extract most consistently when filled to designed capacity, and a three-cup pot gives you the flexibility to share an occasional second cup or brew a slightly larger single serving. The 2-cup aluminum pot is the right pick only if travel portability or a very small heat source is a genuine constraint in your situation."
+  - question: "Does the Bialetti Moka Express justify its price premium over a generic aluminum moka pot?"
+    answer: "For a first purchase, yes. The Bialetti brand brings verified gasket sizing, wide parts availability, and a thoroughly documented brewing community built around this exact pot. Generic pots can perform equally well at first, but finding correctly-sized replacement gaskets later introduces friction that branded alternatives avoid. The price difference is small and the serviceability advantage compounds over years of daily use."
+  - question: "Stovetop moka pot vs. electric moka pot — which is better for home use?"
+    answer: "For home kitchen use with a gas or electric coil burner, stovetop is the default right answer. It is simpler, cheaper, and gives you more control — you can cut the heat the moment you hear the gurgle, which is the most reliable way to avoid a burnt final pour. The IMUSA Electric Espresso Maker is the practical choice for office use, hotel rooms, or Cuban-style batch brewing where volume and convenience matter more than control over the extraction."
+  - question: "What grind size should I use in a cafetero or moka pot?"
+    answer: "A medium-fine grind — coarser than espresso, finer than drip. Espresso grind is too fine for a moka pot's lower brewing pressure: it restricts flow, builds excessive pressure, and produces a bitter, over-extracted result. Pre-ground coffee labeled for moka pot or stovetop espresso is typically in the right range. A burr grinder set to medium-fine gives you more consistent control than any pre-ground option."
 ---
 
 Moka pots are the most honest cafetero espresso setup most home brewers will ever own , no electronics to fail, no pressure stats to obsess over, just water, heat, and ground coffee. If you're comparing options across [espresso equipment](/espresso/), these stovetop brewers represent the accessible end of the spectrum: genuinely useful, genuinely limited, and worth understanding clearly before you buy.

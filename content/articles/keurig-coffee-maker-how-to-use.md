@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "K-Elite vs. K-Classic — which Keurig is actually worth the price difference?"
+    answer: "The K-Elite adds temperature control between 187 and 192 degrees Fahrenheit, an iced coffee mode, a larger 75-oz reservoir, and brew sizes from 4 to 12 oz. For drinkers who add milk or creamer and don't use iced mode, the functional difference is smaller than the price gap suggests. If you drink your coffee black and notice temperature variation, or if iced coffee is part of your regular routine, the K-Elite earns the premium. Otherwise the K-Classic is the less expensive machine doing nearly the same job."
+  - question: "How do you use the iced coffee setting on a Keurig correctly?"
+    answer: "Fill a glass with ice before brewing. On machines that support iced mode — the K-Elite is the primary example — select the iced coffee setting and choose the 8-oz or smaller brew size to produce a concentrated volume. The machine brews a smaller, stronger cup calibrated to account for ice melt dilution. Brewing a standard hot cup over ice without using the iced setting produces a watery result as the ice melts."
+  - question: "Can you use your own ground coffee in a Keurig instead of pods?"
+    answer: "Most Keurig machines accept a reusable My K-Cup filter that holds your own ground coffee. The K-Classic is a notable exception — it does not accept the standard My K-Cup reusable filter, locking you fully into the pod system. The K-Express, K-Elite, and K-Duo all accept reusable filters, which significantly reduces per-cup cost if you're willing to measure and fill the filter each time."
+  - question: "K-Duo vs. separate single-serve and drip machines — is the combined machine actually worth it?"
+    answer: "For households that genuinely use both formats regularly, yes — the K-Duo consolidates two machines into one footprint and one water reservoir. For households that primarily drink single-serve and only occasionally need a carafe, two dedicated machines will each perform better in their respective format. The K-Duo is the right answer for genuinely mixed-use households, not a performance upgrade over purpose-built machines."
+  - question: "Reservoir size — how much does it actually matter for day-to-day Keurig use?"
+    answer: "More than most buyers expect before they start using the machine daily. A 42-oz reservoir covers roughly four to five cups before refilling; a 75-oz reservoir handles six to eight. For a two-person household drinking two cups each daily, the smaller reservoir becomes a daily interruption fast. Reservoir placement also matters — side-mounted reservoirs are easier to refill without repositioning the machine under cabinets."
 ---
 
 Keurig machines have become the default answer to "I just want coffee, fast" , and for a lot of households, that is exactly the right answer. The [Coffee Makers](/coffee-makers/) category covers a wide range of approaches to that problem, but the single-serve pod format has its own logic: consistent results, no measuring, no cleanup beyond rinsing a drip tray.

@@ -49,6 +49,17 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do I need a separate brush for my grinder and my espresso machine?"
+    answer: "Not necessarily for most home setups, but bristle stiffness matters. A soft natural bristle brush works safely on both steel burrs and espresso machine surfaces. If you have ceramic burrs, which can scratch, the softer natural bristle options are the safer choice for the grinder while the Takavu's stiffer boar bristle handles machine components more effectively. One brush with the wrong stiffness for your burr material does more harm than good."
+  - question: "How often should I actually brush my grinder?"
+    answer: "Daily for espresso setups, after your last grind session. Espresso grinds fine, which means more surface area, more oil transfer to the burr chamber, and faster rancidity on residual grounds. A thirty-second brush-out prevents the buildup from becoming compacted residue that requires a more involved cleaning. For drip or pour-over grinders, every two to three days is reasonable depending on grind frequency — coarser particles compact less aggressively."
+  - question: "Single brush vs a set — which makes more sense for a home espresso setup?"
+    answer: "A set makes more sense if you're cleaning a full espresso station: grinder, group head, portafilter basket, and shower screen all need attention, and a purpose-matched brush for each surface is more efficient than one brush doing all of it awkwardly. The walnut handle set covers multiple head geometries across different tasks. For a pour-over or hand grinder setup without an espresso machine, a single well-designed brush is the correct and sufficient answer."
+  - question: "Will a grinder cleaning brush remove old coffee oils from the burrs?"
+    answer: "A brush removes loose grounds and surface dust effectively, but it won't remove polymerized oils — the kind that build up after weeks of use without a deeper clean. For that, grinder cleaning tablets like Grindz run through the burrs under normal grinding conditions and address the oil layer a brush can't reach. A brush routine and an occasional tablet run are complementary, not alternatives. Daily brushing slows the oil buildup; the tablet clears what accumulates despite regular brushing."
+  - question: "Boar bristle vs softer natural bristle — which is better for ceramic burrs?"
+    answer: "Softer natural bristles are the safer choice for ceramic burrs. Boar bristle has a coarser surface texture that makes it more effective on machine surfaces like group heads and shower screens, and it handles steel burr grinders well — but the added stiffness can scratch ceramic burr coatings over time, degrading their performance. For ceramic burrs, use the gentler natural bristle options in this lineup; reserve the Takavu's boar bristle for machine cleaning."
 ---
 
 Grinder maintenance is one of those things that compounds quietly , skip it for a few weeks and your shots start drifting, your grounds smell stale, and you're adjusting your recipe trying to fix a problem that's actually just old coffee oil on the burrs. A dedicated [coffee grinder brush](/grinders/) is the simplest, cheapest intervention in the routine, and it's worth getting one that won't shed bristles into your portafilter.

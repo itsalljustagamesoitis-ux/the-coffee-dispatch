@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Nitrogen cartridge keg system vs. electric air-powered nitro machine — which is better?"
+    answer: "Nitrogen cartridge systems like the Royal Brew kegs use pressurized N2 gas to infuse cold brew and push it through a stout tap, producing the characteristic cascading pour and creamy mouthfeel. Electric air-powered systems like the NitroPress machines use an internal pump to achieve similar infusion without disposable cartridges. The texture and pour are comparable, but the electric approach eliminates ongoing cartridge costs. For daily use over a year or more, the cartridge costs and logistics of the keg system accumulate meaningfully."
+  - question: "Royal Brew 64 oz vs. 128 oz keg — which capacity should I buy?"
+    answer: "For a single person or a couple, the 64 oz keg is the practical choice — it produces enough cold brew for a full week without waste and keeps the batch fresh. The 128 oz option makes sense for households of three or more regular cold brew drinkers, or for anyone who wants to extend the brewing cycle to every two weeks. The larger keg also requires more nitrogen per charge and more counter space, and a 128 oz keg full of cold brew is heavy enough to require dedicated shelf or counter real estate."
+  - question: "Do nitro cold brew machines brew the cold brew concentrate, or do they just infuse it?"
+    answer: "Most machines in this category — including all five reviewed here — infuse and dispense cold brew that you have already steeped separately. You steep ground coffee in cold water for 12 to 24 hours using a standard cold brew setup, filter it, then transfer the concentrate to the machine for nitrogen infusion. The machine handles the nitro texture, not the brewing itself."
+  - question: "Can nitro cold brew machines be used to make anything other than coffee?"
+    answer: "The NitroPress Pro and DS are explicitly designed for cocktails and other beverages alongside cold brew, and they deliver on that. The Royal Brew keg systems are optimized for cold brew dispensing — you can technically use them for other cold beverages, but they are not positioned or optimized for cocktail infusion. If multi-beverage functionality is genuinely useful to your household, the electric NitroPress machines are the appropriate choice."
+  - question: "How often do nitrogen cartridges need to be replaced in a keg system?"
+    answer: "Typically one to two cartridges per batch, depending on keg size and desired pressure. A full 64 oz charge usually requires one cartridge to reach serving pressure; a 128 oz keg may need two. You will also re-charge between pours if the pressure drops noticeably. Cartridges are widely available and inexpensive individually, but if you are brewing several times a week the annual cost adds up enough to factor into the decision between a cartridge system and an electric alternative."
 ---
 
 Nitro cold brew at home sounds simple until you start researching the equipment. The category splits into two genuinely different approaches , nitrogen keg systems that use gas cartridges to infuse and dispense, and electric air-powered machines that skip the cartridges entirely , and choosing the wrong type means either ongoing consumable costs or a workflow that doesn't match how you actually use your kitchen. A quick scan of the [Coffee Makers](/coffee-makers/) category makes clear this isn't a niche corner of the market anymore.

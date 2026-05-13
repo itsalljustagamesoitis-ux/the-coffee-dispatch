@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Lavazza decaf ground vs. whole bean: which is better for espresso?"
+    answer: "Whole bean is meaningfully better when ground fresh before each shot. The Lavazza Decaf Espresso Bean preserves aromatic compounds that are already gone by the time pre-ground coffee reaches your portafilter. Pre-ground is the practical choice only when setup simplicity matters more than extracting maximum quality from the bean."
+  - question: "Does decaffeination method affect espresso flavor?"
+    answer: "Yes, significantly. Swiss Water Process and CO2 extraction preserve more of the bean's aromatic compounds and produce cleaner, more complex cups. Solvent-based methods are cheaper and more common at the commodity end of the market — not dangerous, but often flatter in the cup. When a brand doesn't specify the method on the packaging, that's usually telling you something."
+  - question: "Is pre-ground decaf espresso worth buying, or should I always buy whole bean?"
+    answer: "Pre-ground decaf is a reasonable choice when your setup doesn't include a grinder or when simplicity is the priority. The Lavazza ground decaf and illy Classico decaf both produce consistently good shots. The trade-off is freshness: once the bag is opened, volatile aromatics dissipate fast, and espresso extraction amplifies the difference between fresh and stale grounds."
+  - question: "Are L'OR decaf capsules compatible with all Nespresso machines?"
+    answer: "Only with Nespresso Original-line machines — the smaller, round-capsule format. They are not compatible with Nespresso Vertuo machines, which use a domed capsule and a barcode-based brewing system. If you're unsure which line you own, Original machines use a round capsule with a foil top; Vertuo machines use a larger, domed capsule."
+  - question: "How long does pre-ground decaf espresso stay fresh after opening?"
+    answer: "Two to three weeks is the practical window for acceptable espresso quality, assuming the bag is sealed tightly after every use. Beyond that, volatile aromatics have largely dissipated and the shot will taste flat regardless of extraction technique. Whole bean decaf stored in an airtight container holds four to six weeks without significant quality loss."
 ---
 
 Decaf espresso has a reputation problem it doesn't entirely deserve. The category has improved considerably , better decaffeination methods, better sourcing, better roasting , but most buyers searching for ground decaf still end up with mediocre coffee because they're optimizing for the wrong things. If you care about [espresso](/espresso/), the bean matters, but so does everything upstream of the cup.

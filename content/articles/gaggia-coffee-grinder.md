@@ -42,6 +42,19 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Breville Smart Grinder Pro vs Tuni G1: is the price difference worth it?"
+    answer: "For espresso as the primary method, yes. The Breville has a more refined adjustment mechanism at the fine end, a stronger long-term support track record, and build quality that reflects real iteration on an established product. The Tuni G1 is a capable grinder for drip and filter work at its price tier, but if you are pulling shots daily and need precision at the espresso range, the Breville's 60-step mechanism is the more reliable tool."
+  - question: "Can these grinders handle both espresso and drip coffee?"
+    answer: "All four grinders cover the espresso-through-drip range to varying degrees. The Breville handles both ends most reliably. The Tuni G1 and Aromaster are stronger at drip and filter methods. The Neretva is designed primarily for espresso and portafilter-direct brewing with its 51mm and 58mm portafilter compatibility. If you switch between methods regularly, the Breville's range and consistency across that range make it the practical choice."
+  - question: "What does grind retention mean and why does it matter for espresso?"
+    answer: "Retention is the coffee that stays inside the grinder rather than falling into your portafilter or brew basket. It matters because retained grounds go stale between sessions and mix into your next dose, and because it makes grind setting changes inaccurate since old grounds at a different setting are still in the system. For buyers cycling through different coffees or switching between espresso and drip, a grinder with lower retention is meaningfully better to live with day to day."
+  - question: "Will a mid-range burr grinder make a noticeable difference over a blade grinder?"
+    answer: "Yes, categorically. A blade grinder produces a mix of powder and coarse chunks, and uneven extraction is the result regardless of how good your machine or technique is. Any burr grinder, even a modest entry-level model, produces more consistent particle sizes and results in more predictable, better-tasting coffee. The improvement from blade to burr is larger than any other single upgrade in a home espresso or drip setup."
+  - question: "Does Gaggia make its own coffee grinder?"
+    answer: "Gaggia does not currently produce a standalone home grinder with meaningful market presence, which means buyers searching for a Gaggia coffee grinder are effectively shopping for the best paired grinder for their Gaggia machine. The Breville Smart Grinder Pro is the strongest recommendation for Gaggia machine owners who want one grinder that handles both espresso and filter work without constant recalibration."
+safety_topics:
+  - electric-grinder
 ---
 
 Most searches for a Gaggia coffee grinder end up revealing something useful: Gaggia doesn't currently make a standalone home grinder with meaningful market presence, which means you're actually shopping for the grinder that should have come with your Gaggia machine. The [Coffee Grinders](/grinders/) category has expanded considerably, and the right choice depends more on your brew method and retention tolerance than on brand loyalty.

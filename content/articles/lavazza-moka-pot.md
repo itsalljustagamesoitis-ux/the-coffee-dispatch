@@ -42,6 +42,19 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Lavazza Crema e Gusto vs. Qualita Rossa for moka pot: which is better?"
+    answer: "Crema e Gusto is the stronger moka pot choice for most drinkers. The Arabica-Robusta blend produces the full-bodied, thick cup the moka pot's pressure-brewing process is built to deliver. Qualita Rossa is slightly rounder and more approachable — a touch more sweetness in the mid-palate, a cleaner finish — but the two are close enough that trying one brick before committing to a four-pack is the smart move."
+  - question: "Can I use espresso-ground coffee in a moka pot?"
+    answer: "You can, but espresso grind is finer than ideal for moka pot and can lead to over-extraction, bitterness, or excessive pressure in the basket. Lavazza Espresso Ground Coffee at medium roast is one that works reasonably well in a moka pot — at that roast level, the impact of the finer grind is less severe than with a dark roast. Use a lighter hand when filling the basket and keep your heat moderate."
+  - question: "Lavazza vs. illy for moka pot: which one should I buy?"
+    answer: "illy Ground Coffee Moka produces a more refined, aromatic result — the 100% Arabica selection and moka-specific grind calibration show in the cup. Lavazza's blends are heavier, more assertive, and more forgiving of technique variation. For daily high-volume use, Lavazza's four-pack formats offer better value. For drinkers who brew less frequently and want a more considered cup, illy is the better option."
+  - question: "How long does pre-ground moka pot coffee stay fresh after opening?"
+    answer: "Once the vacuum seal is broken, quality begins declining. Used daily, a standard 8 to 8.8 oz brick or tin holds up reasonably well for two to three weeks. Beyond that, aromatics flatten and the cup tastes stale. Store opened coffee in its original tin or in an airtight container away from heat and light — and only buy a four-pack if you'll work through each brick within that window."
+  - question: "Does the Arabica-Robusta ratio make a noticeable difference in moka pot coffee?"
+    answer: "Yes, in ways that are easy to taste. Higher Robusta content produces heavier body, more bitterness, and a thicker texture — which is why Italian espresso tradition relies on it. In a moka pot, that Robusta structure gives you a cup that takes milk well and feels substantial. A 100% Arabica option like the illy moka grind produces something lighter, more aromatic, and cleaner on the finish."
+safety_topics:
+  - moka-pot-heat
 ---
 
 The moka pot is one of those brewing methods that looks like it belongs in a museum but still makes genuinely excellent coffee. Choosing the right ground coffee for it , specifically Lavazza, which has been a default choice for moka pot drinkers for decades , is less obvious than it seems. The blends differ in meaningful ways, and the right one depends on how you like your cup. Here's an honest look at the options, with a clear recommendation at the end.

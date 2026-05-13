@@ -35,6 +35,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How fresh do Italian espresso beans need to be for good crema?"
+    answer: "For espresso, beans within three weeks of roast date are in their prime window — CO2 is still present and the oils that carry flavor haven't staled. Best-before dates printed on bags are useless for this; look specifically for a roast date. Any bag sold without a roast date is a red flag regardless of the brand's reputation."
+  - question: "Is Robusta in an Italian espresso blend a quality compromise?"
+    answer: "Not inherently. High-quality Robusta contributes crema thickness, body, and a characteristic bitterness that Italian espresso drinkers expect. The problem is low-grade Robusta, which tastes harsh and rubbery — the issue is bean quality and proportion, not Robusta as a category. A well-executed blend with quality Arabica and quality Robusta will outperform a mediocre Arabica-only blend in a short espresso."
+  - question: "Caffè Borbone vs. Filicori Zecchini — which Italian bean is better for straight espresso?"
+    answer: "Caffè Borbone Crema Superiore runs fuller-bodied and more traditional Neapolitan in profile — bigger crema, more robustness, suited to drinkers who want espresso with weight. Filicori Zecchini Delicato sits lighter and more delicate, with a sweeter cup and lower perceived acidity. If you drink espresso straight and want something approachable, the Filicori Zecchini is the more refined starting point."
+  - question: "Can I use Italian espresso beans in a drip coffee maker or pour-over?"
+    answer: "You can, but traditional Italian blends — particularly those with significant Robusta content and darker roasts — tend to taste bitter and flat in filter brewing. The characteristics that work in a two-ounce espresso become liabilities in a larger, slower extraction. A medium-roast Arabica blend or a lighter Italian roast will serve filter brewing better than a classic Neapolitan espresso blend."
+  - question: "What grind size adjustment do Italian blends with Robusta need compared to pure Arabica?"
+    answer: "Robusta-containing blends can require a slightly coarser grind than pure Arabica at the same roast level. The harder cell structure of Robusta extracts differently under pressure, and going too fine can push the shot toward harsh bitterness quickly. A burr grinder with stepless or fine-step adjustment makes this calibration practical — a blade grinder makes it essentially impossible."
 ---
 
 Italian coffee beans occupy a specific place in the roaster's canon , not because Italy grows coffee, but because Italian roasters spent decades developing the espresso tradition that most of the world still drinks. Choosing well means understanding what that tradition actually produces. The [Coffee Beans & Roasts](/beans/) hub is a good starting point if you're still orienting in this category.

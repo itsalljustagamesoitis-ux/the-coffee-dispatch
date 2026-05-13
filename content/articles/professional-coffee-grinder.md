@@ -35,6 +35,19 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the Baratza Virtuoso+ actually worth buying over a blade grinder like the KitchenAid?"
+    answer: "Yes, and the gap is larger than the price difference suggests. A blade grinder produces an inconsistent mix of particle sizes that makes even extraction impossible regardless of how carefully you grind. The Baratza Virtuoso+ uses calibrated steel burrs that produce uniform particles across 40 settings. The difference shows up in the cup from the first use — cleaner flavor, more repeatable results — and compounds over years of daily brewing."
+  - question: "Can I use the BLACK+DECKER One Touch blade grinder for espresso?"
+    answer: "Not reliably. Espresso requires a fine, uniform grind that blade grinders cannot produce consistently. The BLACK+DECKER chops beans into particles of varying sizes, which leads to uneven extraction — simultaneously bitter from over-extracted fines and thin from under-extracted coarse fragments. For occasional drip coffee where precision is not the priority, it functions. For espresso, a burr grinder is not optional."
+  - question: "What is grind retention, and does it matter for home brewing?"
+    answer: "Retention is the amount of ground coffee that stays inside the grinder after each dose — stuck in the burr chamber, chute, or exit path rather than reaching your cup. For users grinding the same bean at a fixed setting daily, it is a minor inconvenience. For anyone switching between coffees or settings frequently, retained grounds from the previous session contaminate the next dose with stale, off-setting coffee. The Baratza Virtuoso+ has moderate retention — acceptable for a dedicated daily setup, less ideal for frequent switching."
+  - question: "Is a blade grinder acceptable if I only brew drip coffee and never espresso?"
+    answer: "It is functional, not ideal. Automatic drip brewing is relatively tolerant of grind inconsistency compared to espresso or pour over, so a blade grinder produces a drinkable cup. The KitchenAid and BLACK+DECKER both work in this context. If you later move to pour over or decide to try espresso, the grinder becomes the first thing to replace — which is why buying an entry-level burr grinder from the start is the more durable decision."
+  - question: "Does the Baratza Virtuoso+ work across all brew methods, or is it just for espresso?"
+    answer: "The Virtuoso+ covers the full range from Turkish-fine to French press coarse across its 40 stepped settings. It is a hopper-fed machine designed for a consistent daily dose rather than single-dosing with frequent bean changes, but it handles drip, pour over, French press, and AeroPress well. The stepped increments are well-calibrated and the return-to-setting reliability is excellent — you can grind for drip in the morning and return to that setting reliably."
+safety_topics:
+  - electric-grinder
 ---
 
 Most grinders marketed as "professional" are neither. The label gets applied to anything with a dial and a hopper, which makes finding an actual workhorse , one that produces consistent, repeatable grinds across brew methods , harder than it should be. A quick look through the full range of [Coffee Grinders](/grinders/) makes the quality spread obvious.

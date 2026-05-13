@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What makes the ESPRO P3 different from a standard French press like the Bodum Chambord?"
+    answer: "The ESPRO P3 uses a patented double micro-filter system — two separate mesh screens working in sequence — rather than the single screen in conventional presses like the Bodum Chambord. This reduces sediment significantly and produces a cleaner cup without eliminating the full body that makes French press brewing distinctive. The Chambord produces a traditional, sediment-present cup; the P3 produces something closer to filtered coffee while retaining more body than a pour-over."
+  - question: "ESPRO P3 17 oz vs 18 oz vs 32 oz: which size should I buy?"
+    answer: "If you brew exclusively for one person, the 17oz or 18oz is the right call — they are functionally identical and the difference comes down to availability. If you regularly make two or more cups or want flexibility for guests, the 32oz is the correct size. French press extraction depends on filling the carafe close to its intended volume, so buying large and brewing small produces inconsistent results."
+  - question: "What grind size should I use for a French press, and does the grinder type matter?"
+    answer: "French press requires a coarse, even grind — roughly the texture of coarse sea salt. Too fine and the coffee over-extracts quickly, producing a bitter, murky cup with heavy sediment. Too coarse and extraction is incomplete. A burr grinder produces this consistently; a blade grinder does not, which is the main reason inconsistent French press results usually trace back to the grinder rather than the press itself."
+  - question: "Can I use a French press to make cold brew?"
+    answer: "Yes. Use a coarse grind, combine coffee and cold water at roughly a 1:8 ratio, and steep at room temperature or in the refrigerator for twelve to fourteen hours. Press and serve over ice or refrigerate the concentrate for up to a week. Any glass or stainless press handles this well — the method is the same regardless of which press you own."
+  - question: "How important is cleaning the French press filter, and how often should I do it?"
+    answer: "Cleaning the filter is critical to cup quality over time. Coffee oils oxidize and go rancid, and residue in the filter mesh contributes bitterness to subsequent brews that has nothing to do with your beans or grind. A quick rinse after each use is not sufficient — a proper disassembly and wash every few days is the minimum. The ESPRO P3 filter assembly fully disassembles for thorough cleaning, which is one of its practical advantages over presses with more integrated plunger designs."
 ---
 
 The French press is one of those brewing methods that's been written off as primitive or oversimplified, and neither characterization is accurate. It requires attention , grind consistency, water temperature, steep time , but so does anything worth drinking. If you're exploring [Brewing Methods](/brewing-methods/) and trying to figure out where the French press fits, the short answer is that it sits between the hands-off drip machine and the more demanding pour-over, and it produces a full-bodied cup that neither of those methods quite replicates.

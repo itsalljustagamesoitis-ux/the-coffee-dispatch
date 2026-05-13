@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Bialetti Preziosa stainless vs. Bialetti Coffee Press Smart — which should I buy?"
+    answer: "The Preziosa is fully stainless — carafe, frame, and filter assembly — and offers better heat retention and durability, but requires hand washing and you can't observe the extraction. The Coffee Press Smart uses a borosilicate glass carafe in a metal frame, is dishwasher safe throughout, and lets you watch the bloom and crust. If you're learning French press technique and want visual feedback, the Smart is more useful. If you've locked in your recipe and want a press that survives a busy kitchen, the Preziosa is more practical."
+  - question: "Is the Veken French Press worth buying over the Bialetti options?"
+    answer: "The Veken 34oz earns consideration specifically for buyers who want no plastic in contact with hot water during brewing — its all-metal and thickened glass construction is explicit on this point. If plastic contact isn't a concern for you, the Bialetti Coffee Press Smart is the more practical daily press. The Veken is well-built, but its main differentiator is the plastic-free brew path rather than a performance advantage."
+  - question: "What grind size should I use for French press?"
+    answer: "Coarse, and as consistent as possible. French press steeps in contact with the grounds for the full extraction window — typically four minutes — so a finer grind produces bitter, over-extracted coffee and clogs the filter. A burr grinder is the right tool here; blade grinders produce an inconsistent particle distribution that French press magnifies. The coarser your grind, the cleaner and less sediment-heavy your cup."
+  - question: "3-cup or 8-cup Bialetti Preziosa — how do I choose?"
+    answer: "Brew for your actual daily routine, not your optimistic version. The 3-cup Preziosa suits one person making a single large mug; the 8-cup suits two or more people, or one person who wants multiple servings per batch. Brewing a small amount in a large press makes ratio control harder and typically produces weaker, less consistent coffee. Match the press to real use."
+  - question: "Do the black and red Bialetti Coffee Press Smart models perform differently?"
+    answer: "No. Both versions use the same borosilicate glass carafe, the same dishwasher-safe filter assembly, and the same one-liter capacity. The choice between them is purely aesthetic — pick based on your kitchen's color palette or whichever is available at the better price. There is no functional difference between them."
 ---
 
 French press is one of the more forgiving brewing methods you can learn , the margin for error is wider than pour-over, the equipment is simple, and the result is a full-bodied cup that drip machines genuinely can't replicate. If you're exploring [Brewing Methods](/brewing-methods/) and want somewhere practical to start, this is it.

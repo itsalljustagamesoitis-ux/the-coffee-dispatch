@@ -49,6 +49,17 @@ products:
 tags: ["accessories", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "LunaFro vs. LunaFro Max: is the stepless speed control worth the upgrade?"
+    answer: "The LunaFro runs at a fixed speed; the LunaFro Max adds continuous speed adjustment from slow to fast within a single frothing session. For standard foam on whole milk lattes, fixed speed is sufficient. The Max earns its cost if you regularly use oat milk or other alternative milks that require a gentler start, or if you want to produce microfoam-adjacent texture rather than basic froth. Both models share the same detachable stainless whisk design and rechargeable battery."
+  - question: "Do I need a stand, or is the no-stand LunaFro NS fine?"
+    answer: "It depends entirely on where your frother will live. Stand models sit upright on the counter and are immediately accessible — useful if you reach for the frother every morning as part of a fixed routine. No-stand models are better for drawers, bags, compact setups, or shared kitchens where a permanent countertop spot isn't available. The practical friction of opening a drawer each morning is small but it compounds over daily use."
+  - question: "Can handheld rechargeable frothers produce microfoam for latte art?"
+    answer: "Handheld frothers can produce foam fine enough for simple latte art patterns with practice, but they're working against physics compared to a steam wand. A steam wand injects pressurized steam directly into the milk, creating true microfoam more reliably. The LunaFro Max gets closer than fixed-speed frothers because its stepless control lets you manage air incorporation carefully — but expect realistic results: good texture for home drinks, not competition-level pours."
+  - question: "LunaFro Mini vs. LunaFro NS for everyday single-cup use: what's the difference?"
+    answer: "The Mini has a smaller whisk head optimized for single-cup volumes — roughly 3 to 4 oz of milk per session. The NS handles slightly larger volumes in a single pass, which matters if you occasionally froth for two drinks. For one drink per morning both are equivalent in function: rechargeable, detachable whisk, no stand, fixed speed. The Mini is more compact and better for travel or minimal storage."
+  - question: "How often does a rechargeable frother battery need charging?"
+    answer: "For typical home use — one or two 20 to 30 second frothing sessions per day — most LunaFro models need charging every few days rather than daily. All models in the line charge via USB, so any phone charger handles it. The habit that works best is charging after use rather than before, so the frother is always at full capacity when you reach for it in the morning."
 ---
 
 Handheld milk frothers occupy a specific, useful niche in the home espresso setup , they're not a substitute for a steam wand, but for anyone who wants decent microfoam without a machine that generates its own steam pressure, they're a practical tool. The [Accessories & Setup](/accessories/) category covers a lot of ground, and the rechargeable handheld frother is one of those items that's easy to underestimate until you've used a good one and a bad one back to back.

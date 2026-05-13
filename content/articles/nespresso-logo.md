@@ -49,6 +49,17 @@ products:
 tags: ["pods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Reusable Vertuo pod kit vs. just buying foil lids — which should I get?"
+    answer: "If this is your first time building a reusable pod setup, buy a complete kit. The holder, brush, and tamper are not optional — they are the tools that make the filling process consistent enough to produce a reliable seal. Lids-only purchases make sense as restocks once you already have the workflow established. The Fanativita foil lids and the generic aluminum foil lids are both solid restock options for setups that are already tooled up."
+  - question: "What is the difference between the two Nessus kits?"
+    answer: "Both the Nessus Reusable Pod Kit and the NESSUS Refill Kit include 100 foil lids, a holder, and a brush. The key difference is the lid remover tool in the Refill Kit, which is designed to cleanly strip the factory seal from used original Nespresso pods without distorting the rim. If you are refilling official Nespresso capsules, the Refill Kit is the better fit. If you are using third-party reusable pods that do not require factory seal removal, either kit covers the workflow."
+  - question: "What grind size should I use when refilling Nespresso Vertuo pods?"
+    answer: "Medium-fine is the right starting point — closer to drip than espresso, despite the espresso-sized serve. Vertuo centrifugal brewing works under centrifugal force rather than pump pressure, and too fine a grind packs too densely and restricts flow. Start two steps coarser than you would use for a traditional espresso machine and adjust from there based on the shot."
+  - question: "Will third-party foil lids work with any Nespresso Vertuo machine?"
+    answer: "Third-party foil lids are designed for the Vertuo system and will not work with Original Line machines, which use a different pod format and brewing mechanism. Within the Vertuo range, the 62mm lids are compatible with the VertuoPlus, VertuoNext, and VertuoPop. The larger Alto and Carafe pods use a different diameter, so confirm your primary pod size before ordering."
+  - question: "Is it worth buying the Nespresso Diavolitto 50-count if I'm planning to switch to reusable pods?"
+    answer: "Yes, as a baseline purchase. The Diavolitto is Nespresso's highest-intensity Vertuo espresso offering, and using it first gives you a reference point for what a well-extracted Vertuo shot should taste like. Once you know what good looks like from an official capsule, you have something concrete to calibrate your refill workflow against when you make the switch."
 ---
 
 Searching for the right accessories to get more from a Nespresso Vertuo machine pulls you into a narrower category than most buyers expect , reusable pod systems, foil seal lids, and refill kits designed specifically for the Vertuo barcode-reading mechanism. The options in [Pods & Capsules](/pods/) range from official Nespresso capsules to third-party refill ecosystems built around aluminum foil lids that mimic the original seal well enough to pass the machine's recognition system.

@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the Smeg drip coffee maker worth the premium over a cheaper machine?"
+    answer: "It depends on what you're paying the premium for. The Smeg's build quality is real — the machine is solid and will last. But the brewing performance does not justify the price gap over the Cuisinart DCC-3200NAS on coffee quality alone. The Cuisinart's PerfecTemp technology holds brew temperature more consistently through the full cycle, and that shows in the cup with lighter roasts where temperature variance is punishing. If the retro aesthetic integrates into a kitchen you care about, the Smeg premium buys real design value. If you want the best cup for the money, the Cuisinart wins."
+  - question: "What is the difference between the Smeg Pastel Blue, Cream, and Black versions?"
+    answer: "Nothing mechanical. All three variants use identical internal components, the same ten-cup glass carafe, the same keep-warm plate, and the same two-strength brewing system. Color is the only variable. Buy the one that fits your kitchen and ignore any price differences between variants — there is no brewing reason to prefer one over another."
+  - question: "How does the Cuisinart DCC-3200NAS compare to the Smeg for actual brew quality?"
+    answer: "The Cuisinart brews at a more consistent temperature through the full cycle, which produces better extraction — particularly with lighter roasts where temperature variance matters more. The 14-cup capacity is also meaningfully larger than the Smeg's 10-cup format, which suits bigger households or people who want a second round without rebrewing. For buyers whose primary interest is cup quality rather than kitchen aesthetics, the Cuisinart is the stronger choice on every performance dimension."
+  - question: "Can I use the Smeg auto-start feature with freshly ground coffee?"
+    answer: "Technically yes — grind the night before, load the basket, and set the timer. In practice, pre-ground coffee left in the filter basket overnight degasses and loses volatile aromatics by morning. The difference is modest with robust dark roasts and more noticeable with lighter, more aromatic single-origin beans. If fresh-ground flavor is the priority, grind in the morning and skip the timer. If morning convenience is the priority, the auto-start on all three Smeg variants works reliably for that workflow."
+  - question: "Does the Smeg drip machine accept reusable metal filters?"
+    answer: "Yes. The Smeg uses a standard basket filter configuration and accepts both paper and reusable metal basket filters from third-party suppliers. The choice affects cup character: paper filters absorb more coffee oils and produce a cleaner, brighter result; reusable metal filters let those oils through for a fuller-bodied cup. Neither is wrong — they produce different drinks. The more relevant consideration is supply management: paper filters run out and need restocking, while reusable filters require cleaning but eliminate the recurring purchase."
 ---
 
 Smeg makes appliances that photograph well and sell on the strength of that. The [Coffee Makers](/coffee-makers/) category is full of machines that do the same , trade on color options and curved lines while the actual brewing mechanics are an afterthought. Whether that trade-off is acceptable depends entirely on what you're buying the machine to do.

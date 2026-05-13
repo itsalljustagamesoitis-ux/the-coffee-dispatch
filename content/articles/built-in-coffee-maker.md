@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is a built-in-the-wall coffee maker worth the installation cost?"
+    answer: "For a kitchen under active renovation with plumbing access already planned, a wall-integrated system earns its installation cost through daily convenience — particularly the self-filling feature that eliminates manual reservoir refilling. For an existing kitchen where walls would need opening and plumbing rerouted, the disruption is disproportionate to the benefit for most households. The decision belongs to the renovation stage, not the appliance-shopping stage."
+  - question: "How many cups should I buy for a two-person household?"
+    answer: "Two people who each drink two cups per morning need four cups per session. A five-cup machine covers that with minimal waste and without leaving coffee sitting on a hot plate. Twelve-cup capacity for two people means either running a partial brew cycle — which most drip machines do poorly — or brewing a full pot and leaving half to degrade on the heat plate. Match capacity to actual daily draw, not theoretical maximum."
+  - question: "BLACK+DECKER vs. Kenmore Elite for daily home use — which is the better buy?"
+    answer: "Both are twelve-cup programmable drip machines with pause-and-pour and auto shut-off. The Kenmore Elite adds a larger water reservoir and a dishwasher-safe carafe; the BLACK+DECKER 12-Cup includes a washable basket filter and keeps the feature set straightforward. If dishwasher carafe cleaning and reservoir size matter to your workflow, the Kenmore edges ahead. If they don't, the machines are functionally close enough that either will serve a typical household."
+  - question: "Does auto shut-off affect coffee quality on a glass carafe machine?"
+    answer: "Auto shut-off stops the hot plate from running indefinitely, which prevents the worst heat degradation that occurs when coffee sits for hours. It does not prevent quality loss in the 30 to 60 minutes before shut-off triggers. Glass carafe machines with auto shut-off are safer and more energy-efficient than those without, but the underlying limitation of glass plus hot plate still applies. If quality in the last cup matters, brew closer to the amount you will drink in a single session."
+  - question: "Can the portable espresso machine in this guide substitute for a home drip machine?"
+    answer: "No. The Self-Heating Portable Electric Espresso Machine is a travel appliance designed for situations where no kitchen infrastructure exists. It produces an espresso-adjacent drink under variable pressure and temperature conditions that a stationary machine with a proper pump does not face. It solves a real problem for campers and travelers, but it is not a practical or capable substitute for a countertop machine in a home kitchen."
 ---
 
 Built-in coffee makers occupy a narrow but specific niche in the broader world of [Coffee Makers](/coffee-makers/) , they're for kitchens where counter space is genuinely scarce, or for anyone who wants brewing infrastructure that disappears into the architecture. The category sounds more cohesive than it is. What you'll find under that search term ranges from true wall-integrated systems to compact countertop machines that simply photograph well next to cabinetry. Knowing which you actually need changes the decision entirely.

@@ -49,6 +49,17 @@ products:
 tags: ["pods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the Nespresso Momento 120 the same as a consumer Vertuo machine?"
+    answer: "No. The Momento 120 is a commercial machine designed for office and workplace environments, not home use. It operates at a different scale — higher daily cycle capacity, plumbed-in water options, and commercial-grade construction. The consumer Vertuo and Original Line machines covered in this article are the appropriate alternatives for home use, and their capsules are the same Nespresso pods you would find for any retail machine."
+  - question: "Original Line vs. Vertuo — which system should I choose?"
+    answer: "The decision comes down to what you want to brew. Original Line uses a 19-bar pump system that produces concentrated espresso shots in the 1 to 2 oz range and accepts a wide range of third-party pods. Vertuo uses centrifugation and barcode-read pods that can brew everything from a single espresso to a full 18 oz carafe from one machine. If variety and third-party compatibility matter, Original Line wins. If you want one machine to cover both espresso and longer coffee, Vertuo is the more practical single-machine answer."
+  - question: "Is the Breville-built Creatista worth the premium over the De'Longhi Vertuo Plus Deluxe?"
+    answer: "For daily use over multiple years, yes — the Breville construction is meaningfully more substantial, and the integrated steam wand is a genuine functional upgrade over the Aeroccino. The wand gives you actual control over milk temperature and texture, not just a fixed-foam output. For occasional use or households that do not make milk drinks regularly, the gap narrows considerably and the Vertuo Plus Deluxe with Aeroccino is the smarter buy."
+  - question: "How do third-party pods like Rosso Caffe compare to official Nespresso pods?"
+    answer: "For Original Line machines, quality third-party pods extract consistently and perform comparably to official Nespresso pods. Italian-made pods in particular tend to be reliable. The gap is more significant for Vertuo, where the barcode system limits third-party compatibility. On Original Line, the main difference is flavor profile rather than extraction quality, and flavored variety packs like Rosso Caffe serve a specific purpose as a secondary rotation option rather than a daily driver."
+  - question: "Should I start with a mild pod like Volluto or go straight to a higher-intensity option?"
+    answer: "Starting with Volluto at intensity 4 is sensible if you are new to the platform — it is forgiving to extract and unlikely to produce an unpleasant result. But do not treat mild as a permanent ceiling. Try a mid-intensity pod within the first month. A variety pack in the early weeks is the most efficient way to map your preferences before committing to a high-volume order of one SKU."
 ---
 
 Nespresso's pod ecosystem is large enough to be genuinely confusing , two incompatible capsule lines, machines built by different OEMs, and a range of third-party pods that may or may not perform the way the label suggests. If you've landed here trying to make sense of the Nespresso Momento 120 and what works with it, that confusion is reasonable. The [Pods & Capsules](/pods/) hub covers the broader landscape, but this article focuses on the machines and capsules most relevant to that platform.

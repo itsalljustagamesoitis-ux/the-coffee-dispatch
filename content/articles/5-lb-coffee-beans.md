@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How long does a 5 lb bag of whole bean coffee stay fresh after opening?"
+    answer: "Whole beans stored in an airtight container at room temperature hold peak flavor for roughly two to three weeks after opening and remain acceptable for up to six weeks if storage is genuinely airtight. Freshness at purchase matters as much as storage method — beans that arrived two weeks post-roast have a shorter useful window than beans that arrived three days post-roast. Look for a printed roast date, not a best-by date, to calculate your actual timeline."
+  - question: "Fresh Roasted Coffee Italian Roast vs Copper Moon Sumatra — which 5 lb dark roast should I buy?"
+    answer: "The main differentiator is freshness infrastructure, not roast profile. Fresh Roasted Coffee prints roast dates and operates on a near-roast-to-order model, so beans arriving at your door have typically been roasted within a week or two. Copper Moon moves through retail and warehouse channels, which means freshness depends on inventory turnover. If you can verify stock freshness, both are solid dark roasts. If you can't, Fresh Roasted Coffee's supply chain transparency gives it the edge."
+  - question: "Is a 5 lb bag of coffee beans worth buying in bulk or does it go stale before I finish it?"
+    answer: "It depends entirely on your consumption rate. At one 8-cup drip pot per day using roughly an ounce of beans per brew, a 5 lb bag is about 80 sessions — a three-month supply. Three months is too long to maintain quality from a single purchase regardless of storage. At two brews daily you're through it in six weeks, which is workable. Calculate your actual daily use before buying at this quantity."
+  - question: "Is the Cameron's Coffee Scandinavian Blend a good choice for espresso?"
+    answer: "It's workable but not ideal. Lighter-roasted beans require more precise extraction to avoid sourness — the margin for error is narrower than with a dark roast. If your espresso setup includes a decent grinder and you're comfortable dialing in recipes, the Cameron's Scandinavian Blend will produce an interesting, nuanced shot. For beginners or anyone who wants a more forgiving espresso bean, a dark roast like the Copper Moon Sumatra or Fresh Roasted Italian is the easier starting point."
+  - question: "What grinder do I need to use 5 lb whole bean coffee properly?"
+    answer: "A burr grinder is the minimum requirement — blade grinders produce inconsistent particle sizes that extract unevenly regardless of bean quality. An entry-level burr grinder runs from budget to mid-range and pays back across every bag you buy after. For drip and French press, a modest burr grinder is sufficient. For espresso, invest more — grind consistency at fine settings has a direct impact on shot quality that becomes obvious quickly."
 ---
 
 Buying 5 lb of coffee beans at once makes sense if you're brewing daily , but bulk buying amplifies every variable. A mediocre bag of beans becomes a very large mediocre bag of beans. The [Coffee Beans & Roasts](/beans/) landscape at this size runs from genuinely good value to bulk commodity dressed up in attractive packaging, and the difference matters more than most buyers expect.

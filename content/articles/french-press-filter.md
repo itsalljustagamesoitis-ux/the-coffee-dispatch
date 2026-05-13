@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How often should I replace a French press filter screen?"
+    answer: "Under daily use, a stainless steel mesh screen typically lasts three to six months before the weave deforms enough to affect performance. Signs it needs replacing: more sediment than usual in your cup, the screen feels loose in the plunger assembly, or visible deformation in the mesh. Buying a multi-pack means you have a replacement ready when that happens rather than waiting on a reorder."
+  - question: "Will a 4-inch replacement screen fit my French press?"
+    answer: "The 4-inch specification covers most standard 34oz / 8-cup French presses, including Bodum Chambord and Brazil models and most generic presses sold in that size. Smaller presses (12oz, 17oz) and larger presses (51oz) require different sizing. If your press is a non-standard size, measure the internal diameter of the brew basket before ordering — do not assume the universal claim applies without verifying."
+  - question: "Mesh screen vs paper filter insert for French press: what is the difference?"
+    answer: "A stainless mesh screen is what comes standard with every French press — reusable, and it produces the full-bodied, slightly sediment-present cup the method is known for. Paper filter inserts are a separate add-on that sits inside the press alongside the mesh screen, catching finer particles for a cleaner result. If sediment is your primary complaint with French press coffee, a paper insert addresses it more effectively than upgrading the mesh screen alone."
+  - question: "Does the center ring need to be replaced along with the mesh screen?"
+    answer: "Often yes. The center ring holds the screen flat against the brew basket during the plunge — a bent or corroded ring causes grounds to bypass the screen at the edges regardless of how good the mesh is. Some replacement packs include the center ring; others include only the screen. If your existing ring shows visible damage or the screen sits unevenly during brewing, buy a pack that includes the ring as part of the complete replacement."
+  - question: "Are the percolator paper filter discs in this article interchangeable with French press mesh screens?"
+    answer: "No. The 300-count percolator filter discs are paper discs designed for percolator coffee pots and are not interchangeable with French press mesh screens. They differ in material, construction, and function. The article flags this explicitly — they appear in search results alongside French press filters, but they will not function as a French press replacement. If you need a French press filter, you want a 4-inch stainless steel mesh screen."
 ---
 
 French press filters are a small purchase that quietly determines how much sediment ends up in your cup and how long your press keeps performing. Whether you're replacing a worn-out screen or stocking up ahead of time, the options are narrower than they look , most are 4-inch stainless steel mesh discs that fit the same standard 34 oz brew basket.

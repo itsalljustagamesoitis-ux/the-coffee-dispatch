@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Freedom Roast whole bean vs pre-ground: is the whole bean version noticeably better?"
+    answer: "Yes, if you own a burr grinder. Whole bean coffee retains its aromatics and flavor complexity until the moment you grind it, giving you a meaningfully better cup than the equivalent pre-ground. The Freedom Roast whole bean and pre-ground versions contain the same Colombian-Brazilian blend — the difference is entirely in freshness at the point of grinding. If you are using a blade grinder rather than a burr grinder, the advantage of whole bean narrows considerably."
+  - question: "Can Freedom Roast medium roast be used for espresso?"
+    answer: "Yes, with appropriate equipment and grinder calibration. Medium roast performs well in espresso when dialed in correctly — expect a balanced, slightly sweet shot without the bitter edges a dark roast can produce. The Colombian and Brazilian blend is forgiving for home espresso. The limiting factor is almost always the grinder: espresso requires a fine, consistent grind, and a blade grinder will not produce it reliably."
+  - question: "How does Peru single origin compare to the Freedom Roast blend in flavor?"
+    answer: "The Freedom Roast blend is brighter and more familiar — Colombian acidity balanced by Brazilian roundness. Peruvian single origins like the Mt. Comfort Coffee are quieter and milder, with chocolate and nutty notes that take more attention to appreciate. Freedom Roast is the better daily driver for most drinkers; Peru single origin is more interesting for someone who wants to notice what they are drinking."
+  - question: "Is buying a 2.5-pound whole bean bag good value, or will the coffee go stale?"
+    answer: "Only if you will finish it in three to four weeks. A 2.5-pound bag offers the best per-ounce value but that value evaporates if you are drinking stale coffee through the second half. Two daily drinkers going through roughly half a pound per week can justify it. One occasional drinker cannot. Freshness is worth more than per-ounce savings — buy the bag size that matches your actual consumption rate."
+  - question: "What type of grinder do I actually need to get the most from whole bean coffee?"
+    answer: "A burr grinder, not a blade grinder. Hand burr grinders are available at accessible prices and produce consistent results that significantly outperform electric blade grinders costing more. The grind consistency matters more than the grinder's price — an inexpensive burr grinder beats an expensive blade grinder every time for extraction quality. The article notes that the roast date on the bag matters more than anything else; a burr grinder ensures you are not also undermining that freshness with inconsistent particle size."
 ---
 
 Freedom Roast is Black Rifle Coffee Company's flagship blend, and searching for it tends to surface a predictable mix: the whole bean version, the pre-ground version, and a handful of competitors that Amazon slots in nearby. If you're browsing [Coffee Beans & Roasts](/beans/) and trying to figure out which of these is actually worth buying, the answer depends less on brand loyalty than on how you brew and whether you own a grinder.

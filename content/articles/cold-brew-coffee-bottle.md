@@ -49,6 +49,17 @@ products:
 tags: ["cold-brew", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Home brewing bottle vs. ready-to-drink cold brew — which is worth the money?"
+    answer: "For daily consumption, home brewing with a dedicated vessel like the Hario 650ml produces better coffee at a fraction of the ongoing cost. Ready-to-drink formats make sense for travel, office use, or days when you haven't prepped a batch. Most regular cold brew drinkers end up doing both — home brewing as the default and ready-to-drink as the backup for situations where brewing isn't practical."
+  - question: "Hario 650ml vs. 700ml cold brew bottle — is there a real difference?"
+    answer: "The functional difference is 50ml of additional capacity. Both use the same glass construction, wine bottle silhouette, and Hario build quality. The 650ml comes in black; the 700ml is available in pale gray. The capacity difference is unlikely to change your brewing routine in any practical way — choose based on which colorway suits your kitchen and whether 50ml matters for your batch size."
+  - question: "Does the type of coffee bean actually matter for cold brew at home?"
+    answer: "It matters considerably. Cold extraction emphasizes sweetness and body while suppressing acidity, which means a well-sourced medium roast produces a noticeably more complex result than a generic dark roast blend. For home brewing, fresh beans from a specialty roaster — ground coarse — will outperform anything pre-ground from a supermarket shelf. The extended steep time in cold brew doesn't hide poor sourcing, it mutes it."
+  - question: "How long does cold brew stay fresh in a sealed glass bottle?"
+    answer: "Cold brew stored in a sealed glass bottle in the refrigerator holds well for ten to fourteen days. Flavor peaks around the 48- to 72-hour mark after steeping and gradually softens after that. An airtight seal matters — a loose stopper accelerates oxidation and shortens shelf life noticeably. The Hario bottles seal well enough that degradation within a standard week of use is minimal."
+  - question: "Is the Death Wish Mocha Latte a practical daily cold brew option?"
+    answer: "Only for a specific buyer — someone who wants a ready-to-drink functional coffee beverage that combines caffeine and 8g of protein, and is comfortable with a sweetened, flavored format. It's not a straightforward cold brew product; the Mocha Latte format is designed as a meal-adjacent drink rather than a daily coffee habit. For black coffee drinkers or anyone wanting control over sweetness, the Califia Farms or La Colombe unsweetened options are far better fits."
 ---
 
 Cold brew at home is simpler than most people make it , coarse grounds, cold water, twelve to fourteen hours, done. The hard part is finding a bottle that fits your workflow, or deciding whether a ready-to-drink option makes more sense for how you actually live. Both paths have a place in the [Cold Brew & Iced Coffee](/cold-brew/) world; what matters is knowing which one you're actually buying.

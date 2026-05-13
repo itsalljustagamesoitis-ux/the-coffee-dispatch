@@ -49,6 +49,17 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Hario Skerton Pro vs original Skerton: which should I buy?"
+    answer: "The Skerton Pro added a stabilizing ring around the lower burr axle that reduces lateral wobble during grinding, a real problem with the original at finer settings. For coarse brewing methods like French press and cold brew, both perform similarly. For pour-over, where you are grinding at medium-fine settings, the Pro is meaningfully more consistent. Unless you find the original at a significantly lower price for coarse-grind-only use, the Pro is the better buy."
+  - question: "Can any Hario hand grinder grind fine enough for espresso?"
+    answer: "Hario ceramic mills reach fine settings, but they are not reliable espresso grinders. The burr geometry and adjustment precision are not built for the 200-micron range that a 9-bar espresso machine requires. They handle Moka pot and fine AeroPress comfortably. If espresso is your primary method, you need a grinder designed specifically for that range, hand or electric, rather than adapting a pour-over-oriented ceramic mill."
+  - question: "Is the Hario Mini-Slim Plus practical for daily home use or only for travel?"
+    answer: "It works for home use if you are brewing single servings consistently. The capacity limits you to roughly one AeroPress or small V60 dose per fill, which is workable for a solo morning routine but becomes tedious for two people. The Mini-Slim Plus earns its place as a travel grinder first. For primary home use, the Skerton Pro's larger capacity and stabilized burr mechanism are worth the difference."
+  - question: "When does the Hario Outdoor V60 Metal Mill make more sense than the Skerton Pro?"
+    answer: "When the grinder is going in a bag, on a trail, or anywhere that glass is a risk. The metal construction removes the fragility concern of the standard Skerton design and adds meaningful durability for real outdoor use. For kitchen counter use with a stable storage spot, the Skerton Pro's glass canister is easier to clean and easier to monitor fill level. The Outdoor V60 earns its cost premium specifically for the conditions it was designed for."
+  - question: "How long does it take to grind coffee with a Hario hand grinder?"
+    answer: "At medium settings, expect roughly one minute per 15 grams of whole beans. A single AeroPress dose takes about a minute; a large French press dose of 40 grams takes three to four minutes. Grinding speed decreases at finer settings due to increased burr resistance. The time cost is predictable and consistent, which makes it easy to build into a morning routine once you know what to expect."
 ---
 
 Choosing a hand grinder sounds straightforward until you realize there are a dozen Hario models with overlapping names and nearly identical product photos. If you're exploring [coffee grinders](/grinders/) for the first time or upgrading from a blade grinder , which, to be direct, produces undrinkable espresso no matter how carefully you use it , a Hario hand grinder is a reasonable first serious step. The question is which one.

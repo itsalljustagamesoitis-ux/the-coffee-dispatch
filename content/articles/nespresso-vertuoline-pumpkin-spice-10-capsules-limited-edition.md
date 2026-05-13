@@ -49,6 +49,17 @@ products:
 tags: ["pods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are the Nespresso Vertuoline pumpkin spice pods available year-round?"
+    answer: "No. The pumpkin spice line is a limited seasonal release, typically available from late summer through early fall while supplies last. Nespresso does not guarantee annual availability, though the pods have returned in recent seasons. If you find them in stock, ordering what you will realistically use before spring is the sensible approach rather than assuming a restock will happen."
+  - question: "How does the pumpkin spice pod compare to the Barista Flavored Pack for everyday use?"
+    answer: "The pumpkin spice pods are bolder and more overtly sweet — a seasonal novelty designed for the fall window, with a flavor profile described as closer to a coffee cake than a straight espresso. The Barista Flavored Pack is calibrated for regular use, with more subtle flavoring that integrates into the coffee rather than sitting on top of it. For daily drinking the Barista pack holds up better across multiple cups; for occasional seasonal variety the pumpkin spice is the more distinctive option."
+  - question: "Is the Bianco Variety Pack suitable for black coffee drinkers?"
+    answer: "No — the Bianco line is specifically formulated for milk-based drinks, with pods calibrated to hold flavor intensity under the dilution of steamed milk. Brewed black, Bianco pods can taste thin or under-developed compared to standard Vertuo capsules. Black coffee drinkers are better served by Melozio or the standard Variety Pack rather than anything in the Bianco line."
+  - question: "How many pumpkin spice sleeves should I order at once?"
+    answer: "The article recommends ordering what you will use within six to eight weeks. Two sleeves — twenty pods — covers about three weeks of one-pod-per-day use, which is a reasonable quantity before novelty fades or the season ends. Flavored pods also have a stronger aroma-to-flavor ratio when fresh, so pods stored for two or three months are still drinkable but past their aromatic peak."
+  - question: "Can I use Vertuoline pods in an Original Line Nespresso machine?"
+    answer: "No — the two systems are completely incompatible. Vertuo machines use centrifusion extraction and read a barcode on the capsule rim; Original Line machines use pump-pressure extraction with a different capsule shape. If you own an Original Line machine like the Pixie or Citiz, none of the Vertuo pods in this article will physically fit or function in your machine."
 ---
 
 Pumpkin spice Nespresso pods occupy a narrow window , available for a few weeks each fall, then gone until someone at Nespresso decides to run the seasonal line again. If you use a Vertuo machine and want to stock up, or if you're trying to decide whether the limited-edition flavor is worth the order, the answer depends on what you actually want from a flavored pod. Browse the full range of [Pods & Capsules](/pods/) options before committing to a seasonal order you can't easily return.

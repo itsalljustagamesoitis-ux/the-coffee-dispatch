@@ -49,6 +49,17 @@ products:
 tags: ["cold-brew", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Reusable cotton vs. disposable mesh cold brew bags — which should I choose?"
+    answer: "Reusable cotton suits consistent brewers who maintain the equipment properly — rinse immediately after use, wash thoroughly every few brews, and dry completely before storage. Disposable mesh bags eliminate cleaning entirely and suit irregular brewers or anyone whose schedule might leave a cloth bag sitting damp in a drawer between uses. The honest framing is that reusable wins on economics and environmental footprint if you'll maintain the bags; disposable wins on simplicity if you won't."
+  - question: "What size cold brew bag do I need for a standard mason jar?"
+    answer: "A 4x6-inch bag is sized for one-quart mason jar setups with roughly two to four ounces of ground coffee. For larger pitcher or multi-quart batches, a 12x12-inch bag handles more grounds without packing them too tightly, which matters for even extraction. The 20x20-inch commercial bags require five-gallon bucket systems and have no practical application outside that context."
+  - question: "Fine mesh vs. coarse mesh cold brew bags — what does it actually change in the cup?"
+    answer: "Fine mesh produces a cleaner, clearer concentrate with minimal sediment. Coarse mesh lets more fine particle matter through, adding mild turbidity and slightly more body. For cold brew served straight or lightly diluted, fine mesh is preferable. For cold brew used primarily as a base for milk drinks or heavily diluted recipes, the difference is minimal. Choose based on what you're making, not the spec number."
+  - question: "Can I reuse a disposable cold brew bag for a second batch?"
+    answer: "Technically, fine mesh disposable bags can sometimes survive a second use if rinsed immediately after the first brew, but they're engineered for single use and the mesh integrity degrades. The more relevant question is whether reuse saves meaningful effort — it doesn't, since rinsing, drying, and refilling a disposable bag takes more time than starting fresh. If reusability is a priority, the organic cotton bags are designed for repeated use and hold up far better."
+  - question: "How important is the drawstring design on a cold brew bag?"
+    answer: "More important than it looks. Cold brew grounds are heavy when wet, and a bag that stays closed through a full steep without leaking is the entire point. A drawstring that loosens when pulled against weight is worse than no drawstring at all because it creates false confidence. Look for bags where the cord is knotted rather than heat-sealed to the fabric, and where the opening cinches firmly under the weight of saturated grounds."
 ---
 
 Cold brew is one of the more forgiving brewing methods in home coffee , long steep time, cold water, minimal equipment , but the filter is where most setups quietly fail. Grit in the final cup, a bag that splits mid-brew, a cloth filter that holds onto last week's oils: all avoidable problems, none of them obvious until you've dealt with them. If you're building or refining a home cold brew setup, the [Cold Brew & Iced Coffee](/cold-brew/) hub covers the full range of equipment worth considering.

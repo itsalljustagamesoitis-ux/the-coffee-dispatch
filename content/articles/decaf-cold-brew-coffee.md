@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Best decaf cold brew if I don't want to brew at home?"
+    answer: "The Wandering Bear ready-to-drink options are the straightforward answer. The 3-pack is the right entry point, enough volume to confirm you like the product before committing to the 6-pack. Both are shelf-stable, require no equipment, and contain no added sugar, which keeps the coffee flavor unmasked rather than buried under sweeteners."
+  - question: "JAVA HOUSE 4:1 concentrate vs ready-to-drink Wandering Bear: which is better for daily use?"
+    answer: "The concentrate gives you control over strength that ready-to-drink can't match. You can run it weaker over ice with extra water or stronger for a shorter, more intense drink. Ready-to-drink is fixed at whatever concentration the manufacturer chose. If your preferences vary day to day, the JAVA HOUSE concentrate is more adaptable. If you want the same drink every time with no decisions, RTD is the simpler answer."
+  - question: "Does Swiss Water Process decaf matter specifically for cold brew?"
+    answer: "For cold brew it matters more than for hot coffee. Cold brew's long extraction time and cold-temperature brewing amplify subtle flavor characteristics that chemical decaffeination tends to flatten. Bizzy Cold Brew Coffee Decaf Blend specifies Swiss Water Process, which is the clearest signal that flavor preservation was a priority. If you're choosing between two products and only one discloses its decaffeination method, that transparency usually indicates the better outcome."
+  - question: "Can decaf cold brew concentrate be used to make hot coffee?"
+    answer: "Most cold brew concentrates are designed for cold or iced preparation, but the Coffee Concentrate Cold Brew Original Decaf explicitly works with hot water, which is rare in this category. Standard cold brew concentrates can technically be diluted with hot water but the result often lacks the brightness of a hot-brewed cup. If hot coffee is a regular part of your routine alongside iced, a concentrate designed for both formats is more practical."
+  - question: "Does pre-ground decaf for cold brew go stale faster than regular pre-ground coffee?"
+    answer: "The degradation timeline is essentially the same since oxygen is the problem regardless of caffeine content, and coarse-ground coffee has significant surface area exposed to air. What makes decaf pre-ground slightly more sensitive is that the decaffeination process can reduce the concentration of volatile flavor compounds before the coffee even reaches the grinder. Starting from a lower flavor baseline means freshness loss hits harder."
 ---
 
 Decaf cold brew has a reputation problem it doesn't deserve. The category spent years as an afterthought , watery concentrates and flavorless ready-to-drinks that confirmed every skeptic's suspicion that removing caffeine meant removing everything interesting. That's changed. The options worth buying now start with better beans, better decaffeination methods, and a clearer sense of what makes cold brew worth drinking in the first place. If you're exploring the full range of [Coffee Beans & Roasts](/beans/) options, decaf cold brew belongs in that conversation.

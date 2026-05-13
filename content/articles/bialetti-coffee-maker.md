@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between the Bialetti Moka Express and the New Venus Induction?"
+    answer: "The Moka Express is aluminum and works on gas and electric cooktops but not on induction without an adapter. The New Venus Induction is stainless steel with a magnetic base, making it natively compatible with all hob types including induction. Stainless also tolerates the dishwasher where aluminum does not. If your kitchen runs on induction, the New Venus Induction is the correct choice without qualification."
+  - question: "How do I pick the right cup size for my household?"
+    answer: "Moka pot cups are small — a 6-cup Bialetti produces about 9 ounces, not six standard mugs. Count the actual servings you need each morning, then choose the size that meets that number at full capacity, because moka pots must be filled to capacity to brew correctly. One or two people generally do well with the 6-cup; three to four people will be better served by the 9-cup or 12-cup."
+  - question: "Does a Bialetti moka pot make real espresso?"
+    answer: "Not technically. A moka pot brews under roughly 1.5 to 2 bar of steam pressure; a pump espresso machine operates at 9 bar. The result is strong, concentrated, and intensely flavored, but it lacks the crema and specific extraction profile of true espresso. It is its own thing — closer to a very strong stovetop coffee than a pulled shot — and worth appreciating on those terms."
+  - question: "What grind size works best in a Bialetti?"
+    answer: "A medium-fine grind — finer than drip but coarser than espresso — is the correct target. The grounds should look roughly like fine sea salt. Espresso-fine grinds can block flow through the filter basket and cause the safety valve to release. A burr grinder produces the consistency a moka pot needs; blade grinders create variable particle sizes that lead to uneven extraction."
+  - question: "How often should I replace the gasket on my Bialetti?"
+    answer: "The rubber gasket typically needs replacing every one to two years with regular use. Signs it needs changing include coffee leaking around the junction of the two chambers during brewing, or visible cracking and hardening of the rubber. Bialetti sells replacement gaskets specifically sized for each model, and replacing the gasket on time is the single most effective maintenance step for keeping a moka pot brewing cleanly and consistently."
 ---
 
 Moka pots occupy a strange middle ground in home coffee , too simple to intimidate, serious enough to reward attention. Bialetti invented the format in 1933 and still makes the most recognizable versions, which means most buyers searching for a Bialetti coffee maker are really asking which size and which model fits their setup. That question is worth answering carefully, because the differences between models matter more than they might appear on a product page. A solid grounding in [Coffee Makers](/coffee-makers/) of all types helps here , moka pots are one method among several, and knowing where they fit clarifies what you're actually choosing.

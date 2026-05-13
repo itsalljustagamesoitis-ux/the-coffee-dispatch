@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Coffee syrup vs espresso syrup: is there a real difference?"
+    answer: "The terms are used interchangeably by most brands, but a true espresso syrup is formulated to hold its character in a small, concentrated volume of liquid rather than a full cup of drip coffee. The practical difference is flavor concentration and how the syrup interacts with bitterness and acidity. Most commercial brands make one product that works adequately across both applications, but the Monin Espresso syrup is specifically designed with espresso as the primary use case."
+  - question: "Do I need a pump dispenser for espresso syrups, or can I pour from the bottle?"
+    answer: "Pouring directly from the bottle works but measuring becomes inconsistent without a pump. For daily drinks where you want the same result each time, a pump dispenser is worth the investment — it dispenses a fixed 10ml dose per stroke, which removes guesswork. The Jimoco bundle includes both pumps and Torani syrup, which is the most efficient starting setup if you do not already own dispensers."
+  - question: "How much syrup should I add to an espresso drink?"
+    answer: "One pump — roughly 10ml — is the standard starting dose for a single espresso-based drink. For larger milk-based drinks like a 12-ounce latte, one to two pumps is typical. Start conservative and adjust upward; it is much easier to add sweetness than to dilute it out of a finished drink. Syrups with higher flavor concentration, like Monin, may require slightly less than lower-concentration options like standard Torani."
+  - question: "Which espresso syrup flavors work best in black espresso versus milk drinks?"
+    answer: "Caramel and vanilla are genuinely universal — their warm, round flavor compounds sit naturally alongside the browning notes in any espresso roast, whether in a black shot or a milk-heavy latte. Fruit-forward syrups like blackberry tend to taste strange in black espresso and require a lighter roast to avoid clashing. For milk-based drinks, a heavier-handed syrup will tip the balance into dessert territory, so start with less than you think you need."
+  - question: "Which espresso syrup should I buy if I am just starting out with flavored coffee drinks?"
+    answer: "The Syruvia Variety Pack — vanilla, caramel, hazelnut, and salted caramel — is the most practical starting point because it covers the core classic range without requiring a bulk commitment to any single flavor. Once you have identified what you actually reach for, moving to a four-pack of that specific flavor makes more economic sense. Caramel and vanilla are where most people land, but it is worth finding out for yourself before buying in bulk."
 ---
 
 Espresso syrups are a small category with a wide quality range, and most buyer guides don't do much to help you navigate it. The [espresso and espresso machines](/espresso/) space tends to focus on hardware , grinders, machines, tampers , while syrups get treated as an afterthought. They shouldn't be. A good syrup integrates into the drink. A poor one sits on top of it, syrupy-sweet in a way that masks what you spent good money extracting.

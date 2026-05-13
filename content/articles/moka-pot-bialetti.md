@@ -42,6 +42,19 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size Bialetti moka pot is right for one person?"
+    answer: "The 1-cup produces a single 60ml ristretto-style serving — ideal if you want one strong shot every morning with nothing left over. The 3-cup gives you roughly 130ml, which covers one generous mug or two small cups and is what most solo buyers settle on after the first week. If you're making moka coffee as the base for a milk drink, the 3-cup gives you more volume to work with."
+  - question: "Can I use a Bialetti moka pot on an induction cooktop?"
+    answer: "Standard Bialetti Moka Express pots are aluminum, and aluminum is not ferromagnetic, so they will not work on an induction hob. An induction adapter disc can bridge the gap in theory, but the article notes results are inconsistent. Bialetti's stainless steel line — the Venus or Brikka — is built specifically for induction and is the correct choice if that's your cooktop."
+  - question: "What grind size works best in a moka pot?"
+    answer: "Medium-fine is the right starting point. A true espresso grind calibrated for 9-bar machine pressure is too fine for the 1 to 2 bars a moka pot operates at, and it will over-extract into bitter, harsh coffee. Aim for something finer than drip but coarser than espresso — roughly the consistency of coarse sand — then taste and adjust from there."
+  - question: "Is the Bialetti Caffe Mercanti Black Oro worth the premium over a standard Moka Express?"
+    answer: "The coffee it produces is identical to a standard Moka Express — same aluminum construction, same pressure valve, same two-chamber system. The premium is entirely for the black and gold finish, which is a legitimate consideration if the pot lives on your counter rather than in a cabinet. It also comes in a six-cup capacity, which is more practical for most small households than the standard nine-cup."
+  - question: "How often do I need to replace the rubber gasket, and is it difficult?"
+    answer: "For daily use, plan on replacing the gasket every twelve to eighteen months. Signs it's due include coffee leaking from the join between chambers, the two halves being harder to separate, or the rubber feeling brittle. Replacement gaskets are sold directly by Bialetti and are sized by pot model — a 3-cup gasket will not fit a 9-cup. The swap itself takes about two minutes."
+safety_topics:
+  - moka-pot-heat
 ---
 
 The moka pot is one of the few pieces of coffee equipment that rewards you immediately and keeps rewarding you for years. It brews strong, concentrated coffee on any stovetop, requires no paper filters, no electricity, and no subscription to a brewing philosophy. Among [Brewing Methods](/brewing-methods/), it sits in a category of its own , low barrier, high ceiling. Bialetti invented the format in 1933, and their pots are still the standard against which everything else is measured.

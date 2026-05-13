@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is Bru-Stop technology and does it actually reduce bitterness?"
+    answer: "Bru-Stop is Planetary Design's plunger-locking mechanism that holds the filter pressed down after you complete your plunge, limiting continued extraction from the grounds. In a standard French press, grounds stay in contact with the water indefinitely and the coffee becomes increasingly bitter and muddy as it sits. Bru-Stop reduces that effect meaningfully for anyone who does not pour the full press immediately — if you consistently press and pour within two minutes, the difference is smaller."
+  - question: "Should I buy the 32 oz or 48 oz BaseCamp French press?"
+    answer: "The 32 oz BaseCamp is the right choice for one or two coffee drinkers. The 48 oz version is for three or more drinkers, or for households where two people each want a generous second cup without a second brew cycle. Brewing a half-full 48 oz press consistently undermines extraction quality unless you adjust grind and ratio precisely — most people do not, and the coffee suffers."
+  - question: "What is the difference between the BruTrek Steel Toe and the OVRLNDR travel press?"
+    answer: "The Steel Toe 3.0 is a 20 oz single-serving travel press; the OVRLNDR is 24 oz and adds a removable bottom for easier cleaning. Both are vacuum-insulated and designed for portability. The OVRLNDR is the better pick for two people or for someone who wants simplified cleaning in the field. The Steel Toe is the leaner, lighter solo option and the right choice when pack space is a real constraint."
+  - question: "Does stainless steel French press coffee taste different from glass?"
+    answer: "The vessel material does not meaningfully affect taste in a well-maintained stainless press. What does affect taste is whether the press retains heat during the steep — stainless holds temperature better than glass, which can improve extraction consistency, particularly in a cold kitchen. The full-body, oils-intact flavor profile of French press is a product of the mesh filter and steep time, not the material of the walls."
+  - question: "Can I brew tea in the BaseCamp or travel presses, or are they coffee-only?"
+    answer: "The steep-and-press mechanism works for loose-leaf tea exactly as it does for coffee grounds — steep for the appropriate time, press, pour. The Bru-Stop mechanism serves the same function for tea, limiting continued steeping after pressing. Clean the filter thoroughly between coffee and tea use, particularly if you alternate regularly, as coffee oils will carry over into tea flavor if residue builds up on the mesh."
 ---
 
 Planetary Design has carved out a specific niche in the [Brewing Methods](/brewing-methods/) landscape , insulated stainless steel French presses built for people who want their coffee hot an hour after brewing, not just warm. The BruTrek line covers three distinct formats: the BaseCamp home press in two sizes, and two travel-oriented designs for coffee you're making somewhere other than your kitchen counter.

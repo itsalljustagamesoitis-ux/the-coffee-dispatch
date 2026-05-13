@@ -49,6 +49,17 @@ products:
 tags: ["pods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Nespresso Original Line vs. Vertuo — which system should I buy?"
+    answer: "Original Line machines use pressure-based extraction compatible with Nespresso's own pods plus a range of third-party capsules including illy. Vertuo machines use a centrifusion spinning system that reads a barcode and only accepts Nespresso-branded Vertuo pods. If capsule variety and the ability to experiment with third-party options matters to you, Original Line gives you meaningfully more flexibility. Vertuo's strength is a wider range of cup sizes up to 17 oz."
+  - question: "Can illy capsules be used in a Nespresso Vertuo machine?"
+    answer: "No. The illy Espresso Compatible Capsules are designed for Nespresso Original Line machines only. Vertuo machines require Nespresso-branded Vertuo pods with the proprietary barcode and capsule geometry. Attempting to use Original Line-compatible capsules in a Vertuo machine won't work mechanically — this is the most common compatibility mistake buyers make in this category."
+  - question: "Which Nespresso pods work best for lattes and milk-based drinks?"
+    answer: "Dark roast capsules hold up under milk where lighter roasts don't. The Nespresso Capsules Original Line Ispirazione Napoli is a strong choice for milk-based drinks — its concentrated, dark-roast profile cuts through steamed milk without tasting dilute. Vertuo users should look for high-intensity espresso-format pods rather than the larger 7.8 oz coffee formats, which are calibrated for black drinking and go thin once milk is added."
+  - question: "Is a 50-count box of Nespresso pods worth buying over a 30-count box?"
+    answer: "The 50-count boxes offer better per-pod value, but freshness is the constraint. At one to two pods daily, a 50-count box turns over in three to four weeks — that's reasonable. At one pod daily, you're looking at seven weeks, which is at the far edge of acceptable freshness even with nitrogen-sealed packaging. For lower-consumption households, the 30-count is the more practical choice regardless of per-pod economics."
+  - question: "What does the intensity number on Nespresso capsules actually measure?"
+    answer: "The intensity scale from 1 to 13 primarily reflects roast darkness and body, not caffeine content. A capsule rated 13 is darker, denser, and more bitter than one rated 5 — it is not necessarily twice the caffeine or volume. Treat the number as a relative guide for comparing capsules against each other rather than an absolute measure. For more specific flavor guidance, tasting notes like those on illy's Classico are more useful than a single number."
 ---
 
 Nespresso's pod lineup is wider than it looks, and that's both the appeal and the problem. If you're searching "Beverly Hills Nespresso," you're probably not looking for a location , you're looking for a specific capsule, or trying to figure out which Nespresso pods are actually worth buying. The [Pods & Capsules](/pods/) world has expanded considerably, and the differences between Original Line and Vertuo, between a lungo and a double espresso, between Nespresso-branded and third-party pods are real enough to affect your daily cup.

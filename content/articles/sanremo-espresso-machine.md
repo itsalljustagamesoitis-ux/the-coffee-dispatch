@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Will a better grinder actually improve espresso more than upgrading the machine?"
+    answer: "Yes, beyond a certain machine baseline. The grinder determines grind particle uniformity, which is the primary driver of extraction quality — the machine provides pressure and temperature, but it acts on whatever the grinder produces. An uneven particle distribution causes simultaneous over- and under-extraction, producing shots that taste bitter and sour at the same time. Moving from a blade grinder or entry-level burr unit to a 64mm flat burr grinder is the single highest-impact upgrade most home espresso setups can make."
+  - question: "What is a PID controller and does my espresso machine need one?"
+    answer: "A PID controller replaces the on/off thermostat logic in a standard espresso machine with continuous temperature feedback — it reads the actual temperature from a thermocouple and adjusts heating output to hold a much tighter window at the group head. Most entry-level and mid-range machines use a basic thermostat that produces several degrees of variation shot to shot. If your machine's manual only mentions a thermostat and your shots are inconsistent despite correct grind and technique, a PID retrofit is worth considering. It's not a beginner project, but for someone with basic electrical confidence, the result is noticeably more stable extraction."
+  - question: "How often should I descale my espresso machine?"
+    answer: "Descaling frequency depends primarily on water hardness in your area. In soft water regions with daily use, every three to six months is typical. Hard water regions can require descaling every four to eight weeks. Most machine manuals give a starting estimate — treat it as a baseline, not a fixed schedule. Signs you've waited too long include slower flow, temperature instability, and shots that taste off despite a correctly prepared puck. Citric acid in pre-measured packets makes it easy to stay on schedule without measuring powder."
+  - question: "What tamper size do I need — 53.3mm or 58mm?"
+    answer: "The tamper diameter must match the internal dimension of your portafilter basket. A 53.3mm tamper fits baskets common on certain single-boiler prosumer machines; 58mm is the standard for E61 group machines and most prosumer Italian equipment. Using the wrong size guarantees channelling — a tamper that doesn't seat against the basket rim on all sides leaves a ring of loose grounds that collapses under pressure. Check the stamped number on the basket rim or consult your machine manual before ordering."
+  - question: "How do I clean the group head properly and how often should I do it?"
+    answer: "The group head needs both mechanical and chemical cleaning on different schedules. After each session, brush the shower screen and gasket area with a dedicated group head brush to remove grounds and coffee oil residue. On machines with a three-way solenoid, backflush weekly with espresso machine cleaner to dissolve oil buildup inside the group body. Neglecting group head cleaning is one of the most common causes of persistent bitterness that doesn't respond to grind or dose adjustments — the oils oxidize and accumulate in ways that are invisible but audible in every cup."
+safety_topics:
+  - espresso-pressure
 ---
 
 Sanremo makes some of the most respected commercial espresso machines in the industry , the kind you find behind the bar at serious coffee shops, not on kitchen counters. That reputation makes "sanremo espresso machine" a genuinely loaded search term, because the people typing it are rarely looking for the same thing. If you're researching the [Espresso & Espresso Machines](/espresso/) category seriously, understanding what you actually need before you spend matters more than the brand name at the top of your list.

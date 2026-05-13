@@ -49,6 +49,17 @@ products:
 tags: ["pods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Can I use refillable Nespresso pods in both OriginalLine and Vertuo machines?"
+    answer: "No. OriginalLine and Vertuo capsules have completely different shapes, sizes, and sealing mechanisms — a refillable pod designed for one system physically cannot seat correctly in the other. The systems also use fundamentally different brewing mechanisms: pressure-based for OriginalLine, centrifusion for Vertuo. Confirm which Nespresso system you own before purchasing any refillable kit. Compatibility errors are the single most common source of one-star reviews in this category."
+  - question: "What grind size works best in refillable Nespresso OriginalLine pods?"
+    answer: "For OriginalLine machines, a fine espresso grind is the starting point — similar to what you would use in a traditional espresso machine with a portafilter. For Vertuo systems, the centrifusion process is more forgiving of grind variation, but consistent tamping still improves results. Blade-ground coffee produces inconsistent particle sizes that lead to uneven extraction; a burr grinder is worth the investment if you plan to use refillable pods regularly."
+  - question: "Is the NESSUS Refill Kit different from the NESSUS Reusable Pod Kit, and which should I buy first?"
+    answer: "Yes, meaningfully so. The Nessus Reusable Pod Kit is the starting setup — it includes the hardware and lids needed to begin using refillable Vertuo pods. The NESSUS Refill Kit is oriented toward ongoing use and adds an easy lid remover tool designed to cleanly strip original Nespresso foil seals without damaging the capsule rim. If you are starting out, buy the first kit. If you already have pods and need to restock consumables, the refill kit adds the remover tool as a practical upgrade."
+  - question: "How many times can a stainless steel refillable pod be reused before it needs replacing?"
+    answer: "Stainless steel pods do not have a fixed reuse limit under normal conditions. The limiting factor is the foil lid, which is single-use per brew cycle. The pod body itself, if rinsed promptly after each use and not subjected to impact damage, should last through hundreds of brew cycles. The Reusable Capsules for Nespresso OriginalLine kit includes 100 lids to start, which gives you a reasonable measure of the foil component's lifespan before the first reorder."
+  - question: "Will using refillable pods void my Nespresso machine warranty?"
+    answer: "Nespresso's warranty language typically covers defects in the machine itself, not damage caused by third-party accessories. Using refillable pods may complicate a warranty claim if machine damage is attributed to them, though in practice this is rarely an issue with well-fitting pods. Using pods correctly sized for your machine and cleaning the capsule chamber regularly after each brew reduces any risk of grounds accumulation affecting machine components."
 ---
 
 Refillable Nespresso pods sit at the intersection of two things most coffee drinkers care about: controlling what goes in the cup and not generating a small mountain of aluminum waste in the process. If you're pulling shots daily from a Nespresso machine, that adds up faster than you'd think. Browse the full range of [Pods & Capsules](/pods/) options to understand where refillables fit against pre-filled alternatives before committing.

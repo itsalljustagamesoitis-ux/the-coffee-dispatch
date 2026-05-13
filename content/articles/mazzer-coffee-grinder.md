@@ -49,6 +49,19 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is a Mazzer grinder worth buying for home use?"
+    answer: "Mazzer's commercial grinders — the Mini, Major, Robur — are built for café throughput and priced accordingly. The throughput capacity is unnecessary at home and the retail price is hard to justify unless you're pulling ten or more shots daily. Most buyers searching for Mazzer end up better served by home-focused alternatives like the TIMEMORE Sculptor 064S, which delivers flat burr precision at a price scaled to home use rather than commercial volume."
+  - question: "Fellow Ode Gen 2 vs. TIMEMORE Sculptor 064S: which grinder should I buy?"
+    answer: "The Fellow Ode Gen 2 is the clearer recommendation for filter-only brewing — pour-over, French press, cold brew. Its 64mm flat burr set and single-dose design produce excellent results for those methods, and Fellow is transparent that espresso settings aren't included. The TIMEMORE Sculptor 064S targets espresso more directly with stepless adjustment at the fine end of the range, and handles filter competently too. If espresso is part of your workflow, the Sculptor is the pick."
+  - question: "Can I use one grinder for both espresso and filter coffee?"
+    answer: "Yes, but with real trade-offs. Grinders optimized for espresso — particularly those with stepless adjustment — can run coarse enough for filter, though they may not be as accurate at the coarser end. Grinders optimized for filter, like the Fellow Ode Gen 2, deliberately exclude the fine settings espresso requires. The Tuni G1's conical burr and 48-step range makes it a reasonable dual-purpose option, though a buyer serious about espresso will eventually want a dedicated espresso grinder."
+  - question: "What is grinder retention and why does it matter for specialty coffee?"
+    answer: "Retention is the weight of ground coffee that stays inside the grinder between doses rather than exiting into your cup. High retention means you're not getting the full dose you ground, and stale grounds from a previous session contaminate your fresh dose. For specialty coffee bought in small quantities, high retention is a real loss per bag. Single-dose grinders like the Fellow Ode Gen 2 are designed specifically to minimize this — it's one of the most practically important specs to check before buying."
+  - question: "How often should I clean my burr grinder?"
+    answer: "A light brush of the burr chamber weekly and a cleaning tablet run every two to four weeks is a reasonable schedule for daily use. Coffee oils accumulate on burr surfaces and degrade flavor over time — rancid oil from weeks of buildup transfers directly to fresh beans. Urnex Grindz is the professional standard because the process is fast, thorough, and requires no disassembly. Neglecting cleaning is one of the most common reasons grinder performance deteriorates before the hardware actually wears out."
+safety_topics:
+  - electric-grinder
 ---
 
 Mazzer makes some of the most respected grinders in the commercial espresso world, but most buyers searching that name end up comparing a much wider field , budget electrics, mid-range flat burrs, prosumer stepless grinders , and need a clear guide through it. These five picks cover the realistic range a home buyer considers once they start looking seriously at [Coffee Grinders](/grinders/).

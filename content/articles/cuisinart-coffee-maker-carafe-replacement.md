@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How do I know which replacement carafe actually fits my Cuisinart coffee maker?"
+    answer: "Check the model number printed on the base of your current carafe or on the underside of your coffee maker. Every replacement carafe in this guide lists the specific Cuisinart model numbers it fits — match your model number to that list exactly. Do not assume physical similarity means compatibility. The DCC-1200 and DCC-3200 look similar but require entirely different carafes."
+  - question: "12-cup vs. 14-cup Cuisinart replacement carafe — what is the actual difference?"
+    answer: "The difference is not just volume — the physical dimensions and base profile differ between the two sizes, which means they are not interchangeable between machine lines. Cuisinart's older DCC-1100 and DCC-1200 series use 12-cup carafes; the newer DCC-2200, DCC-2600, and DCC-3200 series use 14-cup carafes. Ordering the wrong size will result in a carafe that does not seat correctly on your machine's warming plate."
+  - question: "Is a glass replacement carafe as durable as the original?"
+    answer: "Replacement carafes use the same borosilicate glass construction as the originals, so durability under normal use is comparable. What hasn't changed is glass's fundamental fragility on impact — a drop onto tile or hardwood will break a replacement carafe just as reliably as it broke the original. Handle it the same way you would any glass carafe and it will last. If fragility is a concern, look for whether a thermal carafe exists for your specific model."
+  - question: "Should I replace my broken carafe or buy a new coffee maker?"
+    answer: "If the machine itself is working correctly — heating water to temperature, running the brew cycle cleanly, keeping the warming plate functional — a replacement carafe is the sensible call. Cuisinart drip machines frequently outlast their glass carafes by years. The case for replacing the machine instead is when the machine itself has functional problems, not just a broken carafe."
+  - question: "Does the DCC-1220BKSWM carafe replacement fit other Cuisinart models?"
+    answer: "No. The carafe replacement for the Cuisinart DCC-1220BKSWM is listed for that specific model only — the compatibility is not broader than the product title states. If you own a different Cuisinart model, use one of the multi-model compatible options in this guide: either the 12-cup or 14-cup version depending on which machine generation you own."
 ---
 
 Replacement carafes sit in an oddly specific corner of [Coffee Makers](/coffee-makers/) , not glamorous, not worth agonizing over for weeks, but genuinely important when your current one cracks at 7 a.m. on a Tuesday. The question is never whether to replace it; the question is which replacement actually fits your machine and holds up long enough to be worth ordering.

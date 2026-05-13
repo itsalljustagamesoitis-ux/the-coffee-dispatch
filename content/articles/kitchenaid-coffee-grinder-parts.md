@@ -49,6 +49,17 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How do I know if a replacement KitchenAid carafe will fit my specific grinder model?"
+    answer: "Compatibility depends on your model number, not the brand name. Locate the model number on your machine's base label, then compare it against the OEM part number references in the product listing — numbers like 4176728 or KPCGRND. The Univen 7 oz replacement carafe references those part numbers directly, which is the clearest compatibility signal available for KitchenAid burr grinder owners."
+  - question: "What is the difference between a drive coupler replacement and a burr assembly replacement?"
+    answer: "A drive coupler is the mechanical link between the motor shaft and the grinding attachment — a small component designed to fail before the motor does under excessive load. A burr assembly is the actual grinding mechanism. Couplers are replaced when the machine loses power transmission; burr assemblies are replaced when grind quality degrades noticeably. The 9704230 drive coupler kit addresses coupler failure specifically and includes the spanner tool needed for the swap."
+  - question: "Should I repair a broken KitchenAid blade grinder, or use the breakdown as a reason to switch to a burr grinder?"
+    answer: "A broken component on a blade grinder deserves a harder look than the same failure on a burr grinder. Blade grinders produce inconsistent particle sizes by design — the mechanism chops rather than mills, guaranteeing uneven extraction regardless of technique or bean quality. If the repair cost is modest, replacing the part is reasonable. But if you're on a second or third repair, the more useful investment is a burr grinder."
+  - question: "Can I use a KitchenAid spice accessory kit without buying a new base unit?"
+    answer: "Yes, if your existing KitchenAid grinder base is compatible with the BCGSGA accessory kit. The kit adds spice grinding containers to a machine that already works — it is not a standalone unit. Confirm your base model is on the compatibility list before ordering. For coffee flavor integrity, keeping spice and coffee grinding in dedicated separate chambers reduces but does not fully eliminate cross-contamination."
+  - question: "Does the Cuisinart DBM-8GC grind chamber fit any KitchenAid grinder models?"
+    answer: "No. The DBM-8GC is a Cuisinart-specific replacement part designed for the DBM-8P1 burr grinder only. It is not cross-compatible with KitchenAid machines. If you arrived here looking for a KitchenAid replacement chamber, you need to search by your specific KitchenAid model number instead."
 ---
 
 Replacing a broken carafe or a stripped drive coupler is usually what brings people to this search , not a desire to rebuild a grinder from scratch, but a specific part that's stopped working. Most [KitchenAid grinder parts](/grinders/) are straightforward replacements once you know exactly what you need and whether the part you're looking at actually fits your model.

@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do I need a dedicated tamping station, or will a silicone mat work?"
+    answer: "A dedicated tamping station provides a fixed portafilter support that holds the basket at the right height and angle during tamping. A plain mat protects your counter but does not anchor the portafilter — you are relying on one hand to hold it steady while the other tamps. For occasional use, a quality silicone mat is sufficient. For daily doubles, the added stability of a station with a portafilter rest is worth the upgrade."
+  - question: "Calibrated tamper vs standard tamper: is the spring-loaded mechanism actually worth it?"
+    answer: "A calibrated tamper clicks when you reach the set pressure — typically around 30 lbs of force — which means every puck gets the same compression regardless of how tired your wrist is at shot four. A standard tamper relies entirely on the user to apply consistent force each time. For home baristas pulling multiple shots, the calibrated mechanism removes one variable from an already complex equation and makes shot-to-shot consistency easier to maintain."
+  - question: "What is a WDT tool, and does it actually improve espresso extraction?"
+    answer: "A WDT (Weiss Distribution Technique) tool uses fine needles — typically 0.35mm — to break up clumps in the ground coffee before tamping. Ground coffee clumps regardless of grinder quality at finer settings, and tamping a clumped puck compresses those clumps rather than distributing them evenly, causing channeling. The improvement in shot consistency after adding WDT is immediate and not subtle; it is a basic puck prep step that most entry-level guidance fails to mention."
+  - question: "Which portafilter sizes do most tamping stations support?"
+    answer: "Most tamping stations are designed around 58mm portafilters, which covers the majority of semi-commercial home machines including Gaggia, Rocket, ECM, and mid-tier Breville models. The Bincoo tamping station explicitly supports 51, 53, 54, and 58mm, giving it the widest practical range. Entry-level machines including most Breville Barista Express models use 54mm; the DeLonghi Dedica and similar compact machines use 51mm. Confirm your machine's basket diameter before buying."
+  - question: "Does a knock box need to be positioned next to the tamping station, or can it go elsewhere on the counter?"
+    answer: "Knock box placement matters more than most buyers expect. It should sit directly adjacent to where you finish tamping so that knocking the puck is a single reach, not a pivot or a step. A box that requires you to turn your back to the machine or step aside to knock will get pushed out of position and adds friction to a workflow you are repeating every morning. Think through the full grind-distribute-tamp-pull-knock sequence before committing to a counter layout."
 ---
 
 Getting your espresso workflow organized matters more than most people expect. A cluttered countertop leads to rushed tamping, inconsistent puck prep, and shots that underperform the equipment you already own. The tools that sit between your grinder and your portafilter , tamping stations, distribution tools, knock boxes , determine whether your preparation routine is repeatable or just approximate. For a full look at the equipment side of this equation, start with [Espresso & Espresso Machines](/espresso/).

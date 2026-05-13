@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between decaf cold brew concentrate and regular decaf coffee?"
+    answer: "Cold brew concentrate is brewed with cold water over an extended steep time, typically twelve to twenty-four hours, which produces lower acidity and a smoother flavor than hot-brewed decaf. The concentrate format means you dilute before drinking and control final strength. Regular decaf brewed hot and chilled tends to taste thinner and carries more acidity. The cold brew process changes the extraction chemistry, not just the temperature."
+  - question: "Grady's New Orleans style vs standard cold brew: is the chicory flavor a big difference?"
+    answer: "Yes, noticeably. Chicory root adds an earthy, slightly woody bitterness that changes the flavor profile significantly from 100% coffee cold brew. The Grady's products are a traditional regional blend, not a variation on standard cold brew. If you've never had chicory coffee before, the difference is substantial enough to treat it as a different product category rather than a substitute."
+  - question: "Wandering Bear 3-pack cartons vs the 96 oz tap box: which format makes more sense?"
+    answer: "The tap box is for consistent daily drinkers. At 96 ounces across sixteen servings, it suits households where cold brew consumption is predictable and the fridge real estate can be dedicated. The 3-pack cartons are shelf-stable until opened, which means buying multiples carries less risk and storage is more flexible. Start with the 3-pack to confirm you like the product before committing to the tap box format."
+  - question: "How long does decaf cold brew concentrate last after opening?"
+    answer: "Most products carry a two-to-four-week refrigerated shelf life once opened. Shelf-stable cartons like the Wandering Bear products don't require refrigeration before opening, which extends their useful purchase-to-open window considerably. Liquid concentrates in bottles, like the Java House Colombian, should be refrigerated and used within the manufacturer's recommended window, typically two to three weeks."
+  - question: "Does all decaf cold brew still contain some caffeine?"
+    answer: "All decaf products retain trace caffeine. True zero is not achievable through any commercial decaffeination method. Swiss Water Process certified products typically test at 99.9% caffeine removal, which translates to roughly two to five milligrams per eight-ounce serving versus around one hundred to one hundred fifty milligrams in regular cold brew. For most people that is inconsequential, but anyone with genuine medical caffeine sensitivity should check whether the product specifies its decaffeination method."
 ---
 
 Decaf cold brew concentrate sits in an awkward corner of the coffee market , it promises the smooth, low-acid character of cold brew without the caffeine, but the category is full of products that deliver neither particularly well. If you're brewing for evenings, managing caffeine sensitivity, or simply want something you can drink past 3pm without regretting it at midnight, the options here are narrower than the regular cold brew shelf. The broader world of [Coffee Beans & Roasts](/beans/) has its own depth, but this specific format rewards some careful shopping.

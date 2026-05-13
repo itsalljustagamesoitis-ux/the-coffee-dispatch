@@ -49,6 +49,17 @@ products:
 tags: ["accessories", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does a milk frother replace a steam wand for home espresso drinks?"
+    answer: "An automatic milk frother produces consistent, usable foam for lattes, cappuccinos, and flat whites without requiring any technique. A steam wand produces superior microfoam with real-time tactile control over texture but takes meaningful practice to use well. For most home setups, a quality frother like the Instant Pot MagicFroth produces results that are indistinguishable from a steam wand for typical daily drinks. If latte art is the goal, a steam wand is eventually necessary."
+  - question: "Which frother works best with oat milk?"
+    answer: "Oat milk is more temperature-sensitive than dairy and tends to over-froth or separate at high heat. The Maestri House DualFro 600 is the strongest option here for oat milk specifically because it allows independent temperature and froth-thickness adjustment. Fixed-temperature frothers work with oat milk but produce less consistent results, and the texture window is narrower than most product descriptions acknowledge."
+  - question: "Instant Pot MagicFroth vs Maestri House DualFro 600: which is the better buy?"
+    answer: "The Instant Pot MagicFroth is the stronger choice for buyers who want a capable all-around frother backed by an established brand with reliable support. The Maestri House DualFro 600 is the stronger choice for buyers who need variable temperature and froth thickness control, particularly for plant-based milks, and who want the largest capacity in this group at 21oz. The Maestri House introduces more interface complexity and carries more brand-uncertainty risk."
+  - question: "What capacity milk frother do I need for two drinks?"
+    answer: "For two standard-sized lattes or cappuccinos from a single batch, 450ml is a practical minimum. The DREO at 450ml and the Black-Glass frother at 500ml both cover two medium drinks comfortably. The Maestri House at 21oz covers two larger drinks. Frothers below 450ml typically require a second cycle for two drinks, which interrupts workflow in a way that compounds over time in a two-person household."
+  - question: "How often does a milk frother need cleaning?"
+    answer: "After every use. Heated milk leaves a protein residue that builds up quickly, affects foam quality, and eventually affects taste. Dishwasher-safe components make this realistic: pitcher and lid go in after each session. Frothers with non-removable bases require wiping the heating surface down rather than rinsing, which is a different maintenance discipline. Under-cleaning is the most common reason frother performance degrades within the first few months of use."
 ---
 
 Milk frothers designed for home espresso setups have multiplied fast enough that narrowing the field takes real work. If you're already pulling decent shots and want foam that holds up through a latte or cappuccino without buying a machine with a steam wand, the [Accessories & Setup](/accessories/) category now has more capable standalone options than it did even two years ago. The question is which ones are worth the counter space.

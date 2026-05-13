@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size espresso cup do I need for a double shot?"
+    answer: "A 4 oz cup is the practical choice for a double. Most home setups pull a double by default, typically a 36-40g yield, and a 2 oz demitasse is too small without the crema overflowing the rim. Before buying, pull one shot and measure what you actually pour. The cup should hold that volume with a small amount of room at the top."
+  - question: "Single-wall vs double-wall espresso cups: does the insulation actually matter?"
+    answer: "It matters if you don't habitually pre-warm your cups. A cold single-wall ceramic cup absorbs heat from the shot and can drop the temperature of a short espresso by several degrees on contact. Double-wall construction, whether glass or ceramic, reduces that thermal transfer significantly. If your kitchen runs cold or your morning workflow doesn't include pre-warming, double-wall is worth the consideration."
+  - question: "Selamica ceramic cups vs generic double-walled ceramic set: which should I buy?"
+    answer: "The Selamica set includes matching saucers, comes from a brand with consistent glaze quality, and ships as a complete service of six. The generic double-walled ceramic set offers insulation that the Selamica doesn't, but without saucers or brand provenance. If presentation and a complete matched set matter, Selamica wins. If thermal insulation is the priority and saucers aren't important, the double-walled ceramic set makes its case."
+  - question: "Do I need sublimation printing equipment to use blank ceramic mugs for custom espresso cups?"
+    answer: "Yes. Sublimation blank ceramic mugs require a heat press and sublimation ink transfer process to apply any design. Without that equipment, they're plain white mugs. They're appropriate for businesses or print shops with sublimation gear, not for a consumer looking for a ready-to-use custom espresso cup. If you want finished personalization, the laser-engraved stainless steel cup arrives complete with your text already applied."
+  - question: "Are stainless steel espresso cups a good choice for daily home use?"
+    answer: "They work well for travel and durability but feel different from ceramic or glass against the lip. The rim material and heat transfer characteristics are noticeably distinct from ceramic. Most experienced home espresso drinkers reach for ceramic as their primary daily cup and treat stainless as a travel or secondary option. The personalized laser-engraved stainless cup makes more sense as a gift or keepsake than as the foundation of a daily setup."
 ---
 
 The cup you drink from matters more than most espresso resources will tell you. Wall thickness, capacity, and material all affect how the shot lands in the glass , temperature retention, crema presentation, even the weight in your hand. If you're already spending time dialling in your [espresso](/espresso/), the vessel deserves the same attention.

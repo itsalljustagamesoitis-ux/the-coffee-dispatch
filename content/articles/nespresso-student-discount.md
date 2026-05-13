@@ -49,6 +49,17 @@ products:
 tags: ["pods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does Nespresso actually offer a formal student discount?"
+    answer: "Nespresso does not offer a permanent student discount program the way some software and streaming services do. What students encounter are standard promotional sales events — back-to-school periods, Black Friday, and Amazon-specific promotions — that coincide with student purchasing cycles. Tracking these windows through a deal aggregator is more reliable than expecting a student-specific rate at checkout."
+  - question: "Original Line vs. Vertuo — which system makes more sense for a student?"
+    answer: "The article frames this as the most consequential decision in the purchase. Original Line produces concentrated espresso shots at high pressure and accepts a wider range of third-party pods, which helps manage recurring cost. Vertuo handles both espresso and full mug-size coffee from one machine, which suits dorms where counter space is limited. Confirm which system any machine in your dorm runs before buying any capsules, because the two formats are physically incompatible."
+  - question: "Is the Vertuo Pop+ a good first Nespresso machine for a student?"
+    answer: "For someone starting from zero with no espresso experience and limited counter space, yes. It is compact in the right dimension — counter depth — and the barcode system handles all configuration automatically. You load the pod, close the lever, press the button. The commitment you're making is to the Vertuo capsule ecosystem long term, which is worth understanding before purchase, but it is not a reason to avoid the machine if the convenience format suits your setup."
+  - question: "How many pods do I actually need per month as a student?"
+    answer: "One cup per day at a 30-count box gets you through a month. Two cups per day means a 30-count box lasts two weeks, and a 50-count box gives you roughly three and a half weeks at that rate. Map your actual daily habit to your format before ordering — buying too few means frequent small orders, and buying too many means pods sitting open past their freshness window."
+  - question: "What is the difference between the Vertuo Variety Pack and the Double Espresso Dolce pods?"
+    answer: "The Vertuo Variety Pack brews 7.8 oz coffee-size servings across medium and dark roast profiles — the right format for drinking at a desk through a long study session. The Double Espresso Dolce brews a 2.7 oz concentrated double shot with a softer, lower-intensity profile. These are different products for different use cases: the variety pack suits students who want a full mug, the double espresso pods suit students who want a quick concentrated shot before class."
 ---
 
 Getting into Nespresso as a student means making a real decision about how you want your mornings to work. A capsule machine trades flexibility for consistency , you get a reliable shot or mug every time, without grinding, dosing, or cleaning a portafilter. That trade-off suits dorm rooms and shared kitchens well, and the [Pods & Capsules](/pods/) category has expanded enough that there's a sensible entry point at every level.

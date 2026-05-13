@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Bleached vs unbleached AeroPress filters — does it affect how the coffee tastes?"
+    answer: "No meaningful difference when both are properly rinsed before brewing. Bleached filters are treated during manufacturing to achieve a white color; unbleached retain their natural brown hue without that processing step. Both filter at the same micron level and produce comparably clean cups. The choice is primarily a values decision about chemical processing — rinsing either filter before use eliminates any papery taste in the cup."
+  - question: "Metal vs paper AeroPress filter — which should I use for dark roast coffee?"
+    answer: "A metal filter suits dark and medium-dark roasts well. Coffee oils pass freely through the metal perforations, adding viscosity and weight to the brew — the result is closer to French press in body, which complements the richer character of darker roasts. Paper filters strip those oils and produce a cleaner, brighter cup that works better with lighter roasts where origin clarity is the goal. If your AeroPress results feel too light-bodied with paper, the metal filter is worth trying."
+  - question: "Are Laicky third-party AeroPress filters as good as official ones?"
+    answer: "For everyday use, quality third-party filters like the Laicky 800-count perform comparably to official filters. The critical factor is dimensional accuracy — the filter must seat properly in the AeroPress cap to prevent bypass. Established third-party options cut to the correct diameter seal reliably and produce equivalent cup clarity. Where official filters have the edge is in consistent tolerances and manufacturer-guaranteed compatibility with every AeroPress unit."
+  - question: "How often does a metal reusable AeroPress filter need to be cleaned?"
+    answer: "A quick rinse after each brew handles most maintenance. Coffee oils accumulate over time, and when you notice a rancid or stale note in otherwise fresh coffee, that's the signal for a deeper scrub — a soft brush with dish soap or a short soak in diluted cleaning solution. Most daily brewers find this necessary once every week or two. The AeroPress 316 stainless steel filter uses food-grade steel that resists oil absorption better than lower-grade alternatives."
+  - question: "Is it worth buying a large-count AeroPress filter pack or should I stick to smaller packs?"
+    answer: "For daily brewers, a large-count pack is clearly better value. A 200-count pack lasts roughly six months at one brew per day; the 800-count third-party pack covers two or more years with no repurchase. Paper filters store well as long as they're kept dry, so there's no degradation risk with bulk buying. Small packs make sense for occasional brewers or anyone trying a new filter type before committing to volume."
 ---
 
 AeroPress filters seem like a trivial purchase until you realize the filter you choose shapes the cup you get. Paper or metal, bleached or unbleached, official or third-party , these decisions have real consequences for flavor, sediment, and ongoing cost. Understanding the differences takes about ten minutes. Making the wrong call and wondering why your AeroPress tastes off takes longer.

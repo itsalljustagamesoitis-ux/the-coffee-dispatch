@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does a gooseneck kettle actually make a noticeable difference in pour-over quality?"
+    answer: "Yes, particularly for newer brewers learning pour control. A standard kettle spout releases water in a wide, fast stream that is difficult to aim with precision; a gooseneck narrows and slows the flow so you can hit the center of the grounds and control saturation pace. The technique ceiling is higher with a gooseneck, and the floor — the minimum competence required to brew a decent cup — is lower. If pour-over consistency is the goal, this is one of the least-debatable equipment investments."
+  - question: "Is 27oz or 34oz the right gooseneck kettle size for pour-over?"
+    answer: "For a single V60 or Chemex serving, the 27oz is more than adequate. Where it gets tight is when you're brewing for two people or your routine includes preheating the dripper with a splash of hot water before brewing — that combination can push you to the kettle's limit and require a second boil. For two-person brewing sessions or any routine that includes vessel preheating, the 34oz Bodum Bistro removes that variable entirely. For solo brewing, the 27oz is easier to control at pour angle."
+  - question: "Bodum Bistro vs. Melior gooseneck kettle — what is the actual difference?"
+    answer: "The Bodum Bistro and Melior share the same 27oz capacity and gooseneck spout design, so the functional brewing experience is effectively identical. The difference is aesthetic — the Bistro is available in matte black and brushed stainless, while the Melior offers a slightly different body profile in brushed steel. If you are comparing them side by side on brewing performance, you are choosing a finish and a shape, not a performance difference."
+  - question: "Variable temperature control or fixed-boil — which matters more for pour-over?"
+    answer: "For medium and dark roasts, a fixed-boil kettle and a one-minute wait after boiling gets you to a workable brewing temperature without complications. For light roasts with delicate acidity, variable temperature control removes inconsistency from the equation — the extraction window tightens and the off-boil guesswork starts to compound. The Cuisinart GK-1 is the only variable-temperature option in this group and is worth the step up if you brew light-roast single-origin coffees regularly."
+  - question: "Can a Bodum gooseneck kettle be used on an induction cooktop?"
+    answer: "Electric gooseneck kettles like the Bodum Bistro and Cuisinart GK-1 use their own heating base and do not go on a cooktop at all — they sit on a 110V electrical base only. If you need an induction-compatible stovetop option, you would need a stovetop gooseneck kettle with a magnetic stainless steel base. None of the electric models in this article are induction-compatible."
 ---
 
 Gooseneck kettles have a reputation for being specialty equipment , the kind of thing that sits in a third-wave café and signals that someone is taking coffee very seriously. That reputation is mostly unearned. A gooseneck spout does one practical thing well: it lets you control exactly where the water lands and how fast it flows, which matters for [Brewing Methods](/brewing-methods/) like pour-over where the difference between a muddy cup and a clean one often comes down to pour technique.

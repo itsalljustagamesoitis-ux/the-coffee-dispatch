@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Hario Buono vs Hario Fit gooseneck kettle: what is the difference?"
+    answer: "Both the Buono and Fit series are stovetop gooseneck kettles made by Hario in 1.2L and smaller sizes. The primary difference is handle design and finish options. The Buono uses a traditional loop handle; the Fit has a slightly different angle that some people find more ergonomic for sustained pouring. Functionally they perform the same task. The choice comes down to handle feel and aesthetic preference, which makes it worth holding both in a store if possible."
+  - question: "Do I need a thermometer if I use a stovetop gooseneck kettle?"
+    answer: "Yes, and it is worth budgeting for one upfront. Stovetop kettles have no built-in temperature readout, and water temperature meaningfully affects extraction. Lighter roasts in particular are sensitive to a ten-degree swing. A basic instant-read thermometer resolves this completely and is inexpensive. After a few weeks of use, you will develop an intuition for your burner timing and rely on the thermometer mainly as a check rather than a necessity."
+  - question: "Is the 700ml Buono enough for brewing two cups of pour-over?"
+    answer: "It is marginal. A standard two-cup V60 pour requires roughly 500 to 600ml of brew water plus what you use for pre-wetting the filter, so 700ml covers it but leaves little margin if you need to adjust mid-brew. If you occasionally brew for two people, the 1.2L Buono removes that constraint without a significant cost or handling penalty. Default to the larger size unless solo brewing is genuinely your primary use case."
+  - question: "Can Hario stovetop gooseneck kettles be used on induction hobs?"
+    answer: "Yes. All the stainless steel models in the Buono and Fit lines are compatible with induction as well as gas and electric burners. Stainless steel is induction-compatible by default. If you have an induction hob and were hesitant to buy a stovetop kettle, this is not the barrier it might appear."
+  - question: "Should I buy the integrated dripper-kettle combo or separate pieces?"
+    answer: "For most people, separate pieces offer more flexibility. The integrated Hario Dripper Kettle Buono combo is a tidy, minimal setup that works well if you want simplicity and know you will stick to a single V60 size. Separate kettle and dripper let you change drippers, brew larger batches, or use the kettle for AeroPress or Chemex without any limitation from the combined form factor. Once your setup evolves, a kettle tied to one dripper size becomes a constraint."
 ---
 
 Gooseneck kettles get treated like specialist equipment , the kind of thing you need only if you're already deep into manual brewing. That's backwards. If you're making pour-over coffee at home, a gooseneck is the single most useful tool you can own, and HARIO's Buono line is where most people starting with [Brewing Methods](/brewing-methods/) end up. The spout does one thing: it gives you control over where the water goes and how fast it gets there.

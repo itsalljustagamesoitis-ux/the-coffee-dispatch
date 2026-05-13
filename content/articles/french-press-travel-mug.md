@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Bodum Travel Press vs BruTrek OVRLNDR: which should I buy?"
+    answer: "The Bodum Travel Press is the right pick for a solo traveler who wants vacuum insulation and an established French press design in a 15-ounce format. The BruTrek OVRLNDR is the right pick if you need 24 ounces, brew for two people, or want the cleaning advantage of the removable bottom. Vacuum insulation gives the Bodum a longer heat retention window; the OVRLNDR's larger capacity and better cleanability give it the edge for camping and shared use."
+  - question: "How do I keep grounds out of my coffee after pressing a travel French press?"
+    answer: "Press slowly and completely before drinking, and avoid tilting the mug back upright once you have pressed. Grounds settle below the mesh after a proper press; agitating the vessel stirs them back into suspension. If you are getting consistent sediment above the mesh, your grind is likely too fine for the mesh gauge on your specific mug. A coarser grind solves this more reliably than any pour technique."
+  - question: "Does grind size work the same way in a travel French press as a full-size one?"
+    answer: "The requirement is the same: coarse grind. What changes is the dose. At travel scale, 15 ounces of brew water requires approximately 28 grams of coffee using a 1 gram per 15 milliliter ratio. Grinding too fine in a narrow travel vessel is actually more disruptive than in a wide open carafe because the mesh has less surface area to hold the grounds, and sediment migrates above the filter more readily with each sip."
+  - question: "How long does a travel French press keep coffee hot?"
+    answer: "Double-wall stainless steel models typically hold brewing temperature for 60 to 90 minutes. Vacuum-insulated models like the Bodum Travel Press extend that window meaningfully, performing well past 90 minutes under normal conditions. Ambient temperature affects every model: a cold car or outdoor environment shortens the effective window relative to a room-temperature setting."
+  - question: "Is a 15-ounce travel press enough for two people?"
+    answer: "No. A 15-ounce mug is a single serve, full stop. Accounting for grounds, headspace, and the press mechanism taking up internal volume, you get roughly 10 to 12 ounces of drinkable coffee per brew cycle. For two people who each want a cup, the 24-ounce BruTrek OVRLNDR is the only option in this group that works without running two separate brews."
 ---
 
 French press at home is straightforward , you have a kettle, a scale, time to stand still for four minutes. Traveling with that same expectation is a different problem. The [Brewing Methods](/brewing-methods/) category has produced a genuinely useful hybrid over the past few years: an insulated travel mug with a built-in press mechanism that brews and serves in the same vessel. No second container, no paper filter to forget, no reheating a cup you brewed twenty minutes ago.

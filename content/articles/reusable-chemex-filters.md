@@ -35,6 +35,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Will a reusable stainless Chemex filter produce the same clean cup as the original bonded paper filter?"
+    answer: "No — and that is worth stating plainly before you buy. Paper Chemex filters are exceptionally thick and remove nearly all oils and fine particles, producing a very bright, sediment-free cup. A stainless mesh filter lets more oils and fine particles through, resulting in a fuller-bodied cup with some sediment potential at the bottom. Many people prefer the richer character; others find it a downgrade from paper's clarity. The cup is genuinely different, not just slightly different."
+  - question: "Which reusable filter works best if I own both a Chemex and a Hario V60?"
+    answer: "The Barista Warrior Reusable Coffee Filter is the strongest cross-system option in this group. It seats well in both Chemex and V60 setups, which means you are managing one filter instead of two. Compatibility claims vary across the category, so checking stated dimensions against your specific brewer models before purchasing is still worth doing even when broad compatibility is advertised."
+  - question: "Do I need to adjust my grind size when switching from Chemex paper filters to a metal mesh filter?"
+    answer: "Yes, typically finer or at minimum recalibrated. Paper filters slow flow rate and add extraction resistance; metal filters remove that resistance. Your first few brews may taste under-extracted or run faster than expected. Grind slightly finer and adjust pour rate until you find the extraction time that matches your previous results. Give yourself a week of adjustment before drawing conclusions about the filter's quality."
+  - question: "Which reusable filter should I buy if I use the larger 8-cup or 10-cup Chemex formats?"
+    answer: "The Coffee Filters Perfect Compatible for Chemex is specifically designed to cover 6, 8, and 10-cup Chemex models, which makes it the most direct solution for households brewing at that scale. Most reusable filters are sized for smaller pour-over setups and will not seat properly in a 10-cup Chemex. The Barista Warrior is the right answer for 6-cup Chemex and V60 cross-system use; the Coffee Filters Perfect is the right answer when 8 or 10-cup Chemex brewing is in your rotation."
+  - question: "How do I clean a reusable stainless Chemex filter without degrading the mesh?"
+    answer: "Rinse immediately after every use — coffee oils that dry onto mesh are substantially harder to remove than fresh grounds. A deeper clean with a soft brush every few uses prevents oil oxidation, which can turn rancid and affect cup flavor over time. Most stainless filters are dishwasher safe, though hand washing with a soft brush preserves mesh geometry longer with repeated cycles. The key maintenance failure mode is neglecting prompt rinsing, which leads to oil buildup that no amount of later cleaning fully reverses."
 ---
 
 Reusable chemex filters solve a specific irritation: the ongoing cost and waste of paper. If you brew pour-over regularly, those Chemex bonded filters add up , and they're not recyclable. A stainless steel mesh filter eliminates both problems at once, though the trade-offs are real and worth understanding before you buy. This guide covers the options that actually hold up in daily use, pulling from the [Brewing Methods](/brewing-methods/) hub where the broader pour-over context lives.

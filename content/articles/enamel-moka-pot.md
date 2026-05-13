@@ -49,6 +49,19 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Enamel moka pot vs plain aluminum: what is actually different about them?"
+    answer: "An enamel moka pot is typically aluminum underneath with a vitreous enamel coating on the exterior. The coating adds visual color and reduces direct contact with the reactive aluminum surface, but the brewing interior is usually still bare aluminum, so functional cup quality is minimal. The main practical concern is enamel chipping over time, particularly if the pot is dropped. Stainless steel, like the WALDWERK, is the most durable long-term material."
+  - question: "Can I use a moka pot on an induction cooktop?"
+    answer: "Most traditional and enamel-coated moka pots are aluminum-bodied and will not work on induction at all. Induction requires a ferromagnetic base, meaning you need a pot specifically rated for induction use. The WALDWERK Stainless Steel Moka Pot is the only pick in this lineup with verified induction compatibility. Always check the product listing for an explicit induction rating before purchasing if you have that cooktop type."
+  - question: "3-cup or 6-cup moka pot: which is better for a solo drinker?"
+    answer: "A 3-cup moka pot is almost always the better choice for one person. Moka pots need to be run at or near full capacity to produce consistent extraction. A 6-cup pot filled halfway performs noticeably worse than the same volume brewed in a properly loaded 3-cup. The WALDWERK at 10 oz splits the difference for someone who wants a slightly larger single serving without the trade-offs of a half-loaded 6-cup."
+  - question: "Why does moka pot coffee taste bitter, and how do I fix it?"
+    answer: "Bitter moka pot coffee is almost always a heat management issue. High heat causes water to push through the grounds too quickly and at too high a temperature, scalding the coffee. The fix is to use medium-low heat throughout the brew, reduce to low the moment you hear gurgling, and pull the pot off the burner before the chamber runs dry. Preheating the water in a kettle before loading the pot also helps by reducing the time the grounds sit on heat before brewing begins."
+  - question: "How many ounces does a 6-cup moka pot actually produce?"
+    answer: "A 6-cup moka pot makes six espresso-sized servings of roughly 1.5 to 2 oz each, for a total of about 9 to 10 oz of brewed coffee. That is roughly one standard large mug, or two smaller servings. The cup designation refers to espresso servings, not regular coffee cups, which catches many buyers off guard. If you want enough for two regular mugs, the 9-cup GROSCHE Milano in Indigo is the more practical choice."
+safety_topics:
+  - moka-pot-heat
 ---
 
 Stovetop moka pots have been making strong, espresso-style coffee since the 1930s, and the format hasn't changed much because it doesn't need to. If you're exploring [Brewing Methods](/brewing-methods/) and want something that sits between a French press and a proper espresso machine, the moka pot is where most people land , compact, durable, and producing a cup that punches well above its price bracket.

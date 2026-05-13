@@ -42,6 +42,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does the grinder really matter more than the espresso machine when building a home setup?"
+    answer: "Yes, within a reasonable baseline of machine quality. Grind consistency determines particle size distribution, which drives extraction quality more directly than most machine variables. A capable grinder paired with a mid-tier machine will consistently outperform an excellent machine paired with a blade grinder or low-quality burr grinder. If budget forces a trade-off between machine and grinder, spend more on the grinder."
+  - question: "Super-automatic espresso machine vs. manual setup — which is actually better?"
+    answer: "They solve different problems rather than one being objectively better. A manual setup — pump machine, separate grinder, hand tamping — gives full control over every extraction variable and produces a higher quality ceiling, but requires ten to fifteen minutes of workflow and technique development. A super-automatic like the Cafe Bueno handles grinding, dosing, brewing, and frothing automatically with minimal user input. If the process is a means to an end, a super-automatic is the correct choice, not a compromise."
+  - question: "Can a moka pot replace an espresso machine for home use?"
+    answer: "No, and it is worth being precise about why. Moka pots brew at approximately 1 to 2 bar of steam pressure versus the 9 bar standard for pump espresso machines. The resulting drink is concentrated and strong but lacks crema and has a different flavor profile — it is excellent in its own right but is not espresso by technical measure. For buyers who want strong coffee without the investment or technique requirement of an espresso setup, a moka pot is a legitimate alternative, not a substitute."
+  - question: "What is the difference between a coffee distributor tool and a tamper, and do you need both?"
+    answer: "Distribution levels the coffee bed in the portafilter basket before pressure is applied, eliminating high spots and uneven density that cause channeling. Tamping then applies consistent downward pressure to compact the bed. These are sequential steps, not interchangeable. The MATOW 58mm distributor and tamper combines both functions in one dual-head tool, which is a genuine workflow improvement for someone still building the muscle memory for the preparation sequence."
+  - question: "Is a tamping mat actually necessary, or is it just extra gear?"
+    answer: "It is not strictly necessary, but it solves a real problem cheaply. Tamping against a hard, unstable surface makes consistent perpendicular pressure harder to achieve — the portafilter shifts or angles slightly, creating differential resistance in the puck. The silicone tamping mat gives you a non-slip, stable surface that removes one correctable variable from the process. At the price, it is one of the most cost-effective accessory purchases in a manual espresso setup."
 ---
 
 Most searches for a La Marzocco coffee maker end the same way: someone sees the machine they actually want, registers the price, and starts looking for alternatives. That's a reasonable place to land. The [Coffee Makers](/coffee-makers/) category runs from stovetop moka pots to prosumer dual-boiler machines, and the honest answer is that most home setups do not require the top end to pull good espresso. What they require is the right combination of tools for the skill level and workflow involved.

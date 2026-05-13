@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "ROK espresso maker vs. semi-automatic machine — which is worth buying for home use?"
+    answer: "The ROK is a lever-driven device that sits above most hand-powered portables and below a pump machine in terms of consistency. Whether it's worth it depends entirely on your tolerance for manual workflow and your willingness to develop technique. The AYCHIRO semi-automatic in this article is more forgiving for beginners and produces more repeatable results without the learning curve that a lever machine demands. If you want to learn through tactile feedback, the lever rewards that investment. If you want reliable espresso faster, start with a pump machine."
+  - question: "Does the Wacaco Minipresso GR make real espresso or just strong coffee?"
+    answer: "The Minipresso produces a concentrated shot with visible crema, which puts it ahead of AeroPress or French press espresso workarounds. It is not equivalent to a pump machine — the body is thinner and the crema dissipates faster because sustained 9-bar pressure across a full 25-30 second extraction is difficult to maintain manually. Judged on its own terms as a portable, no-electricity brewer, it performs consistently. Pair it with freshly ground medium-fine coffee from a burr grinder, not supermarket pre-ground, to get the best result it's capable of."
+  - question: "Does the Bialetti Moka Express actually make espresso?"
+    answer: "No. The Moka Express produces coffee at significantly lower pressure than the 9 bars required for espresso extraction. What comes out is a concentrated, aromatic stovetop brew with good body — genuinely excellent on its own terms — but without the emulsified crema structure that defines espresso. It's a moka pot, not an espresso machine. Lower heat during brewing slows the extraction and adds sweetness; high heat rushes it and adds bitterness. Don't buy it expecting espresso crema or a base for milk drinks that require proper pressure extraction."
+  - question: "Do I need a special grinder for this kind of espresso setup?"
+    answer: "Espresso is structurally incompatible with blade grinders. A blade grinder creates an uneven distribution of powder and chunks that causes simultaneous over- and under-extraction — no amount of machine quality or technique fixes a grinder problem. A burr grinder, even a basic manual one like the JavaPresse in this article, produces a significantly more consistent particle size that makes a measurable difference. For portable setups, the JavaPresse paired with the Minipresso covers the full preparation chain without electricity."
+  - question: "What does a milk frothing jug actually do without a steam wand?"
+    answer: "Nothing. A frothing pitcher like the De'Longhi DLSC060 is a pouring vessel designed to hold and distribute steamed milk precisely — it has no frothing mechanism of its own. Its value is in the spout geometry and volume markings that help you pour consistently into espresso drinks. Without a steam source, it's an expensive measuring cup. If you don't already have a machine with a steam wand, a frothing pitcher is an accessory that requires the rest of the setup to be in place before it's useful."
+safety_topics:
+  - espresso-pressure
 ---
 
 The ROK Espresso maker has a genuine following among manual espresso enthusiasts, but it's one of several hand-powered and compact electric options that come up when people are searching for something outside the mainstream. Most of the comparison articles are either outdated or written by someone who has clearly never pulled a shot. These are my picks, based on what actually matters for extraction quality and long-term useability. For a broader look at the category, the [Espresso & Espresso Machines](/espresso/) hub is worth browsing before you buy.

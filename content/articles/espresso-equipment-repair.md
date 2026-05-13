@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How often should I descale my espresso machine?"
+    answer: "Descaling frequency depends on water hardness and machine usage volume. In areas with hard water and daily use, descaling every four to six weeks is appropriate. Softer water extends that interval to two to three months. The machine's descaling indicator is a starting point but tends to be calibrated conservatively — using a water hardness test strip and adjusting your schedule accordingly is more accurate than relying on the light alone."
+  - question: "Group head cleaning brush vs backflush cycle: do I need both?"
+    answer: "Yes — they target different residues and neither substitutes for the other. A backflushing cycle with cleaning detergent pushes water back through the group head to dislodge coffee oils from the solenoid valve and internal pathways. A group head brush physically removes grounds and oils from the shower screen, dispersion block, and group head recess that backflushing does not reach. Both are necessary for a consistently clean machine."
+  - question: "Should I add a PID kit to my Gaggia Classic or buy a different machine?"
+    answer: "If you already own a Gaggia Classic and are getting inconsistent shots despite correct grind and technique, a PID upgrade is a more logical investment than replacing the machine. The Classic's group head and boiler are capable hardware — the pressurestat is the limiting factor, causing temperature swings across a wider range than is ideal. A PID kit addresses that specific limitation at a fraction of the cost of a new machine with equivalent extraction capability."
+  - question: "Can I use any O-ring to replace an espresso machine gasket?"
+    answer: "No. Espresso machine gaskets operate at around 90°C under nine bars of pressure, conditions that require specifically rated materials. Standard rubber O-rings degrade quickly in that environment. Silicone-rated components are appropriate because silicone maintains elasticity and sealing performance at espresso temperatures. Diameter and cross-section thickness must also match the original specification — the right material in the wrong size will not hold pressure."
+  - question: "How do I know if my espresso machine's solenoid valve needs replacing?"
+    answer: "The clearest indicator is a slow pressure release after the pump stops — the three-way valve venting should produce a crisp, quick sound. If the machine drips from the group head after a shot, if pucks are consistently wetter than expected without gasket wear explaining it, or if the pump sounds like it is working harder than normal, solenoid valve function is worth investigating. Verify the part number against your machine's service documentation before ordering any replacement."
+safety_topics:
+  - espresso-pressure
 ---
 
 Espresso machines break in predictable ways: scale builds in boilers, seals degrade, solenoid valves fail, and group heads accumulate oils that turn every shot bitter. Most of these problems are fixable without sending the machine anywhere, provided you have the right parts and cleaning tools on hand. Whether you're maintaining a workhorse Gaggia Classic or upgrading the internals of a prosumer machine, what you actually need is usually unglamorous , descaler, O-rings, brushes, and the occasional electrical component.

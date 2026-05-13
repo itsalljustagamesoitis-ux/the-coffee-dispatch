@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Grinder or espresso machine — which should I spend more money on?"
+    answer: "The grinder matters more, and by a larger margin than most first-time buyers expect. A capable burr grinder feeding a modest machine produces better espresso than a blade or low-end grinder feeding an expensive machine. Beyond a baseline of machine quality — stable temperature, adequate pressure — additional machine investment returns less per dollar than grinder investment. Prioritize the grinder if you're working with a fixed total budget."
+  - question: "Flat burr vs. conical burr — which is better for espresso?"
+    answer: "Flat burrs produce a more even particle distribution with sharper separation between fine and coarse fractions, which tends to yield cleaner, higher-clarity espresso. Conical burrs produce slightly more fines, which adds body and forgives minor dosing inconsistency — often preferable for milk-based drinks. The MOKKOM Professional 64mm uses a flat burr; the OXO Brew Compact uses a conical. Your primary drink style should guide the choice."
+  - question: "How many grind settings do I actually need for dialing in espresso?"
+    answer: "More settings matter less than where they're distributed. A grinder with 100 settings clustered at the coarse end is less useful for espresso than one with 40 settings sensibly spaced across the full range. For espresso specifically, you need fine enough resolution in the espresso range — roughly the first third of most grinders' full range — to make meaningful adjustments when dialing in. Stepless adjustment is ideal; 40 or more evenly distributed settings is a workable alternative."
+  - question: "Is a compact grinder like the OXO Brew adequate for daily espresso at home?"
+    answer: "For one to two people pulling two to four shots daily, yes. The OXO Brew Compact Conical Burr Grinder produces consistent particle sizing and is built to OXO's usual quality standard. The constraint is hopper capacity — it requires more frequent refills than a full-size grinder, which is a workflow consideration rather than a quality one. For higher-volume households or anyone grinding for guests regularly, a larger hopper becomes worth prioritizing."
+  - question: "What grind setting range should I look for in a commercial espresso grinder?"
+    answer: "Espresso is the least forgiving brew method for grind adjustment — a few seconds of variance in shot time can mean the difference between a balanced shot and one that's sour or bitter. You want at minimum 30 to 40 discrete settings across the full range, and ideally stepless adjustment or something close to it. The practical question isn't the number of settings on paper, it's how much actual grind change occurs between adjacent settings in the espresso range."
+safety_topics:
+  - electric-grinder
 ---
 
 The grinder is the piece of equipment that most home espresso setups get wrong , not the machine, not the beans, not the water. If you're serious about espresso, exploring the full range of options at [Espresso & Espresso Machines](/espresso/) makes clear how much the grind quality determines the shot before the machine enters the equation. A blade grinder and a quality flat burr run through the same espresso machine produce results that aren't in the same category.

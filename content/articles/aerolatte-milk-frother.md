@@ -49,6 +49,17 @@ products:
 tags: ["accessories", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Aerolatte with stand vs aerolatte satin — what is the actual difference?"
+    answer: "The core frother is functionally the same across both models — 18/8 stainless steel whisk, steam-free battery operation, and the same brand quality. The model with the counter stand includes a storage stand that keeps the unit upright on the countertop after use; the satin finish model omits the stand. If you already have a place for the frother in a utensil crock or drawer, the satin model is the simpler buy. If you want it accessible on the counter without lying on its side, the stand model is worth it over a year of daily use."
+  - question: "Do I need to heat the milk before using a handheld frother?"
+    answer: "Yes — handheld frothers aerate milk but do not heat it. For a warm latte or cappuccino, heat your milk first via microwave or stovetop, then froth. Cold milk can be frothed for iced drinks, though it takes slightly more technique to build stable foam at lower temperatures. This is consistent across all five frothers in this group, not a limitation of any single model."
+  - question: "Which milk frother works best with oat milk?"
+    answer: "Standard oat milk is harder to froth than whole milk — it's thinner, the foam is less stable, and it deflates faster. Barista-grade oat milk froths considerably better and is worth using if foam texture matters. Among the options here, the BSRGMS three-speed model gives you the most control — starting at a lower speed with thinner milks reduces splashing and helps build a more consistent foam structure before increasing speed to integrate."
+  - question: "Rechargeable vs disposable battery frother — which is better for daily home use?"
+    answer: "Rechargeable is the cleaner solution for a permanent home setup. Disposable batteries are convenient until they run out mid-morning, at which point you're hunting through a junk drawer. Rechargeable units solve that problem and have lower total cost over time. The exception is travel, where disposable battery models are more reliable when you're away from a USB source for several days. The Maestri House rechargeable model is the most complete daily-use package in this group."
+  - question: "Can a handheld milk frother replace a steam wand for making lattes at home?"
+    answer: "For most home setups without a commercial-grade steam wand, yes — a handheld frother is the right tool. It handles one to two drinks per day, works with AeroPress or pour-over setups where there's no steam wand available, and produces adequate microfoam once you calibrate your technique. Where handheld frothers fall short is volume and speed: frothing in batches for four people every morning gets tedious, and an electric pitcher or machine steam wand is worth the investment at that point."
 ---
 
 Handheld milk frothers are one of the most practical additions to a home coffee setup , small enough to drop in a drawer, effective enough to close the gap between a flat latte and something that actually looks like it was made with care. If you're working with an espresso machine that has a steam wand, you may not need one. But if you're pulling shots with a machine that doesn't, or you want froth for a pourover cortado without firing up a separate appliance, a handheld frother earns its keep. The full range of options in the [Accessories & Setup](/accessories/) category is worth knowing before you commit to any single tool.

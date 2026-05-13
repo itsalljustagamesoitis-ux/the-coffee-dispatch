@@ -49,6 +49,19 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Flat burr grinder vs conical burr grinder: which is better for pour-over?"
+    answer: "Flat burrs produce a more uniform, unimodal particle distribution that translates to cleaner, more separated extraction in filter brewing — the kind of clarity pour-over is designed to highlight. Conical burrs produce a bimodal distribution that some brewers prefer for body and sweetness. For pour-over specifically, the Fellow Ode Gen 2 is the strongest flat burr option in this category, and its design is built entirely around filter brewing."
+  - question: "Can I use a flat burr grinder for espresso?"
+    answer: "Most flat burr grinders in the home and budget-to-mid-range category are not well-suited for espresso. Espresso requires very fine, very consistent grinding with precise step control in a narrow range — a level of calibration that most flat burr sets at these price points are not built for. The Fellow Ode Gen 2 explicitly covers filter brewing only. If espresso is your primary method, look for a grinder specifically designed for that range."
+  - question: "What does grinder retention mean, and why does it matter for specialty coffee?"
+    answer: "Retention refers to how much coffee remains inside the grinder after the grinding cycle ends — held in the burr chamber, chute, or throat. That retained coffee sits until the next grind, potentially going stale and contaminating a fresh batch. For daily single-origin or specialty brewing where dose weight matters, high retention is a real quality and accuracy issue. Low-retention and single-dose designs like the Ode Gen 2 address this by minimizing what stays inside the machine."
+  - question: "How many grind settings do I actually need for home filter brewing?"
+    answer: "More settings is not inherently more useful — step size and range matter more than the total count. For home filter brewing covering pour-over, French press, and batch brew, a grinder with 14 to 31 well-distributed settings in the medium-coarse range is sufficient. The Ollygrin at 14 settings covers everyday filter use adequately if you find a setting and stay with it. If you switch brew methods regularly and want precise adjustment, 31 quality steps as on the Ode Gen 2 is more practical."
+  - question: "Is a budget flat burr grinder meaningfully better than a blade grinder?"
+    answer: "Yes — categorically, not marginally. A blade grinder produces a random mix of fine powder and coarse chunks, which extracts unevenly and makes consistent brewing impossible regardless of technique or recipe. Even a modest flat burr grinder produces dramatically more uniform output. The gap between budget and mid-range flat burr grinders is real but incremental; the gap between any burr grinder and a blade grinder is fundamental."
+safety_topics:
+  - electric-grinder
 ---
 
 Flat burr grinders occupy a specific and useful place in the [coffee grinder](/grinders/) landscape , they produce a more uniform particle distribution than conical burrs for most filter brew methods, and they've become increasingly accessible at a range of price points. The question isn't whether flat burrs are worth considering. It's which one is actually worth buying for your kitchen and your brewing setup.

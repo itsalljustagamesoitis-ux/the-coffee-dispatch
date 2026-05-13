@@ -49,6 +49,17 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Burr grinder vs. blade grinder — does it actually make a difference in the cup?"
+    answer: "The difference is categorical, not marginal. A blade grinder chops randomly, creating a mix of fine dust and coarse chunks. During extraction, fine particles over-extract and coarse ones under-extract simultaneously — which is why blade-ground coffee often tastes both bitter and flat at once. Burr grinders pass beans through two surfaces set at a fixed distance, producing uniform particle sizes that extract consistently. Switching from blade to burr is one of the highest-return upgrades in home coffee."
+  - question: "Is the Cuisinart DBM-8P1 good enough for espresso?"
+    answer: "The DBM-8P1 is a burr grinder with 18 grind positions that covers drip, pour-over, and French press well. At the fine end where espresso requires precise adjustment, the 18-position range compresses and gives you less room to dial in. It will produce espresso-range grounds, but experienced espresso drinkers will likely find the fine-grind adjustment range limiting over time. For drip and pour-over, it's a strong choice at its price band."
+  - question: "Are manual coffee grinders worth it for daily home use?"
+    answer: "Manual grinders are quieter, more portable, and easier to clean than electric burr grinders, and a good ceramic burr hand grinder produces consistent, quality grounds. The trade-off is time and physical effort — grinding sixty grams by hand takes several minutes of steady cranking. For home daily use at volume, most people find the effort unsustainable. For camping, travel, or occasional single-dose weekend brewing, a manual grinder is a practical and compact solution."
+  - question: "What is the Cuisinart DCG-12BC good for if it's only a blade grinder?"
+    answer: "The DCG-12BC is best suited for kitchens where coffee is a utility rather than a focus — everyday drip brewing with commodity beans in a forgiving automatic machine. It's simple, compact, and won't fall apart. It won't give you control over extraction for espresso or pour-over, and no pulse technique fixes the uneven particle distribution a blade creates. For anyone reading a grinder guide because they want to improve their coffee, start with the DBM-8P1 burr grinder instead."
+  - question: "How many grind settings do I actually need for pour-over and drip?"
+    answer: "For a single brew method like standard drip, a grinder with 8 to 18 positions is workable. The 18-position Cuisinart DBM-8P1 covers drip, pour-over, and French press adequately. If you switch between methods or want to fine-tune extraction, more positions give more precision — the 40-setting manual grinder provides meaningful latitude across the spectrum. What matters more than the count is whether those positions are mechanically precise and repeatable."
 ---
 
 Most searches for "Cuisinart coffee grinder manual" are fishing for one of two things: the instruction booklet for a grinder already sitting on the counter, or a manual (hand-cranked) grinder that happens to be compatible with Cuisinart-style setups. This article addresses both , a field of options across manual and electric, blade and burr , so you can make a clear decision rather than a default one. For a broader look at the category, [Coffee Grinders](/grinders/) is worth reading before you commit.

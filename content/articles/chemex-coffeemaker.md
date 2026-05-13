@@ -35,6 +35,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size Chemex should I buy for one person?"
+    answer: "The 3-cup is technically correct for a single serving but most solo drinkers find it limiting within a few weeks. The 8-cup Glass Handle gives you room for two full mugs without a second brew and doesn't take up meaningfully more counter space. Unless you're genuinely constrained for space, the 8-cup is the more practical choice for a solo brewer who wants any flexibility."
+  - question: "Classic Series wooden collar vs Glass Handle Series — which is more practical?"
+    answer: "For daily use over years, the Glass Handle is more practical. It cleans with the carafe, doesn't absorb moisture, requires no separate care, and the glass construction feels clean and modern. The wooden collar and leather tie on the Classic Series look deliberate and considered — they're a genuine aesthetic, not just decoration — but the wood marks with water and the leather needs occasional conditioning. Buy Classic for the look, Glass Handle for the routine."
+  - question: "Is a Chemex actually hard to use if I've never done pour-over?"
+    answer: "Simpler than its reputation suggests. You need a gooseneck kettle, a scale, and a burr grinder — the technique itself settles into habit within a week of daily practice. The variables are grind size (medium-coarse), water temperature (around 200F), and a slow, steady pour after a 45-second bloom. The thick bonded filters do more work than standard drip baskets, so even an imperfect first brew produces a clean cup."
+  - question: "Can I use regular paper filters in a Chemex?"
+    answer: "No. Chemex requires its own square-fold or round bonded filters, which are substantially thicker than standard V60 or basket filters. Standard filters won't seat correctly in the Chemex cone and will either collapse or allow grounds to bypass them. Chemex filters are widely available at grocery stores and online. Third-party metal filters exist and work, but they produce a fuller-bodied, oilier cup — closer in character to French press than the clean Chemex brew most buyers are after."
+  - question: "10-cup Chemex vs 8-cup — when does the larger size actually make sense?"
+    answer: "The 10-cup is designed for batch brewing and households of three or more. For two people who each drink one mug, the 8-cup Glass Handle covers the volume without requiring a nine-minute brew cycle and a mostly-empty carafe on the counter. Oversizing creates an incentive to brew more coffee than you'll drink, which means stale coffee sitting in the flask. Match the vessel to your actual daily volume."
 ---
 
 Chemex coffeemakers have occupied the same design since 1941 , an hourglass flask, a wooden collar, a leather tie, and a filter that does most of the work. If you're considering your first [Brewing Methods](/brewing-methods/) foray beyond a drip machine, or upgrading a pour-over setup, the question isn't whether Chemex produces excellent coffee. It does. The real question is which size fits your actual routine.

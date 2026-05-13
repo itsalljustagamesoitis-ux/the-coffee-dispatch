@@ -49,6 +49,17 @@ products:
 tags: ["pods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "illy Nespresso capsules — are they compatible with Original or Vertuo machines?"
+    answer: "illy capsules are designed for Nespresso Original machines only. They are not compatible with the Vertuo system, which uses a completely different dome-shaped capsule with barcode-based extraction. If you're unsure which machine you own, the Original line accepts the small tapered-cone capsule."
+  - question: "What is the difference between illy Classico and illy Intenso for Nespresso?"
+    answer: "The Classico is a medium roast with caramel, orange blossom, and jasmine notes — balanced enough to drink black or with milk, and the more versatile daily driver. The Intenso is a darker roast with heavier cocoa notes and more intentional bitterness, designed for a short concentrated shot. If you drink espresso with nothing added, the Intenso is the better fit; for longer drinks or milk, go Classico."
+  - question: "Lungo capsule vs. espresso capsule on a Nespresso — what actually happens if you use the wrong one?"
+    answer: "Running an espresso capsule on the lungo setting over-extracts the coffee and produces a thin, bitter result. Lungo capsules are formulated differently — the grind profile, dose, and blend ratios are calibrated for 110ml extraction, not 25ml. The illy Classico Lungo is designed specifically for the lungo format and produces something closer to a well-made filter coffee rather than a diluted espresso."
+  - question: "Aluminum vs. plastic Nespresso capsules — does it make a difference in freshness?"
+    answer: "Aluminum provides a meaningfully better oxygen barrier than plastic, which translates to better freshness retention across a box. This matters especially for the 60-count Lavazza Super Crema, where you're working through the box over several weeks. Both illy and Lavazza use aluminum construction in the capsules reviewed here."
+  - question: "illy or Lavazza for daily Nespresso use — which is worth the money?"
+    answer: "Both are quality Italian roasters and neither is a bad choice. illy skews sweeter and more aromatic with pure Arabica blends; Lavazza Super Crema introduces restrained Robusta for more crema and a slightly earthier body. For a single daily espresso drinker who wants refinement, illy Classico is the stronger daily driver. For a household going through volume, the Lavazza 60-count is the more practical buy on cost per capsule."
 ---
 
 Nespresso machines are capable of pulling a genuinely good shot , the limiting factor, most of the time, is the capsule. If you've been running through the default range and wondering whether the hardware is holding you back, it usually isn't. Browse the full [Pods & Capsules](/pods/) selection and you'll find that Italian roasters have been making Nespresso-compatible capsules long enough to get the format right.

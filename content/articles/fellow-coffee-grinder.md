@@ -49,6 +49,19 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the Fellow Ode Gen 2 suitable for espresso grinding?"
+    answer: "No — and Fellow is upfront about this. The Ode Gen 2 is designed for filter brewing: pour-over, French press, drip, and cold brew. Its grind range does not extend fine enough for espresso, and the burr geometry is optimized for filter-range particle sizes. If espresso is your primary method, you need a different grinder entirely — one with a finer grind range and tighter step spacing at the low end."
+  - question: "Flat burr vs conical burr grinder: which produces better coffee?"
+    answer: "Flat burrs, like the 64mm set in the Ode Gen 2, tend to produce a more uniform particle size distribution, which matters most for filter methods where consistent surface area drives even extraction. Conical burrs run cooler and quieter, and typically retain fewer fines. For most home filter brewers, both produce excellent results; the gap matters more at higher precision levels than casual daily brewing demands."
+  - question: "Fellow Ode Gen 2 vs OXO Brew Conical Burr Grinder: which should I buy?"
+    answer: "If grind precision for filter coffee is the priority, the Fellow Ode Gen 2 is the stronger technical choice — better burrs, single-dose workflow, and a design built specifically for that use case. The OXO Brew Conical Burr Grinder offers more approachable operation and a trusted brand, and for brewers who value simplicity over maximum precision, it is a reasonable alternative. Choose Fellow if you want to optimize; choose OXO if you want reliable convenience."
+  - question: "What does single-dose grinding mean, and why does it matter for specialty coffee?"
+    answer: "Single-dose means you load only the beans you plan to grind for a single brew session — no hopper, no stored beans exposed to air between uses. It matters because beans oxidize once exposed, and stored beans in a large hopper go stale faster than beans sealed in a bag. Single-dose grinders also let you switch between different coffees without mixing or purging, which is the right workflow if you are rotating between specialty bags."
+  - question: "Is the Viesimple Gen 4 a reliable alternative to Fellow grinders for someone on a budget?"
+    answer: "The Viesimple Gen 4 offers genuine features — single-dose design, magnetic dosing cup, anti-static construction — at a lower entry point than the Fellow lineup. The uncertainty is long-term reliability: Viesimple does not have the established track record of Fellow or OXO, so durability over years of daily use is less predictable. It is worth considering for budget-constrained buyers who understand that trade-off going in."
+safety_topics:
+  - electric-grinder
 ---
 
 Fellow makes some of the most recognizable grinders on the market, and for good reason , the Ode line in particular has found a real home on specialty coffee countertops. But "Fellow grinder" covers a range of choices, and the right one depends on your brew method, your workflow, and how much you care about retention. I've been grinding specialty coffee long enough to have strong opinions about what actually matters here, and this is a straightforward assessment of the best options available. If you want context on how these fit into the broader landscape of [coffee grinders](/grinders/), that's worth reading before committing.

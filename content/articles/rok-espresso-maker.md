@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is a manual lever espresso maker good for beginners or is the learning curve too steep?"
+    answer: "The ROK and similar lever machines reward practice, which means the first two weeks of shots will be inconsistent. That's not a reason to avoid them if you're willing to learn — the tactile feedback loop of manual extraction teaches you what's happening in the puck in a way that a push-button machine doesn't. The investment is time and attention, not mechanical complexity. Give yourself two weeks of daily pulls before judging the results."
+  - question: "V4 Portable Lever Espresso Maker vs. M5 Manual Espresso Maker — which one should I buy?"
+    answer: "The V4 has a 51mm ridgeless basket and a lever mechanism with good pressure feedback — it's the cleaner choice if you want a portable machine focused on shot quality. The M5 adds a 2-in-1 bottomless portafilter, which lets you observe the extraction in real time and see channelling as it happens. That diagnostic visibility is a genuine advantage for someone actively developing technique. If learning the craft is part of the goal, the M5's bottomless option is worth the trade-off."
+  - question: "What grinder should I pair with a lever espresso maker?"
+    answer: "Espresso demands a fine, consistent grind, which requires a conical burr grinder with genuine fine-grind range — a blade grinder will not work. For portable use, the JavaPresse manual grinder in this article covers the basics adequately. For home use, budget for a dedicated espresso grinder: the Niche Zero or a 1Zpresso JX-Pro are the realistic starting points for quality. The grinder determines more of the shot outcome than the machine, so don't underweight it."
+  - question: "How do I manage brew temperature on a manual espresso maker without a boiler?"
+    answer: "Heat water to 92-94°C using a variable-temperature kettle or a reliable thermometer, fill the machine's reservoir immediately, and pull the shot within seconds. Pre-warm the group head and basket with a small amount of hot water before loading the puck — this reduces temperature drop through the metal components. The workflow becomes fast once it's automatic. Target range is 90-96°C at extraction; outside that window the shot will taste underdeveloped or harsh."
+  - question: "Do I need a separate tamper if I buy the MATOW distributor-tamper combo?"
+    answer: "The MATOW handles both distribution and tamping in one tool at the correct 53mm diameter for Breville 54mm portafilters, so a separate tamper is not necessary to start. Whether the dual-function design matches your workflow long-term depends on technique — some brewers prefer the tactile control of a dedicated tamper once they've developed a feel for correct pressure. For building a workflow from scratch, the combo tool removes one variable and is the more practical starting point."
+safety_topics:
+  - espresso-pressure
 ---
 
 Manual espresso at home sits closer to a craft than a convenience routine, and the ROK espresso maker sits squarely in that tradition. If you're drawn to lever machines , the tactile feedback, the absence of electronics, the fact that you can pull a decent shot at a campsite , this category rewards the investment in technique more than in horsepower. A grinder matters more than almost anything else here, and understanding why is half the job before you buy anything.

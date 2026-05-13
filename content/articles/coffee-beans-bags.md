@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is a one-way valve on a coffee bag and why does it matter?"
+    answer: "A one-way valve is a small disc embedded in the bag that allows CO2 to escape while blocking outside air from entering. Freshly roasted coffee releases CO2 for days to weeks after roasting — without a valve, that pressure builds inside a sealed bag and can deform or rupture it. The valve lets gas out without letting oxygen in, which is the primary driver of staling. Any bag intended to hold freshly roasted beans should have one."
+  - question: "Do kraft paper bags protect beans as well as foil-lined bags?"
+    answer: "No. Kraft paper allows more oxygen and moisture transmission than multi-layer foil laminates — that is a material property, not a branding distinction. For beans consumed within a week of packaging, the practical difference is manageable. For longer storage windows, beans being shipped to someone with an uncertain opening timeline, or beans meant to retain delicate flavor development, foil-lined construction provides meaningfully better protection."
+  - question: "What size coffee bag should I use for home roasting?"
+    answer: "The 1 lb format is the most practical starting point. It holds a quantity most households consume within two to three weeks, which aligns with a reasonable freshness window for most brewing methods. If you're packaging gifts or samples, 4 oz foil bags make more sense — small enough that recipients use the whole bag quickly. Half-pound bags split the difference for smaller households or more frequent roasting cycles."
+  - question: "Zipper closure vs heat-seal — which is better for packaging fresh roasted coffee?"
+    answer: "Heat sealing creates a more airtight, tamper-evident seam and is the better option for beans you're packaging to sell or store sealed. A zipper closure is more convenient for end users who will open and reseal repeatedly. The practical approach for retail or gifting is to heat-seal the bag initially for proper packaging, with the zipper available for the customer after opening. Many foil flat-bottom bags in this category support both."
+  - question: "How many bags should I order on the first purchase from a new supplier?"
+    answer: "The minimum available quantity for a test run. Test the valve by pressing the face of a filled, sealed bag twenty-four hours after roasting — you should feel gas releasing. Check that the zipper tracks cleanly after three or four open-close cycles, and verify the seam holds under the pressure of a fully filled bag. Only scale to a full 50 or 60-count order after confirming performance in your actual conditions. The per-bag savings on bulk orders disappear if you end up with bags that fail in production."
 ---
 
 Packaging your own roasts , or just trying to keep beans fresh longer than the bag they came in , puts you in the market for something most coffee coverage ignores entirely. [Coffee Beans & Roasts](/beans/) gets discussed endlessly in terms of origin, process, and roast profile; the container that preserves all that work gets treated as an afterthought. It shouldn't be.

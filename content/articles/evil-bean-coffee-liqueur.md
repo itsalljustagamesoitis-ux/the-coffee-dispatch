@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the Amoretti Mexican Coffee Liqueur Syrup a substitute for Kahlua in cocktails?"
+    answer: "It is a non-alcoholic flavoring syrup, not a direct Kahlua substitute. The flavor profile — dark coffee, vanilla, chocolate — is similar, but it does not contribute alcohol to a cocktail. Use it to add coffee liqueur flavor to mocktails, milk-based espresso drinks, or recipes where you want the taste without the alcohol content. For cocktails that require actual alcohol content, you need to add a spirit separately."
+  - question: "Do I need a grinder to use the flavored whole bean coffees in this article?"
+    answer: "Yes. Whole bean format means the beans arrive unground and you need a burr grinder to brew them properly. A blade grinder will work but produces uneven particle sizes that affect extraction quality. Ground coffee, especially flavored, degrades faster than whole bean — so if you do not own a grinder, factor that cost into your decision or look for pre-ground versions, understanding the freshness trade-off."
+  - question: "Arabica vs Robusta in flavored coffee blends: does the base bean matter?"
+    answer: "It matters for how the flavoring integrates. Arabica-based flavored beans tend to taste cleaner, with the flavoring sitting clearly alongside the coffee character. Robusta-based blends produce better crema and more caffeine, but can taste muddy when combined with sweet or nut-forward flavor additions. Match the base bean to the preparation you are planning — Robusta works better in espresso-based drinks; Arabica integrates better in drip and pour-over contexts with flavored additions."
+  - question: "How does Vietnamese coffee like the Birdee differ from standard flavored coffee?"
+    answer: "Vietnamese coffee typically blends Arabica and Robusta beans and is roasted to bring out chocolate, earthy, and sometimes nutty notes naturally — without added flavoring compounds. The richness comes from the bean blend and roast profile, not from flavoring. Someone looking for a naturally intense, low-acid coffee will find it more satisfying than an artificially flavored option; someone specifically after amaretto or butter pecan flavor notes will not."
+  - question: "What does medium roast actually mean for flavored coffee beans, and why does it matter?"
+    answer: "Medium roast preserves some origin flavor and natural acidity without pushing into the smoky, bitter range of a dark roast. For flavored beans, this matters because added flavoring integrates more cleanly at medium roast — dark roast char competes with sweet additions like amaretto or butter pecan rather than complementing them. Medium roast also means the base coffee has enough character to be recognizable as coffee rather than just a delivery vehicle for flavoring compounds."
 ---
 
 The phrase "evil bean coffee liqueur" doesn't map cleanly to the products in this brief , none of them are coffee liqueurs, and only one (the Amoretti syrup) has any connection to a liqueur-style flavor profile. Before writing, I want to flag that mismatch plainly: a buyer searching for evil bean coffee liqueur is almost certainly looking for the actual Evil Bean brand coffee liqueur, which is a bottled alcoholic product. None of the five products here are that, or close to it.

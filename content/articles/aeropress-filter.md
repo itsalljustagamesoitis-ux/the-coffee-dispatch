@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Paper vs metal AeroPress filter — which produces better tasting coffee?"
+    answer: "Neither is objectively better — they produce different cups. Paper filters trap coffee oils and fine particles, producing a cleaner, brighter brew with more defined acidity and lower body. Metal filters let oils and micro-particles through, resulting in a heavier, fuller-bodied cup closer in character to French press. If you value clarity and brightness, paper is the right tool. If you want body and texture, the 316 stainless steel filter delivers that. Switching between them isn't a neutral swap — expect to recalibrate grind and steep time."
+  - question: "Do I need to rinse an AeroPress paper filter before brewing?"
+    answer: "Yes, and it's not optional. An unrinsed paper filter, whether white or natural brown, imparts a papery off-taste that most people mistakenly attribute to their coffee or technique. A 15-second rinse with hot water dissolves the papery compounds and warms the chamber at the same time. Rinsed correctly, the paper itself contributes nothing to the flavor of the cup."
+  - question: "Are the Laicky 800 count third-party filters a reliable substitute for official AeroPress filters?"
+    answer: "For most brewers, yes — provided you test fit first. The Laicky filters offer a lower cost-per-filter than official options and perform correctly in most AeroPress units. The risk is dimensional tolerance: a filter that doesn't seat cleanly in your specific unit will allow bypass and muddy the cup. The practical test is to run three brews and check for sediment levels inconsistent with paper filtration. If you see bypass, return and buy official filters."
+  - question: "White AeroPress filters vs natural brown unbleached — is there a taste difference?"
+    answer: "No meaningful difference when both are properly rinsed before brewing. The white version uses chlorine-free bleaching to achieve its color; the natural version uses unbleached paper. Both filter at the same micron level and produce comparably clean cups. The choice is a values decision about paper processing, not a flavor preference. Brewers who want to minimize chemical inputs in their chain tend to prefer the natural unbleached version."
+  - question: "How long does a 350 count pack of AeroPress filters last?"
+    answer: "At one brew per day, a 350-count pack lasts roughly 10 to 12 months. The 700-count two-pack extends that to close to two years for a single brewer. If you're brewing multiple cups daily or sharing an AeroPress, buy in the larger format — filters don't degrade with age when stored dry, and the per-unit cost reduction is meaningful over two years of daily use."
 ---
 
 The AeroPress filter question is simpler than it's made to look, but it does matter. Paper or metal changes the character of the cup more than most people expect , and choosing between the official filters and a third-party pack has real implications for both consistency and cost. A quick look at the [Brewing Methods](/brewing-methods/) hub gives useful context for where the AeroPress sits relative to other manual techniques.

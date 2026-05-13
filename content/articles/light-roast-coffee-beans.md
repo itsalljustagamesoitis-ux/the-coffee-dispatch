@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What should I look for on a bag of light roast coffee?"
+    answer: "The roast date is the single most important piece of information. Not a best-by date stamped two years out — a specific roast date. For espresso I won't use beans beyond three weeks from roast; pour-over gives you maybe four to five weeks. Bags that only show a best-by or packed-on date are a red flag regardless of how premium the branding looks. A roast date is a statement of accountability."
+  - question: "Lavazza Tierra Organic vs. Amazon Fresh Just Bright: which light roast is better?"
+    answer: "For most buyers who care about cup quality and origin sourcing, the Lavazza Tierra Organic is the stronger choice. It uses 100% certified organic Arabica beans and produces a more complex, nuanced cup than the Amazon Fresh house brand. The Just Bright is a competent daily driver at a lower price point, but it doesn't offer the same depth of flavor or supply chain transparency."
+  - question: "Is light roast coffee harder to dial in for espresso?"
+    answer: "Yes. Light roast is more soluble than dark roast and extracts faster at a given grind size and water temperature. For espresso specifically, this creates a calibration challenge — light roast requires tighter grind control and often a slightly longer extraction time to avoid sour, underdeveloped shots. Confirm your grinder can reach the fine end of the spectrum and be ready to spend more time dialing in than a medium roast would require."
+  - question: "Does light roast coffee actually have more caffeine than dark roast?"
+    answer: "By weight, marginally yes — the roasting process destroys a small percentage of caffeine molecules, so lighter roasts retain slightly more. In practice the difference per cup is negligible, especially since most people measure by volume rather than weight. Lighter beans are denser, so a volumetric scoop contains more mass and therefore more caffeine, but the effect is modest and not a meaningful reason to choose one roast over another."
+  - question: "What bag size should I buy for light roast whole bean coffee?"
+    answer: "Match the bag size to how quickly you brew. A 2.2 lb bag holds roughly 40 standard cups — at one cup per day that's 40 days, well past the freshness window for optimal light roast flavor. At four cups per day you're through it in ten days, which is fine. The Amazon Fresh Just Bright three-pack of 12 oz bags is a practical middle ground: keep two bags sealed until you need them and you're getting near-fresh grounds from each."
 ---
 
 Light roast coffee beans reward the buyer who knows what to look for , and punish the one who grabs whatever's on the shelf. The difference between a bright, complex cup and a flat, forgettable one often comes down to three things: bean origin, roast date, and whether you're grinding fresh. This is a guide to doing that well, without pretending every option on a grocery shelf is worth your time. For a broader look at what's available, [Coffee Beans & Roasts](/beans/) is a useful starting point.

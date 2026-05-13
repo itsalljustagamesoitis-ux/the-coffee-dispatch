@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Which BLACK+DECKER coffee maker is best for a single person?"
+    answer: "The BLACK+DECKER 5-Cup Coffeemaker is the clearest answer for a single-person household. Brewing 60 ounces at a time for one person means most of that pot will sit on a warming plate aging before it's consumed. The 5-cup capacity matches realistic single-serving consumption and reduces waste. It's also the simplest machine in the lineup — on, off, brew, done, no features to learn or skip."
+  - question: "Is the BLACK+DECKER thermal carafe model worth the step up from the standard 12-cup?"
+    answer: "For households that don't finish the pot within 20 to 30 minutes of brewing, yes. The thermal carafe holds temperature through insulation rather than continued heating, which means the coffee tastes closer to what it was when it brewed. If your household goes through a full pot quickly at the same sitting, the standard 12-cup model is adequate and the thermal premium is less justified. Past 30 minutes on a hot plate, the flavor degradation is hard to ignore."
+  - question: "Do all these BLACK+DECKER machines require paper filters?"
+    answer: "Not all of them. The BLACK+DECKER 12-Cup Digital includes a washable permanent basket filter, which eliminates the recurring cost and waste of paper filters. Other models in the lineup use removable basket filters designed for paper inserts. Check the specific model's filter type before buying — it is a small ongoing cost difference that adds up over years of daily use, and permanent filters also produce a slightly fuller-bodied cup."
+  - question: "What does VORTEX Technology actually do in a drip machine?"
+    answer: "It refers to how the machine distributes hot water over the coffee grounds during brewing. The design intent is more even saturation of the coffee bed, which in principle produces more consistent extraction across the full basket rather than channeling through one area. The practical improvement in the cup compared to a standard showerhead drip is modest, but the underlying idea is sound."
+  - question: "Should I buy a programmable model if I don't prep the machine the night before?"
+    answer: "No. Programmable features require loading water and ground coffee before bed and setting the timer reliably. If your morning schedule varies or the night-before prep step tends to get skipped, the programmable function will sit unused. The BLACK+DECKER CM1160B delivers the same 12-cup capacity with a simpler on/off interface — you pay for what you'll actually use rather than a feature that sounds useful in theory."
 ---
 
 BLACK+DECKER makes some of the most widely purchased drip coffee makers in the country, and that's not entirely an accident. They occupy a useful corner of the [Coffee Makers](/coffee-makers/) market: reliable enough for daily use, simple enough to not think about, and priced where the decision is low-stakes. If you're replacing a machine that died, outfitting a guest room, or just need a dependable pot of coffee in the morning without any ceremony, BLACK+DECKER earns serious consideration.

@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How many people does a 30 cup coffee urn actually serve?"
+    answer: "The stated cup count assumes a 5-ounce serving, which is significantly smaller than a standard mug. In practice, a 30-cup urn serves approximately 18 to 22 people if each takes one full mug of coffee. For events where guests typically take seconds, plan for 15 to 18 people before a second cycle is needed. Multiply your expected headcount by 1.5 and find the urn that covers it comfortably."
+  - question: "Should I buy the West Bend 30 cup or the Hamilton Beach 45 cup for a gathering of 40 people?"
+    answer: "For 40 guests, the Hamilton Beach 45 Cup Fast Brew is the more reliable choice. A 30-cup urn running at full capacity leaves almost no margin — any heavier-than-expected consumption means running a second cycle, which takes time. The Fast Brew accelerates that second cycle if needed. Reserve the 30-cup size for gatherings of 25 people or fewer, where the smaller footprint becomes a genuine advantage."
+  - question: "Does percolation brewing produce lower quality coffee than drip brewing?"
+    answer: "It produces different coffee — bolder, less nuanced, and more aggressively extracted than standard drip. Water cycles repeatedly through the grounds in a percolator urn, which extracts aggressively and produces a cup optimized for volume and heat retention rather than origin clarity or precision. For serving a crowd efficiently with hot, strong coffee it is well-suited to the task. For buyers expecting the same flavor quality as their home drip setup, the difference will be apparent."
+  - question: "Is stainless steel worth the price over aluminum for a coffee urn used at home events?"
+    answer: "For occasional home use a few times a year, aluminum is a practical choice and the West Bend's polished aluminum construction has a long track record. For monthly or more frequent use, stainless steel retains heat better over long serving periods, resists flavor absorption over time, and holds up better to repeated cleaning. Stainless also shows less visible wear, which matters if the urn appears at catered or formal events where presentation is part of the job."
+  - question: "How do I clean a large coffee urn after an event?"
+    answer: "More involved than a standard drip brewer, but manageable with the right approach. The percolator tube, brew basket, and interior vessel all need separate attention. Most urns are not dishwasher-safe, so cleaning is done by hand with a bottle brush and a commercial urn-cleaning solution to remove the coffee oils that build up with repeated use. The spigot is the component that traps the most residue — flush it thoroughly after each use."
 ---
 
 Brewing coffee for a crowd is a different problem than brewing it for yourself, and the equipment that solves it sits in a category most home coffee writers ignore entirely. A 30-cup coffee maker , or the larger urns that share its form factor , exists for one reason: volume. Whether you're running a church hall kitchen, managing a catering setup, or hosting the extended family every holiday, the right urn handles the job without drama. The full range of [coffee makers](/coffee-makers/) includes everything from single-serve machines to commercial batch brewers, and that context matters when you're choosing.

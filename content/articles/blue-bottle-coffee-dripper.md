@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Flat-bottom dripper vs. cone dripper — which geometry is better for beginners?"
+    answer: "Flat-bottom drippers are more forgiving. They slow exit flow and create longer contact time between water and grounds, producing more even extraction even when your pour technique varies. Cone drippers drain faster and reward precise pour control, but they amplify technique errors — uneven pours show up immediately in the cup. For most people starting with pour-over, flat-bottom is the more practical choice until technique becomes consistent."
+  - question: "Is ceramic really better than stainless steel for pour-over drippers?"
+    answer: "Ceramic offers better heat retention, which keeps brewing temperature more stable through the full pour — particularly relevant in cold environments or with slower pour techniques. Stainless steel is more durable and survives drops that would shatter a porcelain dripper, making it the right choice for travel and outdoor use. For a home setup that stays on the counter, ceramic has a genuine performance edge. For camping, the stainless Kalita Wave is the only option here that travels reliably."
+  - question: "What is the difference between the two similar ceramic drippers in this lineup?"
+    answer: "The green and white ceramic drippers share the same three-hole flat-bottom design and porcelain construction. Functionally they perform identically. The choice is purely aesthetic — the white version reads as minimal and neutral in most kitchens, while the green is more visually distinctive. If you're deciding between them on brewing performance alone, there is no meaningful difference."
+  - question: "Does the Kalita Wave format require special filters?"
+    answer: "Yes. The Kalita Wave uses its own wave-style flat-bottom filters — these are widely available online but are more specific than generic basket or cone filters. The wave filter design keeps the paper off the dripper walls, which prevents uneven flow channels that form when paper collapses against the sides of a standard cone dripper. Factor the ongoing filter cost and availability into the total cost of ownership before committing."
+  - question: "How long does a 30-count pack of Blue Bottle filters last?"
+    answer: "At one brew per day, 30 filters lasts roughly a month. If you brew multiple cups daily or share your dripper with someone else, you will go through them faster. It is worth buying two packs at once to avoid running out mid-routine. Paper filters do have a shelf life consideration — store them dry and sealed and they will stay flat and consistent."
 ---
 
 Pour-over coffee has a reputation for complexity it hasn't entirely earned. The dripper you set over your cup, the grind size, the water temperature, the pour , those variables are real, but they're learnable in a week. The [Brewing Methods](/brewing-methods/) landscape is full of options, and the blue bottle coffee dripper category specifically has gotten crowded enough that sorting the worthwhile from the forgettable takes some work.

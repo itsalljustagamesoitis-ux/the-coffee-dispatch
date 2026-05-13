@@ -42,6 +42,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Metal mesh vs paper filters for French press: which should I buy?"
+    answer: "Metal mesh is the default and produces the full-bodied, oil-rich cup that defines French press. Paper filters catch the oils and fine sediment the metal passes, producing a cleaner, brighter result closer to pour-over. If you like the characteristic weight and texture of French press, a metal replacement screen is all you need. If sediment or heavy texture puts you off, paper is a genuine fix, not a workaround."
+  - question: "Will a 4-inch replacement screen fit my French press?"
+    answer: "A 4-inch screen fits most standard 34 oz and 8-cup presses from Bodum, SterlingPro, and common generic brands. It is not universally compatible. Before ordering, measure the interior diameter of your carafe, not the outside. A screen that is even slightly undersized allows grounds to bypass the filter entirely, which defeats the purpose."
+  - question: "How often do French press screens need replacing?"
+    answer: "A stainless steel mesh screen used and cleaned daily typically lasts six months to a year before the weave stretches, warps, or develops micro-tears that let fine grounds through. Aggressive scrubbing shortens that window considerably. Buying in multi-packs, like a four-pack or six-pack, means you have spares on hand when one fails rather than scrambling for a single replacement."
+  - question: "Can I place paper filters on top of the existing metal screen?"
+    answer: "Yes, that is the intended use for French press paper filters. The paper disc sits on top of the metal screen, and the plunger compresses both together during the press. The result is a noticeably cleaner cup with less oil and no silt layer at the bottom. It adds a consumable cost per brew, but the cup difference is real and worth testing if sediment has been a persistent complaint."
+  - question: "Are 6-pack replacement screens worth it over a 4-pack?"
+    answer: "For daily brewing, yes. A six-pack gives you more runway before reordering and reduces cost per screen. The performance difference between the Boao six-pack and a comparable four-pack is negligible; the quantity advantage is the only meaningful distinction. If you brew two to three times a week, a four-pack is sufficient. Daily use points toward six."
 ---
 
 French press filters don't get much attention , the press itself draws all the focus, and the filter is treated as an afterthought until it tears, warps, or goes missing entirely. That's a mistake. The filter is doing real work on every brew, and the type you use shapes the cup more than most people expect. A quick look at the full range of [Brewing Methods](/brewing-methods/) makes clear how much filter choice varies by brewer style.

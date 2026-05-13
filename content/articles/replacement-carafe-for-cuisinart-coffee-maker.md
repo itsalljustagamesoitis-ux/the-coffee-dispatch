@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How do I find out which replacement carafe actually fits my Cuisinart coffee maker?"
+    answer: "Find the model number on the underside of your machine — it will look like DCC-3200P1 or CHW-12P1. Then check the compatibility list in each product's full description, not just the headline. Cuisinart carafes are not universally interchangeable across models, and a few minutes verifying your model number prevents a frustrating return. If your model number does not appear explicitly in the compatibility list, contact the seller before ordering."
+  - question: "Can I use a 12-cup replacement carafe on a 14-cup Cuisinart brewer?"
+    answer: "No. The brew volume your machine dispenses is calibrated for the carafe it was designed around. Running a 14-cup brew cycle into a 12-cup carafe will overflow before the cycle completes. Always match the replacement carafe capacity to the capacity your machine was designed to use. The capacity is usually stated in your machine's model name or user manual."
+  - question: "Is the OEM Cuisinart DCC-2200RC replacement carafe worth it over a cheaper third-party option?"
+    answer: "For buyers who want guaranteed fit — identical lid seal, same pour spout geometry, exact handle placement — the OEM Cuisinart carafe is the lower-risk choice. Third-party carafes can perform equally well at a lower price, but quality varies by listing. Check recent review dates and volume before trusting a third-party option; a strong, consistent review record across months is more meaningful than a cluster of early reviews that went quiet."
+  - question: "Which carafe on this list fits the Cuisinart SS-15 and SS-16 combination single-serve and carafe brewers?"
+    answer: "The 12-Cup Coffee Pot Replacement Compatible with Cuisinart explicitly lists the SS-15 and SS-16 models, which are Cuisinart's combination single-serve and carafe machines. That is the most specific option for those brewers in this roundup. Other carafes in this article focus on DCC and DGB series machines — check the model list carefully if you own an SS-series brewer, since it is easy to order a carafe that fits a different machine family."
+  - question: "How long does a replacement glass carafe typically last before it needs replacing again?"
+    answer: "Glass carafes last as long as you do not break them — the failure mode is almost always physical impact, not wear. Avoid setting them down hard on stone or tile surfaces, do not pour cold water into a hot carafe, and keep them away from counter edges. Under normal use conditions, a well-made glass carafe should outlast several years of daily brewing without any degradation in brewing performance."
 ---
 
 Replacement carafes sit in a quiet corner of [coffee maker](/coffee-makers/) accessories , overlooked until the moment you need one. Drop a glass carafe on a tile floor at seven in the morning and the urgency becomes immediate. The question isn't whether to replace it; it's which replacement actually fits your machine and holds up to daily use.

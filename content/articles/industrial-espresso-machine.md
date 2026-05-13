@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How many group heads does a small café actually need?"
+    answer: "For a café where espresso is the primary revenue driver and staffing supports two baristas, a three-group machine is appropriate. A restaurant serving espresso alongside a broader menu usually works fine with two groups. Buying more group heads than your actual shot count demands adds maintenance overhead, electrical draw, and installation complexity without proportional throughput benefit."
+  - question: "Lever machine vs. volumetric espresso machine — which is right for a commercial setting?"
+    answer: "They are different operational philosophies, not points on a quality spectrum. A lever machine like the Pontevecchio Lusso gives the operator direct pressure control and produces a distinct shot character, but it amplifies operator inconsistency — it is not a training machine. A volumetric machine uses programmed shot volumes to produce consistent output across varying skill levels, which is the practical default for any setting where staffing varies."
+  - question: "Does a 20-bar espresso machine actually brew at 20 bar?"
+    answer: "No. Espresso extraction is optimized at approximately 9 bars at the puck, which is the industry standard. A machine rated at 20 bar has a pump capable of generating that pressure, but actual brew pressure is regulated down through a pressure relief valve or OPV. The bar figure in product listings reflects pump ceiling, not extraction pressure — it is a marketing number."
+  - question: "When does replacing a vibratory pump make more sense than buying a new machine?"
+    answer: "Replacing the pump makes sense when the machine is otherwise in good condition — boiler intact, group head functioning, gaskets still serviceable — and the pump failure is the sole issue. The ULKA EFP5 is a direct replacement for the pump used in most Gaggia, Rancilio, Breville, and similar prosumer machines. If the machine is aging across multiple components simultaneously, full replacement may be the more rational economic choice."
+  - question: "Single boiler vs. heat exchanger vs. dual boiler — which matters for commercial espresso?"
+    answer: "For genuine commercial use, single-boiler machines are impractical because they require a thermal transition between brewing and steaming that compounds into a throughput problem under volume. Heat exchanger machines are a workable commercial minimum with a flush ritual. Dual-boiler machines maintain independent, simultaneous control over brew and steam temperatures and are the correct configuration for high-demand settings where both temperature precision and throughput matter."
+safety_topics:
+  - espresso-pressure
 ---
 
 The phrase "industrial espresso machine" covers a wide range of hardware , from two-group lever machines built for craft coffee bars to commercial volumetrics designed for sustained high-volume service. Understanding which tier you actually need, and why, matters more than any individual spec. This category sits at the intersection of [espresso equipment](/espresso/) and serious operational commitment, and the products below represent that range honestly.

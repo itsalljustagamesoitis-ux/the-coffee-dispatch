@@ -49,6 +49,17 @@ products:
 tags: ["pods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Will refillable pods actually work with my specific Nespresso Vertuo machine?"
+    answer: "Most refillable Vertuo pods work with the main VertuoLine machine families, but compatibility is not universal. The Vertuo line spans several generations — VertuoPlus, Vertuo Next, original VertuoLine, and the ENV and XN sub-series — and not every third-party capsule works identically across all of them. Confirm the model number on the back of your machine against the specific compatibility list in the product description before buying."
+  - question: "What grind size should I use with a refillable Vertuo pod?"
+    answer: "For espresso-sized refillable pods around 70ml, use a medium-fine grind — coarser than you would use for a traditional portafilter, since the Vertuo system uses centrifugal extraction rather than pump pressure. For mug-sized pods at 230ml, a medium grind works better. The article suggests starting slightly coarser than you think necessary and adjusting from there."
+  - question: "Foil lid kits vs. stainless steel capsules — what is the practical difference?"
+    answer: "Foil-lid kits require a consumable supply — you will go through the 100 lids and need to reorder, but they let you use original Nespresso pod bodies that carry the factory barcode and tend to produce more reliable machine reads. Stainless capsules are a one-time purchase with no ongoing materials cost but a higher cleaning commitment. Stainless also works best if the pod capacity matches your usual drink size, since you cannot adjust brew volume the way you can by choosing different original pod sizes."
+  - question: "Is the NESSUS Refill Kit meaningfully different from the NESSUS Reusable Pod Kit?"
+    answer: "The main functional difference is the lid removal tool in the Refill Kit. Both kits include 100 foil lids, a holder, and a brush, but the lid remover makes it significantly easier to strip the factory seal from a used Nespresso pod cleanly without distorting the rim. If you plan to refill original pod bodies regularly, the removal tool justifies choosing the Refill Kit over the Pod Kit."
+  - question: "Can I use any ground coffee in a refillable Vertuo pod, or does it have to be espresso-specific?"
+    answer: "You can use any ground coffee, and the format gives you full control over what goes inside. Pre-ground works, but freshly ground whole beans produce noticeably better results because they retain more aromatics and CO2. Pre-ground supermarket coffee will brew, but the result will be flatter than the factory capsules it is replacing. A burr grinder and quality whole beans are what make the refillable format genuinely worth the extra effort."
 ---
 
 Finding a refillable solution for a Nespresso Vertuo machine is harder than it should be. The barcode-scanning system that makes Vertuo convenient is the same thing that makes third-party compatibility unpredictable , and the options in the [Pods & Capsules](/pods/) category range from genuinely useful to barely functional. This field has enough noise that a bad choice costs you more than money; it costs you mornings.

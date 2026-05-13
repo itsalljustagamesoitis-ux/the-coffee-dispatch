@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Lelit Bianca V3 vs. Breville Dual Boiler BES920XL: which should I buy?"
+    answer: "The Bianca V3 offers flow profiling via its paddle and a traditional E61 group head that the Breville doesn't have. If you're already pulling consistent shots and want to experiment with variable pressure profiles, the Bianca's paddle is a genuine capability advantage. If you're newer to espresso or want a more approachable interface with easier North American service access, the BES920XL closes very little of that gap in daily practice."
+  - question: "Is flow profiling on the Bianca V3 worth paying for?"
+    answer: "Only if you're already pulling consistent shots and want to experiment beyond what pressure and temperature control allow. Flow profiling lets you manually adjust water flow rate through the puck during extraction — a real capability that enables profiles not possible on fixed-pressure machines. Pulling the same flat-pressure profile on a Bianca V3 that you'd pull on a BES920XL produces no additional benefit. Be honest about which stage of your espresso practice you're actually at."
+  - question: "What grinder should I pair with the Lelit Bianca V3?"
+    answer: "The Bianca V3 rewards a grinder that can make fine, repeatable adjustments — something like a Niche Zero, DF64, or a quality flat-burr option. A grinder that drifts between doses or lacks stepless adjustment won't let the machine show what it can do. The grinder-first principle applies especially here: the Bianca's capabilities only matter when the grind is consistent enough to isolate what the flow profiling is actually doing."
+  - question: "How often should I clean a prosumer espresso machine's steam wand?"
+    answer: "Purge the wand for one to two seconds before steaming and wipe it with a damp cloth immediately after every use. A full internal cleaning with a brush tool should happen at least weekly on a machine used daily, more often if you notice reduced steam flow. Milk dries and hardens inside the tip quickly — once it blocks, cleaning becomes significantly more involved than a daily wipe would have required."
+  - question: "Does a spring-loaded tamper actually improve shot consistency?"
+    answer: "A calibrated spring-loaded tamper removes pressure variability from the tamping step, which reduces one axis of shot inconsistency. It does not correct for an uneven distribution or a non-level tamp angle, which are the more common technique problems at home. For beginners building a workflow, it's a useful tool. For experienced hands, it's a quality-of-life choice rather than a performance necessity."
+safety_topics:
+  - espresso-pressure
 ---
 
 Getting an espresso setup right is less about finding the machine everyone mentions in forum threads and more about understanding what the machine actually needs to perform. The [Lelit Bianca V3](/espresso/) gets cited constantly , deservedly , but the question worth asking is whether the rest of your setup supports a machine at that level, or whether you're buying the headline act without the backing band.

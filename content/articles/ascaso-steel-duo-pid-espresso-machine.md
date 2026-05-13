@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Ascaso Steel Duo vs Breville Barista Express — which is worth the premium?"
+    answer: "For buyers committed to manual espresso and planning to invest in a separate quality grinder, the Ascaso Duo is worth the premium. Its dual thermoblock architecture and PID control produce more consistent temperature stability than the Barista Express's single boiler design, and the grinder independence means you're not constrained by what's built in. The Barista Express is a coherent all-in-one starter; the Duo is a long-term platform. They're not competing for the same buyer."
+  - question: "Does the Ascaso Steel Duo require a separate grinder?"
+    answer: "Yes — the Duo is a standalone espresso machine with no integrated grinder, which is by design. It lets you pair it with whatever grinder suits your workflow and budget. A 64mm flat burr grinder with adequate espresso-range adjustment, like the SHARDOR 64mm Burr Grinder covered in this article, is a reasonable pairing. A pre-ground or blade-grinder workflow negates the machine's temperature precision entirely."
+  - question: "What does a PID controller actually do for espresso quality?"
+    answer: "A PID controller continuously samples actual brewing temperature and corrects it in real time, rather than cycling a heating element on and off at fixed thresholds. The practical result is tighter temperature stability shot to shot. For most home users pulling a few shots daily, the difference is real but subtle — it matters most when you're dialing in a specific coffee and want to isolate one variable at a time rather than chasing a moving temperature target."
+  - question: "Is the Philips 3200 super-automatic a good choice for someone new to espresso?"
+    answer: "It depends on what kind of espresso experience you're looking for. If you want an automated, low-maintenance machine that produces consistent drinks without technique, the Philips 3200 is genuinely good at that — the LatteGo frother is low-maintenance and the ceramic grinder is a solid choice for longevity. If you want to learn manual espresso, a super-automatic will teach you nothing useful about extraction and you'll likely want to replace it within a year."
+  - question: "Single boiler vs dual thermoblock vs dual boiler — which architecture is right for home espresso?"
+    answer: "For home use with occasional milk drinks, dual thermoblock is the practical sweet spot. Single boiler machines require temperature cycling between brewing and steaming — a real workflow interruption for back-to-back drinks. Dual boiler machines provide maximum thermal stability but at a higher cost and larger footprint. Dual thermoblock designs like the Ascaso Steel Duo run separate heating elements for each function, eliminating the wait and producing more stable sequential shots without the dual boiler's cost premium."
+safety_topics:
+  - espresso-pressure
 ---
 
 The Ascaso Steel Duo is the machine most serious home baristas eventually land on after burning through two or three cheaper options , but whether it's the right machine for *you* depends on what you're actually trying to build. The broader world of [espresso and espresso machines](/espresso/) involves real trade-offs between automation, control, and grinder pairing that most buyers don't think through until after the purchase. One specific pairing question comes up constantly: what belongs on the counter alongside the Duo, and is the Duo even the right centerpiece?

@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Timed dosing vs weight-based dosing in an espresso grinder: what is the difference?"
+    answer: "Timed dosing runs the motor for a set number of seconds and uses that run time as a proxy for dose weight. Weight-based dosing uses a scale to stop the grinder when the actual target weight is reached. Timed dosing works reliably when conditions are consistent: same beans, similar hopper fill level, same setting. As the hopper empties, grind speed can change and timed doses drift. Both the Eureka Mignon Specialita and Silenzio use timed dosing, not true weight-based dosing."
+  - question: "Eureka Mignon Silenzio vs Specialita: which should I buy?"
+    answer: "The core grind mechanism is identical: stepless 55mm burrs, timed dosing, and acoustic insulation. The Specialita adds a touchscreen and two programmable dose buttons. If you want to set a dose time once and push a single button each morning, the Specialita is worth the difference. If you prefer a tactile adjustment collar and a simpler interface, the Silenzio does the same grinding job with less digital overhead. Neither is objectively better; the distinction is workflow preference."
+  - question: "Is a 64mm flat burr grinder meaningfully better than 55mm for home espresso?"
+    answer: "The difference matters, but less than the quality of the burr geometry and manufacturing tolerances. A well-engineered 55mm grinder like the Eureka Mignon Specialita will outperform a poorly-engineered 64mm grinder in real-world use. For home setups pulling one or two shots per session, the heat and throughput advantages of a 64mm burr are real but rarely decisive. The MOKKOM's 64mm spec is interesting, though long-term reliability data is still limited."
+  - question: "How much does grinder quality actually affect espresso quality compared to the machine?"
+    answer: "More than most buyers expect. The grinder determines particle size distribution, which directly controls extraction rate and shot consistency. A capable machine with an underpowered grinder produces inconsistent shots regardless of machine quality. A modest machine paired with a quality grinder like the Eureka Mignon Specialita produces repeatable, extractable espresso. The most common mistake in home espresso is allocating most of the budget to the machine and treating the grinder as an afterthought."
+  - question: "Is the KRUPS burr grinder sufficient for home espresso?"
+    answer: "It is a meaningful step up from a blade grinder, but it shows real limits for espresso. Twelve settings across all brew methods means the espresso range has minimal adjustment resolution, which makes dialing in a shot frustrating. The honest recommendation: the KRUPS is correct if the only alternative is a blade grinder and budget genuinely cannot stretch further right now. It is not the grinder to pair with a capable espresso machine if any other option exists."
+safety_topics:
+  - electric-grinder
 ---
 
 Most espresso dials are turned the wrong way from the start , not on the machine, but on the grinder. A burr grinder that doses by weight rather than by time removes one of the most persistent variables between shots, and it's the kind of detail that matters more once you've dialled in a recipe you want to repeat. If you've landed here from browsing [espresso machines and grinders](/espresso/), the equipment context is already there , this article is specifically about grinders that weigh or time doses with enough precision to take guesswork out of the equation.

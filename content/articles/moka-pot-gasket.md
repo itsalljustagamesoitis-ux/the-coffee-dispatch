@@ -49,6 +49,19 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How often should I replace my moka pot gasket?"
+    answer: "For daily use, plan on replacing the gasket every twelve to eighteen months. With food-grade silicone seals, that interval often extends longer. The practical signal is steam leaking from the thread join between chambers, weaker extraction than usual, or a gasket that is visibly cracked, hardened, or compressed flat. Don't wait for a complete failure — a degraded seal affects extraction quality before it stops sealing entirely."
+  - question: "Silicone vs. rubber moka pot gaskets — which is better?"
+    answer: "Food-grade silicone is generally the better material. It handles heat cycling more durably than rubber, doesn't absorb coffee oils, and is less likely to develop the off-flavors an aging rubber gasket can introduce into an otherwise clean brew. Original Bialetti gaskets shipped in rubber for decades and work adequately, but silicone lasts longer and stays flavor-neutral across the replacement interval. The qualification is food-grade — non-food-grade silicone is not appropriate for this use."
+  - question: "Can I use a third-party gasket in a Bialetti Moka Express?"
+    answer: "Yes, provided the gasket is sized correctly for your pot's cup capacity and the listing specifies food-grade silicone or rubber. The main risk with third-party parts is incorrect sizing, not material quality. The LitOrange 8-pack, for example, lists compatibility with 6-cup Bialetti Moka Express and Dama pots with dimensional specs that align with Bialetti's own measurements — confirm the capacity match before buying."
+  - question: "Do I need to replace the filter plate when I replace the gasket?"
+    answer: "Not strictly required, but it is worth doing at the same service interval if the filter shows mineral buildup or discoloration. The filter plate restricts flow as it clogs, which softens extraction even with a new gasket in place. Combination packs that include both the gasket and filter plate cost almost nothing extra and remove one variable from future troubleshooting."
+  - question: "What is the difference between a 3-cup and 6-cup moka pot gasket?"
+    answer: "They are different physical sizes with different inner and outer diameters, and they are not interchangeable. A 6-cup gasket is larger in diameter and will not seat or seal correctly in a 3-cup base. Always buy replacement parts matched to your pot's marked cup capacity. If the marking has worn off, measure the inner diameter of the existing gasket and compare it against the product listing's published dimensions."
+safety_topics:
+  - moka-pot-heat
 ---
 
 Moka pot gaskets fail quietly. One day the seal compresses past the point of usefulness, the pot starts spitting instead of percolating, and suddenly a machine that worked perfectly for years is producing weak, uneven coffee , or nothing at all. The fix is a two-minute parts swap, not a new brewer. Knowing which replacement parts actually fit and hold up under repeated heat cycling is the only thing standing between you and another decade of good extraction.

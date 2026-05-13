@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the Nuova Simonelli Oscar II suitable for a complete beginner?"
+    answer: "The Oscar II is not a machine designed for beginners. The lever operation gives you direct control over extraction pressure, which is a feature that rewards experience rather than simplifying the process. A beginner will get more useful feedback and more consistent early results from a semi-automatic machine with PID control. The Oscar II becomes the right choice once you understand what you are controlling and why."
+  - question: "Gevi 20 Bar vs. Nuova Simonelli Oscar II — what is the real difference?"
+    answer: "These machines represent fundamentally different approaches to espresso. The Gevi is an entry-level thermoblock machine — accessible, lower-cost, and limited in long-term performance ceiling. The Oscar II is a prosumer machine from a manufacturer with a professional-grade track record, built for buyers willing to invest in technique and longevity. The bar pressure numbers are not a meaningful comparison point between them — extraction happens at 9 bar regardless of what the pump's maximum rating is."
+  - question: "How important is the portafilter size when choosing an espresso machine?"
+    answer: "A 58mm portafilter is the commercial standard, and the accessories ecosystem built around it is substantial — tampers, distribution tools, aftermarket baskets, and dosing funnels are all widely available and carry forward if you upgrade your machine later. A proprietary smaller portafilter locks you into a narrower accessory range and can limit your ability to improve technique as you develop. If you're serious enough to be comparing espresso brands by name, buy a machine with a 58mm portafilter."
+  - question: "Do I need to buy a separate grinder to use any of these espresso machines?"
+    answer: "Yes, unambiguously. Every machine on this list requires freshly ground coffee to extract properly. Pre-ground coffee degasses too quickly and loses the oils that drive espresso flavor. A blade grinder produces inconsistent particle sizes that extract unevenly, giving you sour and bitter in the same shot. A burr grinder with espresso-range stepless adjustment is the correct companion for any machine here — and the grinder determines more of the shot outcome than the machine past a certain baseline."
+  - question: "Can the Nuova Simonelli Oscar II handle small café volume?"
+    answer: "The Oscar II is a single-group machine, which limits throughput compared to a two-group commercial unit. For a very low-volume setting — a small office, a boutique retail counter, or a café where espresso is a secondary offering — the Oscar II's build quality and thermal management are appropriate for the workload. For a café serving a consistent morning rush, the single group head becomes a real operational constraint and a two-group machine is a more honest fit."
+safety_topics:
+  - espresso-pressure
 ---
 
 Nuova Simonelli makes some of the most respected espresso equipment in the world , machines that end up in competition venues and high-volume cafés precisely because they don't cut corners on thermal stability or build quality. If you've landed here researching the brand, you already know that much. The harder question is whether the specific model you're considering is the right match for your setup, your skill level, and the kitchen you actually have. The [espresso machine category](/espresso/) is wide enough that a poor fit costs you more than money , it costs you six months of frustrating shots.

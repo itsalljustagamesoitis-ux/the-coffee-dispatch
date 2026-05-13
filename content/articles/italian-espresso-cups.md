@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the right size for an Italian espresso cup?"
+    answer: "Three ounces is the practical standard for home use. That size accommodates a double shot, a ristretto, or a lungo without the drink looking lost in the cup. Going larger makes the presentation look proportionally wrong — the espresso gets lost. Ristretto drinkers can work smaller, but 3 oz is the most forgiving size across different formats."
+  - question: "Porcelain vs. stoneware espresso cups — which holds heat better?"
+    answer: "Thick-walled stoneware holds heat noticeably longer than thin-walled porcelain, which matters in a 60ml drink consumed in a few sips. The KIVY stoneware cups keep espresso at drinking temperature meaningfully longer than the HASENSE ceramic set. Prewarming helps both materials, but stoneware holds that warmth longer and is more forgiving if you skip the prewarm."
+  - question: "KIVY stoneware vs. HASENSE ceramic — which is better for daily home use?"
+    answer: "Both are practical daily-use cups at 3 oz. KIVY stoneware comes with matching saucers and provides better heat retention due to thicker walls — the right pick for guests or anyone who values warmth-in-cup. HASENSE ceramic cups-only is the simpler solution for a single daily user who runs cups through the dishwasher regularly and doesn't need the service format."
+  - question: "Are the Fima Deruta espresso cups practical for every-day dishwasher use?"
+    answer: "Not really. The Fima Deruta cup is hand-painted artisan Deruta ceramic — a craft object that happens to hold espresso correctly. The capacity is right and the ceramic handles heat adequately, but hand-painted decorative ceramics show wear and chipping from daily dishwasher cycling much faster than their price suggests they should. These are for handwashing, display, or occasional-use situations."
+  - question: "Do you need saucers with espresso cups, or are cups-only sets fine?"
+    answer: "For solo daily use, cups-only sets are practical and save cabinet space. Saucers become meaningful as soon as guests are involved — they catch drips, hold a spoon, and complete the service ritual in a way that reads as intentional. The KIVY stoneware and Italian Style Espresso Cup sets both include saucers, which is the correct format for any occasion where presentation matters."
 ---
 
 Choosing the right espresso cup matters more than most people expect. The cup affects heat retention, how the crema settles, and whether drinking a shot feels like a considered ritual or an afterthought. If you're already putting effort into your [espresso setup](/espresso/), the cup deserves the same attention.

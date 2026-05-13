@@ -49,6 +49,17 @@ products:
 tags: ["cold-brew", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Disposable vs. reusable cold brew bags — which should I use?"
+    answer: "Reusable organic cotton bags have a lower per-brew cost after the first few uses and suit brewers who make cold brew consistently and will maintain the bags properly. Disposable fine-mesh bags eliminate cleaning entirely and are the better answer if your schedule is irregular or if a cloth bag might sit damp in a drawer between uses. If you brew two or more times per week on a regular schedule, reusable makes practical sense. For occasional brewers, disposable is the cleaner choice."
+  - question: "What size cold brew bag fits a standard mason jar?"
+    answer: "A 4x6-inch bag fits comfortably in a quart-size wide-mouth mason jar, which is the most common home cold brew vessel. For half-gallon mason jars, the same 4x6-inch bag works but limits how much coffee you can steep at once. If you're regularly brewing larger batches, a 12x12-inch reusable cotton bag accommodates more grounds without packing them too tightly, which matters for even extraction."
+  - question: "100-count vs. 150-count disposable cold brew bags — which is the better buy?"
+    answer: "Functionally, not much separates them — both are fine-mesh disposable bags at 4x6 inches. The 150-count pack extends the supply runway by about five to eight weeks at typical home brewing frequency, reducing reorder friction for regular brewers. If you already know you'll brew consistently, the larger quantity is the straightforward choice. If you're still testing the habit or haven't confirmed the bag size works for your vessel, start with the smaller pack."
+  - question: "Are the 20x20-inch commercial cold brew filters suitable for home use?"
+    answer: "No. The 20x20-inch commercial filters are designed for five-gallon bucket systems and can hold up to five pounds of coffee. They're the right tool for small cafes, cold brew subscription services, or anyone making multi-gallon batches on a weekly schedule. Using them for a quart mason jar batch produces a setup where grounds float loose rather than steep as a contained mass, and extraction will be uneven."
+  - question: "How do I know if my cold brew bag is filtering well enough?"
+    answer: "Pour a small amount of the finished concentrate into a clear glass and let it settle for two minutes. If the liquid is clear with no visible sediment at the bottom, the bag performed correctly. A fine-mesh synthetic bag should produce a clean result on the first pour. Persistent cloudiness usually means the bag has a loose weave, was overfilled so grounds bypassed the mesh, or the drawstring wasn't secured properly during steeping."
 ---
 
 Cold brew is one of those home coffee projects that rewards almost no skill and very little equipment , mostly just time and decent beans. The variable that quietly determines whether your batch ends up clean and drinkable or cloudy and gritty is the filter you use. A good [cold brew bag](/cold-brew/) holds the grounds securely through an eighteen-hour steep, releases without dumping sediment into the concentrate, and either cleans up fast or goes straight into the bin.

@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does the grinder really matter more than the espresso machine?"
+    answer: "Yes, consistently and by a meaningful margin. Grind consistency determines how evenly water passes through the coffee bed during extraction. An inconsistent grind produces an inconsistent shot regardless of machine quality. A capable burr grinder paired with a modest machine will outperform a premium machine paired with a blade grinder every time. If your budget requires a compromise, compromise on the machine before the grinder."
+  - question: "Is the Rancilio Silvia too advanced for a beginner?"
+    answer: "The Silvia rewards users who are prepared to learn manual technique, including flushing, temperature management, and grind adjustment, rather than machines that automate those decisions. It is not forgiving of poor technique the way a fully automatic machine is. Most baristas who learn on a Silvia develop a more accurate sense of extraction variables than those who start on an automated machine. If you are willing to learn, it is an excellent first serious machine."
+  - question: "What does the Inkbird PID kit actually do to a Rancilio Silvia?"
+    answer: "The Inkbird kit replaces the Silvia's factory thermostat with a PID controller that reads boiler temperature in real time and adjusts the heating element to hold a precise set point, typically around 92 to 94 degrees Celsius depending on roast profile. The factory thermostat cycles through a range of roughly ten degrees. The PID narrows that to one or two degrees, which produces more consistent shot temperatures and more repeatable extraction."
+  - question: "Single-boiler vs dual-boiler for a home that mostly makes milk drinks: does it matter?"
+    answer: "Single-boiler machines require sequential brewing and steaming, which adds waiting time between pulling a shot and steaming milk. If your household produces multiple milk drinks daily, the waiting time adds friction that compounds over months. A heat exchanger or dual-boiler machine handles simultaneous brewing and steaming. The Rancilio Silvia is a single-boiler machine and is not the right choice if simultaneous brewing and steaming is a regular part of your workflow."
+  - question: "What specifications actually matter when evaluating espresso machine build quality?"
+    answer: "Boiler type and material, portafilter size and compatibility, and serviceability are the specs that determine long-term value. Iron frames and stainless steel panels outlast plastic chassis by years under identical conditions. A machine with a commercial-grade group head and durable boiler construction that can be serviced for twenty years is a fundamentally different proposition from one that cannot be repaired economically when the pump fails. The Rancilio Silvia's iron frame and the 58mm commercial-standard portafilter are the specifications that matter most."
+safety_topics:
+  - espresso-pressure
 ---
 
 Getting espresso right at home takes more than choosing a machine , it takes understanding which parts of the process actually determine what ends up in your cup. Most people learn this the hard way, after spending money in the wrong order. Whether you're buying your first setup or reconsidering an existing one, the decisions compound quickly.

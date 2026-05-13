@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are Café Bustelo K-Cup pods actually espresso?"
+    answer: "No — the pods produce espresso-style dark roast coffee, not true espresso. Genuine espresso requires around 9 bars of brewing pressure, which no Keurig machine produces. What Bustelo's K-Cup delivers is a strong, dark-roasted coffee with a bold flavor profile designed to behave like espresso in milk-based drinks. For café con leche or a latte-style drink built on dark coffee, it works well. For a technically accurate espresso shot, it does not."
+  - question: "48-count or 32-count pack of Bustelo K-Cups — which should I buy?"
+    answer: "If you have already tried Bustelo's dark roast in any format — the ground brick, the tin, a previous pod purchase — and you like the flavor, the 48-count is the better economic choice. K-Cup pods are shelf stable for months, so the quantity is not a freshness concern. If this is your first Bustelo purchase, the 32-count is a lower-commitment way to confirm the flavor profile fits before buying in larger volume."
+  - question: "Reusable K-Cup filter vs. disposable Bustelo pods — is switching worth it?"
+    answer: "For daily users, yes. A reusable filter like the Perfect Pod Cafe Save lets you load Bustelo's ground espresso directly into the capsule, which produces a comparable flavor result while reducing both pod waste and ongoing cost per cup. The trade-off is roughly ninety seconds of time and cleaning after each brew versus a sealed pod you discard. For high-volume daily use, the reusable option pays for itself quickly. For occasional or low-friction use, the disposable pods are the more practical format."
+  - question: "Is the Solimo dark roast a reasonable substitute for Bustelo pods if availability is limited?"
+    answer: "For basic dark coffee requirements, yes. Solimo dark roast pods produce a competent cup at a typically lower per-pod cost. What they lack is the Cuban-style flavor character that defines Bustelo — the specific blend balance, the sharpness, the way it behaves in a milk-based drink. If Bustelo's flavor profile is the point of the purchase, Solimo is not an equivalent substitute. If you just need dark K-Cup coffee and have no brand attachment, it is a functional fallback."
+  - question: "Do Café Bustelo K-Cup pods work with Keurig 2.0 machines?"
+    answer: "Current Bustelo K-Cup pods are standard-format and generally compatible with Keurig 2.0 brewers, but compatibility should be confirmed on the specific packaging before purchasing a large-volume order. Keurig 2.0 machines introduced DRM restrictions at launch that caused some third-party pods to fail — those restrictions have largely been addressed in current pod manufacturing, but the packaging confirmation remains the reliable check before committing to 48 pods."
 ---
 
 Café Bustelo in K-Cup form occupies a specific, honest niche: bold, dark, Cuban-style coffee in a format that takes thirty seconds and produces no mess. If that is what you are looking for, it delivers. The question worth asking before you order is which format and count make sense for your actual brewing setup , and whether adding a reusable pod to the rotation is smarter than committing to disposables. The [Espresso & Espresso Machines](/espresso/) hub has more on what genuine espresso extraction requires; this article stays focused on the K-Cup side of that world.

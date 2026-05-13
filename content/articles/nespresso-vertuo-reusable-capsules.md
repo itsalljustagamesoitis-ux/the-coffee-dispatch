@@ -49,6 +49,17 @@ products:
 tags: ["pods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "70ml vs. 230ml reusable Vertuo capsule — how do I choose the right size?"
+    answer: "Match the capsule size to how you actually use your machine. If you pull one or two espresso-sized servings in the morning, the 70ml stainless capsule is the right format. If your Vertuo primarily makes 200 to 230ml cups for a standard morning coffee, a small-capacity capsule won't extract correctly — the brew parameters won't match the dose and the result will be weak. Buying the wrong size means a bad result every time, not a fixable issue with technique."
+  - question: "Do reusable Vertuo capsules affect extraction quality compared to official Nespresso pods?"
+    answer: "They produce a different result, not necessarily a worse one — the outcome depends almost entirely on the coffee you fill them with and how consistently you dose and grind. Nespresso's barcode system sets brew parameters automatically; reusable capsules default the machine to a fixed profile instead. With a quality burr-ground coffee at the right grind setting, results are repeatable and often better than what a mediocre branded pod delivers."
+  - question: "Foil lid capsules vs. stainless capsule with silicone lid — which is more reliable?"
+    answer: "Foil lids create a single-use pressure seal per brew, similar to the original capsule closure, and produce consistent results because the seal is fresh each time. Silicone lids are reusable but wear over time and may seal less reliably as they compress. The stainless capsule with silicone lid eliminates the ongoing foil lid cost but requires monitoring lid condition as it ages. For first-time reusable users, the foil-lid kits are more forgiving."
+  - question: "Is the Nessus foil lid kit better for households that were already buying Nespresso pods?"
+    answer: "Yes, practically speaking. The Nessus Reusable Pod Kit works by refilling and resealing your existing used Nespresso pod shells, which means the capsule geometry is already machine-matched. There is no new capsule body to evaluate for fit. If you already have a stock of used pods and want to start using your own coffee without buying a separate capsule, the Nessus kit offers the lowest-friction entry point into reusable Vertuo brewing."
+  - question: "How often do I need to clean a reusable Vertuo capsule?"
+    answer: "After every use is the correct answer, though the level of cleaning required varies. A quick cold-water rinse removes most grounds. The mesh filter benefits from a brush clean every few uses to prevent oil buildup, which affects flavor over time. All products in this roundup include a brush for exactly this reason. Full disassembly for a deeper clean once a week is reasonable for daily users."
 ---
 
 Reusable capsules for Nespresso Vertuo machines exist in a small, genuinely useful niche , and also in a category crowded with nearly identical no-name products that vary more in marketing than in design. If you're looking at [Pods & Capsules](/pods/) options that let you use your own coffee instead of locking into Nespresso's subscription, the appeal is real: better sourcing control, less plastic waste, and the ability to dial in a grind and dose that suits what you're actually brewing. The tradeoff is a little more prep work per cup.

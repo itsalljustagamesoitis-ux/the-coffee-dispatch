@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Cuisinart DCC-3200 vs Mr. Coffee 14 cup — which should I buy?"
+    answer: "The Cuisinart DCC-3200 is the stronger machine for most households. The 1-4 cup small-batch setting handles partial-pot brewing without the under-extraction problem the Mr. Coffee produces in the same situation, and the PerfecTemp heating targets 200F more consistently. Mr. Coffee works well for households that run through a full pot daily and want a lower price — but if you ever brew less than a full carafe, the Cuisinart's flexibility is worth the difference."
+  - question: "Does a glass carafe keep coffee as hot as a thermal carafe?"
+    answer: "No, and the mechanism matters. A glass carafe requires a hot plate to stay warm, and holding brewed coffee above 175F for more than 30 to 45 minutes causes it to oxidize and turn bitter. A thermal carafe keeps coffee at temperature for two to three hours without a heat source, so flavor doesn't degrade. If your household drains the pot in one sitting, glass is fine — if coffee sits for an hour or more, thermal is worth paying for."
+  - question: "Is a 14 cup coffee maker the right size for a two-person household?"
+    answer: "For most two-person households, it's more capacity than you need daily. Brewing consistently less than half the basket's capacity in a machine without a small-batch setting produces weak, under-extracted coffee. The Cuisinart DCC-3200's 1-4 cup setting compensates for partial-batch brewing, which is what makes it more suitable than the Mr. Coffee option for smaller households."
+  - question: "How often does a 14 cup drip coffee maker need descaling?"
+    answer: "Monthly descaling is the practical target for most households on municipal tap water. In hard-water areas, every three weeks is more appropriate. Mineral deposits accumulate on the heating element and reduce temperature output and machine lifespan — skipping descaling doesn't immediately affect cup quality but gradually degrades performance. Commercial descaling tablets are more consistent than vinegar at removing calcium deposits."
+  - question: "Do the three Cuisinart DCC-3200 colorways brew differently from each other?"
+    answer: "No. The stainless, black, and white versions are the same machine with different exterior finishes. All three share identical components: PerfecTemp heating, programmable timer, 1-4 cup setting, brew strength control, and brew pause. Choose based on your kitchen color palette and whichever version is priced lower at purchase — there is no performance reason to prefer one over another."
 ---
 
 Most households brewing coffee for a crowd run into the same problem: a standard 10-cup machine runs dry before everyone has a second cup. A 14-cup coffee maker solves that without requiring you to brew twice , which matters on weekday mornings when nobody has the time. If you're looking at the broader [Coffee Makers](/coffee-makers/) category before committing, that's worth doing.

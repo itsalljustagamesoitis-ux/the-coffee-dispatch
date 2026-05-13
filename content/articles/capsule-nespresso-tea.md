@@ -49,6 +49,17 @@ products:
 tags: ["pods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Can you actually brew decent tea in a Nespresso OriginalLine machine?"
+    answer: "Yes, with caveats. The OriginalLine brews at around 195F, which is higher than ideal for delicate green teas and matcha — you lose some of the brighter, grassier notes and risk pushing bitterness forward. Bold teas like chai, English breakfast, and hibiscus handle the temperature more gracefully and are the most forgiving formats in this system. Expect a concentrated result rather than a nuanced cup."
+  - question: "OzPod chai vs The Republic of Tea chai latte — which is the better pod?"
+    answer: "OzPod is a spiced black tea concentrate designed to be topped with milk separately — more control over sweetness, stronger environmental credentials with fully compostable pods and Fair Trade sourcing. The Republic of Tea has a built-in latte character with dairy powder included, producing a richer, more complete single-step drink. If you want a faster morning routine, Republic of Tea. If you want more flexibility and cleaner end-of-life, OzPod."
+  - question: "Are compostable tea pods actually better for the environment than aluminum ones?"
+    answer: "Compostable pods are the better outcome only if you have access to an industrial composting facility. Home compost bins typically can't reach the temperatures needed to break down certified compostable materials within a reasonable timeframe. Recyclable aluminum is a more realistic option for most buyers — it requires using a Nespresso recycling bag or local drop-off, which is a manageable extra step. Both are better than standard plastic."
+  - question: "Variety pack or single flavor for a first tea pod purchase?"
+    answer: "Variety pack, if you don't have a strong existing preference. The 18-capsule pack in this roundup covers eight flavor profiles — hibiscus, English breakfast, peppermint, jasmine, Earl gray, green, black, and more — which is enough to identify what you'll actually drink regularly. Once you know what you want, move to a single-flavor pack for better per-cup economics."
+  - question: "Do Nespresso tea pods work in Vertuo machines?"
+    answer: "No. Every product on this list is compatible with Nespresso OriginalLine only. Vertuo machines use a barcode-based brewing system with a larger capsule geometry that is incompatible with OriginalLine pods. If you own a Vertuo, none of these capsules will fit. Check which system you own before ordering — the machine name usually makes it clear."
 ---
 
 Most Nespresso machines spend their days pulling espresso. The tea options available through the [Pods & Capsules](/pods/) category have expanded quietly, and if you already own an OriginalLine machine, using it for tea is a reasonable move , one less appliance, one familiar workflow. The question is which capsules are actually worth buying.

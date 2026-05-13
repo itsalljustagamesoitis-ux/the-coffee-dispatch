@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do I actually need a gooseneck kettle for pour over, or can I use a regular kettle?"
+    answer: "Technically you can use a regular kettle, but the lack of a gooseneck makes even saturation during the bloom extremely difficult and precise circular pours nearly impossible. The gooseneck spout is the piece of equipment that makes pour over technique executable rather than aspirational. It is not expensive, and the difference in extraction consistency from controlled pouring is immediate and obvious from the first brew."
+  - question: "Electric gooseneck kettle vs. stovetop with thermometer — which is better for a beginner?"
+    answer: "The COSORI Electric Gooseneck Kettle removes the temperature management variable entirely, which makes early pour over sessions less complicated. For someone learning technique, eliminating one variable is genuinely useful — you can focus on grind size and pour pattern without also monitoring water temperature on a stove. Once you are comfortable with the method, stovetop kettles with integrated thermometers are an equally valid and lower-cost choice."
+  - question: "What water temperature should I use for pour over coffee, and does it matter?"
+    answer: "Water temperature for pour over should sit between 195 and 205 degrees Fahrenheit for most specialty coffees. Boiling and immediately pouring is slightly too hot for lighter roasts. For medium and dark roasts, letting water rest a minute off the boil is close enough. Temperature precision matters more for light roasts where extraction is more sensitive — hitting 195 to 200 degrees consistently improves the cup noticeably with those coffees."
+  - question: "What capacity gooseneck kettle do I need for home pour over?"
+    answer: "For a single V60 or similar small dripper, 12 to 16 oz of water is enough per brew, but a kettle holding only that amount leaves no margin for technique. Most experienced brewers recommend at least 27 to 32 oz so you are not rushing the pour or worrying about running dry mid-brew. If you use a Chemex or brew for two people regularly, a 40 oz kettle is the practical floor."
+  - question: "Is there any real difference between the two 40 oz stovetop options on this list?"
+    answer: "The silver Gooseneck Kettle for Manual Drip Coffee and Tea and the black Tea Kettle with Thermometer Pot are functionally equivalent — same capacity, same integrated dial thermometer, same gooseneck geometry. The choice is entirely finish and kitchen aesthetics. The black version shows water spots and fingerprints more readily than brushed stainless. If you are deciding between them, pick the one that fits the rest of your setup."
 ---
 
 Getting the pour rate right is the difference between a flat, bitter cup and something worth drinking slowly. A gooseneck kettle , the long, curved spout that looks unnecessarily precious until you've actually used one , gives you that control. If you've browsed the [Brewing Methods](/brewing-methods/) options and landed on pour-over as your method of choice, the kettle is the one piece of equipment that determines whether the technique actually works.

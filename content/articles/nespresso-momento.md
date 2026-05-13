@@ -49,6 +49,17 @@ products:
 tags: ["pods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Can I use Vertuo capsules in an Original Line machine?"
+    answer: "No — the two systems are physically and mechanically incompatible. Vertuo capsules are dome-shaped and designed for a centrifugal brewing system that reads a barcode on the capsule rim. Original Line machines use a pump-pressure system and accept flat-bottomed cylindrical pods. Attempting to force the wrong format risks damaging the machine and will not produce coffee."
+  - question: "What is the difference between Melozio and Intenso?"
+    answer: "Melozio is a medium roast at intensity 6 — balanced, clean, and approachable for a wide range of palates. Intenso is a dark roast at intensity 8, fuller-bodied with more bitterness and a heavier finish. Both brew at the same 7.8 oz volume. The choice is about roast character, not caffeine — Intenso is not meaningfully stronger in caffeine terms."
+  - question: "Should I buy a 30-count or 50-count box of Nespresso Vertuo capsules?"
+    answer: "Buy the 30-count first if you haven't used that specific blend before. Once you've confirmed the roast profile works for your daily routine, the 50-count format reduces per-capsule cost and the frequency of reordering. The Morning Lungo Variety Pack in 50-count is the exception — its range of roast levels makes the larger pack more practical for households with varied preferences."
+  - question: "Is the Orafio a good first Nespresso Vertuo pod for someone new to the system?"
+    answer: "Orafio's lighter, brighter profile is well-suited to specialty coffee drinkers who already know they prefer acidity over body. For someone new to the Vertuo system, the Variety Pack is the more practical starting point — it lets you compare medium and dark roasts before committing to a flavor direction. Orafio is a second or third purchase once your baseline preference is established."
+  - question: "Does refrigerating Nespresso capsules help keep them fresh?"
+    answer: "No — the article specifically advises against refrigerating capsules. The condensation risk when moving from cold storage to room temperature is real, and moisture compromises the foil seal faster than ambient humidity will. Store capsules in a cool, dry location away from direct light. The nitrogen-flushed, hermetically sealed format already gives them a shelf life that typically extends well over a year from production."
 ---
 
 Nespresso's Momento line sits at an odd crossroads , it's marketed toward office environments, but the capsules themselves are exactly what home Vertuo and Original Line users are already buying. If you've landed here searching for the right pods to run through your machine, you're in the right place. The [Pods & Capsules](/pods/) hub covers the full landscape; this article narrows things down to five specific options worth considering.

@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Gaggia Classic vs Rancilio Silvia: which is the better beginner espresso machine?"
+    answer: "Both are legitimate starting points. The Rancilio Silvia is built more substantially and the steam wand is better out of the box. The Gaggia Classic has a larger and more active modification community, which makes the PID and OPV adjustments easier to find support for. Neither is significantly easier to learn on than the other. The deciding factor is usually which modification community you want access to and whether the Silvia's heavier build justifies its higher price for your use case."
+  - question: "Do I need a PID controller on my espresso machine?"
+    answer: "Not strictly, but it removes a meaningful source of shot-to-shot inconsistency. Without a PID, you rely on timing and thermal habits to pull at the right temperature, which is learnable but adds a variable. For beginners especially, reducing that variable means the feedback from each shot is cleaner and easier to act on. Both the Gaggia Classic and Rancilio Silvia can be modified with an aftermarket PID if the stock machine does not include one."
+  - question: "What does adjustable OPV mean and why does it matter for lighter roasts?"
+    answer: "OPV stands for over-pressure valve, which sets the maximum pressure delivered to the group head during extraction. Most entry-level machines ship with the OPV set higher than the nine bars standard for espresso. Adjusting it down is particularly relevant for lighter roasts, which can extract better at lower pressures and tend to channel more under excessive pressure. The Diletta Alto includes an adjustable OPV as a standard feature."
+  - question: "Is a dual-boiler espresso machine worth it for home use?"
+    answer: "For most home users making one or two drinks at a time, the answer is probably not yet. The workflow advantage of simultaneous brewing and steaming matters when volume demands it, and a single-boiler machine with good thermal management handles the typical home morning routine without meaningful friction. The Diletta Alto makes sense for someone already comfortable with espresso extraction who needs additional capacity and independent temperature control, not as a first machine."
+  - question: "Why does the grinder matter more than the espresso machine itself?"
+    answer: "Grind consistency determines extraction evenness more than any machine feature beyond a basic quality floor. A well-set-up Gaggia Classic with a capable burr grinder will produce better espresso than a premium machine paired with a blade grinder or cheap burr unit. The machine's job is to deliver hot water at the right pressure and temperature. The grinder's job is to give it something worth extracting. If budget is limited, the grinder gets at least as much as the machine, ideally more."
 ---
 
 ECM espresso machines sit at the more serious end of the home espresso spectrum , the kind of equipment you buy when you've decided this matters. The [Espresso & Espresso Machines](/espresso/) category covers a wide range, from beginner single-boilers to full dual-boiler setups with every control variable exposed, and the right choice depends heavily on where you are in the learning curve.

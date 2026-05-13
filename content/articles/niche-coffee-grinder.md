@@ -49,6 +49,19 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Baratza Encore ESP vs. Fellow Ode Gen 2 — which should I buy for home use?"
+    answer: "These grinders are built for different primary use cases. The Fellow Ode Gen 2 is a filter-only grinder — excellent for pour over, French press, and batch brewing, but not suited to espresso. The Baratza Encore ESP is tuned for espresso first, with filter capability as a secondary function. The decision starts with identifying which brew method you use most. If espresso is in the picture at all, the Ode Gen 2 is the wrong choice regardless of how well it performs at filter."
+  - question: "Does single-dose grinding make a real difference, or is it a premium feature I don't need?"
+    answer: "Single-dose grinding matters most if you rotate between different coffees, experiment with recipes, or want to minimize waste. For a household pulling the same espresso recipe from one bag of beans, a hopper grinder with manageable retention is perfectly adequate. The single-dose workflow requires weighing beans before each grind — it adds a step that only pays off if the precision matters to you."
+  - question: "Flat burrs vs. conical burrs — which is better for home espresso?"
+    answer: "Flat burrs use two parallel rings that produce a narrower particle size distribution — more uniformity — and appear in most commercial espresso equipment. Conical burrs use an inner cone inside an outer ring, run cooler, retain less, and are generally more forgiving across brew methods. For espresso, both can work well. What matters most is that either type produces categorically better results than a blade grinder, which does not use burrs at all and makes predictable extraction impossible."
+  - question: "Are the two Viesimple Gen 4 models actually different, or just different colors?"
+    answer: "Mechanically identical — same burr set, same motor, same magnetic dosing cup mechanism. The distinction is cosmetic only. The silver finish tends to show fingerprints less on some surfaces and may better match brushed stainless equipment setups, but there is no functional basis for preferring one over the other."
+  - question: "How important is grind retention, and which grinders in this roundup have low retention?"
+    answer: "Retention is how much ground coffee stays inside the grinder after you finish grinding. High retention means stale grounds from a previous session mix into your fresh batch, which matters considerably if you switch between roasts or dial in a new bag. The Viesimple Gen 4, the AMZCHEF, and the Nessus kit-style capsule approach are all designed around single-dose loading and low retention. The Baratza Encore ESP is hopper-based, so plan on purging a few grams when switching coffees."
+safety_topics:
+  - electric-grinder
 ---
 
 Choosing a home coffee grinder means wading through a lot of noise , blade grinders dressed up as burr grinders, spec sheets that lead with motor wattage instead of grind consistency, and marketing copy that treats "anti-static" as though it were a revolutionary achievement. The [Coffee Grinders](/grinders/) category has genuinely useful options at multiple price points, but the differences between them matter more than most buyers realize before they've pulled their first espresso shot.

@@ -49,6 +49,17 @@ products:
 tags: ["accessories", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are Jura milk containers compatible with all Jura espresso machines?"
+    answer: "No. Jura accessories are designed for specific machine families and compatibility is not universal across the product line. The CX3 spout, for example, fits Jura one-touch fully automatic machines but not every model in the range. Always verify any accessory against your machine's model number — the manual or Jura's compatibility reference on their website is the most reliable check before purchasing."
+  - question: "How often should the Jura CX3 milk spout be replaced?"
+    answer: "Under daily use — two or more milk drinks per day — replacing the spout every four to six weeks is a reasonable interval. Automated rinse cycles reduce residue but don't eliminate milk protein buildup in the bore over time. The CX3 ten-pack is sized for roughly a year's supply at that cadence, making the recurring cost predictable to plan for."
+  - question: "Glass vs. plastic Jura milk container — is the fragility trade-off worth it?"
+    answer: "For daily use, glass is worth the handling care it requires. It doesn't absorb odors, doesn't cloud over time, and lets you see the fill level without removing the lid — all of which compound positively over months of use. Plastic containers degrade in ways that matter over a year or two of daily use. If the choice is between a glass Jura-original container and a plastic alternative, the glass is the better long-term investment."
+  - question: "Integrated Jura container vs. standalone electric frother — which is better for a milk-heavy drink routine?"
+    answer: "An integrated Jura container enables one-touch operation: milk goes in, the button gets pressed, the machine handles temperature and frothing automatically. A standalone electric frother like the 500ml unit in this guide froths separately and requires a parallel workflow. For a household making multiple lattes or flat whites daily, the integrated setup is the cleaner solution. For occasional milk use or households where the Jura doesn't support a native container, the standalone frother adds flexibility."
+  - question: "Does the Jura Fine Foam Frother Add-On produce microfoam suitable for flat whites?"
+    answer: "The Fine Foam Frother Add-On modifies the milk circuit of compatible Jura machines to produce finer, more velvety foam closer to microfoam quality. It requires an adjustment period — milk temperature, fat content, and starting milk temperature all affect results. Full-cream milk from the fridge produces consistently better microfoam than lower-fat alternatives. Compatibility verification before purchase is essential; the add-on is not universally compatible across all Jura machines."
 ---
 
 Milk quality makes or breaks a latte, and a Jura machine is only as good as the frothing setup you pair it with. The range of [Accessories & Setup](/accessories/) options for Jura owners is broader than most realize , glass containers, replacement spouts, fine-foam add-ons, and standalone frothers each solve a different problem. Choosing the wrong one wastes money and creates friction in a workflow that should be effortless.

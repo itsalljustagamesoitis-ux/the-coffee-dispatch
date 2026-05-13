@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Breville Barista Express vs Nuova Simonelli Oscar II — which is actually better for home use?"
+    answer: "They target different buyers and shouldn't compete on the same terms. The Barista Express is the right choice if you want an integrated grinder, a lower barrier to entry, and a machine that manages workflow variables for you. The Oscar II is for a buyer who wants heat-exchanger architecture, commercial-grade build quality, and is ready to manage lever operation and a separate grinder. The Oscar II has more ceiling; the Barista Express has less friction at the start."
+  - question: "What does the 20 bar pressure rating actually mean on budget espresso machines?"
+    answer: "It refers to the pump's maximum rated pressure, not the extraction pressure at the puck. Espresso extracts optimally at 8 to 9 bar at the group head. Machines rated to 20 bar use an over-pressure valve to bleed down to working pressure — or they don't, and the extraction is blown out. Whether the OPV is factory-set correctly is what actually matters, and unknown-brand listings that lead with 20 bar without documenting their OPV settings are not being transparent about something that directly affects every shot."
+  - question: "Does grinder quality matter more than the espresso machine itself?"
+    answer: "Yes, beyond a baseline of machine competence. The grinder determines grind consistency, and grind consistency determines extraction quality. A mediocre grinder paired with a capable machine will consistently underperform the reverse combination. Spending the majority of a combined budget on the machine and treating the grinder as secondary is the most common expensive mistake in home espresso — this article makes that point directly and it holds at every price tier."
+  - question: "What is the difference between a single boiler and a heat exchanger machine for home espresso?"
+    answer: "Single boiler machines require a temperature-cycling step between brewing and steaming — you pull the shot, wait for the boiler to climb to steam temperature, then texture the milk. For one drink at a time that rhythm is manageable, but it slows significantly for back-to-back drinks. Heat exchanger machines like the Nuova Simonelli Oscar II maintain separate temperatures simultaneously from a single boiler, allowing you to brew and steam concurrently the way a commercial workflow actually operates."
+  - question: "Is a panarello steam wand a problem for learning milk texturing?"
+    answer: "It's a ceiling, not a starting point. A panarello attachment introduces air through a fixed mechanism and produces stiff, large-bubble foam adequate for basic cappuccinos but useless for microfoam or latte art. Every skill developed on a panarello has to be unlearned on a proper wand. The Breville Barista Express and the Nuova Simonelli Oscar II both use proper single-hole steam wands — this is one of the clearest differentiators between machines that support skill development and those that don't."
+safety_topics:
+  - espresso-pressure
 ---
 
 Finding a 2 group espresso machine that actually earns its counter space takes more than reading spec sheets. Most listings conflate bar pressure ratings with extraction quality, bundle in grinders of questionable consistency, and describe every machine as "professional." The [espresso machine category](/espresso/) rewards patience and a clear-eyed view of what matters , and penalises buyers who optimise for the wrong thing first.

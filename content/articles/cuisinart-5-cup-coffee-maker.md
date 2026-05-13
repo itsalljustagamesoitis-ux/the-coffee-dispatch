@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is a five-cup coffee maker actually enough for two people?"
+    answer: "It depends on how much each person drinks and what size cups they use. Five cups in drip-maker terms is typically five five-ounce cups — closer to two large mugs and one small one than five full servings. Two moderate drinkers can work with a five-cup machine, but heavy coffee drinkers will find themselves running a second brew cycle most mornings. If that sounds like your situation, size up to a ten-cup machine."
+  - question: "Stainless steel carafe vs. glass carafe — which actually matters for coffee quality?"
+    answer: "The carafe material is the most consequential spec on a five-cup machine. Stainless steel carafes maintain temperature without a heating element beneath them, so coffee doesn't continue oxidizing and turning bitter while sitting. Glass carafes rely on a keep-warm plate, which continues applying heat after brewing — the opposite of what you want. For anyone who pours a second cup more than fifteen to twenty minutes after brewing, the stainless carafe produces a measurably better result."
+  - question: "Cuisinart DCC-5570NAS vs. Cuisinart Soho — which one should I choose?"
+    answer: "The DCC-5570NAS includes a stainless steel carafe, a removable water reservoir, and a charcoal water filter — the combination that matters most for daily cup quality and long-term usability. The Cuisinart Soho uses a glass carafe and emphasizes aesthetics with its Truffle finish. If you reliably finish the pot in one sitting and care about counter appearance, the Soho is a reasonable pick. If you pour a second cup later or want the best thermal retention, the DCC-5570NAS is the stronger machine."
+  - question: "Do I need a charcoal water filter in a coffee maker?"
+    answer: "Not universally, but it's worth having if your tap water is chlorinated or carries detectable off-flavors. Chlorine and mineral content affect brewed coffee taste more than most buyers expect — it's one reason the same beans taste noticeably different in different kitchens. The Cuisinart DCC-5570NAS includes a charcoal filter at the reservoir level, which is the most effective placement. If your tap water is already filtered, it's less critical."
+  - question: "How often does a five-cup drip coffee maker need descaling?"
+    answer: "In a hard-water area, every two to three months is a reasonable interval. In softer water, every four to six months is more typical. The signal is a longer brew cycle or weaker-than-expected coffee — both indicate calcium buildup on the heating element. Running a descaling solution or diluted white vinegar through a full cycle, followed by one or two plain water cycles, is sufficient. Machines with removable reservoirs like the DCC-5570NAS make this noticeably less awkward."
 ---
 
 A five-cup coffee maker occupies a specific, practical niche , enough for one or two regular drinkers, small enough to suit a compact kitchen or a desk corner. The question most buyers face isn't whether a machine in this category will brew decent coffee. They mostly will. The question is which one is actually worth keeping for more than a year. I've spent time with machines across this range, and the differences that matter are rarely the ones listed first in the spec sheet.

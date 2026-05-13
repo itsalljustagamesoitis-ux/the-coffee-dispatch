@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "RTD decaf cold brew vs. brew bags — which format makes more sense for daily use?"
+    answer: "For daily consumption, brew bags from Grady's or Bizzy produce better value per serving and more control over the extraction. RTD cartons from Wandering Bear are genuinely more expensive per ounce, but require zero setup or patience. The right answer depends on frequency: at a few cups per week, the cost difference between RTD and brew bags is small enough to ignore. At daily consumption, brew bags or concentrate will cost meaningfully less over a month."
+  - question: "Is cold brew decaf actually caffeine-free?"
+    answer: "Decaf retains a small percentage of the original caffeine — typically around 97% is removed by regulation standards. For most people, the residual amount is negligible. If you're highly sensitive to caffeine or managing a medical condition where even trace amounts matter, check whether the specific product specifies its decaffeination method; Swiss Water Process products generally test at very low residual caffeine levels."
+  - question: "Swiss Water Process vs. solvent-based decaffeination — does it matter for cold brew?"
+    answer: "Yes, particularly because cold brew's extended steep time gives any hollow flavors from poor decaffeination plenty of time to develop. Swiss Water Process is a chemical-free method that preserves more of the coffee's natural character; solvent-based methods can leave a flatness that cold extraction amplifies rather than masks. If the label doesn't specify the decaffeination method, that absence is itself worth noting."
+  - question: "Wandering Bear 32 oz three-pack vs. 96 oz On Tap — which should I choose?"
+    answer: "The coffee is the same in both formats — same no-sugar-added, shelf-stable Wandering Bear Decaf. The 96 oz On Tap suits households that drink cold brew regularly and want a continuous supply without opening individual cartons every few days. The 32 oz three-pack makes more sense for occasional drinkers or those who prefer smaller, fresher portions they'll finish quickly. Once tapped, the 96 oz format commits you to working through nearly a hundred ounces before freshness degrades."
+  - question: "Can I adjust the strength of the Java House cold brew decaf concentrate?"
+    answer: "Yes — that's the central argument for the concentrate format. Java House uses a 4:1 ratio as a baseline, but you can adjust freely in either direction: more concentrate for a stronger cup, more water for a milder one. Neither RTD cartons nor brew bags offer this post-brew flexibility, which makes concentrate the right choice for households where people have different strength preferences or want to use it both straight and mixed with milk."
 ---
 
 Cold brew decaf sits at an odd crossroads: you want the low-acid, slow-extracted character that makes cold brew worth drinking, and you want none of the caffeine. The category has gotten more interesting lately, with a wider range of formats , ready-to-drink bottles, concentrate, and brew bags , competing for the same shelf space. A quick look at the [Coffee Beans & Roasts](/beans/) landscape shows how much the decaf side of cold brew has matured.

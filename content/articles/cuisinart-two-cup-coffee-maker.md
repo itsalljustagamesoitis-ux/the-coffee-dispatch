@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Cuisinart DCC-5570NAS vs Cuisinart Soho: which is better for two people?"
+    answer: "The DCC-5570NAS includes a stainless steel thermal carafe that keeps coffee drinkable for up to two hours without a hot plate. The Soho uses a glass carafe with an active keep-warm element that starts degrading coffee quality within twenty minutes. For two people who don't both drink immediately after brewing, the thermal carafe is the more practical choice. The Soho's Truffle finish is its real differentiator, not its functional spec."
+  - question: "Is the Cuisinart DGB-2 integrated grinder worth it over a separate grinder and brewer?"
+    answer: "The DGB-2's integrated burr grinder produces a workable grind but won't match a standalone burr grinder at the same cost. It earns its place if you genuinely want one appliance on the counter and are willing to accept a grind quality ceiling in exchange for that convenience. If cup quality is the priority, pairing a separate burr grinder with the DCC-5570NAS is the better investment."
+  - question: "Can the Cuisinart SS-10P1 pod machine also brew ground coffee?"
+    answer: "The SS-10P1 is designed for pod-based brewing and is not primarily intended for ground coffee. Some pod machines accept a reusable filter adapter for loose grounds, but the SS-10P1's design intent is pod compatibility. If you want to brew from ground coffee regularly, the DCC-5570NAS or the DGB-2 are better-suited and won't require workarounds."
+  - question: "Thermal carafe vs glass carafe: does it actually matter on a 5-cup machine?"
+    answer: "At five-cup capacity it matters more than on a full-size twelve-cup machine. A twelve-cup batch gets drained quickly enough that hot-plate degradation rarely becomes an issue. A five-cup machine can have two cups sitting on a warm plate for thirty to sixty minutes, and that's when flavor degrades noticeably. The DCC-5570NAS solves this with a stainless thermal carafe; the KRUPS Simply Brew and the Soho do not."
+  - question: "How often do compact drip machines like these need descaling?"
+    answer: "Every one to three months depending on your water hardness, with harder water requiring more frequent cycles. Machines with charcoal water filtration, like the DCC-5570NAS, slow mineral buildup and can extend that interval. Beyond descaling, the filter basket and carafe need washing after each use, and removable water reservoirs should be rinsed weekly."
 ---
 
 Choosing a small-batch coffee maker sounds straightforward until you're staring at five options that all claim to solve the same problem differently. Some prioritize convenience, some prioritize freshness, and a few try to do both at once. The [Coffee Makers](/coffee-makers/) category has expanded enough that the distinctions between models genuinely matter , and getting this wrong means a countertop appliance you tolerate rather than use.

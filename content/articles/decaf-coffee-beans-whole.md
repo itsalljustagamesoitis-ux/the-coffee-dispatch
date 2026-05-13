@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Swiss Water Process vs solvent decaffeination: does it actually change the taste?"
+    answer: "Swiss Water Process consistently produces better-tasting decaf than solvent-based methods. It removes caffeine through osmosis without chemical solvents, leaving flavor compounds cleaner and more intact. The difference is most noticeable in medium roasts where origin character is supposed to show. In dark roasts, the roast itself masks the distinction, so the decaffeination method matters less."
+  - question: "How quickly do decaf whole beans go stale after opening?"
+    answer: "Expect a practical freshness window of four to five weeks after opening when stored in an airtight container. The decaffeination process makes the beans more porous and oxidation-prone than caffeinated beans, so they stale faster. Buying smaller bags more frequently, like the twelve-ounce Amazon Fresh Decaf Colombia, is a more honest approach than buying two pounds and stretching it across two months."
+  - question: "Can I use decaf whole beans for espresso, and does it extract the same way?"
+    answer: "Yes, with the same dialing-in process required as regular espresso. The challenge is that decaf beans behave slightly differently under pressure because the decaffeination process alters the cell structure. Medium-dark roasts like the San Francisco Bay Decaf Gourmet Blend tend to pull more consistently than very light or very dark options. Expect to spend a few shots finding the right grind setting."
+  - question: "Decaf French Roast vs Decaf Gourmet Blend from San Francisco Bay: which should I choose?"
+    answer: "The French Roast is a dark, smoky profile suited to French press and drip brewing where boldness is the point. The Gourmet Blend is a medium-dark roast, more versatile across brew methods and slightly more complex in the mid-palate. Both use Swiss Water Process. The Gourmet Blend is the better starting point if you're undecided or want one bag that works across multiple methods."
+  - question: "Is organic certification worth paying for in decaf whole bean coffee?"
+    answer: "For decaf specifically, organic certification does something extra beyond general sourcing standards. It confirms the decaffeination process was solvent-free, since synthetic solvents are incompatible with organic status. So buying organic decaf effectively guarantees Swiss Water or CO2 processing without having to cross-check that separately. Lifeboost Medium Roast Swiss Water Decaf is the organic option in this lineup."
 ---
 
 Decaf whole bean coffee has a reputation problem , and most of it is deserved by the products that earned it, not the category itself. The right decaf, processed carefully and roasted well, drinks closer to the real thing than most people expect. The [Coffee Beans & Roasts](/beans/) category has expanded significantly in recent years, and decaf options have followed.

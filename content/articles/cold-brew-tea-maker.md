@@ -49,6 +49,17 @@ products:
 tags: ["cold-brew", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Can I use the same cold brew maker for both coffee and tea?"
+    answer: "Most cold brew pitchers handle both without modification. The main consideration is cleaning between uses — coffee oils are persistent and will affect tea flavor if residue remains in the filter or pitcher walls. A thorough scrub with dish soap and a bottle brush between brew types is sufficient. Dedicated tea makers like the Hario Mizudashi are designed with tea steeping geometry in mind, but any fine-mesh filter pitcher handles both competently."
+  - question: "Glass vs. BPA-free plastic for cold brew tea — which is the better choice?"
+    answer: "Both work well when made from quality materials. Glass shows brew progress visually, holds zero flavor memory between uses, and sits more cleanly on a fridge shelf. BPA-free Tritan plastic is shatter-resistant and lighter at larger capacities — a real advantage in busy kitchens. The Takeya Deluxe uses Tritan effectively; the Takeya Glass uses borosilicate at two-quart scale. Neither material meaningfully affects flavor."
+  - question: "How long should I steep cold brew tea?"
+    answer: "Most teas perform best with a cold steep of six to twelve hours. Green and white teas err toward the shorter end — six to eight hours — since longer cold steeps can develop astringency even without hot water. Black teas and herbal blends tolerate twelve hours well. Unlike hot-brew methods, cold brew is forgiving of minor over-steeping; the flavor shifts gradually rather than turning sharply bitter."
+  - question: "How much loose leaf tea should I use per batch?"
+    answer: "A standard ratio is one tablespoon of loose leaf tea per eight ounces of cold water. Cold brew extraction is gentler than hot steeping, which means under-measuring is the more common mistake. If your first batch tastes thin, increase the leaf quantity rather than extending steep time past twelve hours. Most filter cylinders in this category accommodate up to three or four tablespoons without packing the mesh too tightly."
+  - question: "Does cold brew tea actually taste different from iced hot-brewed tea?"
+    answer: "It does — and the difference is more pronounced with green and white teas than black. Cold extraction draws out fewer bitter compounds and tannins than hot water, producing a smoother, lighter-bodied cup. Iced hot-brewed tea tends to be sharper and more tannic, particularly if the hot brew was steeped at high temperature. Cold brew green tea in particular has a clarity and sweetness that's difficult to replicate by cooling a hot steep."
 ---
 
 Cold brew tea is a slower game than espresso , there's no pressure, no temperature to dial in, just time and water doing most of the work. For anyone already exploring [Cold Brew & Iced Coffee](/cold-brew/) methods at home, adding tea to the rotation is a natural next step, and the equipment overlap is bigger than most people expect. The main variable is finding a brewer that handles both jobs without compromising either.

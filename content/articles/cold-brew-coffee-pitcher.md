@@ -35,6 +35,17 @@ products:
 tags: ["cold-brew", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Cold brew pitcher with integrated filter vs. plain storage pitcher — which do I need?"
+    answer: "If you're starting from scratch, an integrated filter pitcher like the Cold Brew Coffee Maker Pitcher handles the full workflow — add coffee, add water, steep, pour — in one vessel. If you already have a brewing method you trust, a plain glass storage pitcher like the 64oz glass jar with handle is the cleaner choice: no filter to maintain, just airtight storage for concentrate you've already strained. Buying an integrated filter pitcher and ignoring the filter wastes money."
+  - question: "Is a 64oz cold brew pitcher too large for one person?"
+    answer: "For most solo drinkers, 64oz is on the large side unless you drink two or more servings per day. Cold brew is best consumed within five to seven days for peak quality, so a 64oz batch means committing to finishing it before it fades. The 34oz OVALWARE RJ3 suits one person more naturally, with a batch frequency of every two to three days. The 64oz pitchers make more sense as household vessels or for people who drink cold brew heavily."
+  - question: "How long does cold brew stay fresh in one of these pitchers?"
+    answer: "With an airtight seal and clean glass, cold brew concentrate stored properly stays fresh for up to two weeks in the fridge, though quality is noticeably better in the first five to seven days. The seal quality is the controlling variable — a pitcher that doesn't seal fully allows oxidation and fridge odor transfer, both of which degrade the flavor faster. The OVALWARE RJ3 has a well-engineered lid mechanism specifically designed for airtight performance."
+  - question: "Does the stainless steel filter mesh quality actually matter between pitchers?"
+    answer: "Yes. Fine mesh produces a cleaner, clearer concentrate; coarser mesh lets more sediment through, which continues extracting in the fridge and can turn the concentrate progressively more bitter over days. The more important question is whether the filter is removable and fully cleanable — coffee oil accumulation in mesh over months of use affects every subsequent batch's flavor, and a filter you can't properly scrub is a design flaw that shows up around month three."
+  - question: "Glass vs. plastic for a cold brew pitcher — does material matter?"
+    answer: "Glass is the right material for cold brew storage. It's chemically inert, doesn't absorb coffee oils or odors between batches, and can be cleaned thoroughly enough that the fifteenth batch tastes as clean as the first. Plastic cold brew vessels tend to develop a staleness after several months of regular use as coffee oils accumulate in ways that thorough cleaning doesn't fully resolve. The fragility trade-off is real, but for home refrigerator use it's manageable."
 ---
 
 Cold brew rewards patience and a decent vessel , that's most of the equation. The pitcher you choose affects how easy it is to steep, strain, pour, and store without making a mess of the process. For a category this simple, there's a surprising range of how well these things actually work. Exploring your options across the [Cold Brew & Iced Coffee](/cold-brew/) landscape before committing is worth the ten minutes it takes.

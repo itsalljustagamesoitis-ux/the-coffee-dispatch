@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "CHULUX slim espresso machine vs manual lever machine: which is better for daily home use?"
+    answer: "They are different tools. The CHULUX is more forgiving day to day: press a button, pull a shot, done. The manual lever machine requires active technique for every pull, including pressure control, pre-infusion timing, and extraction duration. For a buyer who wants reliable espresso as a morning routine without daily attention, the CHULUX is less demanding. For a buyer who wants to engage with espresso as a practice and values pressure profiling that pump machines cannot replicate, the lever machine offers more."
+  - question: "Can a portable battery-powered espresso machine replace a countertop machine at home?"
+    answer: "Practically, no. Battery-powered portables face real constraints: smaller reservoirs, less consistent pressure delivery, and limited consecutive brew capacity before recharging. At home with access to mains power, a countertop machine produces more consistent espresso with less management. The portable earns its place in travel and camping contexts where a countertop machine cannot go. Buying a portable as a home machine to save counter space usually results in dissatisfaction with extraction quality within a few weeks."
+  - question: "What does a puck screen do and do I need one?"
+    answer: "A puck screen sits on top of the coffee puck inside the portafilter basket and promotes even water distribution across the puck surface before and during extraction. This reduces channeling, where water finds a path of least resistance through the coffee bed rather than extracting evenly. The MHW-3BOMBER puck screen at 0.2mm adds negligible stack height and is reusable. If your shots taste uneven or you see visible bypass around the puck, a puck screen is a low-cost fix worth trying before adjusting grind or dose."
+  - question: "Is the KYONANO knock box big enough for daily home espresso use?"
+    answer: "For a single-machine home setup running two to four shots daily, yes. The capacity handles a standard day of home espresso before needing to be emptied. For households with multiple espresso drinkers or anyone running five or more shots per session, the compact size means more frequent emptying. The durable knock bar and non-slip base hold up well under regular use, which matters more than capacity for most home scenarios."
+  - question: "What bar pressure do I actually need for espresso extraction?"
+    answer: "Nine bars at the brew head during extraction is the standard target, not the peak pump rating advertised on the machine. A machine that claims 20 bars uses an over-pressure valve to reduce working pressure to the usable range. What determines extraction quality is consistent pressure delivery through the shot, not the peak the pump can momentarily reach. When evaluating machines, focus on reported extraction consistency from actual users rather than the bar number in the product title."
+safety_topics:
+  - espresso-pressure
 ---
 
 Green espresso machines have moved from novelty to a genuine category , there are enough options now that choosing one requires the same scrutiny you'd apply to any equipment purchase. Whether the color is the primary draw or incidental to a broader search, what matters is whether the machine behind the finish is worth owning. The [Espresso & Espresso Machines](/espresso/) hub is a useful starting point for understanding the full landscape before narrowing down.

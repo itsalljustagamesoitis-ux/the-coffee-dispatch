@@ -42,6 +42,17 @@ products:
 tags: ["pods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are compostable Nespresso pods actually home-compostable or only industrial?"
+    answer: "Most compostable Nespresso-compatible pods are certified for industrial composting, not home composting. Industrial certification means they require the sustained high temperatures of a commercial facility — conditions a backyard pile can't reliably replicate. Always verify the specific standard before purchasing. Marketing language without a named certification body like BPI or the EN 13432 seedling logo isn't a reliable claim."
+  - question: "Aluminum pods with recycling program vs. compostable pods — which has lower environmental impact?"
+    answer: "It depends entirely on your local infrastructure. Aluminum pods are fully recyclable through Nespresso's collection program but not compostable. Compostable pods require certified composting access to fulfill their environmental claim — they're meaningfully better only when the composting destination is real. Neither option is better than the other in a landfill. Match the format to whichever waste stream you can actually access consistently."
+  - question: "Will compostable third-party pods damage my Nespresso machine?"
+    answer: "Third-party pods compatible with Original Line machines are designed to the same capsule geometry as Nespresso's own capsules and should not cause mechanical damage. The material difference between aluminum and bioplastic can occasionally affect puncturing and sealing behavior, but this is generally a quality-control issue on poorly made pods rather than an inherent risk. Using pods with confirmed Original Line compatibility minimizes the risk of poor fit or extraction failure."
+  - question: "How do I know if my Nespresso machine is Original Line or Vertuo?"
+    answer: "Original Line machines include the Essenza, Citiz, Pixie, Inissia, U, Lattissima, and Creatista ranges. Vertuo machines are explicitly named \"Vertuo\" or \"VertuoPlus\" in the model name. If your machine uses the traditional small oval capsule without a barcode rim around the edge, it's Original Line. Nearly all third-party compostable pods are made exclusively for Original Line machines — Vertuo users have very limited third-party options."
+  - question: "Is USDA Organic certification meaningful for pod coffee quality?"
+    answer: "USDA Organic certification guarantees the coffee was grown without synthetic pesticides or fertilizers and processed without certain chemical treatments — it's a real and audited standard, not marketing language. What it does not guarantee is roast quality, freshness, or whether the grind spec suits Nespresso's extraction profile. For buyers prioritizing pesticide-free sourcing, the certification is worth seeking; both G Grana Coffee Pods and the Organic USDA Café Romano Coffee carry it legitimately."
 ---
 
 Compostable Nespresso pods sit in an awkward middle ground: they solve a real environmental problem, but only if the composting infrastructure exists to back them up. Most buyers don't realize that "compostable" on packaging can mean home-compostable, industrially compostable, or something in between , and that distinction matters more than the label. The [Pods & Capsules](/pods/) category has expanded fast, and sorting legitimate options from greenwashed ones takes more than reading the front of the box.

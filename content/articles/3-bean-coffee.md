@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What makes a three-bean coffee blend better than a single-origin coffee?"
+    answer: "A well-constructed three-bean blend can achieve balance across multiple dimensions simultaneously — a roaster might combine a Colombian base for body and sweetness, a Central American bean for brightness, and an East African origin for fruit-forward complexity. Done well, the result is more consistent cup-to-cup than any single origin alone. Single-origin isn't inferior, it's a different goal: expressing one place's character clearly, which works best when that origin is exceptional."
+  - question: "How do I tell if a three-bean blend is genuinely multi-origin or just marketing?"
+    answer: "Origin transparency is the tell. Roasters confident in their sourcing name the countries or regions on the bag. Roasters who aren't stay vague — phrases like 'premium Arabica blend' or 'Latin American and African beans' tell you almost nothing. If the packaging spends more effort on lifestyle imagery than on what's actually in the bag, that's worth noting before you buy. The Kicking Horse Three Sisters labels its sourcing and carries Fairtrade and organic certifications, which both require documented chain-of-custody."
+  - question: "Should I buy the Kicking Horse Three Sisters 2.2 lb bag or the 10 oz bag?"
+    answer: "It depends entirely on how fast you drink coffee. If your household moves through roughly a pound of beans per week, the 2.2 lb bag makes sense and gives you better value per ounce. For a solo drinker or occasional brewer, the 10 oz bag is the right buy — you'll finish it while it's still genuinely fresh, which matters more than economics. A large bag that takes six weeks to empty will be noticeably stale by the end regardless of how well it's sealed."
+  - question: "Is medium roast the best roast level for a three-bean blend?"
+    answer: "Medium roast is usually the right call because it lets each origin contribute its character rather than being steamrolled by roast flavor. It preserves origin brightness and sweetness while still developing body. Dark roast is a different trade-off — it covers up defects in cheaper beans and covers up nuance in better ones. For pour-over or French press, medium roast whole beans will serve you better. For espresso, medium works well but extraction pressure amplifies any harshness, so bean quality matters more."
+  - question: "Does light roast coffee actually have more caffeine than dark roast?"
+    answer: "By mass, light roast retains slightly more caffeine because roasting degrades caffeine content marginally over time. The practical difference is small enough that most people won't notice it in the cup. The more significant caffeine variable is brew method and dose — coffee-to-water ratio and extraction time matter more than roast level when caffeine content is the actual concern."
 ---
 
 The phrase "3 bean coffee" is doing some work here that's worth unpacking before you spend money. Most searches landing on this keyword are actually looking for coffee blends made from three different bean varietals , a style common among mid-range roasters trying to build complexity without charging single-origin prices. That distinction matters when you're evaluating what's in the bag. A good blend of three origins can produce something more interesting than any one of them alone. A bad one papers over mediocrity with marketing.

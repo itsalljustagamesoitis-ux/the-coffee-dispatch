@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does the grinder matter more than the espresso machine for shot quality?"
+    answer: "Beyond a functional baseline, yes. The grinder determines particle size distribution, which directly controls extraction rate and shot consistency. A burr grinder like the SHARDOR Professional Conical Burr paired with a modest machine will outperform the reverse combination. The most common mistake when building a home espresso setup is spending heavily on the machine and almost nothing on the grinder. Resolve the grinder first, then upgrade the machine when budget allows."
+  - question: "Single-origin espresso beans vs a blend: which is more forgiving on a home machine?"
+    answer: "Blends are more forgiving. They are engineered to balance acidity, body, and sweetness across a wider extraction range, which suits home machines that are not always perfectly calibrated. Single-origin espresso reflects the characteristics of one growing region and is more expressive but less tolerant of temperature or dose variation. For someone still dialing in technique on an entry-level machine, a well-constructed blend like Lavazza Gran Crema is the more practical starting point."
+  - question: "Is the De'Longhi 15-Bar machine a good learning tool for espresso technique?"
+    answer: "It makes espresso, and the thermoblock heats quickly, which is practical for occasional use. The limitation for learning is temperature inconsistency shot to shot. When the machine introduces a variable you cannot control, it is harder to understand what your adjustments to grind and dose are actually doing. A machine with PID temperature control makes the espresso process more legible. The De'Longhi is acceptable for casual use; it becomes a ceiling if you are trying to develop real technique."
+  - question: "Is pre-ground espresso coffee worth buying if I already own a burr grinder?"
+    answer: "Not as a daily option. Pre-ground coffee loses volatile aromatics and begins staling at the grind surface from the moment the container is opened. If you own a reliable burr grinder, whole bean is the technically correct choice for consistent espresso. Pre-ground like the Cafe Gavina Espresso Roast is most useful as a backup option or for occasional-use setups where the grinder is not in the picture."
+  - question: "Does low-acid espresso coffee taste different from standard espresso?"
+    answer: "It depends on what is producing the acidity reduction. Darker roasting breaks down chlorogenic acids but also diminishes some of the brightness associated with quality arabica. Lifeboost Organic Espresso uses specific processing methods and growing altitude to achieve natural low acidity without compromising flavor in the same way. It is worth trying if acid sensitivity is a genuine concern rather than simply a preference for darker roast character."
 ---
 
 Herkimer Coffee is a Seattle roaster with a clean, well-earned reputation , the kind of operation that gets recommended by people who've worked their way through a lot of bad espresso. If you're searching for their espresso blend, you already know what you're looking for. The question is whether you have the equipment to pull it correctly. For everything from grinders to machines to coffee sourcing, the [espresso](/espresso/) category covers the full picture.

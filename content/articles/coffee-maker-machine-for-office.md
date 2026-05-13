@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How many actual cups does a 12-cup office coffee maker produce per cycle?"
+    answer: "A 12-cup rating uses the industry-standard 5-ounce cup, meaning a full brew cycle produces approximately 60 ounces. At a realistic 12-ounce mug, that's five cups per cycle. For a six-person office where everyone refills once mid-morning, plan for at least two brew cycles per day and factor in a machine with a fast brew time."
+  - question: "Cuisinart DCC-3200NAS vs. BLACK+DECKER 12-cup for office use — which is better?"
+    answer: "The Cuisinart brews 14 cups versus 12, maintains more consistent brew temperature through PerfecTemp technology, and has a stronger track record for daily-use durability. The BLACK+DECKER is a capable entry-level machine that suits a smaller team with a modest budget. For a team of eight or more, the Cuisinart is the stronger choice. For four to six people with no appetite for feature complexity, the BLACK+DECKER holds its own."
+  - question: "Single carafe or dual carafe for an office — when do I actually need dual?"
+    answer: "Dual-carafe machines solve a specific problem: simultaneous demand that a single pot cannot handle. If your office has a defined rush window where multiple groups need coffee at the same time — a busy break room, a conference setup, a café bar — the NUPANT or TQS Cafe double-brewer addresses that directly. For a team under ten with sequential demand, a single 12- or 14-cup machine is sufficient and simpler to maintain."
+  - question: "Is a programmable timer worth having on an office coffee maker?"
+    answer: "For most offices, yes. Programmed brewing means coffee is ready before the first person arrives rather than after, which removes a friction point from the morning routine. Auto-brew scheduling distributes the responsibility to whoever sets it up the night before, rather than creating a dependency on whoever arrives first. Models like the Cuisinart DCC-3200NAS and BLACK+DECKER 12-cup both include reliable scheduling functions."
+  - question: "How often should an office coffee maker be descaled?"
+    answer: "In a hard water area, monthly descaling is reasonable for a machine running multiple cycles per day. In softer water areas, every two to three months is typical. Mineral buildup in the heating element reduces brew temperature and flow rate before it becomes visible — the coffee gets weaker and slower before anyone identifies the cause. A machine with a descaling indicator removes the guesswork and makes it easier to delegate the task in a shared environment."
 ---
 
 Office coffee is a daily ritual for most teams, and the machine running it matters more than people usually admit. A bad setup means cold cups, long waits, or the kind of weak brew that sends everyone to the nearest café instead. I've been through enough coffee equipment to know that matching the machine to the actual use case , how many people, how often, what kind of space , is the decision that determines whether a purchase works or just occupies counter space.

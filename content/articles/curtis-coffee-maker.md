@@ -42,6 +42,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Pour-over commercial brewer vs fully automatic: which is right for an office break room?"
+    answer: "Pour-over brewers like the Bunn VPR-2GD are simpler and more reliable because someone manually adds water before each brew cycle. If your break room has a designated person managing the coffee station, pour-over is the better value. For an unattended self-serve setup where no one owns the task, a fully automatic brewer like the BUNN CWTF15-APS removes the human-error variable and keeps throughput consistent."
+  - question: "How long does brewed coffee stay acceptable on a commercial warmer?"
+    answer: "Flavor degradation starts within thirty to forty-five minutes regardless of warmer quality. Commercial warmers are better calibrated than consumer models for holding temperature without overcooking the coffee, but time is still the enemy. Airpot systems like the BUNN CWTF15-APS extend that window to roughly an hour or more by insulating coffee in a sealed vessel rather than applying continuous heat."
+  - question: "Two-decanter vs three-decanter SYBO: how do I choose the right capacity?"
+    answer: "Count the people using the station at peak demand and estimate cups per person. If two pots can stay ahead of peak demand with one brewing and one holding, the two-decanter SF-CB-2GA is the right footprint. If three or more pots are consistently needed simultaneously, the three-decanter model justifies the extra counter space. Over-specifying on decanter count adds warmers to fail and carafes to break without meaningful throughput benefit."
+  - question: "Can I use these commercial brewers at home?"
+    answer: "Technically yes, but the scale is mismatched. These machines produce twelve cups per cycle and are designed for the duty cycles of institutional use. A home user brewing for two or three people will run the equipment far under capacity and likely discard most of what they brew before freshness degrades. A well-specified consumer brewer handles home volumes more sensibly at a lower cost."
+  - question: "Why is Bunn recommended over Curtis for commercial pour-over brewing?"
+    answer: "Bunn has decades of institutional use behind it in diners, hospitals, and hotel lobbies, which means its reliability record and aftermarket parts network are well established. Curtis equipment is more expensive to source and its serviceability and parts availability are less consistent. When a commercial brewer needs repair in year three, parts availability is what determines whether you fix it or replace it."
 ---
 
 Searching for a commercial-style pour-over or airpot brewer often surfaces Curtis machines , but the stronger, more reliable options in this category come from Bunn and SYBO. If you've landed here after pricing Curtis units and wondering whether you're looking at the right equipment, the answer is probably no. The [Coffee Makers](/coffee-makers/) category is full of commercial-grade alternatives that outperform Curtis on build quality, availability, and long-term serviceability.

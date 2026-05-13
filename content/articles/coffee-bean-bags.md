@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do coffee bean bags need a one-way degassing valve?"
+    answer: "Any bag sealed within 48 hours of roasting needs one. Freshly roasted beans release significant CO2 and a sealed bag without a valve will inflate and potentially fail at the seam. If you're bagging beans that have already rested for several days, the urgency decreases — but a valve is still the right choice for anything you plan to store more than a few days or give to someone whose opening timeline is uncertain."
+  - question: "Kraft paper bags vs foil-lined bags — which actually protects beans better?"
+    answer: "Foil-lined bags are meaningfully better at protecting against oxygen and moisture transmission. Kraft paper allows permeation that foil laminate does not — that's a material property, not a branding distinction. For beans consumed within a week of packaging, the difference is real but manageable. For anything meant to sit longer, be shipped, or be given as a gift where opening timing is unknown, foil is the only reasonable choice."
+  - question: "What size coffee bag should I use for a standard home roast batch?"
+    answer: "A 16 oz bag holds one pound of whole beans with minimal headspace — the standard for most home-roasting batches in the 400-500g range. The 4 oz bags are for tasting portions and samples only, not practical for a full roast. If you're splitting a larger batch into smaller portions for gifting or weekly storage, the half-pound kraft bags handle that purpose cleanly."
+  - question: "Can I heat-seal bags that also have a zipper closure?"
+    answer: "Yes, and that combination is genuinely useful. Heat-seal the bag after filling to create an airtight, tamper-evident closure for initial packaging. The zipper then serves the recipient after they open the bag, letting them reseal between brewing sessions without any equipment. The flat-bottom foil bags in this roundup are designed for this approach. You need a dedicated heat sealer to do it properly — a household iron with careful technique can work but isn't ideal."
+  - question: "How long do beans stay fresh in a sealed foil coffee bag?"
+    answer: "Properly sealed in a high-barrier aluminized foil bag with a functioning one-way valve, whole beans hold well for two to four weeks from the roast date. For espresso, three weeks from roast is the practical ceiling — the difference in extraction quality is noticeable after that point. Pour-over has slightly more flexibility. Once the bag is opened, use the beans within one to two weeks and store the resealed bag away from heat, light, and humidity."
 ---
 
 Choosing the right coffee bean bags matters more than most home roasters expect , not just for presentation, but for keeping beans in the condition they were in when the roast ended. A bag that breathes wrong, seals poorly, or lets light degrade the oils will erase days of careful development before you've pulled a shot. The [coffee beans and roasts](/beans/) you invest in deserve packaging that actually protects them.

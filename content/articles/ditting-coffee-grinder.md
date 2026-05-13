@@ -42,6 +42,19 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is a burr grinder actually worth it over a blade grinder for home brewing?"
+    answer: "Yes, categorically. A blade grinder chops randomly, producing a mix of fine powder and large chunks that extract at different rates and result in coffee that tastes simultaneously bitter and hollow. A burr grinder cuts uniformly between two surfaces set at a fixed distance, producing consistent particle sizes. The improvement in cup quality is immediate and obvious from the first brew, even with an entry-level burr grinder."
+  - question: "Cuisinart DBM-8P1 vs AMZCHEF single-dose grinder: which should I choose?"
+    answer: "The Cuisinart suits households grinding consistent volumes of the same coffee on an automatic cycle. Set it, press it, walk away. The AMZCHEF suits brewers who weigh doses, rotate between coffees, or want to minimize retention. Its 75 settings, anti-static construction, and magnetic outlet address precision-oriented workflows that the Cuisinart's automatic format doesn't support. If your routine is batch-oriented and low-maintenance, the Cuisinart wins. If you're dialing in recipes precisely, the AMZCHEF is more appropriate."
+  - question: "Is the 1Zpresso K-Ultra manual grinder capable enough for espresso?"
+    answer: "Yes, with the caveat that manual espresso grinding is physically demanding. The K-Ultra's numerical external adjustment system holds its position well enough for repeatable espresso settings, and the stainless steel conical burrs produce consistent fine grinds. Expect roughly two to three minutes of grinding effort at a fine espresso dose. For daily high-volume espresso most buyers prefer an electric alternative, but for occasional espresso and regular filter coffee it performs well."
+  - question: "What is grinder retention and when does it actually matter?"
+    answer: "Retention is how much ground coffee stays inside the grinder after a cycle ends. A grinder that retains two grams per cycle wastes roughly one dose every ten grinds. For most households using the same beans at consistent settings, that is irrelevant. For anyone buying specialty coffee by the bag and rotating between coffees, it matters. High-retention designs also make accurate single-dose brewing difficult because the weight that goes in is not the weight that comes out."
+  - question: "Does motor noise in a home coffee grinder matter enough to be a purchase factor?"
+    answer: "It matters more than most buyers account for before purchase. A loud grinder used at six in the morning in an open kitchen is a real daily irritant that compounds over years of daily use. DC motors run at lower RPM and significantly quieter than AC motor designs. If you grind early, share a space with light sleepers, or simply dislike unnecessary noise, motor type is worth checking. A manual grinder like the 1Zpresso K-Ultra removes the question entirely."
+safety_topics:
+  - electric-grinder
 ---
 
 Ditting is a Swiss brand with a long reputation in commercial grinding , sturdy, consistent, built for volume. If you've searched for a Ditting grinder and landed here, you're probably serious about grind quality, which means you're asking the right questions. The products below cover the realistic options for home use across [Coffee Grinders](/grinders/) , from a single-dose burr grinder you carry in a bag to an automatic with enough settings to handle every brew method in your rotation.

@@ -49,6 +49,17 @@ products:
 tags: ["cold-brew", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Cold brew grounds subscription vs. ready-to-drink cold brew — which is more cost-effective?"
+    answer: "Grounds are significantly more cost-effective at any regular consumption level. A bag of quality coarse-ground coffee steeped at home yields far more servings per dollar than canned or bottled ready-to-drink formats. Ready-to-drink is best treated as an occasional purchase — convenient and often excellent, but not a practical daily driver for cost-conscious buyers who go through cold brew regularly."
+  - question: "Do I need special equipment to use a cold brew grounds subscription like Bizzy?"
+    answer: "A wide-mouth jar, a mesh filter bag, and cold water are enough to produce a clean concentrate. Dedicated cold brew pitchers are convenient but not essential. Bizzy's grounds are micro-sifted specifically to reduce sediment with standard equipment, which lowers the filtering threshold compared to un-sifted coarse grounds and means a basic mason jar setup performs closer to its ceiling."
+  - question: "What is the difference between cold brew concentrate and ready-to-drink cold brew?"
+    answer: "Concentrate is brewed at a higher grounds-to-water ratio and must be diluted before drinking — typically one part concentrate to one part water or milk. Ready-to-drink products like La Colombe's cans are brewed and packaged at drinking strength, requiring no preparation. Concentrate is more economical per serving and allows ratio customization; ready-to-drink trades those advantages for pure convenience."
+  - question: "Sweetened or unsweetened cold brew concentrate — which should I choose?"
+    answer: "Choose flavored if you have a consistent, specific preference — the Starbucks Brown Sugar Cinnamon concentrate is well-suited to buyers who order that flavor regularly at coffee shops. Choose unflavored if you vary your additions, use creamer or milk, or want flexibility to adjust to taste. Pre-sweetened formats stack poorly with other sweet additions and reduce your range across different drink builds."
+  - question: "How long does cold brew concentrate stay good after opening?"
+    answer: "Most cold brew concentrates last seven to ten days refrigerated after opening, depending on the product and whether the bottle is resealed tightly. Ready-to-drink cans are best consumed the day they're opened. Cold brew you brew at home — steeped and filtered into a sealed jar — typically holds well for up to two weeks refrigerated."
 ---
 
 Cold brew subscriptions land on a spectrum that runs from bags of coarse-ground beans to ready-to-drink cans to concentrated tap systems , and the right answer depends on how much effort you want to put in each week. I've watched this category grow considerably in [Cold Brew & Iced Coffee](/cold-brew/) options, and the honest assessment is that most buyers aren't choosing between quality and convenience as clearly as they think.

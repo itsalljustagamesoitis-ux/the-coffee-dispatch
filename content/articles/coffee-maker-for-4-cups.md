@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How many actual cups does a 5-cup coffee maker produce?"
+    answer: "Manufacturers use a 5- to 6-ounce cup standard, so a 5-cup machine brews roughly 24 to 30 ounces — about two generous 12-ounce mugs. For a couple who each drink one standard-size cup, either a 4-cup or 5-cup machine works. If someone in the household uses a large travel mug, the 5-cup machines offer more buffer."
+  - question: "Is the HBN Espresso Machine a real substitute for a drip coffee maker?"
+    answer: "Not if you drink regular drip coffee. The HBN produces a concentrated espresso-adjacent shot using 3.5 bars of pressure — well below the 9-bar standard for genuine espresso — and steams milk for cappuccino-style drinks. It doesn't brew a full carafe of black coffee. If your household primarily drinks drip coffee, one of the four drip machines on this list will serve you far better."
+  - question: "Electactic vs. Elite Gourmet for a small household — which wins?"
+    answer: "The Electactic is the pick if a 24-hour programmable timer is your priority — setting it the night before and waking up to finished coffee is a genuinely useful feature. The Elite Gourmet EHC4128 wins on the daily-use details: a true 4-cup capacity, the Pause N Serve feature that prevents mid-brew mess, and a reusable filter that eliminates the paper filter dependency. Both are capable; the decision comes down to whether scheduling or cleanup convenience matters more to you."
+  - question: "Paper filter or reusable filter for a small drip machine?"
+    answer: "Reusable mesh filters let coffee oils pass through and produce a heavier, fuller-bodied result; paper filters trap those oils for a cleaner, brighter cup. Neither is better in absolute terms. The practical advantage of reusable filters is not needing to stock paper filters — which matters most when you run out at seven in the morning rather than in theory."
+  - question: "Does auto shut-off matter on a compact coffee maker?"
+    answer: "For most buyers, yes. A machine that turns itself off after a set period removes a category of worry — particularly for anyone who leaves for work in a hurry and isn't sure if they left it on. The Amazon Basics and Electactic both include auto shut-off. The Mr. Coffee Mini Brew switch does not, which is worth knowing if you routinely leave the house without checking the kitchen."
 ---
 
 Making coffee for a small household shouldn't require a machine the size of a small appliance store. If you're brewing for two to four people and the big twelve-cup drip makers feel like overkill, you're in the right category , compact [Coffee Makers](/coffee-makers/) designed for exactly this use case have improved considerably, and the field is worth sorting through carefully. One specific detail worth noting early: the difference between a genuinely useful small brewer and a frustrating one often comes down to how the carafe and filter basket interact, not the wattage on the box.

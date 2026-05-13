@@ -49,6 +49,17 @@ products:
 tags: ["pods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Lavazza Super Crema vs Maestro Classico — which should I buy?"
+    answer: "The Super Crema is an Arabica and Robusta blend that produces a denser crema and more body, making it the better choice under milk. The Maestro Classico is 100% Arabica with a cleaner, brighter profile that rewards drinking straight. Both are medium roasts, but they read quite differently side by side. If you add milk, Super Crema. If you drink it black, Classico."
+  - question: "Are Lavazza aluminum capsules compatible with Nespresso Vertuo machines?"
+    answer: "No. These capsules are compatible only with Nespresso Original Line machines — Essenza, Pixie, CitiZ, Creatista, Inissia, and similar. The Vertuo line uses a different capsule shape and a barcode-based extraction system that makes it incompatible with all third-party capsules including Lavazza. Vertuo machines are identifiable by their larger, dome-topped capsule format."
+  - question: "Does it matter whether I use the espresso or lungo button with Lavazza capsules?"
+    answer: "It matters significantly. The Lungo capsule is calibrated for the larger extraction volume; the espresso-format capsules are calibrated for the shorter pull. Running a lungo capsule at espresso volume produces an underdeveloped, thin result. Running an espresso capsule at lungo volume over-extracts and dilutes. Match the capsule format to the correct button before ordering at scale."
+  - question: "Should I buy the 10-capsule or 60-capsule Super Crema?"
+    answer: "The 10-capsule is a trial size — use it to confirm the blend works in your specific machine and suits your palate before committing to the larger quantity. The per-capsule economics of the 10-pack don't support using it as an ongoing purchase cadence. If you've already run Lavazza capsules in your machine and know the Super Crema works for you, the 60-pack is the correct purchase."
+  - question: "Why do aluminum capsules work better than plastic in a Nespresso machine?"
+    answer: "Aluminum transfers heat more consistently during extraction than plastic, which can create uneven temperature gradients when the machine's thermoblock hits the capsule. Aluminum also provides a better oxygen barrier for shelf life, since coffee stales through oxidation first. Practically, aluminum capsules also pierce cleanly and eject without leaving residue in the capsule basket, whereas cheaper plastic capsules can fragment and build up over hundreds of uses."
 ---
 
 Lavazza makes some of the most recognizable capsules in the third-party Nespresso Original ecosystem, and for good reason , their Turin roasting operation has been dialing in espresso blends since 1895. If you're shopping the [Pods & Capsules](/pods/) category and your machine runs on the Original line, the Lavazza aluminum capsule range covers more ground than most people realize. The question isn't whether Lavazza is worth buying. It's which one to buy.

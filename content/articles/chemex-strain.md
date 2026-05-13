@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Square vs circle Chemex filters — does the shape actually affect the cup?"
+    answer: "No meaningful cup quality difference. Both use the same bonded paper construction and produce the same filtration character. The square filter folds into a cone with one triple-layered side against the spout; the circle uses a quarter-fold to the same effect. The choice is entirely ergonomic — whichever geometry seats more intuitively in your hands and in your brewer is the right one."
+  - question: "Do I need to rinse Chemex filters before brewing?"
+    answer: "Yes, and it takes fifteen seconds. Running hot water through a seated filter eliminates any papery taste from the bonded paper — particularly relevant with natural unbleached filters — and simultaneously preheats the glass vessel for better temperature stability during brewing. The cup quality improvement is consistent enough to make this a standard step regardless of which filter type you use."
+  - question: "Single pack vs double pack — when does buying 200 filters make sense?"
+    answer: "As soon as you've committed to Chemex as your daily driver. A single 100-count box lasts a solo daily brewer three to four months. The double pack doubles that runway, typically costs less per filter, and removes the recurring friction of running out mid-week — which is the most common Chemex complaint. The single pack makes sense if you're still evaluating whether pour-over will stick as a habit."
+  - question: "Can I use generic paper filters in a Chemex brewer?"
+    answer: "Technically yes, but it defeats the point of owning a Chemex. Chemex's bonded filters use a denser paper medium that removes oils and fine sediment more thoroughly than standard uncoated paper filters. Generic filters produce a different cup — more body, more sediment, less of the clean brightness the brewer is designed to deliver. If you own a Chemex specifically for its filtration character, generic filters undercut the whole premise."
+  - question: "Natural vs bleached Chemex filters — is one better for the environment?"
+    answer: "The natural unbleached filters are the better environmental choice, and with the rinse step built in they produce an identical cup to the bleached version. Chemex processes their filters without chlorine bleaching — the white color comes from an oxygen-cleaning process — so the bleached option isn't particularly harmful. But the natural filters require less processing and are the straightforward pick for anyone who pre-rinses as standard practice."
 ---
 
 Chemex filters are a consumable that most people buy once and then reorder on autopilot , which means most people have never actually thought about whether they're buying the right one. The filter shape, count, and format you choose affects both your workflow and the clarity of the cup you get from any Chemex brewer. This is worth five minutes of attention.

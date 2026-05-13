@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Miele CM 6360 vs. CM 5310 Silence: which built-in machine is better for my household?"
+    answer: "The CM 6360 adds the MilkPerfection integrated milk system, eight user profiles, DoubleShot dual-cup functionality, and WiFi. The CM 5310 covers standard brewing with profile settings and OneTouch for Two, and reduces operational noise — a real engineering difference in open-plan kitchens, not a marketing claim. If milk-based drinks are daily requirements for multiple household members, the CM 6360 is worth the step up. If black coffee and Americanos dominate, the CM 5310 covers the use case without the added complexity."
+  - question: "Do Miele coffee machines require Miele-branded cleaning products?"
+    answer: "Miele strongly recommends their own consumables — the descaling tablets and cleaning tablets are calibrated for their machine internals. Using off-brand alternatives can void warranty coverage and, in some cases, cause residue buildup from incompatible chemistry. The branded tablets are a recurring cost worth factoring into the total ownership budget from the point of purchase, not retroactively."
+  - question: "Are Miele built-in coffee machines true espresso machines?"
+    answer: "No. Miele's automatic machines produce an espresso-adjacent drink using a pressurized brewing system. They lack the manual control over grind, dose, tamp pressure, and extraction time that a dedicated espresso machine and grinder provide. For buyers who want consistent, convenient coffee at the push of a button, Miele's machines are very good at what they do. For buyers who want to dial in extraction parameters and develop technique, a separate setup is the right approach."
+  - question: "What are the installation requirements for a Miele built-in coffee machine?"
+    answer: "True niche installation requires a cabinet cutout to precise dimensions, adequate ventilation around the machine, easy access to the water reservoir and bean hopper for daily use, and clearance for drip tray removal. Dimensional tolerances are exact and vary between the CM 5310 and CM 6360. Miele publishes detailed installation documentation for each model — download it before finalizing the cabinetry plan, not after the cabinet is built."
+  - question: "How does the four-profile CM 5310 compare to the eight-profile CM 6360 for a two-person household?"
+    answer: "Four profiles comfortably covers two people — one profile per person, one guest profile, one spare for experimentation. The eight-profile advantage on the CM 6360 becomes meaningful for larger households or those who regularly accommodate guests with distinct drink preferences. For a couple drinking coffee differently each morning, the CM 5310's profile count is not a practical limitation."
 ---
 
 Miele's built-in coffee machines occupy a specific category of kitchen appliance , one that rewards buyers who understand exactly what they're buying and punishes those who don't. These are [Coffee Makers](/coffee-makers/) in the super-automatic tradition: bean-to-cup convenience appliances that grind, brew, and in some cases froth milk at the press of a button. If that's what you want, Miele builds some of the best.

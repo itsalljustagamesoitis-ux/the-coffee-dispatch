@@ -42,6 +42,19 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the KitchenAid KCG0702CS actually a burr grinder, or is it a blade grinder?"
+    answer: "The KCG0702CS is a genuine burr grinder — it uses two abrasive surfaces to mill beans to a consistent particle size. This sets it apart from the BCG111 blade grinders that appear alongside it in search results. Most products that surface under a KitchenAid grinder search are blade grinders, which matters because only a burr grinder produces the uniform particle size required for controllable extraction."
+  - question: "Can you use a KitchenAid blade grinder for espresso?"
+    answer: "Not well. Blade grinders produce an uneven mix of fine powder and coarse fragments in the same batch — the result is simultaneous over- and under-extraction, which makes dialing in an espresso shot essentially impossible regardless of machine quality. The KCG0702CS burr grinder is a better fit for espresso, though its adjustment resolution has limits for serious shot-to-shot repeatability work."
+  - question: "KCG0702CS burr grinder vs. saving for a Baratza Encore — when does the upgrade actually matter?"
+    answer: "For filter coffee — drip, pour-over, French press — the KCG0702CS is a capable grinder that genuinely improves cup quality over any blade grinder. For espresso, it is a workable starting point that most serious home baristas will want to upgrade. If your budget allows, the Baratza Encore is the more common entry-level recommendation among home brewers who prioritize grind consistency over KitchenAid brand aesthetics."
+  - question: "What is the KitchenAid food grinder attachment, and why does it keep appearing in coffee grinder searches?"
+    answer: "The KSMMGA is a meat and food grinder that attaches to a KitchenAid stand mixer's power hub — it is not a coffee grinder and was not designed for that purpose. It surfaces in results because the word grinder appears in the product title. Attempting to use it for coffee would produce unusable results. A KitchenAid-branded coffee grinder that integrates with a stand mixer does not currently exist in KitchenAid's lineup."
+  - question: "BCG111ER vs. BCG111OB — is there any functional difference between the two KitchenAid blade grinders?"
+    answer: "None. They are identical grinders in different colors — Empire Red and Onyx Black. The mechanism, capacity, motor, and performance are the same. The decision between them is purely about which finish matches your kitchen or existing appliances."
+safety_topics:
+  - electric-grinder
 ---
 
 Searching for a KitchenAid burr grinder is a reasonable instinct , KitchenAid makes reliable kitchen equipment, and the brand name is everywhere. Before you buy, though, there's a detail worth knowing: most of what surfaces under that search isn't a burr grinder at all. Understanding the difference before you spend money is the whole point of this piece. The [Coffee Grinders](/grinders/) hub has more context on grinder types if you want the longer version.

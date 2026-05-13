@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does Fellow make a French press?"
+    answer: "Fellow does not currently manufacture a French press. They produce kettles and grinders — both of which pair well with French press brewing — but they are not in the press market. Searches for a Fellow French press typically reflect people who know the brand and assume they make one. The presses worth considering are from ESPRO, Mueller, Stanley, and a few others."
+  - question: "ESPRO P7 vs MuellerLiving for daily home use: which should I buy?"
+    answer: "The ESPRO P7 produces a cleaner cup with significantly less sediment due to its patented double micro-filter system — that is its primary advantage. The MuellerLiving is a better fit for someone who wants a straightforward, low-maintenance press without paying for the upgraded filtration. If sediment in the bottom of your mug bothers you consistently, the ESPRO is worth it. If it does not, the Mueller is the more practical daily driver."
+  - question: "What grind size should I use for French press coffee?"
+    answer: "A coarse grind — roughly the texture of coarse sea salt — is the standard recommendation. Coarser grinds reduce sediment passing through the filter and prevent over-extraction during a four-minute steep. Finer grinds increase sediment and can make the plunge harder to push, particularly in presses with multi-stage filter systems. If your cup is coming out muddy and bitter, the grind is the first variable to adjust."
+  - question: "Is a 48-ounce French press practical for one person?"
+    answer: "Only if you are brewing for others or genuinely intend to drink that full volume yourself. Brewing a 48-ounce press to half capacity with a single-person dose produces weak coffee unless you adjust the ratio precisely. The Stanley 48oz makes sense for a household that shares a morning pot or for outdoor use where capacity and heat retention matter — not as a single-serve daily driver."
+  - question: "Does insulation actually matter in a French press, or is it just for travel use?"
+    answer: "Insulation matters for everyday brewing too. Single-wall glass presses lose temperature fast, which means extraction behavior changes as the brew cools during the steep. A double-walled stainless press holds temperature more consistently through the full four-minute steep, which is especially relevant for larger batches or cold kitchens. For someone who brews a pot and pours cups over time, the difference between insulated and non-insulated is meaningful — not just for temperature, but for preventing over-extraction from grounds sitting in cooling water."
 ---
 
 French press makes better coffee than most people's morning routines deserve credit for. The method is forgiving, fast, and produces a cup with enough body and oil to remind you why you started drinking coffee in the first place , not despite being low-tech, but because of it. If you've landed here chasing the Fellow French press specifically, it's worth knowing that Fellow doesn't currently make one; what they make are grinders and kettles that pair well with this format. The presses worth your attention are elsewhere, and a few of them are genuinely excellent.

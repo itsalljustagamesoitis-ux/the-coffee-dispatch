@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do Bialetti aluminum moka pots work on induction cooktops?"
+    answer: "No — the standard Bialetti Moka Express line uses aluminum construction and is not induction-compatible. Induction cooktops require ferromagnetic material at the base to generate heat, and aluminum is not ferromagnetic. The Bialetti New Venus Induction is specifically designed for induction compatibility, with a stainless steel body and an induction-ready base that works on all hob types including gas, electric, ceramic, and induction."
+  - question: "Is moka pot coffee the same as espresso?"
+    answer: "No. Moka pots brew at roughly one to two bars of pressure; espresso machines operate at nine bars. The result from a moka pot is strong and concentrated but has a different extraction character — more volume, less crema, and a distinct bitterness profile that differs from pump espresso. It is excellent coffee on its own terms and makes a good base for milk drinks, but calibrating expectations to café-style espresso will lead to frustration."
+  - question: "What is the difference between the Bialetti 6-cup and 9-cup Moka Express?"
+    answer: "The difference is output volume and brew time. The 6-cup produces approximately 9 ounces of coffee — enough for two servings — while the 9-cup produces around 14 ounces. The smaller pot completes its brew cycle faster and is slightly more forgiving on heat management. For one or two regular drinkers, the 6-cup is typically the more practical daily option; the 9-cup suits a household of two people who prefer larger servings."
+  - question: "How do I stop my moka pot coffee tasting bitter?"
+    answer: "Bitterness almost always comes from too-high heat driving water through the grounds too quickly. Use medium-low heat, never pack or tamp the coffee basket, and remove the pot from heat as soon as coffee starts to flow steadily into the upper chamber. A coarser grind than you might expect — closer to drip grind than espresso grind — also reduces bitterness significantly. The pot should take three to five minutes from cold; if it finishes in under two, turn the heat down."
+  - question: "Which Bialetti moka pot size is best for one person?"
+    answer: "For induction hobs, the Bialetti New Venus Induction 4-cup is the most practical solo option. For gas or electric, the Moka Express 6-cup is worth considering over the 4-cup — the slightly larger size gives you more output flexibility and the technique margin is a little more forgiving. The key rule is to buy for your hob type first, then optimize for size. Running a 6-cup pot half-filled produces inconsistent extraction, so match capacity to your actual daily volume."
 ---
 
 Moka pots are having a moment, and most of the search traffic landing on "bellotti coffee maker" is actually looking for stovetop espresso makers from established Italian brands , particularly Bialetti, which has been making the same octagonal aluminum pot since 1933. If you're exploring [Coffee Makers](/coffee-makers/) and want something that brews strong, concentrated coffee without a machine, a moka pot is the honest answer.

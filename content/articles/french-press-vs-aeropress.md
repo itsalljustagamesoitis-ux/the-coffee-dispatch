@@ -46,6 +46,17 @@ product_a: "aeropress-premium-coffee-press-glass"
 product_b: "veken-french-press-coffee-maker-34oz"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "AeroPress vs French press: which produces less bitterness?"
+    answer: "The AeroPress generally produces less bitterness. Pressure-assisted extraction at a shorter steep time limits the overextraction that causes bitterness in immersion brewing. French press relies on longer steep times with no paper filter to catch fine sediment, and the grounds continue extracting even after the plunger is down. If bitterness has been a persistent problem with your French press, the AeroPress or a shorter steep time are both valid responses."
+  - question: "Can the AeroPress Premium replace a dedicated French press entirely?"
+    answer: "For most buyers, yes. Using a metal filter and extending the steep time before plunging gets you close to French press character. The result will not have identical body to a true French press because the pressure differential changes the extraction slightly, but it is close enough that maintaining two separate brewers is unnecessary. If you specifically want maximum oil presence and full sediment-heavy body, a dedicated French press is the more honest choice."
+  - question: "Which is easier to clean, the AeroPress or French press?"
+    answer: "The AeroPress is considerably faster to clean: push the puck out, rinse the chamber, done in under a minute. French press cleanup involves removing a wet, ground-covered filter assembly, rinsing or dishwasher access, and reassembly. The FinalPress simplifies French press cleanup with its bottom-lid mechanism, but the standard French press remains the messier of the two in daily use. If cleanup friction matters to your routine, weigh this before choosing."
+  - question: "Is the Veken 34oz too large for one person?"
+    answer: "For a single person who brews one cup and moves on, yes. Scaling too far down in a large press creates dose-to-water ratio problems that produce under-extracted results. The Veken 21oz is the better fit for solo brewing. The 34oz makes sense for a two-person household or for a solo drinker who makes a larger batch and pours it into a separate carafe to drink across the morning."
+  - question: "Does grind quality matter equally for AeroPress and French press?"
+    answer: "Grind consistency matters for both, but the French press is more tolerant of imperfection. Coarse, slightly uneven grinds produce acceptable French press results because the long steep compensates somewhat. The AeroPress is similarly forgiving compared to pour-over, but rewards deliberate adjustment. What neither method tolerates is pre-ground supermarket coffee at the wrong grind size: too fine produces silt and bitterness in a French press; too coarse produces weak, flat results."
 ---
 
 The French press and the AeroPress occupy very different positions in the manual brewing world, and the gap between them is wider than most buyers expect. Both use immersion at some point in the process. That's roughly where the similarity ends. If you're deciding between the two for your first serious brewer , or your third , the choice comes down to what you actually want from a cup of coffee and how much control you're willing to exercise over the result.

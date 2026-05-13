@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Will a 34 oz replacement beaker fit any French press frame?"
+    answer: "Not automatically. 34 oz describes volume, not the collar diameter or base geometry that determines physical fit. A replacement labeled as universal fit covers most common frame dimensions from major brands like Bodum and Frieling, but not every frame on the market. Measure your collar or check your press brand before ordering to avoid a return."
+  - question: "Is borosilicate glass worth it over standard glass for French press?"
+    answer: "Yes, in one specific way that matters: thermal shock resistance. Boiling water poured into cold standard glass creates stress points that accumulate with use. Borosilicate handles that temperature transition reliably, and fire-hardened borosilicate handles it better still. For daily brewing, the difference between standard glass and borosilicate shows up over months, not weeks."
+  - question: "Glass vs. stainless steel replacement carafe: which should I choose?"
+    answer: "Stainless steel does not break, holds heat longer through extended steeps, and eliminates the replacement cycle over time. The cost is losing visibility into the brew. For experienced brewers working from a fixed recipe and a timer, that trade-off is nothing. For people still calibrating their steep, the visual feedback from glass is genuinely useful. If you have a pattern of breaking glass carafes, stainless is the honest answer regardless of price."
+  - question: "What does fire-hardened borosilicate mean on a replacement beaker?"
+    answer: "Borosilicate is a glass composition with a lower thermal expansion coefficient, meaning it handles temperature changes better than standard glass. Fire hardening, or thermal tempering, is an additional manufacturing process applied to the finished glass that further reduces breakage risk from impact or heat stress. A fire-hardened borosilicate beaker is more durable than either attribute alone, and for daily French press use with boiling water, it is the specification worth prioritizing."
+  - question: "Should I buy one replacement beaker or a spare?"
+    answer: "Buying two at once is worth considering if you brew daily and live somewhere where shipping takes more than a few days. One cracked beaker on a Monday morning means no French press until a replacement arrives. A spare also enables the two-carafe workflow: brew in one, clean the other, switch. For people who clean equipment immediately after use, it removes the friction of waiting for the beaker to cool and dry before the next brew."
 ---
 
 French press glass breaks. It's not a question of whether you'll crack a beaker , it's whether it happens on a Tuesday morning when you're already running late, or on a weekend when you have time to deal with it. The good news is that a replacement beaker costs a fraction of a new press, and with [Brewing Methods](/brewing-methods/) options ranging from simple to obsessive, keeping your French press in service is almost always the right call.

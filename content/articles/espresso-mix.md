@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Cold brew espresso concentrate vs instant espresso powder: which should I buy?"
+    answer: "Cold brew concentrate is brewed coffee in liquid form, made by steeping coarse grounds in cold water for an extended period and then filtering. Instant espresso powder is spray-dried brewed coffee that reconstitutes in hot water. Cold brew is smoother and less bitter due to the low-temperature extraction process. Instant is more portable, more shelf-stable, and the better choice for baking applications where adding liquid volume would affect a recipe."
+  - question: "Can I use an espresso cocktail mixer as a substitute for brewed espresso in baking?"
+    answer: "You can, but a pre-sweetened cocktail mixer introduces sugar that most recipes do not account for, which will make baked goods noticeably sweeter and unbalance the other flavors. A cold brew concentrate with no added sweetener is a better substitute. Instant espresso powder dissolved in a small amount of hot water is the most practical baking substitute — it is concentrated, unsweetened, and controllable."
+  - question: "Nescafe Gold Espresso Intense vs Blonde: which is better?"
+    answer: "They are different products, not better or worse versions of each other. The Intense variant is darker-roasted, more bitter, and reads closer to a traditional espresso profile — it suits people using instant espresso for a quick morning coffee or as an assertive baking ingredient. The Blonde is lighter-roasted, brighter, and cleaner on the finish. Try both against your specific use case rather than defaulting to the one with the bolder name."
+  - question: "How many cocktails does a 1-liter bottle of espresso martini mix actually make?"
+    answer: "The Finest Call 1-liter bottle yields approximately 30 to 33 standard cocktails at a one-ounce pour of mix per drink. If your recipe uses more mix per cocktail for a stronger coffee flavor or a larger glass, that number drops. For a 12-person dinner party where guests might have two cocktails each, a single bottle will fall short. Buy based on actual pour volume, not the theoretical maximum yield."
+  - question: "Do any of these espresso mix products require an espresso machine to use?"
+    answer: "None of them require an espresso machine — that is the point of the format. Craftmix packets, the Finest Call mixer, and the Java House cold brew concentrate all work as standalone cocktail components. The Nescafe Gold variants dissolve in hot water. If you want to pull proper espresso shots, that requires an actual machine and grinder, which is a different category entirely."
 ---
 
 The phrase "espresso mix" covers more territory than most buyers expect , instant coffee granules, cold brew concentrates, cocktail mixers, and premade drink bases all compete for the same search. If you came here looking for a machine or a grinder, the [Espresso & Espresso Machines](/espresso/) hub is where those recommendations live. What follows is an honest look at the mix-and-concentrate options that actually serve a purpose.

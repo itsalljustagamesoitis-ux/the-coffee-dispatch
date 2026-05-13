@@ -42,6 +42,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do I actually need a gooseneck kettle for pour-over, or is a regular kettle fine?"
+    answer: "A gooseneck kettle isn't strictly required, but it makes a material difference in extraction consistency. A standard kettle poured quickly produces channeling — water finds the path of least resistance rather than wetting the grounds uniformly. A gooseneck gives you the slow, controlled stream that allows a proper bloom and even saturation. If you're new to pour-over and want reliable results from the start, it's worth the step up."
+  - question: "Paper filters vs. metal mesh for pour-over — which produces a better cup?"
+    answer: "Neither is objectively better; they produce different cups. Paper filters trap coffee oils and fine sediment, producing a clean, bright cup with lighter body. Metal mesh filters let those oils through, resulting in a fuller, heavier cup with occasional sediment at the bottom — closer to French press in mouthfeel. The right choice depends entirely on which result you prefer and whether you want to eliminate consumable costs."
+  - question: "Is the Bodum 17oz pour-over enough for two people?"
+    answer: "At 17 oz, the Bodum produces one large mug or two small cups — that's the upper bound. For two people who each want a full cup, it means brewing twice, which roughly doubles your prep time. The Bodum is designed as a deliberate single-serving brewer and works best when treated as one. If you're regularly brewing for two, a higher-capacity dripper paired with a larger kettle is the more practical setup."
+  - question: "Complete pour-over kit vs. individual components — which approach makes more sense?"
+    answer: "Kits bundle convenience with compromise. A well-assembled kit gets you brewing on day one without sourcing each component individually — genuinely useful if you're new to pour-over or buying as a gift. The downside is that kits rarely excel at every component. If you already own a good kettle or burr grinder, buying only the missing piece is often the smarter path. The Pour Over Coffee Maker Set with its built-in thermometer is the strongest complete kit for a beginner starting from nothing."
+  - question: "How long does a pour-over take compared to a drip machine?"
+    answer: "A pour-over brew takes three to four minutes of active time once your water is hot — a 30-second bloom followed by two to three minutes of slow pouring. Total time from kettle-on to cup in hand is closer to eight to ten minutes. A drip machine typically takes four to six minutes for a full carafe with minimal involvement. Pour-over is slower and requires your attention throughout, but most people who switch find the quality gap worth the extra time."
 ---
 
 Pour-over brewing has a reputation it doesn't quite deserve. Most of the mystique is surface-level , the gooseneck kettle, the ritual pour, the deliberate pace , but the actual variables are manageable: grind size, water temperature, and a slow controlled pour. Those are learnable in a week. The [Brewing Methods](/brewing-methods/) that reliably produce the cleanest cup are usually the ones that feel fussiest from the outside, and pour-over is the clearest example of that gap between perception and reality.

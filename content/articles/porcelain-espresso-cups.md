@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the correct cup size for a single espresso shot versus a double?"
+    answer: "A single espresso shot is approximately 30 ml, which fits correctly in a 2 oz cup — enough room for the shot and crema without the drink spreading and cooling. A double shot fits correctly in a 3 oz cup. The Sweese set at 2 oz is calibrated for single shots; the Reallnaive and Lareina sets at 3 oz handle doubles. The BTaT Cappuccino Cups at 6 oz are sized for milk drinks, not straight espresso."
+  - question: "Should I preheat porcelain espresso cups before pulling a shot?"
+    answer: "Yes, and it makes a measurable difference. A cold porcelain cup drops the shot temperature by several degrees on contact, which affects both taste and the behavior of the crema. The fix is simple: fill the cup with hot water for 20 to 30 seconds, dump it, then pull the shot immediately. Most espresso machines produce hot water through a separate valve for exactly this purpose. It adds fifteen seconds and is worth doing consistently."
+  - question: "Is the Reallnaive 16-piece set appropriate for home use, or is it better suited for a cafe?"
+    answer: "The 16-cup quantity is primarily suited to a small cafe counter, office coffee station, or any situation where breakage is an expected cost of operation. For most home setups it is excessive. The set does not include saucers, which is more acceptable in a commercial context than at home. For home use with guests, a set of four or six with saucers — the Sweese or Lareina — is more appropriate."
+  - question: "Do I need saucers with my espresso cups, or are they just decorative?"
+    answer: "For home use with guests or any cafe context, saucers are the correct presentation — they complete the service, give somewhere to rest a spoon, and make the drink look considered rather than improvised. For solo daily use where you pull a shot and drink it at the machine, saucers add storage overhead without meaningful benefit. The Sweese 2 oz and Lareina sets both include saucers; the Reallnaive set does not."
+  - question: "When does double-walled ceramic make more sense than standard porcelain for espresso?"
+    answer: "Double-walled ceramic makes sense if you pull a shot and then carry the cup to a desk or another room before drinking, or if your kitchen runs cold and preheating cups is a step you know you will consistently skip. The air gap between the walls slows heat transfer, buying additional time without requiring preheating. For the core espresso practice — pull, pause, drink — preheated standard porcelain is perfectly adequate."
 ---
 
 Porcelain espresso cups are one of those purchases that looks simple until you're standing in front of a dozen near-identical options and realising the differences actually matter. Capacity, wall thickness, heat retention, whether saucers are included , these details compound. A cup that holds the wrong volume or loses heat before you've pulled the shot defeats the point. I've been through enough espresso setups in our [espresso and espresso machine coverage](/espresso/) to have opinions about what makes a cup work and what makes it a disappointment.

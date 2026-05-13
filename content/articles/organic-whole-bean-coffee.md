@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What does USDA Organic certification actually guarantee on a coffee bag?"
+    answer: "USDA Organic certification means the beans were grown without synthetic pesticides, herbicides, or fertilizers, and that the processing chain maintained separation from non-organic materials. It addresses agricultural and processing practices, not roast quality or freshness. Organic certification tells you nothing about how recently the beans were roasted or whether the flavor profile suits your brewing method."
+  - question: "Is Fair Trade certification the same thing as organic, or do I need both?"
+    answer: "They are separate certifications addressing different concerns. Organic speaks to what was applied to the soil and plants during cultivation. Fair Trade addresses the economic terms of trade — minimum price floors, community investment requirements, and cooperative standards. A bag can carry one without the other. Several options on this list carry both simultaneously, which is the strongest combined signal available in commodity-accessible coffee."
+  - question: "What is the difference between the Peru medium roast options and the Sumatra dark roast?"
+    answer: "The Peruvian options — both the Mt. Comfort and the Amazon Fresh — are medium roasts with clean, mild profiles: nutty and chocolate notes, lower acidity. The Amazon Fresh Sumatra is a dark roast produced by wet-hulling, which yields heavy body, earthy depth, and minimal brightness. They are not interchangeable. Peru suits buyers who want approachable, balanced coffee; Sumatra suits buyers who prefer bold, low-acid cups."
+  - question: "How large a bag should I buy to keep organic whole bean coffee fresh?"
+    answer: "Match bag size to your actual consumption rate. Whole beans stay fresh roughly three to four weeks after opening. A four-pound bag only pays off if you move through coffee quickly enough — a two-person household drinking two cups each daily will finish it in roughly three to four weeks. A single-cup-a-day drinker will take nearly two months, and the coffee will show quality degradation well before then."
+  - question: "Do I need a burr grinder specifically, or will a blade grinder work with whole bean organic coffee?"
+    answer: "A burr grinder is not optional if you care about extraction quality. Blade grinders chop inconsistently, producing a mix of powder and coarse fragments that extract at different rates in the same brew. The result is a muddled cup that doesn't reflect the quality of the beans. Even a budget entry-level burr grinder produces uniform grounds that extract predictably — it costs less than most of the bags on this list and will improve every brew for years."
 ---
 
 Organic whole bean coffee sits in an odd category , certification labels stack up fast, and it's easy to mistake credential density for quality. The signal that actually matters, [roast date](/beans/), rarely makes it onto the bag at all. These five options cover the range from single-origin medium roasts to bulk everyday blends, all certified organic, and several carrying Fair Trade designation as well.

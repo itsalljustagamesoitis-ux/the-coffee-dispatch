@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Lavazza decaf whole bean vs. Lavazza decaf ground — which should you buy for espresso?"
+    answer: "Whole bean if you own a burr grinder, without question. Whole beans stay fresh longer and give you grind-size control — the primary variable in espresso extraction. The pre-ground is fixed at one grind setting that may or may not match your machine and basket, and it loses aromatics faster after the bag is opened. If you don't own a grinder, pre-ground on a pressurized portafilter machine is a functional alternative."
+  - question: "Does decaffeination method actually affect how espresso tastes?"
+    answer: "Yes, measurably. Solvent-based methods — which Lavazza uses for several of their decaf products — efficiently strip caffeine but can carry off volatile aromatic compounds along with it. Swiss Water and CO2 extraction methods tend to preserve more origin character. If a manufacturer doesn't specify the method on packaging, that usually means solvent-based. This explains why decaf often tastes rounder and flatter than the caffeinated equivalent from the same roaster."
+  - question: "illy Classico Decaf vs. Lavazza ground decaf — which produces a better straight espresso shot?"
+    answer: "Both are 100% Arabica and medium-roasted pre-ground options. The illy Classico Decaf runs slightly brighter with more defined aromatic notes — caramel, toasted bread, chocolate — and uses a nitrogen-flushed can that preserves freshness well. Lavazza ground decaf is fuller-bodied and lower-acid, closer to the traditional Italian espresso profile. For a rounder, heavier shot, go Lavazza; for a livelier one, go illy."
+  - question: "Can the Lavazza Maestro Decaf capsules be used in any espresso machine, or only Nespresso?"
+    answer: "The Lavazza Espresso Maestro Decaf capsules are compatible with Nespresso Original machines only — not Vertuo, not other pod systems, and not traditional espresso machines with portafilters. Verify your machine uses Original-line capsules before purchasing. If you're using a manual espresso machine, the capsule format is not an option regardless of brand."
+  - question: "Do decaf espresso beans need a different grind setting than regular espresso beans?"
+    answer: "Not a different target, but grind consistency matters more. Decaf beans extract faster than caffeinated equivalents because processing makes the cell walls more porous. An inconsistent grind produces a bitter, uneven shot more quickly with decaf than with caffeinated espresso. A conical burr grinder produces uniform particle size and gives you enough adjustment range to compensate for the faster extraction behavior — a blade grinder makes this calibration essentially impossible."
 ---
 
 Decaf espresso gets unfair treatment in most buying guides , lumped together with commodity ground coffee and dismissed as a compromise. That framing misses what Lavazza has actually built in this category, and it ignores the real question: which format , whole bean, ground, or capsule , fits your setup and your expectations. I've covered the [espresso](/espresso/) side of this equation in depth, and the short answer is that format choice matters as much as brand.

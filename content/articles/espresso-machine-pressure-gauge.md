@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What pressure should an espresso machine run at during extraction?"
+    answer: "Most espresso extractions target 9 bar at the group head — this is the widely accepted standard for traditional espresso. The pump may generate higher pressure, often 12 to 15 bar, which is then regulated down. A gauge positioned at or near the group head shows you the effective brew pressure rather than raw pump output, which is the number that actually affects extraction quality."
+  - question: "E61 group head pressure gauge vs built-in machine gauge: what is the difference?"
+    answer: "Built-in gauges on machines like the Breville Barista Express read pump pressure, not group head pressure — they are related but not identical. An aftermarket group head gauge gives you a more direct measurement of what the coffee puck is actually experiencing during extraction. For troubleshooting extraction problems, the group head number is the one that matters."
+  - question: "Analogue pressure gauge vs smart wireless gauge: which should I buy?"
+    answer: "For someone learning to pull espresso, an analogue gauge provides immediate feedback — you watch the needle climb, hold, and drop, which is usually enough to identify whether the pump is underpowered or the puck is channelling. Smart wireless gauges like the BOOKOO provide shot-by-shot pressure curves with timestamps, which is genuinely useful for pressure profiling or comparing shots across different beans. Adding data logging before the fundamentals are solid adds complexity without proportionate benefit."
+  - question: "Can I fit an E61 group head gauge to a Breville Barista Express?"
+    answer: "No. The Barista Express uses a proprietary pump and group configuration that is not compatible with E61 accessories. If the factory gauge on a BES870 has failed, the correct part is the model-specific replacement gauge sized and calibrated for that machine. Attempting to adapt an E61 gauge to the Barista Express will result in fitment problems and inaccurate readings."
+  - question: "What pressure range and dial size do I need in an espresso pressure gauge?"
+    answer: "A gauge rated to 16 bar gives you enough headroom to read pump pressure accurately without compressing the useful range into the lower quarter of the dial — the 9 bar extraction target sits near the midpoint where accuracy is highest. On dial size, a 40mm dial is readable in a well-lit kitchen, but a 52mm or 60mm dial is noticeably easier to glance at mid-pull, especially in a steam-fogged environment."
+safety_topics:
+  - espresso-pressure
 ---
 
 Pressure gauges are a small part of the espresso equation, but they carry more diagnostic weight than most people expect. Knowing what your machine is doing at the group head , whether you're chasing 9 bar for a classic extraction or dialling into a pressure profile , changes how quickly you learn to pull a decent shot. If you've landed here from the broader [espresso machine](/espresso/) world and want to understand what a gauge actually does for your workflow, that's the right starting point.

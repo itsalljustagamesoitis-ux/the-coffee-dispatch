@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size espresso cup should I use for a double shot?"
+    answer: "A 2.5 to 3 oz cup is the right range for a standard double espresso. At 2 oz you have no crema room; at 3 oz the shot sits comfortably without spreading thin across the base. Anything over 4 oz accelerates cooling and makes the drink look sparse, which affects how it tastes before you even get to the first sip."
+  - question: "Does cup material actually affect espresso flavor?"
+    answer: "Material affects temperature, and temperature affects flavor. Thin porcelain transfers heat quickly from the shot into the cup wall, cooling the drink fast unless you pre-warm first. Thick ceramic holds heat more passively. Double-wall stainless steel insulates best of all, using an air gap rather than mass. The drink itself doesn't taste different from a given material, but a shot that cools 5 degrees before you drink it does."
+  - question: "Do I need to pre-warm espresso cups?"
+    answer: "For thin porcelain and single-wall ceramic, yes — pre-warming with hot water for 20 to 30 seconds makes a measurable difference to the shot's final temperature. Double-wall stainless construction eliminates this step because the air-gap insulation does the same work automatically. Thicker ceramic is forgiving but still benefits from pre-warming when you have the time."
+  - question: "Glass vs. ceramic espresso cup: which holds heat better?"
+    answer: "Single-wall glass transfers heat faster than ceramic, which means the drink cools quicker and the exterior gets hot to the touch. Ceramic holds temperature more reliably, especially when pre-warmed. Double-wall stainless steel outperforms both. For a straight espresso you're drinking immediately, the gap is manageable; for a cortado where you're steaming milk separately, the cooling time starts to matter more."
+  - question: "Set of two or set of six: which makes more sense?"
+    answer: "Two cups is right for solo use with one spare, or for paired morning service. Six cups makes sense for households that entertain, run the dishwasher every other day, or want rotation stock so no single cup gets used twice daily. The case against a six-cup set for one person is storage, not cost — if the kitchen can accommodate them without a shelf problem, the redundancy is worth it."
 ---
 
 Espresso cups are not neutral vessels. The material, wall thickness, and capacity all affect how the drink lands , how quickly it cools, whether the crema survives the pour, and whether the experience feels considered or improvised. If you've spent time dialling in your shot, the cup deserves similar thought. Browse the full [Espresso & Espresso Machines](/espresso/) hub for context on how equipment choices compound.

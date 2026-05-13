@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "KitchenAid semi-automatic with integrated grinder — is the built-in grinder good enough, or do you need a separate one?"
+    answer: "The KitchenAid's integrated burr grinder produces adequate espresso-grind quality for most home users — it is a genuine burr grinder with meaningful adjustment range, not a blade grinder bolted on. Most buyers will find it sufficient for daily use without an immediate upgrade. The limitation is upgradeability: if you outgrow the grinder, replacing it means replacing the whole machine, which is why buyers who already know they want to develop their espresso further often prefer a standalone grinder from the start."
+  - question: "KitchenAid semi-automatic vs. Flair lever machine — which is right for someone who wants to learn espresso?"
+    answer: "The KitchenAid is the better starting point for most beginners. It handles pump pressure automatically, which removes one major variable while you're developing technique with grind and tamp. The Flair lever machine demands manual pressure on every shot and produces inconsistent results while the technique develops — typically several weeks of practice. The Flair teaches more about extraction mechanics, but the KitchenAid is the lower-frustration path to consistent results."
+  - question: "Why does grinder quality matter more than machine quality for home espresso?"
+    answer: "Espresso extraction happens under pressure through a compressed puck in twenty-five to thirty seconds. That short window amplifies any inconsistency in grind particle size — fines over-extract and produce bitterness, coarse chunks under-extract and produce sourness, and mixed particle sizes produce both simultaneously. Drip brewing is more forgiving because longer contact time averages out some inconsistency. Espresso has no such margin."
+  - question: "Does the Echo 58mm calibrated tamper fit the KitchenAid portafilter?"
+    answer: "The Echo Tamper is sized for 58mm portafilters, which is the standard diameter used by the KitchenAid semi-automatic and most other home espresso machines in its class. Portafilter basket diameter is not universal across all machines, so confirming your specific model's basket size before purchasing any tamper is important. A tamper that doesn't fit correctly produces an uneven tamp regardless of technique."
+  - question: "OutIn Nano portable espresso machine — can it replace a counter machine for home use?"
+    answer: "It should not. The OutIn Nano is built for travel, camping, and situations where a counter machine isn't an option. Its USB-C self-heating feature is genuinely useful in those contexts, and pressure consistency has improved at this product tier. For daily home use on a kitchen counter, the KitchenAid is a more complete and capable machine by a meaningful margin in both pressure consistency and temperature stability."
+safety_topics:
+  - espresso-pressure
 ---
 
 The KitchenAid Artisan espresso maker sits in a category crowded with machines that promise more than they deliver. If you're researching it, you probably already know that espresso is less forgiving than drip coffee , grind consistency, tamp pressure, and temperature stability all matter in ways that don't apply when you're making a pot of morning coffee. The full range of what's involved is worth understanding before you buy, and the [Espresso & Espresso Machines](/espresso/) hub is a good place to start if you haven't already.

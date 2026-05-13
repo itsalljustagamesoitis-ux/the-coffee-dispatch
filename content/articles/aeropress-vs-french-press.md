@@ -46,6 +46,17 @@ product_a: "aeropress-premium-coffee-press-glass"
 product_b: "the-pathfinder-school-french-press-for-camping"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "AeroPress vs French press — which brewer produces better coffee?"
+    answer: "Neither method produces objectively better coffee — they produce different coffee. AeroPress uses pressure to create a concentrated, low-acidity cup with minimal sediment. French press uses full immersion without pressure, producing more body and oil in the cup. If you drink coffee black and value texture and richness, French press is the natural fit. If you prefer a cleaner cup or make milk-based drinks, AeroPress has the advantage."
+  - question: "Which is easier to learn as a beginner — AeroPress or French press?"
+    answer: "French press is simpler to learn at the basic level — coarse grind, hot water, four minutes, press. AeroPress has more variables to experiment with, which is both its appeal and its initial complexity. That said, AeroPress is forgiving of mistakes: a slightly wrong steep time rarely ruins the cup. Both are learnable in a week of daily brewing, and neither requires the precision that pour-over demands."
+  - question: "AeroPress or French press for camping — which travels better?"
+    answer: "For camping, the Pathfinder School French Press is purpose-built for field use and French press generally tolerates the coarser grind that hand grinders produce in the field. AeroPress is also a legitimate camping option — the original plastic version especially — but the Premium model's glass components introduce fragility that the original avoided. Stainless steel construction should be the baseline requirement for anything going into a pack."
+  - question: "Can I make cold brew with an AeroPress or a French press?"
+    answer: "Both methods work for cold brew. French press is arguably more natural for it — cold brew is essentially extended immersion, which is exactly what French press does, just with cold water and a longer steep time of 12 to 24 hours. The 34 oz SZHETEFU gives you enough capacity to make it practical as a weekly ritual. AeroPress can produce cold brew concentrate using a modified cold steep method, though the volume is smaller per cycle."
+  - question: "AeroPress Premium vs SZHETEFU French press — which is better for a household of two?"
+    answer: "The SZHETEFU 34 oz is the more practical choice for two people: enough volume to brew for both in a single press, double-wall insulation that keeps coffee at temperature while you work through it, and dishwasher-safe construction that removes daily cleanup friction. The AeroPress Premium is the better solo device — it brews one serving at a time and excels at cup clarity and flexibility, but two-person morning routines requiring back-to-back brewing add friction the SZHETEFU avoids."
 ---
 
 The AeroPress vs French press question comes up constantly in [Brewing Methods](/brewing-methods/) discussions, and it deserves a straight answer rather than the usual "it depends" hedge. Both are manual immersion brewers. Both produce excellent coffee. But they reward different things, and the wrong choice will frustrate you.

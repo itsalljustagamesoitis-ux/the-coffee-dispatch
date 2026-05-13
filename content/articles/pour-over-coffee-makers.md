@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "17 oz vs. 27 oz pour over carafe — which size is right for my household?"
+    answer: "The 17 oz Bodum is a one-person vessel — it brews one generous mug or two standard ones and stops there. If your morning routine is a single cup and you are done, that is all you need. If you drink two cups before leaving the house, or a second person in the household wants coffee, start at 27 oz. Running a carafe twice before 8 a.m. because you undersized it is a frustration that compounds quickly."
+  - question: "What is the difference between a single stainless steel filter and a double stainless filter?"
+    answer: "A single stainless filter allows coffee oils through fully, producing a rich, full-bodied cup with some fine sediment. A double filter adds a second mesh layer that catches more fine particles, producing better clarity while retaining most of the body. The Unbreakable pour over with double filter is the best example of the double-filter approach on this list and is worth considering if sediment in the last inch of your mug bothers you."
+  - question: "Is borosilicate glass actually stronger than regular glass?"
+    answer: "Borosilicate glass is specifically more resistant to thermal shock — the stress caused by rapid temperature changes. For pour over brewing, where near-boiling water meets a room-temperature vessel repeatedly, this is a meaningful difference. It will not crack from heat cycling the way standard glass would. It is not meaningfully more resistant to physical impact, however — drop it on a tile floor and it breaks like any glass carafe."
+  - question: "How much coffee should I use in a 27 oz pour over carafe?"
+    answer: "A standard starting ratio is 1 gram of coffee per 15 to 17 grams of water, which most people round to about 60 grams of coffee per liter. For a 27 oz carafe, which is approximately 800 ml, that works out to roughly 47 to 53 grams of coffee. For the 17 oz Bodum, you are in the 25 to 30 gram range. Adjust based on preferred strength and dial from there."
+  - question: "Can I leave a glass pour over carafe on the burner to keep coffee warm?"
+    answer: "On a stovetop-safe model, yes — but with low heat only. High direct heat causes thermal stress even in borosilicate glass, and it also degrades brewed coffee quickly. If keeping coffee warm is a regular need, a low-wattage warming plate at the lowest setting is safer than a gas or electric burner. Brewed pour over is best consumed within twenty minutes; after that, a quality thermal carafe holds heat better than any glass option."
 ---
 
 Pour-over coffee has a reputation for difficulty that it hasn't earned. Most of that reputation comes from specialty-coffee content aimed at people who already own a Niche grinder and a gooseneck kettle , not someone trying to brew a better cup on a Tuesday morning. The truth is simpler: grind fresh, heat your water to around 200°F, pour steadily, and wait four minutes. That's most of it. Browse the full range of [brewing methods](/brewing-methods/) to see where pour-over fits against other approaches.

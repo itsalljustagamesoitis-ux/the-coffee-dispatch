@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does decaf whole bean coffee actually taste close to regular?"
+    answer: "Quality decaf is significantly closer than the category's reputation suggests. Swiss Water Process preserves most of the flavor compounds that make coffee taste like coffee. The primary difference is a slight reduction in complexity, with origin notes and brightness a bit muted compared to the same bean with caffeine intact. At medium roast that gap is more apparent. At dark roast it is harder to detect."
+  - question: "Swiss Water Process vs solvent decaffeination for whole bean: what is the practical difference?"
+    answer: "Swiss Water Process removes caffeine by soaking green beans in caffeine-free, flavor-saturated water so only the caffeine migrates out. Solvent-based methods use ethyl acetate or methylene chloride, which is faster and cheaper but can strip some flavor compounds in the process. For whole bean decaf where flavor is the point, Swiss Water Process is the standard worth paying for, and both San Francisco Bay options in this lineup carry that certification."
+  - question: "Medium roast or dark roast decaf: which is more versatile across brew methods?"
+    answer: "Medium roast is the more versatile choice if you want one bag that works across drip, pour-over, and espresso. Dark roast suits espresso and milk-forward drinks where body and boldness are the priority, but it is harder to use well in filter methods where the smoky profile can dominate. The San Francisco Bay Decaf Gourmet Blend at medium-dark is the practical compromise if you brew across multiple methods."
+  - question: "How quickly should I finish a bag of whole bean decaf to get the best flavor?"
+    answer: "Aim to finish within four to six weeks of the roast date, not the purchase date. Whole bean stays fresh longer than ground, but decaf beans are more porous and oxidation-prone than caffeinated beans due to the decaffeination process. A roast date on the bag is the only reliable freshness indicator. Best-by dates printed twelve months out tell you nothing useful."
+  - question: "Is a five-pound bulk bag of decaf worth buying for a household?"
+    answer: "Only if you move through it in four to five weeks. A five-pound bag lasts most households eight to ten weeks, which is too long for decaf. The last pound of a five-pound purchase will taste noticeably older than the first, and proper storage slows but does not stop that process. Two-pound bags hit a better balance for regular decaf drinkers. The five-pound Coffee Bean Direct option makes sense only for high-volume households that actually consume it quickly."
 ---
 
 Decaf whole bean coffee has a reputation problem it doesn't deserve. The category has improved substantially , better sourcing, better decaffeination methods, better roasting , but most buyers still reach for whatever's on the shelf without knowing what separates a genuinely good bag from one that tastes like cardboard that went to sleep. A quick tour through the [Coffee Beans & Roasts](/beans/) options available right now shows the range is wider than most people expect.

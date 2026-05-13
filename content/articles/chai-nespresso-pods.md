@@ -49,6 +49,17 @@ products:
 tags: ["pods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are there genuine chai tea pods that work with Nespresso Original machines?"
+    answer: "Yes. The OzPod Chai Tea Capsules are a tea-based option specifically designed for Nespresso Original Line machines. They contain spiced chai tea rather than flavored coffee, which is the meaningful distinction to check before buying anything labeled chai in this category. Most third-party pods target the Original Line because it accepts non-proprietary capsules, giving you far more variety than the Vertuo system allows."
+  - question: "What is the difference between a chai pod and a chai-flavored coffee pod?"
+    answer: "A chai pod contains spiced tea — black tea with cardamom, ginger, cinnamon, and similar spices — brewed under pressure to produce a concentrate. A chai-flavored coffee pod is still primarily coffee, with spice flavoring added over a roasted base. The OzPod is genuinely tea-based. The ROSSO CAFFE and Nespresso Barista options in this article are coffee-based. Which you want depends on whether you're after a tea drink or a spiced coffee drink — they are meaningfully different."
+  - question: "Can I use chai pods in a Nespresso Vertuo machine?"
+    answer: "No. Vertuo machines use a barcode-based locking system that only accepts official Nespresso Vertuo capsules. Third-party chai pods, including the OzPod, are not compatible with Vertuo. If you own a Vertuo machine and want a flavored or spiced drink, the Nespresso Capsules Vertuo Barista Flavored Pack is the closest available option through official channels — though it's flavored coffee, not chai tea."
+  - question: "Do I need a milk frother to use chai pods properly?"
+    answer: "Not strictly, but it helps significantly. Most chai pods produce a concentrated shot meant to be diluted with steamed or frothed milk to make a chai latte. Without frothing, you can add cold or heated milk, but the texture won't replicate a cafe-style drink. A handheld frother is an inexpensive addition that makes a real difference in the finished result."
+  - question: "Are certified compostable pods better for the environment than aluminum?"
+    answer: "Certified compostable pods like the OzPod have a cleaner end-of-life story than aluminum, provided you have access to industrial composting. Home compost bins rarely reach the temperatures needed to break down certified compostable capsules within a reasonable timeframe. Aluminum is technically recyclable through manufacturer take-back programs, but most buyers don't engage with the process. Neither is a perfect system — certified compostable with the right disposal route is the better practical choice where that access exists."
 ---
 
 Chai pods for Nespresso sit in an odd corner of the capsule market , genuinely useful if you want variety in your morning rotation, but easy to get wrong if you buy based on the label rather than what's actually in the pod. The [Pods & Capsules](/pods/) category has expanded well beyond espresso at this point, and chai is one of the more interesting directions it's gone.

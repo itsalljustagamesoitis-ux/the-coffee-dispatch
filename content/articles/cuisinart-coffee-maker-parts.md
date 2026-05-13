@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Will the DCC-1200FB brew basket replacement fit my specific Cuisinart model?"
+    answer: "The DCC-1200FB brew basket holder explicitly covers the DCC-1200, DCC-1200BCH, DCC-1200BW, DCC-1200CP, DCC-1200MRP1, and DCC-1200W. Pull the full model number from the label on your machine's base — including the suffix — and match it character for character against the compatibility list before ordering. Physical similarity between Cuisinart models doesn't mean part interchangeability."
+  - question: "Paper filter vs. gold tone permanent filter — does the switch actually change how coffee tastes?"
+    answer: "Yes, and the direction matters. Paper filters catch more coffee oils and fine sediment, producing a cleaner, brighter cup. The gold tone mesh allows those oils through, which adds body and a slightly different finish — closer to French press character than filtered drip. Neither is objectively better; it depends on your preference, roast level, and grind. Medium and dark roast drinkers often prefer the added body; light roast drinkers frequently prefer the clarity paper provides."
+  - question: "Can I replace just the grinder in my Cuisinart DGB-series grind-and-brew machine?"
+    answer: "Yes, if your machine is in the compatible DGB range — specifically the DGB-475, DGB-500, DGB-550BK, DGB-600BC, DGB-625BC, and related models. The critical detail: the Cuisinart DGB-500GRD replacement grinder requires the DGB-500GLID lid to function, and they're sold separately. Confirm your current lid is intact before ordering the grinder alone, or buy both together if the lid is also cracked."
+  - question: "How do I diagnose whether the spring-loaded stopper is causing my brew basket to drip?"
+    answer: "Hold the brew basket firmly in place by hand during a brew cycle. If the dripping stops or significantly reduces, the stopper mechanism is failing to maintain proper basket pressure and the spring-loaded stopper kit is the correct repair. If the dripping continues regardless of manual pressure, the failure is upstream of the basket — a cracked seal, a clogged valve, or another issue that the stopper kit won't resolve."
+  - question: "When does it make sense to repair a Cuisinart vs. replace the whole machine?"
+    answer: "A single mechanical part failure on an otherwise functional machine almost always justifies repair — brew basket parts, filter holders, and grinder burrs are inexpensive relative to a new machine. The calculation shifts when multiple systems have failed or the machine shows signs of broader deterioration like slower heating or inconsistent brew temperature. One repair is maintenance; two or three in a short span signals the machine has reached end of practical life."
 ---
 
 Cuisinart coffee makers have a reputation for outlasting their weakest components , which is either reassuring or frustrating depending on which part just failed. Most of the time, it's something small: a brew basket that won't latch, a grinder burr that's lost its edge, a filter that's been rinsed one too many times. Knowing which replacement part actually solves the problem is most of what this guide covers. For a broader look at how Cuisinart fits into the [Coffee Makers](/coffee-makers/) landscape, that's worth a separate read.

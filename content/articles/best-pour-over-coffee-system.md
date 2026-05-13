@@ -42,6 +42,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does a pour over setup need a gooseneck kettle to work?"
+    answer: "A gooseneck kettle is strongly recommended because the narrow spout gives you precise, low-flow control directly over the coffee bed. A standard kettle spout dumps water too fast and disrupts the grounds unevenly. If you're investing in a pour over setup, a gooseneck should be part of it from the start."
+  - question: "What grind size should I use for pour over coffee?"
+    answer: "Medium to medium-coarse is the standard starting point, roughly the texture of coarse sea salt. Finer grinds slow drain rate and increase extraction, which tips into bitterness; coarser grinds drain faster and can produce an under-extracted, flat cup. Most variables in pour over come back to grind size before anything else — adjust by one setting at a time and taste critically."
+  - question: "All-in-one pour over kit vs. buying components separately — which is smarter?"
+    answer: "An all-in-one kit is the right entry point if you're starting from scratch and don't want to make four sourcing decisions at once. The trade-off is that you're accepting the quality ceiling of the weakest component, typically the grinder. Buying individually lets you allocate budget where it matters most and upgrade each piece on its own timeline. If you already own a good electric burr grinder and a gooseneck kettle, a standalone dripper makes more sense than a kit that duplicates what you have."
+  - question: "Is the OXO Brew Pour Over easier to use than a standard dripper?"
+    answer: "Yes, meaningfully so. The built-in water tank distributes water through a showerhead-style dispenser, which removes the manual pouring variable entirely. For beginners, that eliminates the most technique-dependent step in the process. The trade-off is single-cup capacity and less control for experienced pourers who want to manipulate flow rate deliberately."
+  - question: "How long does a pour over actually take from start to finish?"
+    answer: "Start to finish — grinding, heating water, blooming, and pouring — takes approximately five to seven minutes. The pour itself runs two to three minutes for a standard 20 oz batch, and cleanup adds another two minutes. That's longer than pressing a button on a drip machine but comparable to making French press coffee."
 ---
 
 Pour over coffee has a reputation for being complicated. It isn't. The variables are grind size, water temperature, and pour technique , and you can get a working handle on all three within a week of trying. What you get in return is a cup that's noticeably cleaner and more nuanced than anything a standard drip machine produces. For anyone serious about [Brewing Methods](/brewing-methods/), it's the most direct path from good beans to a good cup.

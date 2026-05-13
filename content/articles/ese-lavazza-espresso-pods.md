@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "ESE pods vs Lavazza Blue capsules: are they interchangeable?"
+    answer: "No. ESE is an open standard that works in any machine accepting the 44mm ESE format, regardless of brand. Lavazza Blue is a proprietary capsule system that only works in Lavazza Blue machines. The physical formats are different, the internal pressure profiles are different, and they cannot be swapped. Check your machine's manual for the accepted format before purchasing either, and do not assume the Lavazza brand name means compatibility across their product lines."
+  - question: "Which Lavazza ESE pod is best for a strong, full-bodied shot?"
+    answer: "The Lavazza Gran Espresso ESE pods are the right choice for a robust, full-bodied espresso. Gran Espresso is a dark blend with low acidity and strong body that holds up well straight and works reliably in milk drinks. For comparison, the illy Intenso is a 100% Arabica alternative with cocoa and dried fruit notes that produces a softer bitterness. Both are genuine options. Gran Espresso is the more forgiving choice on home machines where temperature stability varies."
+  - question: "Is a reusable ESE basket worth buying if I already have a grinder?"
+    answer: "If you have a capable burr grinder and some tamping experience, the 58mm stainless steel reusable basket is a practical addition that gives you the option to use either pods or fresh-ground coffee in the same machine. If you do not have a grinder, the basket does not help much on its own. The value of the format is flexibility for people already equipped to use it, not a standalone solution that replaces the need for grinding equipment."
+  - question: "Darker vs lighter roast ESE pods on a home thermoblock machine: which extracts more reliably?"
+    answer: "Darker roasts perform more reliably on home machines where temperature stability varies. A thermoblock that cycles temperature between shots will extract a dark roast more forgivingly than a light one. Lighter roasts extracted through an unstable thermoblock will taste thin and sour more easily because they are more sensitive to temperature drops. Start with darker blends like Gran Espresso and work lighter once you understand your machine's extraction behavior."
+  - question: "How do I store ESE pods to keep them fresh after opening the packaging?"
+    answer: "Keep pods in a sealed container away from light, heat, and moisture. Most ESE pods come in individually sealed sachets that protect freshness until opened. Once the outer packaging is open, use the remaining pods within a few weeks for best flavor. The best-before date on the packaging reflects optimal quality under proper storage conditions. Flavor degrades noticeably past that date but the pods are not unsafe."
 ---
 
 ESE pods are a genuinely useful format , consistent dose, clean workflow, no grinder required , and Lavazza makes some of the best versions available. The question isn't whether ESE pods work. It's which pods and accessories are worth buying, and for whom. If you're building out or troubleshooting an [espresso setup](/espresso/), this breakdown should save you from buying something that doesn't fit how you actually brew.

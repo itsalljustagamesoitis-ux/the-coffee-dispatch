@@ -49,6 +49,19 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do I need a special moka pot for induction, or can I adapt my existing aluminum pot?"
+    answer: "Standard aluminum moka pots are not induction-compatible because aluminum is not magnetic. You have two options: buy a purpose-built induction moka pot like the Bialetti Moka Induction range, which has a stainless steel base bonded to the aluminum body, or use the Bialetti Heat Diffuser Adapter to make any existing aluminum pot work on an induction hob. The native induction pot is simpler and slightly more responsive; the diffuser makes sense if you already own a pot you're happy with and recently switched cooktops."
+  - question: "What is the practical difference between the 4-cup and 6-cup Bialetti Moka Induction?"
+    answer: "The 4-cup version produces approximately 170ml of coffee; the 6-cup produces approximately 280ml. Functionally they operate identically — same induction base design, same materials, same brew process. The choice is purely a yield question based on household size. Single drinkers should default to the 4-cup; households with two regular coffee drinkers should default to the 6-cup. Running either pot significantly underfilled produces noticeably weaker and less consistent results."
+  - question: "Red or black Bialetti Moka Induction — is there a functional difference?"
+    answer: "Neither color is functionally better — the induction base, aluminum body, and internal components are identical across both. The practical difference is how the finish ages: the black powder coat conceals heat discoloration better over months of daily stovetop use. The red finish shows more visible wear over time, particularly near the base where heat exposure is highest. For a pot stored in a cabinet the distinction is irrelevant; for a pot living on the counter, black ages more gracefully."
+  - question: "What heat setting should I use for a moka pot on an induction cooktop?"
+    answer: "Medium-low is the right starting point for most induction hobs. You want the pressure to build gradually and the coffee to flow into the upper chamber in a steady, controlled stream — not a sudden eruption, which indicates too-high heat and typically means over-extracted, bitter coffee. Induction responds faster than gas, so it requires more deliberate setting selection, but most cooktops offer enough granularity to dial in the correct setting within a few brew cycles."
+  - question: "Can the Bialetti Moka Induction also be used on gas or electric hobs?"
+    answer: "Yes. The Moka Induction range is compatible with all hob types — induction, gas, electric, and ceramic. The stainless steel base that enables induction compatibility does not limit performance on other heat sources. This makes it a practical choice if your living situation might change, or if you want to use the same pot on a portable gas burner when traveling."
+safety_topics:
+  - moka-pot-heat
 ---
 
 Switching a kitchen to induction is the kind of upgrade that forces a reckoning with every piece of equipment on the counter , including a moka pot that's been making decent stovetop espresso for years. Most classic aluminum moka pots don't work on induction without a workaround, which is how you end up here. The [Bialetti Moka Induction](product:bialetti-moka-induction-moka-pot-suitable) line solves that directly, and the heat diffuser adapter offers a second path for anyone committed to an existing pot. The full context of how this fits into your routine lives on the [Brewing Methods](/brewing-methods/) hub page.

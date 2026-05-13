@@ -35,6 +35,17 @@ products:
 tags: ["cold-brew", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Cold brew drip tower vs. immersion cold brew — which one actually tastes better?"
+    answer: "Slow drip cold brew tends to be lighter-bodied, brighter, and more nuanced than immersion cold brew, particularly with single-origin beans that have distinct floral or fruit notes. Immersion produces a fuller body and is more forgiving of grind inconsistencies. Neither method is inherently better — the right choice depends on the flavor profile you're after and how much setup complexity you're willing to manage."
+  - question: "How long does cold brew take in a drip tower?"
+    answer: "Typical extraction runs six to twelve hours depending on grind size, drip rate, and desired concentration. A one-drop-per-second drip rate is the standard starting baseline. Running the tower overnight is the most practical workflow — load it before bed and have cold brew ready in the morning."
+  - question: "What drip rate should I set on a cold brew tower?"
+    answer: "One drop per second is the recommended starting point. Too fast and you're doing an accelerated pour over into cold water, producing shallow, sour extraction. Too slow and grounds extract unevenly. The correct rate is a consistent drip — not a stream, not a sporadic trickle — sustained over the full brew window. Finer grinds may require a slightly more open valve; coarser grinds flow more freely."
+  - question: "Is the Yama tower worth it for a beginner, or should I start with immersion cold brew?"
+    answer: "Start with immersion if you're new to cold brew. It's cheaper to set up, more forgiving technically, and produces excellent results with minimal calibration. The Yama Cold Brew Maker makes sense once you've established a cold brew habit and want to explore what slow drip extraction adds to the flavor — jumping straight to a tower means learning two variables simultaneously."
+  - question: "How do I clean a cold brew drip tower without cracking the glass?"
+    answer: "Disassemble fully after each use and rinse all glass components in cool or lukewarm water — not hot, which risks thermal shock if the glass is still cold from brewing. Clean the valve assembly and filter screens with a small brush to remove coffee oils. Dry all components before reassembly. Leaving standing water in the carafe or upper chamber is the fastest route to off-flavors and mold."
 ---
 
 Drip towers are a niche tool , almost theatrical in how they work, water falling drop by drop through a column of grounds for hours , but they produce cold brew that's genuinely different from the immersion method most people start with. If you're spending real time exploring [Cold Brew & Iced Coffee](/cold-brew/), a slow drip setup is worth understanding before you commit.

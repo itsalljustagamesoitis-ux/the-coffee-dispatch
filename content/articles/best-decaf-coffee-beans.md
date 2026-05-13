@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does Swiss Water Process decaf actually taste better than solvent-processed decaf?"
+    answer: "Yes, in most cases. Swiss Water Process uses no chemical solvents and preserves significantly more of the original bean character than methylene chloride or ethyl acetate methods. The process soaks green coffee in water to draw out caffeine, then filters that water through activated charcoal while retaining flavor molecules for reuse in subsequent batches. The result is a cup that retains more origin complexity, particularly noticeable in medium-roast decafs where there's less roast flavor masking what the processing removed."
+  - question: "Which decaf coffee in this guide is best for espresso?"
+    answer: "Lavazza DEK is the most espresso-appropriate option. It's a purpose-built espresso blend combining Arabica and Robusta for body and crema development — exactly what pressurized extraction needs. The SF Bay French Roast is a reasonable alternative for a pure-Arabica darker-roasted shot. Medium-roast single-origin decafs like the Amazon Fresh Colombia or Blue Bottle tend to pull unevenly as espresso and are better suited to filter brewing methods."
+  - question: "SF Bay Coffee Decaf French Roast vs Kicking Horse Decaf — which 5 lb option is worth buying?"
+    answer: "The SF Bay 2 lb bag makes sense for daily decaf drinkers who want Swiss Water Process at an accessible price point. Kicking Horse adds organic and Fairtrade certification to Swiss Water Process and is a well-executed dark roast, but the 10 oz format runs out quickly and costs more per ounce. For high-volume consumption, SF Bay's larger format and lower price-per-ounce is the practical choice; for buyers who prioritize ethical sourcing credentials, Kicking Horse has the stronger case."
+  - question: "How long do decaf whole beans stay fresh after opening?"
+    answer: "Decaf whole beans stale at roughly the same rate as caffeinated beans — plan on two to three weeks after opening before quality degrades noticeably. The roast date matters more than the opening date: beans already four or five weeks from roast when you open the bag have a very short useful window remaining. Store in an airtight container away from heat and light, and avoid refrigerating — condensation does more damage than ambient temperature in most climates."
+  - question: "Does decaf coffee really taste different from regular coffee?"
+    answer: "Yes, though the gap varies considerably by decaffeination method and roast level. A well-made Swiss Water Process medium roast is noticeably different from a caffeinated equivalent — slightly less complex, sometimes flatter in the finish — but a dark-roast decaf closes that gap substantially because roast development is doing heavy lifting either way. The category's reputation for flat, papery cups comes from older solvent-based processing; Swiss Water Process and improved sourcing have changed what's achievable."
 ---
 
 Decaf has a reputation problem it mostly doesn't deserve anymore. The category spent decades defined by flat, papery cups , a consequence of harsh chemical decaffeination stripping flavor along with caffeine , but Swiss Water Process and improved sourcing have changed that. If you're buying whole beans and grinding fresh, a good decaf competes with caffeinated coffee on most measures that matter.

@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Moka pot vs. pump espresso machine — which should I choose for home use?"
+    answer: "The choice is about what output you want. A moka pot brews at roughly 1 to 2 bars of pressure using steam-driven water displacement, producing a concentrated, dense stovetop brew — not espresso in the strict sense. A pump machine delivers 9 or more bars and produces actual espresso with crema. If you want milk-based drinks with genuine microfoam, you need a pump machine. If you want strong black coffee from a beautiful stovetop brewer with no electrical dependency, a moka pot serves that well."
+  - question: "Is the copper finish on espresso machines actually copper or just a coating?"
+    answer: "Most products marketed as copper espresso machines use a PVD (physical vapor deposition) coating applied over stainless steel, or powder-coat finishing over aluminum. True copper moka pots exist and have historical precedent in Italian stovetop brewing, but most consumer machines use a copper-toned surface treatment. Copper PVD over stainless is durable and food-safe; it holds up better than copper-toned paint and requires less maintenance than actual copper."
+  - question: "Does the Café Bellissimo's integrated grinder replace a standalone burr grinder?"
+    answer: "For casual daily use, the integrated grinder is sufficient. For someone dialing in extractions carefully — adjusting grind size by single increments, chasing a specific shot time — a dedicated burr grinder offers more precision and a wider adjustment range. The Café Bellissimo is designed for streamlined use, and its grinder performs well within that use case. It's a convenience trade-off, not a performance substitute for a quality standalone grinder."
+  - question: "What portafilter size does the 54mm distribution tool fit, and does it work with my machine?"
+    answer: "The 54mm Espresso Distribution Tool fits the 54mm portafilter baskets used in Breville espresso machines — the Barista Express, Bambino Plus, and comparable models. It does not fit 58mm portafilters, which are standard on most European commercial-grade home machines. Check your machine's basket diameter before purchasing; this specification is in the product manual or the manufacturer's website under portafilter dimensions."
+  - question: "How often should I clean an espresso machine's group head?"
+    answer: "A quick brush-out of the group head and portafilter after each session — thirty seconds with a dedicated brush — prevents oil accumulation that affects shot flavor. A full backflush with cleaning tablets is recommended weekly for machines that support it, and monthly for lighter users. Descaling frequency depends on water hardness in your area; most manufacturers recommend every two to three months. The five-piece cleaning kit in this roundup covers the daily and weekly maintenance tasks that most home setups skip."
+safety_topics:
+  - espresso-pressure
 ---
 
 Copper-finished espresso equipment has a way of looking like a serious purchase before you've spent a cent. That visual language , the warm metallic tones, the Italian-kitchen associations , does real work on buyer psychology. The [Espresso & Espresso Machines](/espresso/) hub exists partly because of this: equipment in this category spans genuine brewing tools, decorative objects, and everything in between, and the overlap isn't always obvious from a product listing.

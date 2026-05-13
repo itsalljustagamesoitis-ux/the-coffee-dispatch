@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is Bustelo whole bean coffee good for espresso machines or mainly for moka pots?"
+    answer: "It works in both, with different grind settings. Espresso machines require a fine, consistent grind — a quality burr grinder is non-negotiable. Moka pots tolerate a slightly coarser grind and are more forgiving of variation. The dark roast profile suits both methods because the low acidity and heavy body hold up under high-pressure extraction and stovetop brewing alike. Do not use a blade grinder for either application."
+  - question: "32 oz single bag vs. 32 oz four-pack of Supreme Bustelo — which format makes sense?"
+    answer: "The coffee is identical — same roast, same blend, same flavor profile. The four-pack commits you to eight pounds at once, which only makes sense if your consumption rate is high enough to work through each bag within a few weeks of opening. For most single-person households, the single 32 oz bag is the smarter buy. If you have not tried Bustelo whole bean before, start with the single bag before committing to a case."
+  - question: "How does Cafe La Llave compare to Bustelo for Cuban-style espresso?"
+    answer: "Both are dark roast, espresso-focused blends in the Cuban-style tradition and perform similarly in moka pots and espresso machines. Cafe La Llave tends to extract slightly faster and pulls a more bitter, denser shot than Bustelo at the same grind setting. It is a matter of taste preference rather than a quality gap. If you are deciding between them, brew both through the same setup at the same grind setting before committing to a bulk purchase."
+  - question: "Why does Bustelo use a best-by date instead of a roast date on the bag?"
+    answer: "Mass-market coffee at this price point uses best-by dating rather than roast dating — it is a logistics and shelf-life convention, not a Bustelo-specific decision. Best-by dates can mean beans are anywhere from a few weeks to several months off roast. The practical implication is to buy from retailers with fast turnover, buy in formats you will consume quickly, and assess freshness from how the shot pulls and how crema develops rather than from the packaging."
+  - question: "Is Lavazza Super Crema a reasonable step up if I want more complexity than Bustelo delivers?"
+    answer: "Yes, and it is the most direct upgrade path from this category. Lavazza Super Crema is a medium espresso roast with a disclosed Arabica and Robusta blend ratio, which gives you more sweetness and complexity than any of the dark-roast options in this article. The trade-off is a smaller 22 oz bag and a flavor profile that will not suit buyers who specifically want the bold, roast-forward character of the Bustelo family."
 ---
 
 Café Bustelo whole bean coffee occupies a specific lane: dark, espresso-style roasts aimed at buyers who want that thick, syrupy Cuban-coffee character without paying specialty-roaster prices. It's a crowded shelf position, and the differences between SKUs matter more than the marketing suggests. If you're browsing the full range of [Coffee Beans & Roasts](/beans/) and keep landing back on the Bustelo family, this guide is built around that decision.

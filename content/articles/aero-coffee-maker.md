@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "AeroPress Original vs AeroPress Go — which one should I buy for travel?"
+    answer: "The AeroPress Go is the right choice if travel is your primary use case. It packs into its own mug, which acts as a carrying case for all components — filters, stirrer, scoop, and the brewer itself. Nothing rattles loose, and the footprint in a bag is genuinely small. The original is also portable in a practical sense but was not engineered for it. If you primarily brew at home and only occasionally travel with it, the original is the more practical base."
+  - question: "Is the AeroPress XL worth buying if I only make one cup at a time?"
+    answer: "No. The XL's main advantage is brewing volume — it's the right choice when two people are using it or when you regularly drink large-format cups. If you're making one standard mug per session, the original or Clear version handles that without the added bulk. Buy the XL when you've already found yourself wishing the original made more coffee per cycle."
+  - question: "Does the AeroPress Premium brew better coffee than the plastic versions?"
+    answer: "The materials differ but the brewing process is identical — the glass, steel, and aluminum construction affects feel and durability, not extraction. The glass chamber provides useful visual feedback during brewing, which can help with technique calibration when you're adjusting steep time or experimenting with grind sizes. If you're choosing between versions purely on cup quality, the Premium offers no advantage; if you want a home brewer built to last decades, the materials justify the step up."
+  - question: "Do I need a burr grinder to get good results from an AeroPress?"
+    answer: "A burr grinder makes a significant difference even though the AeroPress is relatively forgiving by manual brewing standards. A blade grinder produces uneven grounds that make extraction inconsistent — some particles over-extract while others under-extract, producing a cup that tastes simultaneously bitter and flat. An entry-level hand burr grinder is sufficient and produces noticeably better results. If you're working with a blade grinder, fixing that is more impactful than any choice between AeroPress versions."
+  - question: "Paper vs metal filter in an AeroPress — which produces a better cup?"
+    answer: "Neither is objectively better — they produce different cups. Paper microfilters trap coffee oils and fine particles, producing a clean, bright cup with more defined acidity. Metal filters allow oils and micro-particles through, resulting in a heavier, fuller-bodied cup closer in character to French press. If you're coming from French press and miss the body, a metal filter is likely the adjustment that makes the AeroPress feel right."
 ---
 
 The AeroPress occupies a specific and useful place among [Coffee Makers](/coffee-makers/) , it brews fast, travels well, and produces coffee that most automatic drip machines simply cannot match. If you're looking at the AeroPress lineup and trying to figure out which version actually fits your situation, that's a practical question worth answering plainly.

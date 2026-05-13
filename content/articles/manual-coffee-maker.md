@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "AeroPress vs. French press: which manual coffee maker is better for beginners?"
+    answer: "The AeroPress has the most forgiving technique of any fully manual brewer. It produces consistently good coffee across a wide range of grind sizes and steep times, so small errors don't ruin the cup. The French press is similarly forgiving on technique but more sensitive to grind consistency — coarse, even grinds matter to keep sediment manageable. Either is a reasonable starting point; the AeroPress has the slight edge for new manual brewers."
+  - question: "Is a moka pot the same as an espresso machine?"
+    answer: "No. A moka pot produces strong, concentrated coffee using roughly 1 to 2 bars of steam pressure — well below the 9 bars of a proper espresso machine. The result is bolder and more concentrated than drip coffee, which makes it a useful substitute for milk-based drinks, but the extraction profile, crema production, and body differ. For home use without a dedicated machine, a moka pot is a practical alternative rather than a direct replacement."
+  - question: "French press vs. pour over: which produces better coffee?"
+    answer: "They produce different cups, not better or worse ones. French press uses full immersion — grounds steep in contact with water for several minutes before plunging — which produces a heavier, oil-rich cup with more body. Pour over runs water through grounds and a filter, producing a cleaner cup with more clarity and less sediment. The preference between them is largely a matter of cup texture, not quality."
+  - question: "Can I use the AeroPress or moka pot for camping?"
+    answer: "Both are well-suited to it. The AeroPress is the most portable and durable — it requires only hot water, packs flat, and is nearly indestructible. The GROSCHE Milano moka pot works over a camp stove or open flame and produces a strong brew in a few minutes. Glass-bodied pour-over and French press options introduce fragility risk that most people don't want to manage on the road."
+  - question: "Does a manual coffee maker produce better coffee than an automatic drip machine?"
+    answer: "A well-executed pour-over or AeroPress brew, made with quality beans and a good burr grinder, will outperform most automatic drip machines on flavor clarity and extraction control. The variables that matter most — water temperature, grind consistency, brew ratio — are all within the brewer's control in a manual setup. Automatic machines optimize for convenience, which is a different priority, not an inferior one."
 ---
 
 Manual brewing is slower than pressing a button, and that's the point. Whether you're pulling concentrated shots from a moka pot, steeping grounds in a French press, or dialing in a pour over, hands-on brewing gives you control that automatic machines don't offer , and often produces better coffee. The range of [Coffee Makers](/coffee-makers/) suited to this approach is genuinely wide, so narrowing it down takes some honest evaluation.

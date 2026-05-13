@@ -49,6 +49,19 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does the grinder really matter more than the espresso machine?"
+    answer: "Yes, more than most buyers expect. Grind consistency determines particle size uniformity, which directly controls extraction evenness. A shot pulled through a poorly ground puck will be uneven regardless of the machine's temperature stability or pressure consistency. The article's recommendation is explicit — weight your budget toward the grinder first, then the machine. The Gaggia Classic with a quality burr grinder will outperform a high-end machine running supermarket pre-ground every single time."
+  - question: "Lever machine vs. pump machine — which is better for home espresso?"
+    answer: "It's a workflow and temperament question, not a quality question. A lever machine like the La Pavoni Stradivari puts pressure control in your hands — a skilled user can vary the pressure profile mid-shot in ways pump machines can't replicate. Pump machines like the Gaggia Classic handle pressure mechanically and let you focus on grind, dose, and tamp. For most buyers, a pump machine is the more practical starting point. For buyers who want the tactile engagement of manual extraction, the lever is the right choice."
+  - question: "Single boiler vs. dual boiler — does it matter for home use?"
+    answer: "A dual-boiler machine like the Breville BES920XL removes the wait between pulling a shot and steaming milk by managing brew and steam temperatures independently. For someone making one Americano in the morning, that wait on a single-boiler machine is irrelevant. For someone pulling multiple shots and steaming milk for a household, the wait compounds into a real time cost. Decide based on your actual workflow — on a well-maintained single-boiler machine the wait is typically under a minute."
+  - question: "How often should an espresso machine be backflushed?"
+    answer: "For daily home use, a water-only backflush every few days and a detergent backflush weekly is a reasonable baseline. Machines with a solenoid valve — including the Gaggia Classic and the Breville Dual Boiler — respond well to this routine. A 58mm blind filter like the one in the Watchget cleaning set is the tool you need. Skipping this routine allows coffee oils to accumulate in the group head, which introduces a rancid off-note that grind adjustments will not fix."
+  - question: "Is the WACACO Picopresso good enough as a primary home espresso maker?"
+    answer: "For most users, no — but the context matters. The Picopresso is a serious tool for travel or for building intuition about extraction mechanics, and it produces genuine espresso with proper technique and the right grind. As a daily driver for someone making multiple drinks at home, it lacks the thermal stability and workflow efficiency of a countertop machine. Evaluate it as a travel companion and it's excellent; evaluate it against a dual-boiler machine on shot consistency and the comparison is unfair to both."
+safety_topics:
+  - espresso-pressure
 ---
 
 Bezzera has been making espresso machines since 1901 , the brand is, by most accounts, the origin point of the modern espresso machine. That heritage matters, but it does not automatically make Bezzera the right choice for every buyer. If you're researching [espresso machines](/espresso/) and landed here, the more useful question is whether a Bezzera fits your actual situation, or whether something else serves you better.

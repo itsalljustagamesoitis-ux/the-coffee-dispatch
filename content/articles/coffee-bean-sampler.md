@@ -49,6 +49,17 @@ products:
 tags: ["beans", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do I need a grinder to use a coffee bean sampler?"
+    answer: "Only for whole bean sets — and four of the five on this list are whole bean. The Atlas, Split Oak, Bourbon Barrel, and Bones Coffee samplers all require grinding before brewing. A burr grinder, even a modest hand grinder, gives you meaningfully better results than a blade grinder by producing consistent particle size. If the recipient doesn't own a grinder, the pre-ground Gourmet Coffee Sampler Gift Box Set is the only option here that works without one."
+  - question: "Atlas Coffee Club vs Split Oak — which is better for a first-time specialty coffee buyer?"
+    answer: "Both are strong starting points for different reasons. Atlas covers eight origins with deliberate geographic diversity, making it a structured orientation to how geography and processing method shape cup flavor. Split Oak covers nine origins all at medium roast, which lowers the variable count and is more accessible for someone not yet opinionated about roast level. If the buyer is genuinely curious and wants to learn, Atlas teaches more. If you want a safe, approachable gift, Split Oak is the lower-risk choice."
+  - question: "Single-origin sampler vs flavored sampler — what is the actual difference?"
+    answer: "A single-origin sampler like the Atlas set is an education tool — it shows you how geography, processing method, and roast level change the character of the cup. A flavored sampler like the Bones Coffee pack is a brand exploration tool — it helps you find which flavor profile from a specific roaster you'd buy a full bag of. They answer completely different questions, and buying the wrong type for your intent leads to disappointment."
+  - question: "Are two-ounce sampler bags usable for espresso dialing-in?"
+    answer: "Barely, and that's being generous. Two ounces is enough for two or three cups in a drip or pour-over context — enough to form an impression. For espresso, it's barely enough to complete one dialing-in session before you've exhausted the bag. If you pull espresso daily, look for samplers with at least four-ounce bags per origin, or treat the sampler as a tasting orientation rather than a serious dialing-in exercise."
+  - question: "How do I know if the coffee in a sampler is actually fresh?"
+    answer: "Look for a roast date printed on the individual bags, not just a best-by date on the outer packaging. Best-by dates are calculated backward from an assumed roast date and tell you almost nothing about actual freshness. For pour-over and drip, coffee within four to six weeks of roast is generally acceptable. For espresso, three weeks is the practical ceiling. A roaster who prints individual roast dates per bag in a sampler is making a different commitment than one who packages a single batch date on the outer box."
 ---
 
 Sampler sets are the most practical entry point into the wider world of specialty coffee , a way to taste across origins, roasters, and roast levels before committing to a full bag of anything. The [Coffee Beans & Roasts](/beans/) category covers a lot of ground, and a well-chosen sampler does the orientation work for you. One caveat I'll name upfront: roast date matters even here, and any sampler that doesn't print one on the bag is asking you to trust branding over evidence.

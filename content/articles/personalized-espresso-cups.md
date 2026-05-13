@@ -49,6 +49,17 @@ products:
 tags: ["espresso", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size espresso cup do I actually need for a double shot?"
+    answer: "A double espresso runs approximately 2 oz of liquid, so a 3 to 3.5 oz cup is the right proportion — the crema sits at the top rather than pooling thinly across a large surface. The KIVY and Hlukana sets are both sized in this range. Cups at 5 oz, like the PARACITY, are better suited to cortados or other small milk drinks where espresso is a base component."
+  - question: "Does double-walled glass actually keep espresso hotter than thick ceramic?"
+    answer: "Double-walled glass insulates through the air layer between the walls rather than through material mass, and it performs well without any preheating habit. A thick ceramic cup preheated with hot water will hold temperature comparably, but the preheating step is easy to skip. For daily use without the preheating discipline, double-walled glass like the Gencywe set is the more consistently warm option."
+  - question: "What is the difference between the KIVY stoneware set and the Hlukana porcelain set for home espresso?"
+    answer: "Both are 3 to 3.5 oz and serve four people, making them the right size for a straight double shot. The KIVY set includes saucers and has a warmer, Italian-café aesthetic — better for hosting and kitchens that suit that look. The Hlukana set is white porcelain, aesthetically neutral, and explicitly microwave and dishwasher safe. If you host regularly, the KIVY's saucers give it the practical edge."
+  - question: "Is a personalized espresso cup actually functional, or mostly a gift item?"
+    answer: "It depends entirely on which product you are looking at. The Gencywe double-walled glass set and the KIVY stoneware set with saucers are genuine, functional espresso cups with real heat retention and proper demitasse proportions. The crochet novelty item reviewed here does not hold liquid and functions solely as a gift for someone who appreciates espresso aesthetics rather than the drink itself. Know which category you are buying before finalizing the order."
+  - question: "Do I need saucers with espresso cups for home use?"
+    answer: "For solo daily use at the machine, saucers add storage overhead without meaningful benefit. For serving guests or any context where you are placing a drink in front of another person, saucers complete the presentation — they provide somewhere to rest a spoon, catch drips, and signal that the coffee was served with intention. The KIVY set is the only one in this group that includes saucers, which gives it a clear advantage for hosting."
 ---
 
 Personalized espresso cups sit at an awkward intersection of kitchenware and gifting , and most buying guides treat them as if they're interchangeable. They aren't. The cup you use every morning for a double shot has different requirements than the cup you're wrapping for someone's birthday. Both need to actually hold espresso well. If you're building out a home setup, the broader world of [espresso equipment](/espresso/) shapes what makes a cup worth owning , and what makes it an expensive mistake.

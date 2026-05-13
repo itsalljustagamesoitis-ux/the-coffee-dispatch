@@ -49,6 +49,17 @@ products:
 tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Stainless vs glass French press for camping — which actually survives a pack?"
+    answer: "Stainless steel insulated presses are the only sensible choice for backcountry use. Glass shatters on the first hard knock against a rock or another piece of gear, and a broken carafe mid-trip is a problem with no field fix. Double-wall stainless also retains heat long enough for a second cup, which glass loses in under twenty minutes."
+  - question: "What grind size should I use for a camping French press?"
+    answer: "Coarser than you'd use at home — roughly the texture of raw sugar, approaching sea salt. A coarse grind reduces the sediment that passes through the mesh filter and prevents over-extraction during a four-minute steep. If you're pre-grinding at home before the trip, err even coarser, since you lose the ability to adjust on the fly."
+  - question: "Stanley All In One or Stanley Classic Stay-Hot for a group of four?"
+    answer: "The Classic Stay-Hot at 48 oz is the right call for four people. One brew cycle covers the whole group without a second boil, and Stanley's thermal construction holds temperature well past the point where the 32 oz All In One would require reheating. The All In One's all-in-one design is a real advantage for solo and duo use, but at four people the capacity math doesn't work."
+  - question: "Do I need to preheat a stainless camping French press?"
+    answer: "Yes, if you want the full four hours of heat retention manufacturers advertise. Cold stainless absorbs a disproportionate amount of heat from the first pour. A thirty-second swirl of hot water before adding coffee and brew water prevents a temperature drop that noticeably shortens how long the second cup stays drinkable."
+  - question: "How do I clean a camping French press without a sink?"
+    answer: "After the last cup, add a small amount of water, swirl to suspend the grounds, and pour the slurry into a waste bag or cat hole at least two hundred feet from water sources. Rinse the filter screen and let it dry before packing. Skipping cleanup leaves stale ground odors that carry into the next brew and shorten the life of the mesh filter."
 ---
 
 Good espresso equipment deserves good coffee in the field, too. A French press is the most forgiving full-immersion brewer you can pack , no paper filters to forget, no electrical hookup required, and the margin for error is wide enough that you can dial it in after one or two mornings at a campsite. The [Brewing Methods](/brewing-methods/) you use at home translate directly to camp, with minimal adjustments for altitude and whatever heat source you're working with.

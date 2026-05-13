@@ -42,6 +42,19 @@ products:
 tags: ["grinders", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Fellow Ode Gen 2 vs OXO Brew Conical Burr Grinder: which is better for home filter coffee?"
+    answer: "The Fellow Ode Gen 2 is the stronger technical choice for filter brewing — 64mm flat burrs, single-dose workflow, and a design built specifically for pour-over, French press, and cold brew. The OXO offers more approachable one-touch operation and a trusted brand for buyers who prioritize simplicity over maximum grind precision. Both are categorical improvements over a blade grinder; choose Fellow if you want to optimize extraction, OXO if you want reliable daily convenience."
+  - question: "Flat burr vs conical burr grinder: what is the real difference in the cup?"
+    answer: "Flat burrs produce a more uniform, unimodal particle distribution that typically delivers clarity and brightness in filter brewing — the quality pour-over is designed to highlight. Conical burrs produce a bimodal distribution with a proportion of fines, which adds body and sweetness particularly in immersion brewing like French press. Neither is objectively better; the difference in cup character is real and worth factoring into your decision based on your primary brew method."
+  - question: "How much does grind retention actually matter for specialty coffee at home?"
+    answer: "For a buyer grinding one coffee daily from a standard bag, retention is a minor issue. For anyone buying specialty coffee in small batches or rotating between beans, retention represents genuine waste — stale grounds from the previous session carried into a fresh brew. Single-dose designs like the Ode Gen 2 are built specifically to address this, producing near-zero retention by design rather than requiring discipline from the user."
+  - question: "Is the Fellow Ode Gen 2 suitable for espresso grinding?"
+    answer: "No — and Fellow is explicit about this. The Ode Gen 2 is designed for filter brewing. Its grind range does not extend fine enough for espresso, and the flat burr geometry is optimized for filter-range particle sizes. If espresso is part of your daily routine, a different grinder is the right answer regardless of how well the Ode performs at filter brewing."
+  - question: "Is a conical burr grinder like the Viesimple Gen 4 a reliable budget alternative to Fellow?"
+    answer: "The Viesimple Gen 4 offers genuine single-dose design and anti-static features at a lower entry point than the Fellow lineup. The uncertainty is long-term reliability — it does not have the established track record of Fellow or OXO, so durability over years of daily use is harder to predict. It is worth considering for budget-constrained buyers who understand that trade-off going in, not for those expecting Fellow-level consistency."
+safety_topics:
+  - electric-grinder
 ---
 
 The Fellow Opus conical burr grinder has been getting a lot of attention, but it isn't the only option worth considering if you're shopping for a capable home grinder. Whether you're dialling in pour over, batch brewing, or single-dose espresso, the grinder you choose affects every cup more than almost any other variable in your setup. I've covered the range of [coffee grinders](/grinders/) worth buying at various points on the market , this article focuses on where the Opus sits and what else earns a place in the conversation.

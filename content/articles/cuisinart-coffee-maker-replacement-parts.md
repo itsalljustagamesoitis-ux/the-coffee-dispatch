@@ -49,6 +49,17 @@ products:
 tags: ["coffee-makers", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Will the DCC-1200FB brew basket holder fit my DCC-1200BW or other DCC-1200 variants?"
+    answer: "Yes — the DCC-1200BW is explicitly listed in the compatibility range for the DCC-1200FB. The BW suffix indicates a color variant of the base DCC-1200, not a different generation of internal components. The basket holder design and mounting tabs are the same across all listed DCC-1200 variants, so fit and function should be identical to the original part."
+  - question: "Do I need to buy the DGB-500GRD grinder unit and the DGB-500GLID lid together?"
+    answer: "Only if both components need replacement. The Cuisinart DGB-500GRD Replacement Grinder requires the DGB-500GLID lid to function, but if your current lid is undamaged and seats correctly, you can order the grinder unit alone. If your lid is cracked or broken, order both together to avoid a mid-repair delay when you discover the second part is missing."
+  - question: "How do I test whether the spring-loaded stopper is causing my brew basket to drip?"
+    answer: "Hold the brew basket firmly in place by hand during a full brew cycle. If the dripping stops or significantly reduces, the stopper mechanism is failing to maintain proper basket pressure and the spring-loaded stopper kit is the correct repair. If the dripping continues regardless of manual pressure, the failure is elsewhere — a cracked basket body, a degraded seal, or a clogged valve — and replacing the stopper won't resolve it."
+  - question: "Does switching to a reusable mesh filter cup change how the coffee tastes?"
+    answer: "It does, and the change is worth knowing about before switching. Mesh filters allow coffee oils and fine sediment through that paper traps, producing a heavier, fuller-bodied cup. With medium and dark roasts, many people prefer this result. With lighter roasts brewed at lower concentrations, the additional oils can tip the cup toward muddiness. Try it with your usual coffee and usual brew ratio before declaring it an improvement or a downgrade."
+  - question: "Is repairing a Cuisinart machine several years old worth the cost, or should I just buy new?"
+    answer: "A single part failure on an otherwise functional machine almost always justifies repair — the cost of a replacement component is a fraction of a new machine. The calculation changes if multiple systems have failed or the machine shows signs of broader deterioration like slower heating or inconsistent brew temperature. One repair is maintenance; two or three repairs in quick succession is usually a signal that the machine has reached end of its practical service life."
 ---
 
 Most Cuisinart coffee makers stop working because one small part fails , a brew basket that won't latch, a grinder lid that cracks, a filter mechanism that stops seating properly. Replacing the whole machine because of a single component failure is a waste, especially when the correct replacement part costs a fraction of a new unit. This guide covers the parts most likely to need replacement across the most common [Coffee Makers](/coffee-makers/) Cuisinart sells, and which options are worth buying.
