@@ -230,28 +230,3 @@ A brush-out of the grind chamber and chute after every session is good practice 
  ]
 }
 </script>
-
-
----
-<!-- VALIDATOR FAILURES -->
-
-FILE: /Users/keithlacy/the-coffee-dispatch/staging/mahlkonig-e80s-coffee-grinder.md
-  style_policy: words 2000–3500 | dollars allowed | buying guide "## Buying Guide" | images none
-✗ FAIL  PASS: 69  FAIL: 1  WARN: 0  MANUAL: 16
-[FAIL] F03: title must be 45–70 chars — 43 chars: "Mahlkonig E80S Coffee Grinder Buyer's Guide"
-[MANUAL] M01: Voice and register matches persona YAML voice_notes — requires persona YAML, cannot be checked mechanically
-[MANUAL] M02: Product sections do not all open with the product name in the first sentence (entry variation required)
-[MANUAL] M03: FAQ questions are specific to this product category, not generic filler applicable to any product
-[MANUAL] M04: At least one FAQ question addresses a trade-off between two named products in this article
-[MANUAL] M05: At least one FAQ question addresses a pre-purchase buyer decision (sizing, compatibility, maintenance, material, etc.)
-[MANUAL] M06: FAQ answers do not duplicate buying guide subsections word-for-word
-[MANUAL] M07: Persona name does not appear in article body prose — requires persona YAML to resolve author → full name
-[MANUAL] M08: Regional references ≤ 1 in article body — requires persona YAML to identify persona region
-[MANUAL] M09: No explicit credential declaration in body (e.g., "As a food scientist...", "With fifteen years in HR...")
-[MANUAL] M10: In-body images use hub-matched prefix consistent with article hub field — requires image bank cross-reference
-[MANUAL] M11: In-body image numbers are not repeated within the article (hero_image vs body image numbers)
-[MANUAL] M12: Buying guide subsections cover product-category-specific decision variables, not generic advice applicable to any category
-[MANUAL] M13: First product mention in each H3 section links to the product's Amazon URL
-[MANUAL] M14: At least one FAQ question addresses a criterion covered in the "What to Look For" section — answer must extend or complement that section, not repeat it
-[MANUAL] M15: "What to Look For" section does not name specific products from the article — it is criteria-oriented, not product-comparative
-[MANUAL] M16: Intro hub link appears in paragraph 1, not deferred to a later paragraph — requires paragraph-level positioning check
