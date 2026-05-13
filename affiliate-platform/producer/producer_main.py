@@ -235,20 +235,16 @@ def run(args, site_root: Path):
 
                 valid, validator_output = _run_validator(article["type"], md_path, site_root)
                 if not valid:
-                    # Move to staging/failed/ with validator output appended
                     failed_dir = staging_dir / "failed"
                     failed_dir.mkdir(exist_ok=True)
                     failed_path = failed_dir / f"{slug}.md"
-                    failed_path.write_text(
-                        md_content
-                        + "\n\n---\n<!-- VALIDATOR FAILURES -->\n"
-                        + validator_output,
-                        encoding="utf-8",
-                    )
+                    failed_path.write_text(md_content, encoding="utf-8")
                     md_path.unlink(missing_ok=True)
+                    sidecar_path = failed_dir / f"{slug}.failures"
+                    sidecar_path.write_text(validator_output, encoding="utf-8")
                     print(
                         f" done ({word_count} words) — validator FAIL → "
-                        f"staging/failed/{slug}.md"
+                        f"staging/failed/{slug}.md  (see {slug}.failures)"
                     )
                 else:
                     print(f" done. {word_count} words → staging/{slug}.md")
