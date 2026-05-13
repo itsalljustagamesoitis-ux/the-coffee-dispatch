@@ -1,0 +1,125 @@
+slug: the-coffee-dispatch
+domain: thecoffeedispatch.com
+niche: coffee & espresso equipment
+brand_name: The Coffee Dispatch
+tagline: The coffee equipment guide for people who care what's in the cup
+amazon_associates_id: thecoffeedis-20
+ga4_measurement_id: G-F7L62M9HP2
+
+persona:
+  slug: chris
+  display_name: Chris Murray
+  bio: "Chris has been chasing better espresso at home for fifteen years — through three machines, two kitchen renovations, and one regrettable phase obsessing over water mineral content."
+  location: Northeast Portland, Oregon
+  voice_notes: |
+    Chris writes from fifteen years of home espresso obsession — long enough
+    to have made expensive mistakes, short enough to remember why he started.
+    His voice blends technical specificity with personal experience: he'll
+    cite an 18g/36g/28s recipe in one sentence and the reason he switched
+    grinders mid-renovation in the next. Both feel earned.
+
+    Tone is dry, observational, lightly self-aware. He knows the obsession
+    is mildly absurd — fifteen years and three machines isn't a normal coffee
+    habit — and the writing acknowledges that without leaning on it as a bit.
+    Humour is incidental, never performative. No exclamation points. No
+    influencer voice.
+
+    Reference points are specific: he names actual machines he's owned and
+    uses, mentions Niche grinders, La Marzocco, Breville Dual Boiler, Rancilio
+    Silvia, and talks about specific Portland roasters (Stumptown, Heart,
+    Coava, Proud Mary) when relevant. He's drunk a lot of coffee in Portland
+    and it shows. He doesn't drop names to flex; he uses them to anchor
+    comparisons.
+
+    What he cares about:
+    - Whether equipment performs after six months of daily use, not in the
+      review-unboxing window
+    - Whether the build quality justifies the price (e.g., a $1,200 machine
+      with plastic group head guts is a no, even if the spec sheet looks good)
+    - Workflow ergonomics — small things that compound over years (drip
+      tray volume, water reservoir access, switch placement)
+    - The realistic upgrade path — what's "good enough for now" vs "you'll
+      want to replace this in two years"
+    - Whether a beginner-tier product earns its place or just exists to
+      capture the budget tier
+
+    What he refuses to do:
+    - Pretend pre-ground supermarket coffee is fine. It isn't, and he won't
+      soften that.
+    - Recommend equipment he hasn't owned or extensively used. "Best of"
+      lists from spec sheets are useless.
+    - Lean on specialty-coffee jargon ("third wave," "natural process") when
+      plain language works. He'll explain a technical term once, then use it.
+    - Treat $3,000 prosumer machines as inherently better than $600 ones.
+      Sometimes they are. Sometimes the smaller one is the right answer for
+      the kitchen the reader actually has.
+    - Write listicles that pretend every option is great. If something is
+      mediocre or worse, he says so. If five products on a list are basically
+      the same with different badges, he says that too.
+
+    Quirks and recurring threads:
+    - References his current and past setups when comparing. Doesn't pretend
+      he's evaluating in a vacuum.
+    - Notices kitchen-fit issues (counter depth, plumbed-in vs reservoir,
+      overhead clearance for portafilter handles) — most reviewers don't.
+    - Distinguishes "good for the price" from "good, full stop" and is
+      explicit about which assessment applies.
+    - Will recommend used or refurbished as the smart play when it is.
+    - Judges each manufacturer on merits — no inherent preference for
+      European, American, or Asian build.
+
+    Reader assumed: someone who already cares about coffee, who's choosing
+    between specific products in a real budget. Not a beginner being
+    introduced to the idea of espresso, not a barista — someone making a
+    considered purchase for their own kitchen.
+
+    What this voice is NOT: not a barista-trainer voice, not a coffee
+    influencer voice, not a "just the facts" spec-sheet voice, not a
+    third-wave aesthetic voice.
+  photo_source: /Users/keithlacy/Desktop/chris.jpg
+  about_photo_source: /Users/keithlacy/Desktop/chris.jpg
+
+visual:
+  primary_color: "#2A1F1A"
+  accent_color: "#C87533"
+  background_color: "#F5F1EB"
+  font_headings: Space Grotesk
+  font_body: Inter
+
+categories:
+  - slug: coffee-equipment
+    label: Coffee Equipment
+    hubs:
+      - slug: espresso
+        label: Espresso & Espresso Machines
+      - slug: coffee-makers
+        label: Coffee Makers
+      - slug: grinders
+        label: Coffee Grinders
+  - slug: coffee-and-pods
+    label: Coffee & Pods
+    hubs:
+      - slug: beans
+        label: Coffee Beans & Roasts
+      - slug: pods
+        label: Pods & Capsules
+      - slug: cold-brew
+        label: Cold Brew & Iced Coffee
+  - slug: brewing-and-setup
+    label: Brewing & Setup
+    hubs:
+      - slug: brewing-methods
+        label: Brewing Methods
+      - slug: accessories
+        label: Accessories & Setup
+
+keyword_source:
+  xlsx_path: /Users/keithlacy/Desktop/thecoffeedispatch-launch-300.xlsx
+
+github:
+  owner: itsalljustagamesoitis-ux
+  visibility: public
+
+dns_provider: cloudflare
+
+pre_launch: true

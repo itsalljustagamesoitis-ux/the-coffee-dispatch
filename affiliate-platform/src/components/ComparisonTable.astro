@@ -1,0 +1,66 @@
+---
+import type { ResolvedProduct } from '../lib/config'
+import { productDisplayName } from '../lib/config'
+
+interface Props {
+  products: ResolvedProduct[]
+  attributes?: string[]
+}
+
+const { products, attributes = ['price_band', 'pros', 'cons'] } = Astro.props
+
+const attrLabels: Record<string, string> = {
+  price_band: 'Price Range',
+  pros: 'Top Strength',
+  cons: 'Key Weakness',
+}
+
+const priceBandLabel: Record<string, string> = {
+  budget: '$',
+  mid: '$$',
+  premium: '$$$',
+}
+---
+
+<div class="comparison-table-wrap">
+  <table class="comparison-table">
+    <thead>
+      <tr>
+        <th scope="col">Product</th>
+        {attributes.map(attr => (
+          <th scope="col">{attrLabels[attr] ?? attr}</th>
+        ))}
+        <th scope="col">Buy</th>
+      </tr>
+    </thead>
+    <tbody>
+      {products.map(p => (
+        <tr>
+          <td>
+            <strong>{productDisplayName(p)}</strong>
+            {p.role && <span class="comparison-table__badge">{p.role.replace(/_/g, ' ')}</span>}
+          </td>
+          {attributes.map(attr => (
+            <td>
+              {attr === 'price_band' && priceBandLabel[p.price_band]}
+              {attr === 'pros' && p.pros[0]}
+              {attr === 'cons' && p.cons[0]}
+            </td>
+          ))}
+          <td>
+            {p.affiliate_url ? (
+              <a
+                href={p.affiliate_url}
+                class={p.affiliate_url.includes('amazon.com') ? 'btn btn--amazon btn--sm' : 'btn btn--outline'}
+                rel="nofollow sponsored"
+                target="_blank"
+              >
+                {p.affiliate_url.includes('amazon.com') ? 'Buy on Amazon' : 'Check Price'}
+              </a>
+            ) : '—'}
+          </td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</div>

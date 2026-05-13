@@ -1,0 +1,36 @@
+---
+import { buildAffiliateUrl, getProducts } from '../lib/config'
+
+interface Props {
+  slug: string
+  articleSlug?: string
+}
+
+const { slug, articleSlug } = Astro.props
+
+const db = getProducts()
+
+if (!db[slug]) {
+  throw new Error(
+    `[ProductLink] Unknown product slug: "${slug}". ` +
+    `Check content/products/products.yaml — this slug must exist before the article can build.`
+  )
+}
+
+const resolvedArticleSlug = articleSlug
+  ?? Astro.url.pathname.replace(/^\/|\/$/g, '').split('/').pop()
+  ?? ''
+
+const url = buildAffiliateUrl(slug, resolvedArticleSlug)
+---
+
+{url ? (
+  <a
+    href={url}
+    rel="sponsored noopener"
+    target="_blank"
+    data-product={slug}
+  ><slot /></a>
+) : (
+  <span data-product={slug} data-unavailable="true"><slot /></span>
+)}

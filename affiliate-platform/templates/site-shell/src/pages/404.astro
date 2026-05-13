@@ -1,0 +1,23 @@
+---
+import BaseLayout from '@platform/core/src/layouts/BaseLayout.astro'
+import { getSiteConfig } from '@platform/core/src/lib/config'
+const cfg = getSiteConfig()
+---
+
+<BaseLayout
+  title={`Page Not Found — ${cfg.site.brand_name}`}
+  description="The page you're looking for doesn't exist."
+  noindex={true}
+>
+  <div class="container" style="padding: 6rem 1.5rem; text-align: center; max-width: 560px;">
+    <p style="font-size: 4rem; margin: 0;">🌱</p>
+    <h1 style="margin-top: 1rem;">Page not found</h1>
+    <p style="color: var(--color-text-muted); margin: 1rem 0 2rem;">
+      That page doesn't exist — it may have moved or been removed.
+    </p>
+    <a href="/" class="btn btn--primary">Back to home</a>
+    <p style="margin-top: 2rem;">
+      <a href="/reviews/" style="color: var(--color-text-muted); font-size: 0.9rem;">Browse all reviews →</a>
+    </p>
+  </div>
+</BaseLayout>

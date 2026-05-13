@@ -22,7 +22,7 @@ const ArticleSchema = z.object({
   type: z.enum(['roundup', 'review', 'comparison', 'buyer_guide', 'informational']),
   date: z.date(),
   updated: z.date().optional(),
-  author: z.string().default('chris'),
+  author: z.string().default('{{PERSONA_SLUG}}'),
   category: z.string(),
   hub: z.string(),
   hero_image: z.string(),
@@ -39,12 +39,6 @@ const ArticleSchema = z.object({
   product_b: z.string().optional(),
   winner: z.enum(['product_a', 'product_b']).optional(),
   winner_reason: z.string().optional(),
-  // Content enrichment
-  faq: z.array(z.object({
-    question: z.string(),
-    answer: z.string(),
-  })).optional(),
-  safety_topics: z.array(z.enum(['espresso-pressure', 'electric-grinder', 'moka-pot-heat'])).optional(),
 })
 
 // ── Collections ───────────────────────────────────────────────────────────────

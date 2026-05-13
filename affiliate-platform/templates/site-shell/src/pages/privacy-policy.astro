@@ -1,0 +1,26 @@
+---
+import BaseLayout from '@platform/core/src/layouts/BaseLayout.astro'
+import { getSiteConfig } from '@platform/core/src/lib/config'
+const cfg = getSiteConfig()
+const updatedDate = new Date().toLocaleDateString('en-GB', { month: 'long', year: 'numeric' })
+---
+
+<BaseLayout
+  title={`Privacy Policy — ${cfg.site.brand_name}`}
+  description={`Privacy policy for ${cfg.site.brand_name}.`}
+>
+  <div class="container" style="padding-top:2rem; padding-bottom:4rem; max-width:720px;">
+    <h1>Privacy Policy</h1>
+    <p><em>Last updated: {updatedDate}</em></p>
+    <h2>What we collect</h2>
+    <p>If you subscribe to our newsletter, we collect your email address. We use this only to send you {{SITE_NICHE}} tips and updates. We never sell or share your email address.</p>
+    <h2>Analytics</h2>
+    <p>We use Google Analytics to understand how visitors use this site. Analytics data is only collected with your consent. You can accept or decline cookies using the banner shown on your first visit.</p>
+    <h2>Cookies</h2>
+    <p>This site uses cookies only if you accept them. Analytics cookies distinguish repeat visits and are used only to improve the site. Affiliate networks (Amazon, Awin) may set their own cookies when you click through to purchase — these are separate from our analytics cookies.</p>
+    <h2>Your rights</h2>
+    <p>You can request deletion of your data at any time by using the <a href="/contact/">contact form</a>.</p>
+    <h2>Contact</h2>
+    <p>Questions about this policy: use the <a href="/contact/">contact form</a>.</p>
+  </div>
+</BaseLayout>

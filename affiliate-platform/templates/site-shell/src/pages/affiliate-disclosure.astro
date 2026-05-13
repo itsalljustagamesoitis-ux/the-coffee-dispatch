@@ -1,0 +1,32 @@
+---
+import BaseLayout from '@platform/core/src/layouts/BaseLayout.astro'
+import { getSiteConfig } from '@platform/core/src/lib/config'
+
+const cfg = getSiteConfig()
+---
+
+<BaseLayout
+  title={`Affiliate Disclosure — ${cfg.site.brand_name}`}
+  description={`How ${cfg.site.brand_name} uses affiliate links and earns from qualifying purchases.`}
+>
+  <div class="container" style="padding: 3rem 1.5rem; max-width: 720px;">
+    <h1>Affiliate Disclosure</h1>
+    <p>
+      {cfg.site.brand_name} participates in the Amazon Services LLC Associates Program, an affiliate
+      advertising program designed to provide a means for sites to earn advertising fees by advertising
+      and linking to Amazon.com. We also participate in other affiliate programs including Awin.
+    </p>
+    <p>
+      When you click a product link on our site and make a purchase, we may receive a small commission
+      at no additional cost to you. These commissions help keep the site running and allow us to
+      continue testing and reviewing products.
+    </p>
+    <p>
+      Our editorial recommendations are never influenced by affiliate relationships. We only recommend
+      products we would buy ourselves or have used personally. If a product is poor, we say so.
+    </p>
+    <p>
+      If you have any questions about our affiliate relationships, please <a href="/contact/">contact us</a>.
+    </p>
+  </div>
+</BaseLayout>

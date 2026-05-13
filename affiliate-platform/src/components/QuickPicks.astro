@@ -1,0 +1,65 @@
+---
+import type { ResolvedProduct } from '../lib/config'
+import { getSiteConfig, productDisplayName } from '../lib/config'
+
+interface Props {
+  products: ResolvedProduct[]
+}
+
+const { products } = Astro.props
+const cfg = getSiteConfig()
+const picks = products.slice(0, 3)
+
+const roleLabels: Record<string, string> = {
+  best_overall: 'Best Overall',
+  best_value: 'Best Value',
+  best_budget: 'Best Budget',
+  best_premium: 'Best Premium',
+  best_for_beginners: 'Best for Beginners',
+  best_for_professionals: 'Best for Professionals',
+  primary: 'Top Pick',
+  alternative: 'Runner Up',
+  honorable_mention: 'Also Great',
+  also_consider: 'Also Consider',
+}
+
+if (picks.length === 0) return
+---
+
+<div class="quick-picks">
+  <h2 class="quick-picks__heading">Quick Picks</h2>
+  <div class="quick-picks__grid">
+    {picks.map(p => {
+      const imageUrl = !p.image ? null : (p.image?.startsWith('http') || p.image?.startsWith('/') ? p.image : `${cfg.images.base_url}/${p.image}`)
+      return (
+        <div class="quick-pick">
+          {p.role && <span class="quick-pick__role">{roleLabels[p.role] ?? p.role}</span>}
+          {imageUrl && (
+            <img
+              src={imageUrl}
+              alt={p.name}
+              class="quick-pick__img"
+              width="160"
+              height="120"
+              loading="lazy"
+              decoding="async"
+            />
+          )}
+          <h3 class="quick-pick__name">{productDisplayName(p)}</h3>
+          {p.pros[0] && <p class="quick-pick__reason">{p.pros[0]}</p>}
+          {p.affiliate_url && (
+            <a
+              href={p.affiliate_url}
+              class={p.affiliate_url.includes('amazon.com') ? 'btn btn--amazon btn--sm' : 'btn btn--primary btn--sm'}
+              rel="nofollow sponsored"
+              target="_blank"
+              data-product={productDisplayName(p)}
+            >
+              {p.affiliate_url.includes('amazon.com') ? 'Buy on Amazon' : 'Check Price'}
+            </a>
+          )}
+        </div>
+      )
+    })}
+  </div>
+</div>

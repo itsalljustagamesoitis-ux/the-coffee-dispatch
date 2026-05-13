@@ -1,0 +1,22 @@
+---
+import BaseLayout from '@platform/core/src/layouts/BaseLayout.astro'
+import { getSiteConfig, getPersona } from '@platform/core/src/lib/config'
+const cfg = getSiteConfig()
+const persona = getPersona()
+---
+
+<BaseLayout
+  title={`How We Test — ${cfg.site.brand_name}`}
+  description={`Our testing methodology: how ${persona.name_used} evaluates ${cfg.site.niche} products before recommending them.`}
+>
+  <div class="container" style="padding-top:2rem; padding-bottom:4rem; max-width:720px;">
+    <h1>How We Test</h1>
+    <p>Every product on this site has been tested in a real {cfg.site.niche} context in {{PERSONA_LOCATION}}, through real seasons. That means full use across multiple seasons before a verdict.</p>
+    <h2>What we actually do</h2>
+    <p>We buy or borrow the products we test. We use them. We note what breaks, what wears, and what still performs well after extended use. We revisit our picks when newer versions come out and update when our opinion changes.</p>
+    <h2>What we don't do</h2>
+    <p>We don't accept free products in exchange for positive reviews. We don't write "best of" lists based on ratings alone. We don't recommend products we haven't used or wouldn't buy with our own money.</p>
+    <h2>Affiliate links</h2>
+    <p>Some links on this site are affiliate links. If you buy something through one, we earn a small commission at no extra cost to you. This never influences what we recommend — see our <a href="/affiliate-disclosure/">full affiliate disclosure</a>.</p>
+  </div>
+</BaseLayout>

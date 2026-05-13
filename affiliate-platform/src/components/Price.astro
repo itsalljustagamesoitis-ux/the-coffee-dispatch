@@ -1,0 +1,29 @@
+---
+import { getProducts } from '../lib/config'
+
+interface Props {
+  slug: string
+  format?: 'usd' | 'raw'
+}
+
+const { slug, format = 'usd' } = Astro.props
+
+const db = getProducts()
+const product = db[slug]
+
+const rawPrice = product?.current_price ?? null
+
+function formatPrice(raw: string, fmt: string): string {
+  if (fmt === 'raw') return raw
+  // If already has a $ sign, return as-is
+  if (raw.startsWith('$')) return raw
+  // Otherwise prefix with $
+  return `$${raw}`
+}
+---
+
+{rawPrice ? (
+  <span class="price" data-product={slug}>{formatPrice(rawPrice, format)}</span>
+) : (
+  <span class="price price--unavailable" data-product={slug}>Check current price</span>
+)}

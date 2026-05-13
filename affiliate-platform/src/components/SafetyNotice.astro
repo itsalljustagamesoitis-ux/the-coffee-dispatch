@@ -1,0 +1,53 @@
+---
+interface Props {
+  topics: Array<'heating' | 'power-equipment' | 'electrical' | 'chemical' | 'blades' | 'high-heat' | 'cookware-coatings' | 'espresso-pressure' | 'electric-grinder' | 'moka-pot-heat'>
+}
+
+const { topics } = Astro.props
+
+const notices: Record<string, string> = {
+  heating: 'Always maintain manufacturer-specified clearances from combustible materials. Never leave open flames or propane-fueled appliances unattended. Store propane cylinders upright in a well-ventilated outdoor area away from ignition sources.',
+  'power-equipment': 'Wear eye protection and hearing protection when operating power equipment. Keep bystanders and pets clear of the work area. Read the manufacturer\'s safety manual before first use and follow all lockout/tagout procedures before servicing.',
+  electrical: 'Verify the IP weatherproofing rating before installing any electrical fixture outdoors. Hardwired installations must be performed by a licensed electrician. Keep all connections and junction boxes away from standing water.',
+  chemical: 'Read the full product label before applying any chemical repellent or pest control product. Keep children and pets away from treated areas until the product has fully dried. Dispose of empty containers according to local regulations.',
+  blades: 'Always use a cut-resistant glove on your non-knife hand when using mandolines, slicers, or sharp cutting surfaces. Keep knives sharp — a dull blade requires more force and is more likely to slip. Store knives in a block, magnetic strip, or blade guard, never loose in a drawer.',
+  'high-heat': 'Use oven mitts or silicone pads when handling cookware from the oven or stovetop. Never leave oil or fat in a pan unattended over high heat — grease fires require a lid or baking soda, never water. Let cast iron and stainless cool before submerging in water to prevent warping.',
+  'cookware-coatings': 'Avoid metal utensils on nonstick and ceramic surfaces — scratches degrade the coating and reduce effective life. Never preheat an empty nonstick pan over high heat. Discard nonstick cookware when the coating is visibly scratched or flaking.',
+  'espresso-pressure': 'Espresso machines operate at 9 bars of pressure. Never open the portafilter while the machine is pressurised — wait for the pump to stop completely and release steam naturally. Descale and clean the group head regularly to prevent pressure buildup that can damage seals or cause sudden discharge.',
+  'electric-grinder': 'Unplug your burr grinder before adjusting the burr gap or clearing a jam — never reach into the grinding chamber with your fingers. Keep water and liquids away from the motor housing. Burrs are extremely sharp; use a brush or grinder cleaning tablet, not your hands, to clear retained grounds.',
+  'moka-pot-heat': 'Never leave a moka pot unattended on the heat source. If the safety valve starts venting steam, reduce heat immediately and keep your face clear of the valve. Use a heat-resistant pad or oven mitt to handle a hot moka pot — the metal body and handle conduct heat rapidly and will cause burns.',
+}
+---
+
+{topics.length > 0 && (
+  <aside class="safety-notice" role="note" aria-label="Safety information">
+    <p class="safety-notice__heading">Safety Note</p>
+    <ul class="safety-notice__list">
+      {topics.map(t => notices[t] && <li>{notices[t]}</li>)}
+    </ul>
+  </aside>
+)}
+
+<style>
+  .safety-notice {
+    background: #fffbeb;
+    border-left: 4px solid #d97706;
+    border-radius: 0 0.375rem 0.375rem 0;
+    padding: 0.875rem 1.25rem;
+    margin: 1.5rem 0;
+    font-size: 0.9rem;
+  }
+  .safety-notice__heading {
+    font-weight: 700;
+    margin: 0 0 0.5rem;
+    color: #92400e;
+  }
+  .safety-notice__list {
+    margin: 0;
+    padding-left: 1.25rem;
+    color: #78350f;
+  }
+  .safety-notice__list li + li {
+    margin-top: 0.375rem;
+  }
+</style>

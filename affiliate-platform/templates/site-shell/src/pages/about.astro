@@ -1,0 +1,47 @@
+---
+import BaseLayout from '@platform/core/src/layouts/BaseLayout.astro'
+import { getPersona, getSiteConfig } from '@platform/core/src/lib/config'
+
+const persona = getPersona()
+const cfg = getSiteConfig()
+---
+
+<BaseLayout
+  title={`About ${persona.name_used} — ${cfg.site.brand_name}`}
+  description={`Meet ${persona.name_formal}, the person behind ${cfg.site.brand_name}. ${persona.bio_short}`}
+>
+  <div class="container" style="padding: 3rem 1.5rem;">
+    <article class="about-page">
+      <div class="about-page__intro">
+        <img
+          src={persona.photo_about}
+          alt={persona.name_formal}
+          class="about-page__photo"
+          width="200"
+          height="200"
+          fetchpriority="high"
+          decoding="async"
+        />
+        <div>
+          <h1>About {persona.name_used}</h1>
+          <p class="about-page__location">📍 {persona.location}</p>
+          <p>{persona.bio_short}</p>
+        </div>
+      </div>
+
+      <div class="about-page__body" set:html={persona.bio_full.replace(/\n\n/g, '</p><p>')} />
+
+      {persona.social?.pinterest && (
+        <p><a href={persona.social.pinterest} rel="noopener noreferrer" target="_blank">Pinterest</a></p>
+      )}
+    </article>
+  </div>
+</BaseLayout>
+
+<style>
+  .about-page { max-width: 720px; margin: 0 auto; }
+  .about-page__intro { display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem; flex-wrap: wrap; }
+  .about-page__photo { border-radius: 50%; width: 160px; height: 160px; object-fit: cover; flex-shrink: 0; }
+  .about-page__location { font-size: 0.9rem; color: var(--color-text-muted); margin-bottom: 0.75rem; }
+  .about-page__body p { margin-bottom: 1rem; }
+</style>

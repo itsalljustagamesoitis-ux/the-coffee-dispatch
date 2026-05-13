@@ -1,7 +1,7 @@
 {
-  "name": "the-coffee-dispatch",
+  "name": "{{SITE_SLUG}}",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "engines": {
     "node": ">=22.12.0"
   },

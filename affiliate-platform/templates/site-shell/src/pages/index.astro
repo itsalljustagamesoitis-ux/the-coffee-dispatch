@@ -1,0 +1,172 @@
+---
+import { getCollection } from 'astro:content'
+import BaseLayout from '@platform/core/src/layouts/BaseLayout.astro'
+import { getSiteConfig, getPersona, getNav } from '@platform/core/src/lib/config'
+import { selectFeaturedArticles } from '@platform/core/src/lib/featured-articles'
+
+const cfg = getSiteConfig()
+const persona = getPersona()
+const nav = getNav()
+const articles = await getCollection('articles')
+const featured = selectFeaturedArticles(articles)
+---
+
+<BaseLayout
+  title={`${cfg.site.brand_name} — ${cfg.site.tagline}`}
+  description={`Honest, tested reviews of ${cfg.site.niche} products. ${persona.bio_short}`}
+>
+  <div class="container--wide home-wrap">
+    <div class="home-main">
+      <div class="home-intro">
+        <h1 class="home-intro__title">{cfg.site.tagline}</h1>
+        <p class="home-intro__text">
+          {persona.bio_short}
+          Every review on this site is based on real use. No PR samples. No sponsored opinions.
+        </p>
+      </div>
+
+      {articles.length > 0 ? (
+        <div class="article-grid">
+          {featured.map(article => (
+            <a href={`/${article.data.slug}/`} class="article-card">
+              <img
+                src={`${cfg.images.base_url}/${article.data.hero_image}`}
+                alt={article.data.hero_image_alt ?? article.data.title}
+                width="400"
+                height="225"
+                loading="lazy"
+                decoding="async"
+                onerror="this.onerror=null;this.src='/images/og-default.jpg'"
+              />
+              <div class="article-card__body">
+                <span class="article-card__type">{article.data.type.replace('_', ' ')}</span>
+                <h2 class="article-card__title">{article.data.title}</h2>
+                <p class="article-card__desc">{article.data.description}</p>
+                <span class="article-card__read">Read more →</span>
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p style="color:var(--color-text-muted); font-style:italic; margin-top:2rem;">
+          Reviews coming soon.
+        </p>
+      )}
+      {articles.length > 12 && (
+        <div class="home-view-all">
+          <a href="/reviews/" class="btn btn--outline">View all reviews →</a>
+        </div>
+      )}
+    </div>
+
+    <aside class="home-sidebar">
+      <div class="sidebar-block">
+        <h3 class="sidebar-block__title">About {persona.name_used}</h3>
+        <img
+          src={persona.photo_byline}
+          alt={persona.name_formal}
+          class="sidebar-block__avatar"
+          width="64"
+          height="64"
+          loading="lazy"
+        />
+        <p class="sidebar-block__text">{persona.bio_short}</p>
+        <a href="/about/" class="sidebar-block__link">Full bio →</a>
+      </div>
+
+      <div class="sidebar-block">
+        <h3 class="sidebar-block__title">Browse by category</h3>
+        <ul class="sidebar-nav">
+          {nav.categories.filter(c => c.slug !== 'reviews').map(c => (
+            <li><a href={`/${c.slug}/`}>{c.label}</a></li>
+          ))}
+        </ul>
+      </div>
+
+      <div class="sidebar-block sidebar-block--email">
+        <h3 class="sidebar-block__title">Tips by email</h3>
+        <p class="sidebar-block__text">Honest takes on {cfg.site.niche} products — what to buy and what to skip.</p>
+        <form class="sidebar-email" data-form="sidebar-email">
+          <input type="email" placeholder="your@email.com" required class="sidebar-email__input" />
+          <button type="submit" class="btn btn--primary sidebar-email__btn">Subscribe</button>
+        </form>
+        <p style="font-size:0.72rem;opacity:0.7;margin-top:0.5rem;">No spam. Unsubscribe any time.</p>
+      </div>
+    </aside>
+  </div>
+</BaseLayout>
+
+<script>
+  document.querySelectorAll('[data-form="sidebar-email"]').forEach(form => {
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault()
+      const input = (form as HTMLFormElement).querySelector('input') as HTMLInputElement
+      const btn = (form as HTMLFormElement).querySelector('button') as HTMLButtonElement
+      if (!input?.value) return
+      btn.textContent = 'Subscribing…'
+      btn.disabled = true
+      try {
+        const res = await fetch('/api/subscribe', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ email: input.value.trim() }),
+        })
+        btn.textContent = res.ok ? "You're in!" : 'Try again'
+        if (res.ok) input.value = ''
+      } catch {
+        btn.textContent = 'Try again'
+      } finally {
+        btn.disabled = false
+      }
+    })
+  })
+</script>
+
+<style>
+  .home-wrap {
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 3rem;
+    padding: 2.5rem 1.25rem 4rem;
+    align-items: start;
+  }
+
+  .home-view-all { margin-top: 2rem; text-align: center; }
+
+  .home-intro { margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 2px solid var(--color-border); }
+  .home-intro__title { font-size: clamp(1.5rem, 3vw, 2rem); margin-bottom: 0.75rem; }
+  .home-intro__text { font-size: 1rem; color: var(--color-text-muted); max-width: 640px; margin: 0; }
+
+  .article-card__read { font-size: 0.82rem; font-weight: 700; color: var(--color-primary); margin-top: auto; padding-top: 0.5rem; display: block; }
+
+  /* Sidebar */
+  .home-sidebar { display: flex; flex-direction: column; gap: 1.5rem; }
+
+  .sidebar-block {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: 1.25rem;
+  }
+  .sidebar-block--email { background: var(--color-surface-alt); }
+  .sidebar-block__title { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--color-text-muted); margin: 0 0 0.75rem; font-family: var(--font-body); font-weight: 700; }
+  .sidebar-block__avatar { width: 56px; height: 56px; border-radius: 50%; object-fit: cover; margin-bottom: 0.75rem; }
+  .sidebar-block__text { font-size: 0.875rem; color: var(--color-text-muted); margin-bottom: 0.75rem; }
+  .sidebar-block__link { font-size: 0.875rem; font-weight: 700; color: var(--color-primary); text-decoration: none; }
+  .sidebar-block__link:hover { text-decoration: underline; }
+
+  .sidebar-nav { list-style: none; padding: 0; margin: 0; }
+  .sidebar-nav li { border-bottom: 1px solid var(--color-border); }
+  .sidebar-nav li:last-child { border-bottom: none; }
+  .sidebar-nav a { display: block; padding: 0.6rem 0; font-size: 0.9rem; font-weight: 600; color: var(--color-text); text-decoration: none; transition: color 0.15s; }
+  .sidebar-nav a:hover { color: var(--color-primary); }
+
+  .sidebar-email { display: flex; flex-direction: column; gap: 0.5rem; }
+  .sidebar-email__input { padding: 0.6rem 0.875rem; border: 1px solid var(--color-border); border-radius: var(--radius); font-size: 0.875rem; width: 100%; }
+  .sidebar-email__btn { width: 100%; justify-content: center; }
+
+  @media (max-width: 800px) {
+    .home-wrap { grid-template-columns: 1fr; }
+    .home-sidebar { order: -1; }
+  }
+</style>

@@ -1,0 +1,99 @@
+---
+import type { ResolvedProduct } from '../lib/config'
+import { getSiteConfig } from '../lib/config'
+
+interface Props {
+  product: ResolvedProduct
+  rank?: number
+  showRole?: boolean
+}
+
+const { product, rank, showRole = true } = Astro.props
+const cfg = getSiteConfig()
+
+const roleLabels: Record<string, string> = {
+  best_overall: 'Best Overall',
+  best_value: 'Best Value',
+  best_budget: 'Best Budget',
+  best_premium: 'Best Premium',
+  best_for_beginners: 'Best for Beginners',
+  best_for_professionals: 'Best for Professionals',
+  honorable_mention: 'Honorable Mention',
+  also_consider: 'Also Consider',
+  primary: 'Top Pick',
+  alternative: 'Alternative',
+}
+
+const imageUrl = !product.image
+  ? null
+  : product.image?.startsWith('http') || product.image?.startsWith('/')
+    ? product.image
+    : `${cfg.images.base_url}/${product.image}`
+
+const isAmazon = product.affiliate_url?.includes('amazon.com')
+---
+
+<div class="product-card" id={`product-${product.id}`}>
+  {showRole && product.role && (
+    <div class="product-card__role">{roleLabels[product.role] ?? product.role}</div>
+  )}
+  {rank && <div class="product-card__rank">#{rank}</div>}
+
+  <div class="product-card__inner">
+    <div class="product-card__image">
+      {imageUrl && (
+        <img
+          src={imageUrl}
+          alt={product.name}
+          width="280"
+          height="210"
+          loading="lazy"
+          decoding="async"
+        />
+      )}
+    </div>
+
+    <div class="product-card__body">
+      <h3 class="product-card__name">
+        {product.affiliate_url ? (
+          <a href={product.affiliate_url} rel="nofollow sponsored" target="_blank">
+            {product.name}
+          </a>
+        ) : (
+          <>{product.name}</>
+        )}
+      </h3>
+
+      <div class="product-card__pros-cons">
+        {product.pros.length > 0 && (
+          <div class="pros-cons pros-cons--pros">
+            <strong>Pros</strong>
+            <ul>
+              {product.pros.map(p => <li>{p}</li>)}
+            </ul>
+          </div>
+        )}
+        {product.cons.length > 0 && (
+          <div class="pros-cons pros-cons--cons">
+            <strong>Cons</strong>
+            <ul>
+              {product.cons.map(c => <li>{c}</li>)}
+            </ul>
+          </div>
+        )}
+      </div>
+
+      {product.affiliate_url && (
+        <a
+          href={product.affiliate_url}
+          class={isAmazon ? 'btn btn--amazon' : 'btn btn--primary'}
+          rel="nofollow sponsored"
+          target="_blank"
+          data-product={product.name}
+        >
+          {isAmazon ? `See ${product.name.length > 40 ? product.name.slice(0, 37) + '…' : product.name} on Amazon` : 'Check Price'}
+        </a>
+      )}
+    </div>
+  </div>
+</div>

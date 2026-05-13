@@ -1,0 +1,18 @@
+# ── Site-specific files ───────────────────────────────────────────────────────
+# These files are unique per clone and must never be overwritten by a
+# `git pull upstream main`. The "ours" merge driver keeps the local version.
+# Requires one-time setup in each clone: git config merge.ours.driver true
+# (the clone-site.sh script does this automatically)
+
+site.config.yaml                    merge=ours
+wrangler.toml                       merge=ours
+config/personas/**                  merge=ours
+content/articles/**                 merge=ours
+content/products/products.yaml      merge=ours
+public/images/brand/**              merge=ours
+public/images/articles/**           merge=ours
+public/images/heroes/**             merge=ours
+data/pipeline.json                  merge=ours
+data/eeat-vault.json                merge=ours
+data/image-attribution.json        merge=ours
+public/_redirects                   merge=ours

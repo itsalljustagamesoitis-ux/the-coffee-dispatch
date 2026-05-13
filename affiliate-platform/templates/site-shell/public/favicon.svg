@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Replace with real favicon before launch -->
+  <rect width="32" height="32" rx="4" fill="#333"/>
+  <text x="16" y="22" font-family="serif" font-size="18" font-weight="bold" fill="#fff" text-anchor="middle">S</text>
+</svg>

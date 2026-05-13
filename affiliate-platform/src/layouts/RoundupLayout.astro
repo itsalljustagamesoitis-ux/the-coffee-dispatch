@@ -1,0 +1,103 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import { resolveProduct, getSiteConfig, getHubLabel, getCategoryLabel, getCategorySlug } from '../lib/config'
+import BaseLayout from './BaseLayout.astro'
+import Byline from '../components/Byline.astro'
+import AffiliateDisclosure from '../components/AffiliateDisclosure.astro'
+import QuickPicks from '../components/QuickPicks.astro'
+import ProductCard from '../components/ProductCard.astro'
+import ComparisonTable from '../components/ComparisonTable.astro'
+import BottomLineCTA from '../components/BottomLineCTA.astro'
+import SafetyNotice from '../components/SafetyNotice.astro'
+import AuthorBio from '../components/AuthorBio.astro'
+import PrevNext from '../components/PrevNext.astro'
+import RelatedArticles from '../components/RelatedArticles.astro'
+import Breadcrumb from '../components/Breadcrumb.astro'
+import SchemaMarkup from '../components/SchemaMarkup.astro'
+import FAQ from '../components/FAQ.astro'
+
+interface Props {
+  article: CollectionEntry<'articles'>
+  prev?: { slug: string; title: string } | null
+  next?: { slug: string; title: string } | null
+}
+
+const { article, prev, next } = Astro.props
+const { data } = article
+const cfg = getSiteConfig()
+
+const url = new URL(`/${data.slug}/`, Astro.site).href
+const heroUrl = `${cfg.images.base_url}/${data.hero_image}`
+
+const resolvedProducts = data.products
+  .map((ref, i) => ({ product: resolveProduct(ref, data.slug), rank: i + 1 }))
+  .filter(p => p.product !== null) as { product: NonNullable<ReturnType<typeof resolveProduct>>, rank: number }[]
+
+const quickPickProducts = resolvedProducts.map(p => p.product)
+---
+
+<BaseLayout
+  title={data.title}
+  description={data.description}
+  canonicalUrl={url}
+  ogImage={heroUrl}
+  ogType="article"
+  noindex={data.noindex}
+>
+  <SchemaMarkup article={article} url={url} slot="head" />
+
+  <article class="article-page">
+    <Breadcrumb crumbs={[
+      { label: getCategoryLabel(data.category), href: `/${getCategorySlug(data.category)}/` },
+      { label: getHubLabel(data.hub), href: `/${data.hub}/` },
+      { label: data.title },
+    ]} />
+
+    <span class="article-eyebrow">{getHubLabel(data.hub)}</span>
+    <h1>{data.title}</h1>
+    <Byline date={data.date} updated={data.updated} />
+
+    {data.disclosure_required && <AffiliateDisclosure />}
+
+    <img
+      src={heroUrl}
+      alt={data.hero_image_alt ?? data.title}
+      class="article-page__hero"
+      width="900"
+      height="500"
+      fetchpriority="high"
+      decoding="async"
+      data-pagefind-meta="image[src], image_alt[alt]"
+    />
+
+    {data.safety_topics?.length && <SafetyNotice topics={data.safety_topics} />}
+
+    {quickPickProducts.length > 0 && (
+      <QuickPicks products={quickPickProducts} />
+    )}
+
+    {resolvedProducts.length >= 2 && (
+      <ComparisonTable products={quickPickProducts} />
+    )}
+
+    <div class="article-page__content">
+      <slot />
+    </div>
+
+    <div class="article-page__products">
+      {resolvedProducts.map(({ product, rank }) => (
+        <ProductCard product={product} rank={rank} />
+      ))}
+    </div>
+
+    {data.faq?.length && <FAQ items={data.faq} />}
+
+    {quickPickProducts[0] && <BottomLineCTA product={quickPickProducts[0]} />}
+
+    <AuthorBio />
+
+    <RelatedArticles currentSlug={data.slug} currentHub={data.hub} currentTags={data.tags} />
+
+    <PrevNext prev={prev} next={next} />
+  </article>
+</BaseLayout>

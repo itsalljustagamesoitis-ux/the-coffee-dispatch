@@ -1,0 +1,85 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import { getSiteConfig, getPersona, resolveProduct, getHubLabel, getCategorySlug } from '../lib/config'
+
+interface Props {
+  article: CollectionEntry<'articles'>
+  url: string
+}
+
+const { article, url } = Astro.props
+const { data } = article
+const cfg = getSiteConfig()
+const persona = getPersona()
+
+const imageUrl = `${cfg.images.base_url}/${data.hero_image}`
+const isReview = data.type === 'review'
+
+// Primary product for review schema
+const primaryRef = data.products?.find((p: any) => p.role === 'primary') ?? data.products?.[0]
+const primaryProduct = primaryRef ? resolveProduct(primaryRef, data.slug) : null
+
+const articleSchema: Record<string, unknown> = {
+  '@context': 'https://schema.org',
+  '@type': isReview ? 'Review' : 'Article',
+  headline: data.title,
+  description: data.description,
+  url,
+  datePublished: data.date.toISOString(),
+  dateModified: (data.updated ?? data.date).toISOString(),
+  author: {
+    '@type': 'Person',
+    name: persona.name_formal,
+    url: `${cfg.site.domain}/about/`,
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: cfg.site.brand_name,
+    url: cfg.site.domain,
+    logo: { '@type': 'ImageObject', url: cfg.visual.logo_paths.header_png },
+  },
+  image: { '@type': 'ImageObject', url: imageUrl },
+  mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+}
+
+if (isReview && primaryProduct) {
+  articleSchema.itemReviewed = {
+    '@type': 'Product',
+    name: `${primaryProduct.brand} ${primaryProduct.name}`,
+    image: primaryProduct.image ?? imageUrl,
+  }
+  articleSchema.reviewRating = {
+    '@type': 'Rating',
+    ratingValue: data.rating ?? 4.5,
+    bestRating: 5,
+    worstRating: 1,
+  }
+}
+
+const categorySlug = getCategorySlug(data.category)
+const hubLabel = getHubLabel(data.hub)
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: cfg.site.domain },
+    { '@type': 'ListItem', position: 2, name: data.category, item: `${cfg.site.domain}/${categorySlug}/` },
+    { '@type': 'ListItem', position: 3, name: hubLabel, item: `${cfg.site.domain}/${data.hub}/` },
+    { '@type': 'ListItem', position: 4, name: data.title, item: url },
+  ],
+}
+const faqSchema = data.faq?.length ? {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: data.faq.map((item: { question: string; answer: string }) => ({
+    '@type': 'Question',
+    name: item.question,
+    acceptedAnswer: { '@type': 'Answer', text: item.answer },
+  })),
+} : null
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+<script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+{faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}

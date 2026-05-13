@@ -1,0 +1,40 @@
+{
+  "name": "@platform/core",
+  "type": "module",
+  "version": "1.7.10",
+  "description": "Shared platform layer for affiliate sites (FSG, MLT, OHT)",
+  "exports": {
+    "./src/layouts/*": "./src/layouts/*",
+    "./src/components/*": "./src/components/*",
+    "./src/lib/*": "./src/lib/*",
+    "./src/plugins/*": "./src/plugins/*",
+    "./src/styles/*": "./src/styles/*",
+    "./scripts/*": "./scripts/*"
+  },
+  "bin": {
+    "platform-build-validator": "./scripts/build-validator.mjs",
+    "platform-validate-asins": "./scripts/validate-asins.mjs"
+  },
+  "files": [
+    "src",
+    "scripts",
+    "schemas",
+    "prompts",
+    "pipelines",
+    "registries"
+  ],
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.95.1",
+    "cheerio": "^1.2.0",
+    "gray-matter": "^4.0.3",
+    "js-yaml": "^4.1.1",
+    "sharp": "^0.34.2",
+    "zod": "^4.4.2"
+  },
+  "peerDependencies": {
+    "astro": "^6.1.10"
+  },
+  "devDependencies": {
+    "xlsx": "^0.18.5"
+  }
+}

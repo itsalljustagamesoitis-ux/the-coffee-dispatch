@@ -1,0 +1,145 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import { resolveProduct, getSiteConfig, getHubLabel, getCategoryLabel, getCategorySlug, productDisplayName } from '../lib/config'
+import BaseLayout from './BaseLayout.astro'
+import Byline from '../components/Byline.astro'
+import AffiliateDisclosure from '../components/AffiliateDisclosure.astro'
+import ProsConsBox from '../components/ProsConsBox.astro'
+import BottomLineCTA from '../components/BottomLineCTA.astro'
+import SafetyNotice from '../components/SafetyNotice.astro'
+import AuthorBio from '../components/AuthorBio.astro'
+import PrevNext from '../components/PrevNext.astro'
+import RelatedArticles from '../components/RelatedArticles.astro'
+import Breadcrumb from '../components/Breadcrumb.astro'
+import SchemaMarkup from '../components/SchemaMarkup.astro'
+import FAQ from '../components/FAQ.astro'
+
+interface Props {
+  article: CollectionEntry<'articles'>
+  prev?: { slug: string; title: string } | null
+  next?: { slug: string; title: string } | null
+}
+
+const { article, prev, next } = Astro.props
+const { data } = article
+const cfg = getSiteConfig()
+
+const url = new URL(`/${data.slug}/`, Astro.site).href
+const heroUrl = `${cfg.images.base_url}/${data.hero_image}`
+
+const productA = data.product_a ? resolveProduct({ id: data.product_a }, data.slug) : null
+const productB = data.product_b ? resolveProduct({ id: data.product_b }, data.slug) : null
+const imgA = productA?.image ? (productA.image?.startsWith('http') || productA.image?.startsWith('/') ? productA.image : `${cfg.images.base_url}/${productA.image}`) : null
+const imgB = productB?.image ? (productB.image?.startsWith('http') || productB.image?.startsWith('/') ? productB.image : `${cfg.images.base_url}/${productB.image}`) : null
+
+const winner = data.winner === 'product_a' ? productA : data.winner === 'product_b' ? productB : null
+const loser  = data.winner === 'product_a' ? productB : data.winner === 'product_b' ? productA : null
+---
+
+<BaseLayout
+  title={data.title}
+  description={data.description}
+  canonicalUrl={url}
+  ogImage={heroUrl}
+  ogType="article"
+  noindex={data.noindex}
+>
+  <SchemaMarkup article={article} url={url} slot="head" />
+
+  <article class="article-page">
+    <Breadcrumb crumbs={[
+      { label: getCategoryLabel(data.category), href: `/${getCategorySlug(data.category)}/` },
+      { label: getHubLabel(data.hub), href: `/${data.hub}/` },
+      { label: data.title },
+    ]} />
+
+    <span class="article-eyebrow">{getHubLabel(data.hub)}</span>
+    <h1>{data.title}</h1>
+    <Byline date={data.date} updated={data.updated} />
+    {data.disclosure_required && <AffiliateDisclosure />}
+
+    <img src={heroUrl} alt={data.hero_image_alt ?? data.title} class="article-page__hero" width="900" height="500" fetchpriority="high" decoding="async" data-pagefind-meta="image[src], image_alt[alt]" />
+
+    <!-- Winner verdict box — above the fold, before any reading -->
+    {winner && (
+      <div class="verdict-box">
+        <p class="verdict-box__label">Our verdict</p>
+        <div class="verdict-box__winner">
+          <div class="verdict-box__badge">Best pick</div>
+          <strong class="verdict-box__name">{winner.brand} {winner.name}</strong>
+        </div>
+        {data.winner_reason && <p class="verdict-box__reason">{data.winner_reason}</p>}
+        {winner.affiliate_url && (
+          <a href={winner.affiliate_url} class={winner.affiliate_url.includes('amazon.com') ? 'btn btn--amazon' : 'btn btn--primary'} rel="nofollow sponsored" target="_blank">
+            {winner.affiliate_url.includes('amazon.com') ? `See ${winner.name.length > 40 ? winner.name.slice(0, 37) + '…' : winner.name} on Amazon` : 'Check Price →'}
+          </a>
+        )}
+        {loser && loser.affiliate_url && (
+          <a href={loser.affiliate_url} class="verdict-box__alt" rel="nofollow sponsored" target="_blank">
+            Also consider: {loser.brand} {loser.name} →
+          </a>
+        )}
+      </div>
+    )}
+
+    {data.safety_topics?.length && <SafetyNotice topics={data.safety_topics} />}
+
+    <!-- Side-by-side product hero -->
+    {(productA || productB) && (
+      <div class="comparison-hero">
+        {productA && (
+          <div class={`comparison-hero__side${data.winner === 'product_a' ? ' comparison-hero__side--winner' : ''}`}>
+            {data.winner === 'product_a' && <span class="comparison-hero__crown">★ Our Pick</span>}
+            {imgA && <img src={imgA} alt={productA.name} width="200" height="150" loading="lazy" />}
+            <strong>{productA.brand} {productA.name}</strong>
+            {productA.affiliate_url && (
+              <a href={productA.affiliate_url} class={productA.affiliate_url.includes('amazon.com') ? 'btn btn--amazon btn--sm' : 'btn btn--primary btn--sm'} rel="nofollow sponsored" target="_blank">
+                {productA.affiliate_url.includes('amazon.com') ? 'Buy on Amazon' : 'Check Price'}
+              </a>
+            )}
+          </div>
+        )}
+        <div class="comparison-hero__vs">VS</div>
+        {productB && (
+          <div class={`comparison-hero__side${data.winner === 'product_b' ? ' comparison-hero__side--winner' : ''}`}>
+            {data.winner === 'product_b' && <span class="comparison-hero__crown">★ Our Pick</span>}
+            {imgB && <img src={imgB} alt={productB.name} width="200" height="150" loading="lazy" />}
+            <strong>{productB.brand} {productB.name}</strong>
+            {productB.affiliate_url && (
+              <a href={productB.affiliate_url} class={productB.affiliate_url.includes('amazon.com') ? 'btn btn--amazon btn--sm' : 'btn btn--primary btn--sm'} rel="nofollow sponsored" target="_blank">
+                {productB.affiliate_url.includes('amazon.com') ? 'Buy on Amazon' : 'Check Price'}
+              </a>
+            )}
+          </div>
+        )}
+      </div>
+    )}
+
+    <div class="article-page__content"><slot /></div>
+
+    {productA && <ProsConsBox pros={productA.pros} cons={productA.cons} productName={productDisplayName(productA)} />}
+    {productB && <ProsConsBox pros={productB.pros} cons={productB.cons} productName={productDisplayName(productB)} />}
+
+    <!-- Bottom verdict — repeat after all the detail, capture the decided buyer -->
+    {winner && (
+      <div class="verdict-box verdict-box--bottom">
+        <p class="verdict-box__label">Bottom line</p>
+        <strong class="verdict-box__name">{winner.brand} {winner.name}</strong>
+        {data.winner_reason && <p class="verdict-box__reason">{data.winner_reason}</p>}
+        {winner.affiliate_url && (
+          <a href={winner.affiliate_url} class={winner.affiliate_url.includes('amazon.com') ? 'btn btn--amazon' : 'btn btn--primary'} rel="nofollow sponsored" target="_blank">
+            {winner.affiliate_url.includes('amazon.com') ? `See ${winner.name.length > 40 ? winner.name.slice(0, 37) + '…' : winner.name} on Amazon` : 'Check Price →'}
+          </a>
+        )}
+      </div>
+    )}
+
+    {data.faq?.length && <FAQ items={data.faq} />}
+
+    {(winner ?? productA) && <BottomLineCTA product={(winner ?? productA)!} />}
+
+    <AuthorBio />
+    <RelatedArticles currentSlug={data.slug} currentHub={data.hub} currentTags={data.tags} />
+    <PrevNext prev={prev} next={next} />
+  </article>
+</BaseLayout>

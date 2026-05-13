@@ -1,0 +1,32 @@
+---
+import BaseLayout from '@platform/core/src/layouts/BaseLayout.astro'
+import { getSiteConfig } from '@platform/core/src/lib/config'
+const cfg = getSiteConfig()
+---
+
+<BaseLayout
+  title={`Contact — ${cfg.site.brand_name}`}
+  description={`Get in touch with ${cfg.site.brand_name}.`}
+>
+  <div class="container" style="padding-top:2rem; padding-bottom:4rem; max-width:600px;">
+    <h1>Contact</h1>
+    <p>For questions about reviews, corrections, or partnership enquiries, use the form below.</p>
+    <p style="margin-top:0.5rem;color:var(--color-text-muted);font-size:0.9rem;">We read every message but can't reply to all of them. For product pitches: we don't accept products in exchange for reviews.</p>
+    <!-- TODO: replace YOUR_FORMSPREE_ID with your form endpoint from formspree.io -->
+    <form action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST" style="margin-top:2rem;display:flex;flex-direction:column;gap:1rem;">
+      <div>
+        <label for="name" style="display:block;font-weight:600;margin-bottom:0.25rem;">Name</label>
+        <input type="text" id="name" name="name" required style="width:100%;padding:0.6rem 0.875rem;border:1px solid var(--color-border);border-radius:var(--radius);font-size:0.9rem;" />
+      </div>
+      <div>
+        <label for="email" style="display:block;font-weight:600;margin-bottom:0.25rem;">Email</label>
+        <input type="email" id="email" name="email" required style="width:100%;padding:0.6rem 0.875rem;border:1px solid var(--color-border);border-radius:var(--radius);font-size:0.9rem;" />
+      </div>
+      <div>
+        <label for="message" style="display:block;font-weight:600;margin-bottom:0.25rem;">Message</label>
+        <textarea id="message" name="message" required rows="5" style="width:100%;padding:0.6rem 0.875rem;border:1px solid var(--color-border);border-radius:var(--radius);font-size:0.9rem;resize:vertical;"></textarea>
+      </div>
+      <button type="submit" class="btn btn--primary" style="align-self:flex-start;">Send message</button>
+    </form>
+  </div>
+</BaseLayout>

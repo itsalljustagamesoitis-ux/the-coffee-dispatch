@@ -1,0 +1,50 @@
+---
+import { getCollection } from 'astro:content'
+import BaseLayout from '@platform/core/src/layouts/BaseLayout.astro'
+import { getSiteConfig, getPersona } from '@platform/core/src/lib/config'
+
+const cfg = getSiteConfig()
+const persona = getPersona()
+const articles = await getCollection('articles')
+const sorted = articles.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+---
+
+<BaseLayout
+  title={`All Reviews — ${cfg.site.brand_name}`}
+  description={`Every ${cfg.site.niche} product review and buying guide from ${cfg.site.brand_name}. Tested picks across all categories.`}
+>
+  <div class="container" style="padding: 3rem 1.5rem;">
+    <div class="category-hero">
+      <p class="category-hero__label">All Reviews</p>
+      <h1 class="category-hero__title">Every Product Review</h1>
+      <p class="category-hero__desc">
+        {persona.bio_short}
+        No PR samples, no affiliate bias.
+      </p>
+    </div>
+
+    {sorted.length > 0 ? (
+      <div class="article-grid">
+        {sorted.map(article => (
+          <a href={`/${article.data.slug}/`} class="article-card">
+            <img
+              src={`${cfg.images.base_url}/${article.data.hero_image}`}
+              alt={article.data.hero_image_alt ?? article.data.title}
+              width="400"
+              height="225"
+              loading="lazy"
+              decoding="async"
+            />
+            <div class="article-card__body">
+              <span class="article-card__type">{article.data.type.replace('_', ' ')}</span>
+              <h2 class="article-card__title">{article.data.title}</h2>
+              <p class="article-card__desc">{article.data.description}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+    ) : (
+      <p style="color: var(--color-text-muted); font-style: italic;">Reviews coming soon.</p>
+    )}
+  </div>
+</BaseLayout>

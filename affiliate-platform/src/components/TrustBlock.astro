@@ -1,0 +1,43 @@
+---
+import { getPersona } from '../lib/config'
+
+interface Props {
+  compact?: boolean
+}
+
+const { compact = false } = Astro.props
+const persona = getPersona()
+---
+
+{compact ? (
+  <div class="trust-block trust-block--compact">
+    <img
+      src={persona.photo_about}
+      alt={persona.name_formal}
+      width="56"
+      height="56"
+      loading="lazy"
+      class="trust-block__photo"
+    />
+    <div>
+      <strong>{persona.name_formal}</strong>
+      <p>{persona.background}</p>
+    </div>
+  </div>
+) : (
+  <div class="trust-block">
+    <img
+      src={persona.photo_about}
+      alt={persona.name_formal}
+      width="80"
+      height="80"
+      loading="lazy"
+      class="trust-block__photo"
+    />
+    <div class="trust-block__body">
+      <h3>About {persona.name_used}</h3>
+      <p>{persona.bio_short}</p>
+      <a href="/about/" class="trust-block__link">Read full bio →</a>
+    </div>
+  </div>
+)}

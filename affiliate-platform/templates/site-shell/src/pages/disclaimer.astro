@@ -1,0 +1,32 @@
+---
+import BaseLayout from '@platform/core/src/layouts/BaseLayout.astro'
+import { getSiteConfig, getPersona } from '@platform/core/src/lib/config'
+const cfg = getSiteConfig()
+const persona = getPersona()
+const updatedDate = new Date().toLocaleDateString('en-GB', { month: 'long', year: 'numeric' })
+---
+
+<BaseLayout
+  title={`Disclaimer — ${cfg.site.brand_name}`}
+  description={`Editorial disclaimer for ${cfg.site.brand_name}.`}
+>
+  <div class="container" style="padding-top:2rem; padding-bottom:4rem; max-width:720px;">
+    <h1>Disclaimer</h1>
+    <p><em>Last updated: {updatedDate}</em></p>
+
+    <h2>Editorial independence</h2>
+    <p>All product recommendations on {cfg.site.brand_name} reflect {persona.name_used}'s genuine personal opinion based on hands-on testing. We do not accept free products in exchange for positive coverage, and affiliate relationships do not influence editorial decisions.</p>
+
+    <h2>Product information</h2>
+    <p>Product specifications, prices, and availability change frequently. We do our best to keep information current but cannot guarantee accuracy at the time of your visit. Always check the retailer's listing before purchasing.</p>
+
+    <h2>Amazon pricing</h2>
+    <p>Product prices and availability shown are accurate as of the date of publication and are subject to change. Any price and availability information displayed on Amazon at the time of purchase will apply to the purchase of this product.</p>
+
+    <h2>Professional advice</h2>
+    <p>Content on this site is for informational purposes only. For safety-critical decisions (electrical work, structural installations, pesticide use), consult a qualified professional.</p>
+
+    <h2>External links</h2>
+    <p>We link to third-party websites for your convenience. We are not responsible for the content, accuracy, or practices of those sites.</p>
+  </div>
+</BaseLayout>

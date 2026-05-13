@@ -1,0 +1,31 @@
+---
+interface ArticleRef {
+  slug: string
+  title: string
+}
+
+interface Props {
+  prev?: ArticleRef | null
+  next?: ArticleRef | null
+}
+
+const { prev, next } = Astro.props
+if (!prev && !next) return
+---
+
+<nav class="prev-next" aria-label="Article navigation">
+  <div class="prev-next__inner">
+    {prev ? (
+      <a href={`/${prev.slug}/`} class="prev-next__item prev-next__item--prev">
+        <span class="prev-next__label">← Previous</span>
+        <span class="prev-next__title">{prev.title}</span>
+      </a>
+    ) : <div />}
+    {next ? (
+      <a href={`/${next.slug}/`} class="prev-next__item prev-next__item--next">
+        <span class="prev-next__label">Next →</span>
+        <span class="prev-next__title">{next.title}</span>
+      </a>
+    ) : <div />}
+  </div>
+</nav>

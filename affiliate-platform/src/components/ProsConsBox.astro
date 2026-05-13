@@ -1,0 +1,27 @@
+---
+interface Props {
+  pros: string[]
+  cons: string[]
+  productName?: string
+}
+
+const { pros, cons, productName } = Astro.props
+---
+
+<div class="pros-cons-box">
+  {productName && <h3 class="pros-cons-box__title">{productName}: Pros & Cons</h3>}
+  <div class="pros-cons-box__grid">
+    <div class="pros-cons pros-cons--pros">
+      <strong>What we liked</strong>
+      <ul>
+        {pros.map(p => <li>{p}</li>)}
+      </ul>
+    </div>
+    <div class="pros-cons pros-cons--cons">
+      <strong>What we didn't</strong>
+      <ul>
+        {cons.map(c => <li>{c}</li>)}
+      </ul>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,115 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import { resolveProduct, getSiteConfig, getHubLabel, getCategoryLabel, getCategorySlug, productDisplayName } from '../lib/config'
+import BaseLayout from './BaseLayout.astro'
+import Byline from '../components/Byline.astro'
+import AffiliateDisclosure from '../components/AffiliateDisclosure.astro'
+import ProsConsBox from '../components/ProsConsBox.astro'
+import BottomLineCTA from '../components/BottomLineCTA.astro'
+import SafetyNotice from '../components/SafetyNotice.astro'
+import AuthorBio from '../components/AuthorBio.astro'
+import PrevNext from '../components/PrevNext.astro'
+import RelatedArticles from '../components/RelatedArticles.astro'
+import Breadcrumb from '../components/Breadcrumb.astro'
+import SchemaMarkup from '../components/SchemaMarkup.astro'
+import FAQ from '../components/FAQ.astro'
+
+interface Props {
+  article: CollectionEntry<'articles'>
+  prev?: { slug: string; title: string } | null
+  next?: { slug: string; title: string } | null
+}
+
+const { article, prev, next } = Astro.props
+const { data } = article
+const cfg = getSiteConfig()
+
+const url = new URL(`/${data.slug}/`, Astro.site).href
+const heroUrl = `${cfg.images.base_url}/${data.hero_image}`
+
+const primaryRef = data.products[0]
+const primary = primaryRef ? resolveProduct(primaryRef, data.slug) : null
+const imageUrl = primary?.image ? (primary.image?.startsWith('http') || primary.image?.startsWith('/') ? primary.image : `${cfg.images.base_url}/${primary.image}`) : null
+---
+
+<BaseLayout
+  title={data.title}
+  description={data.description}
+  canonicalUrl={url}
+  ogImage={heroUrl}
+  ogType="article"
+  noindex={data.noindex}
+>
+  <SchemaMarkup article={article} url={url} slot="head" />
+
+  <article class="article-page">
+    <Breadcrumb crumbs={[
+      { label: getCategoryLabel(data.category), href: `/${getCategorySlug(data.category)}/` },
+      { label: getHubLabel(data.hub), href: `/${data.hub}/` },
+      { label: data.title },
+    ]} />
+
+    <span class="article-eyebrow">{getHubLabel(data.hub)}</span>
+    <h1>{data.title}</h1>
+    <Byline date={data.date} updated={data.updated} />
+
+    {data.disclosure_required && <AffiliateDisclosure />}
+
+    {data.safety_topics?.length && <SafetyNotice topics={data.safety_topics} />}
+
+    <img
+      src={heroUrl}
+      alt={data.hero_image_alt ?? data.title}
+      class="article-page__hero"
+      width="900"
+      height="500"
+      fetchpriority="high"
+      decoding="async"
+      data-pagefind-meta="image[src], image_alt[alt]"
+    />
+
+    {primary && (
+      <div class="verdict-box">
+        <div class="verdict-box__header">Our Verdict</div>
+        <div class="verdict-box__body">
+          <div class="verdict-box__product">
+            {imageUrl && (
+              <img src={imageUrl} alt={primary.name} width="120" height="90" loading="lazy" />
+            )}
+            <div>
+              <strong>{productDisplayName(primary)}</strong>
+              <p style="font-size:0.875rem;color:var(--color-text-muted);margin:0.25rem 0 0.75rem;">{primary.pros[0]}</p>
+              {primary.affiliate_url && (
+                <a href={primary.affiliate_url} class={primary.affiliate_url.includes('amazon.com') ? 'btn btn--amazon' : 'btn btn--primary'} rel="nofollow sponsored" target="_blank">
+                  {primary.affiliate_url.includes('amazon.com') ? `See ${primary.name.length > 40 ? primary.name.slice(0, 37) + '…' : primary.name} on Amazon` : 'Check Price'}
+                </a>
+              )}
+            </div>
+          </div>
+        </div>
+      </div>
+    )}
+
+    <div class="article-page__content">
+      <slot />
+    </div>
+
+    {primary && (
+      <ProsConsBox
+        pros={primary.pros}
+        cons={primary.cons}
+        productName={productDisplayName(primary)}
+      />
+    )}
+
+    {data.faq?.length && <FAQ items={data.faq} />}
+
+    {primary && <BottomLineCTA product={primary} />}
+
+    <AuthorBio />
+
+    <RelatedArticles currentSlug={data.slug} currentHub={data.hub} currentTags={data.tags} />
+
+    <PrevNext prev={prev} next={next} />
+  </article>
+</BaseLayout>

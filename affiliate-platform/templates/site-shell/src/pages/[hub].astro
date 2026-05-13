@@ -1,0 +1,75 @@
+---
+import { getCollection } from 'astro:content'
+import { getNav, getSiteConfig } from '@platform/core/src/lib/config'
+import BaseLayout from '@platform/core/src/layouts/BaseLayout.astro'
+
+export async function getStaticPaths() {
+  const nav = getNav()
+  const paths = []
+
+  for (const cat of nav.categories) {
+    for (const hub of cat.hubs) {
+      paths.push({
+        params: { hub: hub.slug },
+        props: { hub, category: cat },
+      })
+    }
+  }
+  return paths
+}
+
+const { hub, category } = Astro.props
+const cfg = getSiteConfig()
+
+const allArticles = await getCollection('articles')
+const articles = allArticles
+  .filter(a => a.data.hub === hub.slug)
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+---
+
+<BaseLayout
+  title={`${hub.label} Reviews — ${cfg.site.brand_name}`}
+  description={`Honest, tested reviews of ${hub.label.toLowerCase()} for ${cfg.site.brand_name} readers.`}
+>
+  <div class="container" style="padding-top:2rem; padding-bottom:4rem;">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="/">Home</a></li>
+        <li><span class="breadcrumb__sep">›</span><a href={`/${category.slug}/`}>{category.label}</a></li>
+        <li><span class="breadcrumb__sep">›</span><span aria-current="page">{hub.label}</span></li>
+      </ol>
+    </nav>
+
+    <div class="category-hero">
+      <p class="category-hero__label">{category.label}</p>
+      <h1 class="category-hero__title">{hub.label}</h1>
+      <p class="category-hero__desc">
+        Tested reviews of {hub.label.toLowerCase()} — what's worth buying and what to avoid.
+      </p>
+    </div>
+
+    {articles.length > 0 ? (
+      <div class="article-grid">
+        {articles.map(a => (
+          <a href={`/${a.data.slug}/`} class="article-card">
+            <img
+              src={`${cfg.images.base_url}/${a.data.hero_image}`}
+              alt={a.data.hero_image_alt ?? a.data.title}
+              width="400" height="225"
+              loading="lazy" decoding="async"
+            />
+            <div class="article-card__body">
+              <span class="article-card__type">{a.data.type.replace('_', ' ')}</span>
+              <h2 class="article-card__title">{a.data.title}</h2>
+              <p class="article-card__desc">{a.data.description}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+    ) : (
+      <p style="color:var(--color-text-muted);font-style:italic;margin-top:2rem;">
+        Reviews for {hub.label.toLowerCase()} coming soon.
+      </p>
+    )}
+  </div>
+</BaseLayout>

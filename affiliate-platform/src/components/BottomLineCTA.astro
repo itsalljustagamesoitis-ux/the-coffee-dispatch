@@ -1,0 +1,54 @@
+---
+import type { ResolvedProduct } from '../lib/config'
+import { productDisplayName } from '../lib/config'
+
+interface Props {
+  product: ResolvedProduct
+}
+
+const { product } = Astro.props
+const isAmazon = product.affiliate_url?.includes('amazon.com')
+---
+
+{product.affiliate_url && (
+  <div class="bottom-cta-box">
+    <p class="bottom-cta-box__eyebrow">Where to Buy</p>
+    <strong class="bottom-cta-box__name">{productDisplayName(product)}</strong>
+    <a
+      href={product.affiliate_url}
+      class={isAmazon ? 'btn btn--amazon' : 'btn btn--primary'}
+      rel="nofollow sponsored"
+      target="_blank"
+    >
+      {isAmazon
+        ? `See ${product.name.length > 40 ? product.name.slice(0, 37) + '…' : product.name} on Amazon`
+        : 'Check Price →'}
+    </a>
+  </div>
+)}
+
+<style>
+  .bottom-cta-box {
+    background: var(--color-surface-raised, #f8f9fa);
+    border: 2px solid var(--color-accent, #C19A4B);
+    border-radius: 0.5rem;
+    padding: 1.25rem 1.5rem;
+    margin: 2rem 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .bottom-cta-box__eyebrow {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-text-muted, #666);
+    margin: 0;
+  }
+  .bottom-cta-box__name {
+    font-size: 1rem;
+    display: block;
+    margin-bottom: 0.25rem;
+  }
+</style>

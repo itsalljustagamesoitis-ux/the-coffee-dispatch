@@ -1,0 +1,48 @@
+version: 1
+sites:
+  - slug: four-season-gardener
+    domain: fourseasongardener.com
+    persona: wendy
+    tracking_id: fourseasong-20
+    ga4_id: G-CTMQ2320CZ
+    cloudflare_project: four-season-gardener
+    github_repo: itsalljustagamesoitis-ux/four-season-gardener
+    status: live
+    launched: 2026-04-30T00:00:00.000Z
+  - slug: my-little-tablespoon
+    domain: mylittletablespoon.com
+    persona: emily
+    tracking_id: mylittletbsp-20
+    ga4_id: G-TL30W504QG
+    cloudflare_project: my-little-tablespoon
+    github_repo: itsalljustagamesoitis-ux/my-little-tablespoon
+    status: live
+    launched: 2026-04-30T00:00:00.000Z
+  - slug: one-happy-table
+    domain: onehappytable.com
+    persona: sarah
+    tracking_id: onehappytable-20
+    ga4_id: G-VDBWWPHE67
+    cloudflare_project: one-happy-table
+    github_repo: itsalljustagamesoitis-ux/one-happy-table
+    status: live
+    launched: 2026-05-07T00:00:00.000Z
+    notes: Cloudflare project is Direct Upload — needs recreation for auto-deploy (see backlog)
+  - slug: the-coffee-dispatch
+    domain: thecoffeedispatch.com
+    persona: chris
+    tracking_id: thecoffeedis-20
+    ga4_id: G-F7L62M9HP2
+    cloudflare_project: the-coffee-dispatch
+    github_repo: itsalljustagamesoitis-ux/the-coffee-dispatch
+    status: pre_launch
+    launched: null
+  - slug: bear-creek-barbecue
+    domain: bearcreekbarbecue.com
+    persona: brian
+    tracking_id: bearcreekbbq-20
+    ga4_id: G-742CEG3NG0
+    cloudflare_project: bear-creek-barbecue
+    github_repo: itsalljustagamesoitis-ux/bear-creek-barbecue
+    status: pre_launch
+    launched: null
