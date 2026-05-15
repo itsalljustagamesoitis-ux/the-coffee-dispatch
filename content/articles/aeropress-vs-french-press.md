@@ -1,7 +1,7 @@
 ---
 title: "AeroPress vs French Press: Which Brewer Is Right for You"
 slug: "aeropress-vs-french-press"
-type: "comparison"
+type: "buyer_guide"
 date: 2026-05-11
 author: "chris"
 category: "Brewing & Setup"
@@ -39,13 +39,9 @@ products:
       - "Durable stainless steel construction resists corrosion and damage"
     article_specific_cons:
       - "Manual French press requires proper technique for consistent results"
-tags: ["brewing-methods", "comparison"]
+tags: ["brewing-methods", "buyer_guide"]
 disclosure_required: true
 noindex: false
-product_a: "aeropress-premium-coffee-press-glass"
-product_b: "the-pathfinder-school-french-press-for-camping"
-# winner: product_a  # SET THIS after review
-# winner_reason: ""  # SET THIS after review
 faq:
   - question: "AeroPress vs French press — which brewer produces better coffee?"
     answer: "Neither method produces objectively better coffee — they produce different coffee. AeroPress uses pressure to create a concentrated, low-acidity cup with minimal sediment. French press uses full immersion without pressure, producing more body and oil in the cup. If you drink coffee black and value texture and richness, French press is the natural fit. If you prefer a cleaner cup or make milk-based drinks, AeroPress has the advantage."

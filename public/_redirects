@@ -1,2 +1,3 @@
 # Add site-specific 301 redirects here.
 # Format: /old-slug/ /new-slug/ 301
+/french-press-vs-aeropress/ /aeropress-vs-french-press/ 301
