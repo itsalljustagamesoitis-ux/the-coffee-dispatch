@@ -28,6 +28,9 @@ visual:
 images:
   base_url: /images
 
+deployment:
+  cloudflare_pages_project: "the-coffee-dispatch"
+
 style_policy:
   word_count:
     min: 2000
