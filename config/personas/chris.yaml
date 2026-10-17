@@ -94,5 +94,5 @@ photos:
 
 # --- Public-facing fields (the ONLY persona fields rendered in author boxes, home and reviews pages) ---
 role_public: Writer, The Coffee Dispatch
-bio_public: Chris Murray writes the guides at The Coffee Dispatch, covering coffee & espresso equipment. Recommendations are researched from manufacturer specifications, retailer listings and owner reviews.
+bio_public: Chris Murray writes the guides at The Coffee Dispatch, covering coffee & espresso equipment. Recommendations are compiled from manufacturer specifications and current product listings, and this site does not test products.
 testing_claims: false
