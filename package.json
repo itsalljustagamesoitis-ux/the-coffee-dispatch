@@ -7,8 +7,8 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "node node_modules/@platform/core/scripts/validate-products.mjs && astro build && node node_modules/@platform/core/scripts/build-info.mjs && npx pagefind --site dist && node node_modules/@platform/core/scripts/build-validator.mjs",
-    "deploy": "npm run build && npx wrangler pages deploy dist --project-name=the-coffee-dispatch && node node_modules/@platform/core/scripts/verify-deploy.mjs",
+    "build": "node node_modules/@platform/core/scripts/validate-products.mjs && rm -f node_modules/.astro/data-store.json && astro build && node node_modules/@platform/core/scripts/build-info.mjs && npx pagefind --site dist && node node_modules/@platform/core/scripts/build-validator.mjs",
+    "deploy": "npm run build && node node_modules/@platform/core/scripts/safe-deploy.mjs --project-name=the-coffee-dispatch && node node_modules/@platform/core/scripts/verify-deploy.mjs",
     "preview": "astro preview",
     "astro": "astro"
   },

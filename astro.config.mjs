@@ -5,8 +5,26 @@ import rehypeExternalLinks from 'rehype-external-links'
 import { rehypeProductLinks } from '@platform/core/src/plugins/rehype-product-links.mjs'
 import { readFileSync } from 'fs'
 import yaml from 'js-yaml'
+import { makeLastmod } from '@platform/core/src/lib/sitemap-lastmod.mjs'
 
+const _lastmodFor = makeLastmod()
 const _cfg = yaml.load(readFileSync('./site.config.yaml', 'utf8'))
+
+// Per-article lastmod map — slug → ISO date string
+const _articleDates = {}
+try {
+  const _artDir = './content/articles'
+  for (const _f of readdirSync(_artDir)) {
+    if (!_f.endsWith('.md')) continue
+    const _raw = readFileSync(`${_artDir}/${_f}`, 'utf8')
+    const _fm = _raw.match(/^---\n([\s\S]*?)\n---/)
+    if (!_fm) continue
+    const _slug = (_fm[1].match(/^slug:\s*["']?([^"'\n]+)/m) ?? [])[1]?.trim()
+    const _upd  = (_fm[1].match(/^updated:\s*["']?([^"'\n]+)/m) ?? [])[1]?.trim()
+    const _dt   = (_fm[1].match(/^date:\s*["']?([^"'\n]+)/m) ?? [])[1]?.trim()
+    if (_slug) _articleDates[_slug] = _upd ?? _dt
+  }
+} catch {}
 
 if (!process.env.SITE_URL && !_cfg?.site?.domain) {
   throw new Error('Build error: set SITE_URL env var or site.config.yaml site.domain')
@@ -32,8 +50,8 @@ export default defineConfig({
     sitemap({
       filter: (page) => !page.endsWith('/privacy/'),
       serialize(item) {
-        // Set lastmod to build time for all pages (article pages will be overridden by their frontmatter date when available)
-        item.lastmod = new Date().toISOString()
+        const _slug = item.url.replace(/\/$/, '').split('/').pop() ?? ''
+        item.lastmod = _lastmodFor(item.url)
         // Prioritise homepage and category pages
         if (item.url === `${siteUrl}/`) {
           item.changefreq = 'weekly'

@@ -739,63 +739,6 @@
       "published": true
     },
     {
-      "id": 14,
-      "slug": "ecm-espresso-machines",
-      "category": "Espresso & Espresso Machines",
-      "hub": "espresso",
-      "hub_slug": "espresso",
-      "cluster": "espresso-machines",
-      "locked_url": "https://thecoffeedispatch.com/ecm-espresso-machines/",
-      "type": "buyer_guide",
-      "keyword": "ecm espresso machines",
-      "angle": "honest pick with real recommendation",
-      "h2_structure": "What to Look For \u2192 Top Picks (named) \u2192 How to Choose \u2192 FAQ",
-      "required_product_count": 0,
-      "volume": 320,
-      "kd": 2,
-      "cpc": 0.39,
-      "intent": "Commercial",
-      "quality_score": 243,
-      "ai_overview": false,
-      "premium_brand": true,
-      "source_seed": "espresso-machine",
-      "products": [
-        "gaggia",
-        "shardor-professional-conical-burr-coffee-grinde",
-        "normcore-58mm-coffee-tamper-v4-spring-loaded",
-        "inkbird-pid-temperature-controller-kit-high-vo",
-        "rancilio-silvia-espresso-machine-0-3-2",
-        "diletta-bello-espresso-machine-e61-pid-4",
-        "rocket-espresso-giotto-fast-r-espresso-machine-2",
-        "rancilio-silvia-espresso-machine-black"
-      ],
-      "hero_image": "articles/espresso-10.webp",
-      "body_images": [
-        {
-          "alt": "ecm espresso machines",
-          "path": "articles/espresso-3.webp"
-        },
-        {
-          "alt": "ecm espresso machines",
-          "path": "articles/espresso-8.webp"
-        },
-        {
-          "alt": "ecm espresso machines",
-          "path": "articles/espresso-7.webp"
-        },
-        {
-          "alt": "ecm espresso machines",
-          "path": "articles/espresso-5.webp"
-        }
-      ],
-      "hub_label": "Espresso & Espresso Machines",
-      "hub_url": "/espresso/",
-      "category_label": "Coffee Equipment",
-      "category_slug": "coffee-equipment",
-      "staged": true,
-      "published": true
-    },
-    {
       "id": 15,
       "slug": "lucca-a53-direct-plumb-espresso-machine",
       "category": "Espresso & Espresso Machines",
@@ -3978,62 +3921,6 @@
       "published": true
     },
     {
-      "id": 72,
-      "slug": "miele-built-in-coffee-maker",
-      "category": "Coffee Makers",
-      "hub": "coffee-makers",
-      "hub_slug": "coffee-makers",
-      "cluster": "drip-and-automatic",
-      "locked_url": "https://thecoffeedispatch.com/miele-built-in-coffee-maker/",
-      "type": "buyer_guide",
-      "keyword": "miele built in coffee maker",
-      "angle": "honest pick with real recommendation",
-      "h2_structure": "What to Look For \u2192 Top Picks (named) \u2192 How to Choose \u2192 FAQ",
-      "required_product_count": 0,
-      "volume": 1000,
-      "kd": 12,
-      "cpc": 0.97,
-      "intent": "Commercial",
-      "quality_score": 245,
-      "ai_overview": false,
-      "premium_brand": true,
-      "source_seed": "coffee-maker",
-      "products": [
-        "miele-coffee-machine-cleaning-tablets-20",
-        "miele-cm-6360-milkperfection-automatic-coffee",
-        "miele-cm-6160-milkperfection-automatic-coffee",
-        "miele-descaling-tablets-for-coffee-machines",
-        "miele-original-gp-dc-001-c",
-        "miele-cm-5310-silence-automatic-coffee",
-        "miele-mb-cva-6000-pre-installed"
-      ],
-      "hero_image": "articles/coffee-makers-9.webp",
-      "body_images": [
-        {
-          "alt": "miele built in coffee maker",
-          "path": "articles/coffee-makers-16.webp"
-        },
-        {
-          "alt": "miele built in coffee maker",
-          "path": "articles/coffee-makers-11.webp"
-        },
-        {
-          "alt": "miele built in coffee maker",
-          "path": "articles/coffee-makers-7.webp"
-        },
-        {
-          "alt": "miele built in coffee maker",
-          "path": "articles/coffee-makers-15.webp"
-        }
-      ],
-      "hub_label": "Coffee Makers",
-      "hub_url": "/coffee-makers/",
-      "category_label": "Coffee Equipment",
-      "category_slug": "coffee-equipment",
-      "staged": true,
-      "published": true
-    },
-    {
       "id": 73,
       "slug": "stainless-coffee-maker",
       "category": "Coffee Makers",
@@ -5484,61 +5371,6 @@
       "published": true
     },
     {
-      "id": 99,
-      "slug": "commercial-keurig-coffee-maker",
-      "category": "Coffee Makers",
-      "hub": "coffee-makers",
-      "hub_slug": "coffee-makers",
-      "cluster": "drip-and-automatic",
-      "locked_url": "https://thecoffeedispatch.com/commercial-keurig-coffee-maker/",
-      "type": "buyer_guide",
-      "keyword": "commercial keurig coffee maker",
-      "angle": "professional/commercial use",
-      "h2_structure": "What to Look For \u2192 Top Picks (named) \u2192 How to Choose \u2192 FAQ",
-      "required_product_count": 0,
-      "volume": 880,
-      "kd": 20,
-      "cpc": 1.73,
-      "intent": "Informational, Transactional",
-      "quality_score": 235,
-      "ai_overview": false,
-      "premium_brand": false,
-      "source_seed": "coffee-maker",
-      "products": [
-        "keurig-k155-office-pro-single-cup",
-        "keurig-k-2500-single-serve-commercial",
-        "keurig-k-1550-small-business-single",
-        "keurig-k-1500-commercial-coffee-maker",
-        "keurig-k-elite-single-serve-k",
-        "keurig-k-elite-single-serve-k-3"
-      ],
-      "hero_image": "articles/coffee-makers-13.webp",
-      "body_images": [
-        {
-          "alt": "commercial keurig coffee maker",
-          "path": "articles/coffee-makers-6.webp"
-        },
-        {
-          "alt": "commercial keurig coffee maker",
-          "path": "articles/coffee-makers-8.webp"
-        },
-        {
-          "alt": "commercial keurig coffee maker",
-          "path": "articles/coffee-makers-11.webp"
-        },
-        {
-          "alt": "commercial keurig coffee maker",
-          "path": "articles/coffee-makers-3.webp"
-        }
-      ],
-      "hub_label": "Coffee Makers",
-      "hub_url": "/coffee-makers/",
-      "category_label": "Coffee Equipment",
-      "category_slug": "coffee-equipment",
-      "staged": true,
-      "published": true
-    },
-    {
       "id": 100,
       "slug": "newco-enterprises-coffee-maker",
       "category": "Coffee Makers",
@@ -5973,62 +5805,6 @@
         {
           "alt": "south indian filter coffee maker",
           "path": "articles/coffee-makers-14.webp"
-        }
-      ],
-      "hub_label": "Coffee Makers",
-      "hub_url": "/coffee-makers/",
-      "category_label": "Coffee Equipment",
-      "category_slug": "coffee-equipment",
-      "staged": true,
-      "published": true
-    },
-    {
-      "id": 108,
-      "slug": "bean-to-cup-coffee-machine-commercial",
-      "category": "Coffee Makers",
-      "hub": "coffee-makers",
-      "hub_slug": "coffee-makers",
-      "cluster": "drip-and-automatic",
-      "locked_url": "https://thecoffeedispatch.com/bean-to-cup-coffee-machine-commercial/",
-      "type": "buyer_guide",
-      "keyword": "bean to cup coffee machine commercial",
-      "angle": "professional/commercial use",
-      "h2_structure": "What to Look For \u2192 Top Picks (named) \u2192 How to Choose \u2192 FAQ",
-      "required_product_count": 0,
-      "volume": 390,
-      "kd": 13,
-      "cpc": 2.44,
-      "intent": "Commercial",
-      "quality_score": 235,
-      "ai_overview": false,
-      "premium_brand": false,
-      "source_seed": "coffee-beans",
-      "products": [
-        "delonghi-true-brew-drip-coffee",
-        "bosch-fully-automatic-coffee-and",
-        "philips-3200-series-fully-automatic-espresso-ma",
-        "bosch-fully-automatic-coffee-and-2",
-        "philips-5500-series-fully-automatic",
-        "bosch-fully-automatic-coffee-and-3",
-        "jura-e6-platinum-15465"
-      ],
-      "hero_image": "articles/coffee-makers-18.webp",
-      "body_images": [
-        {
-          "alt": "bean to cup coffee machine commercial",
-          "path": "articles/coffee-makers-6.webp"
-        },
-        {
-          "alt": "bean to cup coffee machine commercial",
-          "path": "articles/coffee-makers-16.webp"
-        },
-        {
-          "alt": "bean to cup coffee machine commercial",
-          "path": "articles/coffee-makers-12.webp"
-        },
-        {
-          "alt": "bean to cup coffee machine commercial",
-          "path": "articles/coffee-makers-4.webp"
         }
       ],
       "hub_label": "Coffee Makers",
@@ -8964,62 +8740,6 @@
       "published": true
     },
     {
-      "id": 162,
-      "slug": "coffee-grinder-manual-hario",
-      "category": "Coffee Grinders",
-      "hub": "grinders",
-      "hub_slug": "grinders",
-      "cluster": "grinders",
-      "locked_url": "https://thecoffeedispatch.com/coffee-grinder-manual-hario/",
-      "type": "buyer_guide",
-      "keyword": "coffee grinder manual hario",
-      "angle": "honest pick with real recommendation",
-      "h2_structure": "What to Look For \u2192 Top Picks (named) \u2192 How to Choose \u2192 FAQ",
-      "required_product_count": 0,
-      "volume": 110,
-      "kd": 7,
-      "cpc": 0.38,
-      "intent": "Commercial",
-      "quality_score": 228,
-      "ai_overview": false,
-      "premium_brand": true,
-      "source_seed": "coffee-grinder",
-      "products": [
-        "hario-ceramic-coffee-mill-original-black",
-        "hario-outdoor-v60-metal-coffee-mill",
-        "hario-skerton-pro-ceramic-coffee-mill",
-        "hario-mini-slim-plus-ceramic-coffee",
-        "hario-ceramic-coffee-mill-skerton-japanese",
-        "hario-mcd-2-hand-grinding-coffee",
-        "mini-manual-coffee-grinder-with-40-adjustable-s"
-      ],
-      "hero_image": "articles/grinders-17.webp",
-      "body_images": [
-        {
-          "alt": "coffee grinder manual hario",
-          "path": "articles/grinders-11.webp"
-        },
-        {
-          "alt": "coffee grinder manual hario",
-          "path": "articles/grinders-10.webp"
-        },
-        {
-          "alt": "coffee grinder manual hario",
-          "path": "articles/grinders-7.webp"
-        },
-        {
-          "alt": "coffee grinder manual hario",
-          "path": "articles/grinders-6.webp"
-        }
-      ],
-      "hub_label": "Coffee Grinders",
-      "hub_url": "/grinders/",
-      "category_label": "Coffee Equipment",
-      "category_slug": "coffee-equipment",
-      "staged": true,
-      "published": true
-    },
-    {
       "id": 163,
       "slug": "gaggia-coffee-grinder",
       "category": "Coffee Grinders",
@@ -9401,62 +9121,6 @@
         {
           "alt": "yield french press",
           "path": "articles/brewing-methods-15.webp"
-        }
-      ],
-      "hub_label": "Brewing Methods",
-      "hub_url": "/brewing-methods/",
-      "category_label": "Brewing & Setup",
-      "category_slug": "brewing-and-setup",
-      "staged": true,
-      "published": true
-    },
-    {
-      "id": 170,
-      "slug": "aeropress-filters",
-      "category": "Brewing Methods",
-      "hub": "brewing-methods",
-      "hub_slug": "brewing-methods",
-      "cluster": "manual-brewing",
-      "locked_url": "https://thecoffeedispatch.com/aeropress-filters/",
-      "type": "buyer_guide",
-      "keyword": "aeropress filters",
-      "angle": "honest pick with real recommendation",
-      "h2_structure": "What to Look For \u2192 Top Picks (named) \u2192 How to Choose \u2192 FAQ",
-      "required_product_count": 0,
-      "volume": 2900,
-      "kd": 18,
-      "cpc": 0.35,
-      "intent": "Commercial",
-      "quality_score": 238,
-      "ai_overview": false,
-      "premium_brand": true,
-      "source_seed": "aeropress",
-      "products": [
-        "aeropress-coffee-maker-white-paper",
-        "replacement-paper-filter-packs-laicky",
-        "aeropress-coffee-maker-natural-paper",
-        "aeropress-coffee-maker-white-paper-2",
-        "aeropress-316-stainless-steel-reusable",
-        "aeropress-coffee-maker-white-paper-3",
-        "replacement-coffee-filters-clinuse-800"
-      ],
-      "hero_image": "articles/brewing-methods-17.webp",
-      "body_images": [
-        {
-          "alt": "aeropress filters",
-          "path": "articles/brewing-methods-2.webp"
-        },
-        {
-          "alt": "aeropress filters",
-          "path": "articles/brewing-methods-1.webp"
-        },
-        {
-          "alt": "aeropress filters",
-          "path": "articles/brewing-methods-16.webp"
-        },
-        {
-          "alt": "aeropress filters",
-          "path": "articles/brewing-methods-13.webp"
         }
       ],
       "hub_label": "Brewing Methods",
@@ -10128,59 +9792,6 @@
         {
           "alt": "french press travel mug",
           "path": "articles/brewing-methods-8.webp"
-        }
-      ],
-      "hub_label": "Brewing Methods",
-      "hub_url": "/brewing-methods/",
-      "category_label": "Brewing & Setup",
-      "category_slug": "brewing-and-setup",
-      "staged": true,
-      "published": true
-    },
-    {
-      "id": 183,
-      "slug": "french-press-filters",
-      "category": "Brewing Methods",
-      "hub": "brewing-methods",
-      "hub_slug": "brewing-methods",
-      "cluster": "manual-brewing",
-      "locked_url": "https://thecoffeedispatch.com/french-press-filters/",
-      "type": "buyer_guide",
-      "keyword": "french press filters",
-      "angle": "honest pick with real recommendation",
-      "h2_structure": "What to Look For \u2192 Top Picks (named) \u2192 How to Choose \u2192 FAQ",
-      "required_product_count": 0,
-      "volume": 320,
-      "kd": 5,
-      "cpc": 0.28,
-      "intent": "Commercial",
-      "quality_score": 235,
-      "ai_overview": false,
-      "premium_brand": false,
-      "source_seed": "french-press",
-      "products": [
-        "universal-french-press-screen-4",
-        "boao-6-pieces-french-press",
-        "6pcs-french-press-filter-screen",
-        "caffi-paper-coffee-filters-for"
-      ],
-      "hero_image": "articles/brewing-methods-15.webp",
-      "body_images": [
-        {
-          "alt": "french press filters",
-          "path": "articles/brewing-methods-14.webp"
-        },
-        {
-          "alt": "french press filters",
-          "path": "articles/brewing-methods-10.webp"
-        },
-        {
-          "alt": "french press filters",
-          "path": "articles/brewing-methods-9.webp"
-        },
-        {
-          "alt": "french press filters",
-          "path": "articles/brewing-methods-18.webp"
         }
       ],
       "hub_label": "Brewing Methods",
@@ -12186,61 +11797,6 @@
       "published": true
     },
     {
-      "id": 220,
-      "slug": "coffee-bean-bags",
-      "category": "Coffee Beans & Roasts",
-      "hub": "beans",
-      "hub_slug": "beans",
-      "cluster": "beans-and-roasts",
-      "locked_url": "https://thecoffeedispatch.com/coffee-bean-bags/",
-      "type": "buyer_guide",
-      "keyword": "coffee bean bags",
-      "angle": "honest pick with real recommendation",
-      "h2_structure": "What to Look For \u2192 Top Picks (named) \u2192 How to Choose \u2192 FAQ",
-      "required_product_count": 0,
-      "volume": 480,
-      "kd": 0,
-      "cpc": 1.8,
-      "intent": "Commercial",
-      "quality_score": 245,
-      "ai_overview": false,
-      "premium_brand": false,
-      "source_seed": "coffee-beans",
-      "products": [
-        "firekylin-50-pcs-coffee-bags",
-        "coffee-bags-with-valve-60pcs",
-        "coffee-bags-with-valve-60pcs-2",
-        "coffee-bean-direct-italian-roast",
-        "1-2-pound-kraft-coffee",
-        "coffee-bags-with-valve-60pcs-3"
-      ],
-      "hero_image": "articles/beans-18.webp",
-      "body_images": [
-        {
-          "alt": "coffee bean bags",
-          "path": "articles/beans-5.webp"
-        },
-        {
-          "alt": "coffee bean bags",
-          "path": "articles/beans-3.webp"
-        },
-        {
-          "alt": "coffee bean bags",
-          "path": "articles/beans-4.webp"
-        },
-        {
-          "alt": "coffee bean bags",
-          "path": "articles/beans-16.webp"
-        }
-      ],
-      "hub_label": "Coffee Beans & Roasts",
-      "hub_url": "/beans/",
-      "category_label": "Coffee & Pods",
-      "category_slug": "coffee-and-pods",
-      "staged": true,
-      "published": true
-    },
-    {
       "id": 221,
       "slug": "bulk-coffee-beans",
       "category": "Coffee Beans & Roasts",
@@ -13077,60 +12633,6 @@
       "published": true
     },
     {
-      "id": 236,
-      "slug": "whole-bean-decaf-coffee",
-      "category": "Coffee Beans & Roasts",
-      "hub": "beans",
-      "hub_slug": "beans",
-      "cluster": "beans-and-roasts",
-      "locked_url": "https://thecoffeedispatch.com/whole-bean-decaf-coffee/",
-      "type": "buyer_guide",
-      "keyword": "whole bean decaf coffee",
-      "angle": "honest pick with real recommendation",
-      "h2_structure": "What to Look For \u2192 Top Picks (named) \u2192 How to Choose \u2192 FAQ",
-      "required_product_count": 0,
-      "volume": 1600,
-      "kd": 19,
-      "cpc": 1.12,
-      "intent": "Commercial",
-      "quality_score": 235,
-      "ai_overview": false,
-      "premium_brand": false,
-      "source_seed": "coffee-beans",
-      "products": [
-        "amazon-fresh-decaf-colombia-whole",
-        "san-francisco-bay-coffee-decaf",
-        "coffee-bean-direct-decaf-penny",
-        "eight-oclock-coffee-the-original-3",
-        "san-francisco-bay-coffee-decaf-2"
-      ],
-      "hero_image": "articles/beans-17.webp",
-      "body_images": [
-        {
-          "alt": "whole bean decaf coffee",
-          "path": "articles/beans-15.webp"
-        },
-        {
-          "alt": "whole bean decaf coffee",
-          "path": "articles/beans-18.webp"
-        },
-        {
-          "alt": "whole bean decaf coffee",
-          "path": "articles/beans-2.webp"
-        },
-        {
-          "alt": "whole bean decaf coffee",
-          "path": "articles/beans-1.webp"
-        }
-      ],
-      "hub_label": "Coffee Beans & Roasts",
-      "hub_url": "/beans/",
-      "category_label": "Coffee & Pods",
-      "category_slug": "coffee-and-pods",
-      "staged": true,
-      "published": true
-    },
-    {
       "id": 237,
       "slug": "beans-gourmet-coffee",
       "category": "Coffee Beans & Roasts",
@@ -13399,61 +12901,6 @@
         {
           "alt": "cherry bean coffee",
           "path": "articles/beans-16.webp"
-        }
-      ],
-      "hub_label": "Coffee Beans & Roasts",
-      "hub_url": "/beans/",
-      "category_label": "Coffee & Pods",
-      "category_slug": "coffee-and-pods",
-      "staged": true,
-      "published": true
-    },
-    {
-      "id": 242,
-      "slug": "whole-bean-organic-coffee",
-      "category": "Coffee Beans & Roasts",
-      "hub": "beans",
-      "hub_slug": "beans",
-      "cluster": "beans-and-roasts",
-      "locked_url": "https://thecoffeedispatch.com/whole-bean-organic-coffee/",
-      "type": "buyer_guide",
-      "keyword": "whole bean organic coffee",
-      "angle": "ethical/sustainable sourcing",
-      "h2_structure": "What to Look For \u2192 Top Picks (named) \u2192 How to Choose \u2192 FAQ",
-      "required_product_count": 0,
-      "volume": 480,
-      "kd": 6,
-      "cpc": 1.46,
-      "intent": "Commercial",
-      "quality_score": 235,
-      "ai_overview": false,
-      "premium_brand": false,
-      "source_seed": "coffee-beans",
-      "products": [
-        "amazon-fresh-organic-fair-trade",
-        "lifeboost-organic-coffee-beans-medium",
-        "fabula-low-acid-coffee-beans",
-        "lifeboost-organic-espresso-whole-bean-5",
-        "mt-comfort-coffee-organic-peru",
-        "camerons-coffee-roasted-whole-bean"
-      ],
-      "hero_image": "articles/beans-12.webp",
-      "body_images": [
-        {
-          "alt": "whole bean organic coffee",
-          "path": "articles/beans-13.webp"
-        },
-        {
-          "alt": "whole bean organic coffee",
-          "path": "articles/beans-4.webp"
-        },
-        {
-          "alt": "whole bean organic coffee",
-          "path": "articles/beans-13.webp"
-        },
-        {
-          "alt": "whole bean organic coffee",
-          "path": "articles/beans-19.webp"
         }
       ],
       "hub_label": "Coffee Beans & Roasts",

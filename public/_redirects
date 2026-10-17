@@ -1,3 +1,10 @@
 # Add site-specific 301 redirects here.
 # Format: /old-slug/ /new-slug/ 301
 /french-press-vs-aeropress/ /aeropress-vs-french-press/ 301
+
+/how-we-test/ /how-we-research/ 301
+
+# V1 dedup batch 2026-05-26 — 3 HIGH-confidence pairs
+/coffee-bean-bag/ /coffee-beans-bags/ 301
+/decaf-coffee-beans-whole/ /decaf-whole-bean-coffee/ 301
+/ratio-6-coffee-maker/ /ratio-six-coffee-maker/ 301

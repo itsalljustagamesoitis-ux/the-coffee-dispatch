@@ -29,7 +29,7 @@ const articles = allArticles
 
 <BaseLayout
   title={`${hub.label} Reviews — ${cfg.site.brand_name}`}
-  description={`Honest, tested reviews of ${hub.label.toLowerCase()} from a gardener who actually uses them.`}
+  description={hub.description ?? `Research-based guides on ${hub.label.toLowerCase()} from ${cfg.site.brand_name}.`}
 >
   <div class="container" style="padding-top:2rem; padding-bottom:4rem;">
     <nav class="breadcrumb" aria-label="Breadcrumb">
@@ -44,7 +44,7 @@ const articles = allArticles
       <p class="category-hero__label">{category.label}</p>
       <h1 class="category-hero__title">{hub.label}</h1>
       <p class="category-hero__desc">
-        Tested reviews of {hub.label.toLowerCase()} — what's worth buying and what to avoid.
+        {hub.description ?? `Research-based guides on ${hub.label.toLowerCase()} — what's worth buying and what to avoid.`}
       </p>
     </div>
 

@@ -13,15 +13,15 @@ const featured = selectFeaturedArticles(articles)
 
 <BaseLayout
   title={`${cfg.site.brand_name} — ${cfg.site.tagline}`}
-  description={`Honest, tested reviews of ${cfg.site.niche} products. ${persona.bio_short}`}
+  description={`Research-based guidance on ${cfg.site.niche} products from ${cfg.site.brand_name}.`}
 >
   <div class="container--wide home-wrap">
     <div class="home-main">
       <div class="home-intro">
         <h1 class="home-intro__title">{cfg.site.tagline}</h1>
         <p class="home-intro__text">
-          {persona.bio_short}
-          Every review on this site is based on real use. No PR samples. No sponsored opinions.
+          {persona.bio_public}
+          Every recommendation on this site is researched against verified buyer reports, manufacturer specs, and expert sources. No PR samples. No sponsored opinions.
         </p>
       </div>
 
@@ -70,7 +70,7 @@ const featured = selectFeaturedArticles(articles)
           height="64"
           loading="lazy"
         />
-        <p class="sidebar-block__text">{persona.bio_short}</p>
+        <p class="sidebar-block__text">{persona.bio_public}</p>
         <a href="/about/" class="sidebar-block__link">Full bio →</a>
       </div>
 

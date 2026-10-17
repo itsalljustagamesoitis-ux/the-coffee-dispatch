@@ -2,13 +2,18 @@ site:
   slug: the-coffee-dispatch
   domain: thecoffeedispatch.com
   brand_name: The Coffee Dispatch
+  not_found_emoji: '☕'
+  not_found_browse_href: '/espresso/'
+  not_found_browse_label: 'Browse coffee guides'
   tagline: The coffee equipment guide for people who care what's in the cup
   description: coffee & espresso equipment
   niche: coffee & espresso equipment
+  vertical: kitchen_cookware
 affiliate:
   amazon_tracking_id: thecoffeedis-20
 analytics:
   ga4_measurement_id: G-F7L62M9HP2
+  consent_default: granted
 persona:
   config_path: config/personas/chris.yaml
 visual:

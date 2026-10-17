@@ -4,31 +4,39 @@ categories:
     hubs:
       - slug: espresso
         label: Espresso & Espresso Machines
+        description: "From entry-level single boilers to the La Marzocco Linea Mini — machines compared on temperature stability, shot consistency, and whether the build quality matches the price tag."
         articles: []
       - slug: coffee-makers
         label: Coffee Makers
+        description: "Drip machines, pour-over setups, and everything between the Chemex and the $300 Technivorm — reviewed for what actually improves the cup versus what just looks good on the counter."
         articles: []
       - slug: grinders
         label: Coffee Grinders
+        description: "Burr grinders from the Baratza Encore up through the Niche Zero — the component most likely to make or break your espresso, compared on retention, grind distribution, and daily usability."
         articles: []
   - slug: coffee-and-pods
     label: Coffee & Pods
     hubs:
       - slug: beans
         label: Coffee Beans & Roasts
+        description: "Single-origin versus blend, light versus dark, third-wave roasters versus grocery shelf — what actually matters when you're buying beans for home espresso or filter brewing."
         articles: []
       - slug: pods
         label: Pods & Capsules
+        description: "Nespresso Original versus Vertuo, compatible pods versus proprietary capsules, and the best compostable options for when convenience matters more than grind-fresh."
         articles: []
       - slug: cold-brew
         label: Cold Brew & Iced Coffee
+        description: "Immersion cold brew systems, flash-chill setups, and the difference between Japanese iced pour-over and concentrate dilution — for when you want coffee cold and done right."
         articles: []
   - slug: brewing-and-setup
     label: Brewing & Setup
     hubs:
       - slug: brewing-methods
         label: Brewing Methods
+        description: "Aeropress, V60, Chemex, Moka pot, French press — each one reviewed for how much technique it demands and when the cup quality justifies it."
         articles: []
       - slug: accessories
         label: Accessories & Setup
+        description: "Scales, tampers, WDT tools, water filters, shot glasses, and the supporting equipment that separates a dialled-in setup from a guessing game."
         articles: []

@@ -11,14 +11,14 @@ const sorted = articles.sort((a, b) => b.data.date.valueOf() - a.data.date.value
 
 <BaseLayout
   title={`All Reviews — ${cfg.site.brand_name}`}
-  description={`Every ${cfg.site.niche} product review and buying guide from ${cfg.site.brand_name}. Tested picks across all categories.`}
+  description={`Every ${cfg.site.niche} product review and buying guide from ${cfg.site.brand_name}. Top picks across all categories.`}
 >
   <div class="container" style="padding: 3rem 1.5rem;">
     <div class="category-hero">
       <p class="category-hero__label">All Reviews</p>
       <h1 class="category-hero__title">Every Product Review</h1>
       <p class="category-hero__desc">
-        {persona.bio_short}
+        {persona.bio_public}
         No PR samples, no affiliate bias.
       </p>
     </div>
